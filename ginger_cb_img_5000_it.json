@@ -1,0 +1,88 @@
+{
+  "english": "ginger",
+  "phat_am": "ˈdʒindʒə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "gừng",
+          "definition": "a hot-tasting root which is used as a spice",
+          "world_new": [
+            "root",
+            "spice"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Chop the ginger finely.",
+              "world_new": [
+                "finely"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "có vị gừng",
+          "definition": "flavoured/flavored with ginger",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a ginger biscuit.",
+              "world_new": [
+                "biscuit"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "có màu vàng hoe",
+          "definition": "reddish-brown in colour/color",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a ginger cat.",
+              "world_new": [
+                "cat"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "ginger ale",
+    "gingerbread"
+  ],
+  "list_browse": [
+    "gilt-edged",
+    "gimmick",
+    "gimmicky",
+    "gin",
+    "ginger",
+    "ginger ale",
+    "gingerbread",
+    "gingerly",
+    "giraffe"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069695_459b870580_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069695_ed3aaa9ed8_o.png",
+      "id_image": "ginger_1398254"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687834_7c3477de7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687834_1c7c8840af_o.png",
+      "id_image": "ginger_3944338"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377627_edd2a112a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377627_56a4ed5cbe_o.png",
+      "id_image": "ginger_3967362"
+    }
+  ]
+}

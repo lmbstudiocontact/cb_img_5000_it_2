@@ -1,0 +1,76 @@
+{
+  "english": "formation",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự hình thành; sự thành lập",
+          "definition": "the act of forming or making",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He agreed to the formation of a music society.",
+              "world_new": [
+                "agreed",
+                "music",
+                "society"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vật được tạo nên nhất là bằng cách riêng biệt hoặc đặc thù",
+          "definition": "(a) particular arrangement or order",
+          "world_new": [
+            "particular",
+            "arrangement",
+            "order"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The planes flew in formation."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Shared tri-partite lineage formations undergirded political life, and were legitimated through universal ritual practices.",
+    "Absence of echodense formations excludes an intrapericardial position.",
+    "Such social formations are both natural and numerous, and in phonology, they are to be found both before and after the rise of generative phonology.",
+    "Other commonly encountered formations include women's groups for water or fuelwood collection, and village-level rotational digging squads.",
+    "Distribution of trilobites within these formations is random, and boundaries between the lithostratigraphic units are typically not exposed.",
+    "The sociocultural formations of so-called frontier or extrasystemic peoples invariably are influenced to some degree by forces emanating from external world-systems.",
+    "A chi-square analysis was used to examine the relationship between types of marital power dysfunction and boundary or alliance formations within families.",
+    "Unlike, say, avian mating calls or flight formations, human music or body dance, which are omnipresent in worship, can be arbitrarily and creatively recomposed."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "formal",
+    "formality",
+    "formally",
+    "format",
+    "formation",
+    "former",
+    "formerly",
+    "formidable",
+    "formidably"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669384_69f0f904b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669384_1be6d1b0f5_o.png",
+      "id_image": "formation_3564447"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314716_4b2b2dfcf0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314716_3d7893123d_o.png",
+      "id_image": "formation_6224195"
+    }
+  ]
+}

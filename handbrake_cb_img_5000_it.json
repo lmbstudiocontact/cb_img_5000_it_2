@@ -1,0 +1,70 @@
+{
+  "english": "handbrake",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phanh tay",
+          "definition": "(in a car, bus etc) a brake operated by the driver’s hand",
+          "world_new": [
+            "car",
+            "bus",
+            "brake",
+            "hand"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Don’t forget to put on the handbrake if you stop on a slope.",
+              "world_new": [
+                "forget",
+                "stop",
+                "slope"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Interesting to note that the rear brake drums include two sets of shoes, one of which is connected directly to the handbrake.",
+    "At the same time one has to take one hand from the steering wheel to be able to use the handbrake if one has to stop.",
+    "He is entitled to leave it on a hill with the handbrake not properly adjusted.",
+    "Let us take the case of a driver who is slightly over the limit and has stopped at an intersection, where the traffic lights are red, with his handbrake on.",
+    "When he is confronted with evidence that a criminal offence has been committed, there is neither accelerator nor handbrake but one measured pace.",
+    "Also, locking the rear wheels by applying the handbrake, renders the vehicle directionally unstable, causing it to spin.",
+    "The fact that the handbrake was located in cab 2 was considered an additional benefit.",
+    "One fundamental change is that we have succeeded in putting the handbrake on local authority expenditure."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "hand-picked",
+    "handbag",
+    "handbill",
+    "handbook",
+    "handbrake",
+    "handcuff",
+    "handcuffs",
+    "handful",
+    "handgun"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052175_550bdf2f2c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052175_4f291a8fd7_o.png",
+      "id_image": "handbrake_1580106"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315701_d598942ffe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315701_9e462f36d3_o.png",
+      "id_image": "handbrake_2606357"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670334_9b94284f2d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670334_bea02401af_o.png",
+      "id_image": "handbrake_3410140"
+    }
+  ]
+}

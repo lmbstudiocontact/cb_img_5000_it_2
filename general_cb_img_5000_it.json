@@ -1,0 +1,148 @@
+{
+  "english": "general",
+  "phat_am": "ˈdʒenərəl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "phổ biến; chung",
+          "definition": "of, involving etc all, most or very many people, things etc",
+          "world_new": [
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The general feeling is that he is stupid",
+              "world_new": [
+                "feeling",
+                "stupid"
+              ]
+            },
+            {
+              "ex_of_definition": "His general knowledge is good although he is not good at mathematics.",
+              "world_new": [
+                "knowledge",
+                "although",
+                "mathematics"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "toàn bộ; chung",
+          "definition": "covering a large number of cases",
+          "world_new": [
+            "covering",
+            "large",
+            "number"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "As a general guide, the closer you live to the ocean, the more expensive properties become.",
+              "world_new": [
+                "guide",
+                "live",
+                "ocean",
+                "expensive",
+                "become"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "không chuyên sâu vào chủ đề",
+          "definition": "without details",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ll just give you a general idea of the plan.",
+              "world_new": [
+                "idea",
+                "plan"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người đứng đầu",
+          "definition": "(as part of an official title) chief",
+          "world_new": [
+            "part",
+            "official",
+            "chief"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the Postmaster General."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tướng",
+          "definition": "in the British army, (a person of) the rank next below field marshal",
+          "world_new": [
+            "British",
+            "army",
+            "person",
+            "rank",
+            "field",
+            "marshal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "General Williamson."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However patient participation activities were reported to be variable, dependent on the motivation and interest of individual general practices.",
+    "It was supposed that this approach may test a general model situation in other studies of impairment of cell nucleus function in embryonic development.",
+    "The country's general policy direction over the past ten years is not in question.",
+    "In general, the laser-heated plasma volume is smaller than the cluster plume.",
+    "Alternatively, one can propose a general licensing principle that permits such violations at that level.",
+    "He surveys the sacred meals against a carefully assembled background of ordinary meal-taking and the general philosophy of food in each region.",
+    "The citizens of the country constitute an organic whole, which is integrated by the general will of the masses.",
+    "In general, lower frequency words will tend to be encountered and acquired (and are also taught) later than higher frequency words."
+  ],
+  "list_see_also": [
+    "generalize",
+    "generalization",
+    "generally",
+    "general election",
+    "the general public",
+    "general store",
+    "as a general rule",
+    "in general"
+  ],
+  "list_browse": [
+    "gene",
+    "genealogical",
+    "genealogist",
+    "genealogy",
+    "general",
+    "general election",
+    "general knowledge",
+    "general store",
+    "generalization"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381377_e6a1c16335_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381377_e99041684e_o.png",
+      "id_image": "general_1461917"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691669_1b161341ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691669_023bd26878_o.png",
+      "id_image": "general_2714191"
+    }
+  ]
+}

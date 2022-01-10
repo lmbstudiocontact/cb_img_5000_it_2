@@ -1,0 +1,71 @@
+{
+  "english": "hazardous",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "mạo hiểm; độc hại",
+          "definition": "dangerous",
+          "world_new": [
+            "dangerous"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a hazardous journey",
+              "world_new": [
+                "journey"
+              ]
+            },
+            {
+              "ex_of_definition": "hazardous waste.",
+              "world_new": [
+                "waste"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The latter may seem somewhat specialized, but is important because hydraulic actuators are critical components of robotic devices that enter hazardous environments.",
+    "It turned into an indescribably comic and constantly interrupted performance, since the fire police constantly found new potentially hazardous things.",
+    "We evaluated the face validity of the proportions of nonhazardous, hazardous, and harmful drinkers using data from a test sample.",
+    "In a disarming operation, it is hazardous for an operator to approach the robot and switch the end effector by hand.",
+    "The indicators cover deforestation, pesticide usage, overfishing, hazardous wastes, non-hazardous inorganic wastes, non-hazardous organic wastes, greenhouse gases, and urban air pollution.",
+    "The overwhelming majority of studies reported significantly better results with active intervention against hazardous alcohol consumption.",
+    "Traditionally, autonomous robots are designed to operate as independently and remotely as possible from humans, often performing tasks in hazardous and hostile environments.",
+    "In accordance with this, we found high rates of regular use and hazardous use among the 14- to 24-year-olds."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "hay-fever",
+    "hayrick",
+    "haywire",
+    "hazard",
+    "hazardous",
+    "hazardousness",
+    "haze",
+    "hazel",
+    "hazelnut"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387932_4d629b9249_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387932_76ae0d5302_o.png",
+      "id_image": "hazardous_2959556"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387882_245972a728_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387882_737c088986_o.png",
+      "id_image": "hazardous_4310556"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342881_3c18d16af2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342881_a366aa5e5e_o.png",
+      "id_image": "hazardous_4694746"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "english": "information",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thông tin",
+          "definition": "facts told or knowledge gained or given",
+          "world_new": [
+            "knowledge"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Can you give me any information about this writer?",
+              "world_new": [
+                "writer"
+              ]
+            },
+            {
+              "ex_of_definition": "the latest information on the progress of the war",
+              "world_new": [
+                "progress",
+                "war"
+              ]
+            },
+            {
+              "ex_of_definition": "He is full of interesting bits of information.",
+              "world_new": [
+                "full",
+                "interesting"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Even so, there remained some heterogeneity amongst trustees in how they utilized the information given.",
+    "Space is left above the stack for responses to requests for information such as types.",
+    "Information of that type can best be obtained through continuing longitudinal study of highly stressed samples such as the present one.",
+    "These meetings are also acknowledged as unique opportunities for all the parties involved to share information about the product and related engineering processes.",
+    "She argues, then, that learners incorporate phonological and distributional information to arrive at adult syntactic representations.",
+    "In addition, we recovered other embryos after storage of up to 18 months in liquid nitrogen to provide information on mutation during storage.",
+    "Authenticity arguably has a further dimension, beyond the information and autonomy requirements, namely richness.",
+    "This model represents the process involved in the translation of words in context using lexical information."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "informal",
+    "informality",
+    "informally",
+    "informant",
+    "information",
+    "information processing",
+    "information superhighway",
+    "information technology",
+    "informative"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053175_bb71efa79b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053175_cc15e187b6_o.png",
+      "id_image": "information_1057465"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316746_1290b26af7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316746_83c22eee29_o.png",
+      "id_image": "information_1945758"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360967_5b75ac14a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360967_4affccb124_o.png",
+      "id_image": "information_2170227"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431703_2486f2021a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431703_16ba3c5928_o.png",
+      "id_image": "information_2373994"
+    }
+  ]
+}

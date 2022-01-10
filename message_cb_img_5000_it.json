@@ -1,0 +1,91 @@
+{
+  "english": "message",
+  "phat_am": "ˈmesidʒ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tin tức",
+          "definition": "a piece of information spoken or written, passed from one person to another",
+          "world_new": [
+            "piece",
+            "information",
+            "spoken",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I have a message for you from Mr Johnston.",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thông điệp",
+          "definition": "the instruction or teaching of a moral story, religion, prophet etc",
+          "world_new": [
+            "instruction",
+            "teaching",
+            "moral",
+            "story",
+            "religion",
+            "prophet"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What message is this story trying to give us?",
+              "world_new": [
+                "story",
+                "trying"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Caretakers may communicate through contradictory and confused verbal and nonverbal messages.",
+    "The entropy of the source defines the amount of the typical messages.",
+    "Messages can be addressed to other agents, and there is support in the specifications for connecting individual messages into conversational threads.",
+    "Here it is assumed that semantic theory will distinguish among kinds of messages, as indicated.",
+    "If people send clear policy messages to elected officials, the behaviour of the latter will be constrained by the preferences of the former.",
+    "Moreover, party-sponsored campaign messages are designed explicitly to convince voters that one party is better than the others.",
+    "However, future studies offer the potential to compare the effects of, for example, civic duty, neighbourhood solidarity and close election messages.",
+    "An alternative to open access is to communicate ontological information directly via an exchange of messages."
+  ],
+  "list_see_also": [
+    "messenger"
+  ],
+  "list_browse": [
+    "mesosphere",
+    "mess",
+    "mess about/around",
+    "mess-up",
+    "message",
+    "messenger",
+    "Messiah",
+    "messily",
+    "messiness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390912_5cb75a3772_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390912_1fc12700ca_o.png",
+      "id_image": "message_440359"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345946_e2f177d8e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345946_fafe47b927_o.png",
+      "id_image": "message_673882"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345881_5731c7931c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345881_e886071656_o.png",
+      "id_image": "message_685836"
+    }
+  ]
+}

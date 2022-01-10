@@ -1,0 +1,77 @@
+{
+  "english": "inject",
+  "phat_am": "inˈdʒekt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tiêm",
+          "definition": "to force (a liquid etc) into the body of (a person) by means of a needle and syringe",
+          "world_new": [
+            "force",
+            "liquid",
+            "body",
+            "means",
+            "needle",
+            "syringe"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The doctor injected the antibiotic into her arm",
+              "world_new": [
+                "doctor",
+                "antibiotic",
+                "arm"
+              ]
+            },
+            {
+              "ex_of_definition": "He has to be injected twice daily with an antibiotic.",
+              "world_new": [
+                "twice",
+                "daily",
+                "antibiotic"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We first froze mouse mature testicular tissue, then we injected the thawed spermatogenic cells into oocytes.",
+    "Aerosols and gases injected into it, therefore, tend to remain there for extended periods of time, up to several years.",
+    "In these devices, fuel is injected upstream of a flame-stabilizing bluff body in the jet pipe.",
+    "Judges' and lawyers' attempts to inject other amorphous catch-phrases into the \"reasonable doubt\" standard, such as \"matter of the highest importance,\" only muddy the water.",
+    "In fact, the same disturbed region can also be observed in the side profiles because of the jets injected one row before.",
+    "I inject a few techniques and ideas; the composers and engineers suggest some things and push me in different directions.",
+    "However, into that learning cycle, we need to inject a clear analysis of the problems that learning cycle is intended to tackle.",
+    "These solutions provide qualitative insight for the process of secondary oil recovery if the polymer concentration of liquid injected into the reservoir varies with time."
+  ],
+  "list_see_also": [
+    "injection"
+  ],
+  "list_browse": [
+    "initially",
+    "initiate",
+    "initiation",
+    "initiative",
+    "inject",
+    "injection",
+    "injure",
+    "injured",
+    "injurious"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392102_75afdc05eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392102_da7b3fe2ac_o.png",
+      "id_image": "inject_1364805"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461913_bbd5b1c592_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461913_867f15b9fc_o.png",
+      "id_image": "inject_5252576"
+    }
+  ]
+}

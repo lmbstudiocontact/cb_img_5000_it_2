@@ -1,0 +1,71 @@
+{
+  "english": "junk",
+  "phat_am": "dʒaŋk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đồ tạp nhạp",
+          "definition": "unwanted or worthless articles; rubbish",
+          "world_new": [
+            "worthless"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That cupboard is full of junk",
+              "world_new": [
+                "cupboard",
+                "full"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) This vase was bought in a junk shop (= a shop that sells junk).",
+              "world_new": [
+                "vase",
+                "shop",
+                "shop"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thuyền mành",
+          "definition": "a Chinese flat-bottomed sailing ship, high in the bow and stern.",
+          "world_new": [
+            "sailing",
+            "ship",
+            "bow",
+            "stern"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "junk food"
+  ],
+  "list_browse": [
+    "June",
+    "jungle",
+    "junior",
+    "juniper",
+    "junk",
+    "junk food",
+    "junket",
+    "junkie",
+    "junta"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685389_9355eb3f85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685389_5c77f65c0a_o.png",
+      "id_image": "junk_1410449"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "english": "meningitis",
+  "phat_am": "meninˈdʒaitis",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "viêm màng não",
+          "definition": "a serious disease in which there is inflammation of the membranes round the brain or spinal cord",
+          "world_new": [
+            "serious",
+            "disease",
+            "inflammation",
+            "brain",
+            "spinal",
+            "cord"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the symptoms of meningitis."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A total of 14 horses with records of meningitis, encephalitis and/or brain hemorrhage of undetermined aetiology were identified within the same time period.",
+    "Multiple cranial nerve involvement may be associated with basal meningeal involvement as seen in carcinomatous meningitis and sarcoidosis.",
+    "In each of these hospitals, lumbar punctures are routinely performed on patients with suspected meningitis.",
+    "One hundred and eleven confirmed cases of bacterial meningitis were identified.",
+    "In all, 43 isolates recovered from 43 patients with meningococcal disease (meningitis and/or bacteraemia) were preserved for further study.",
+    "In practice, this would mean that 13% of children with bacterial meningitis would be misdiagnosed and treated with delay.",
+    "One of the previous publications (7), however, studied children with meningitis only.",
+    "Frequencies of symptoms and signs in patients with aseptic meningitis were different in patients younger or older than 1 year of age."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "mend",
+    "mending",
+    "menfolk",
+    "menhir",
+    "meningitis",
+    "meninx",
+    "menopause",
+    "menstruate",
+    "menstruation"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347111_f91accb75a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347111_84f72e106b_o.png",
+      "id_image": "meningitis_2927320"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347081_59e3436456_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347081_42fd764a22_o.png",
+      "id_image": "meningitis_3411334"
+    }
+  ]
+}

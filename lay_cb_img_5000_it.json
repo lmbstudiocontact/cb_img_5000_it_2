@@ -1,0 +1,255 @@
+{
+  "english": "lay",
+  "phat_am": "lei",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đặt; để",
+          "definition": "to place, set or put (down), often carefully",
+          "world_new": [
+            "place",
+            "carefully"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She laid the clothes in a drawer / on a chair",
+              "world_new": [
+                "clothes",
+                "drawer",
+                "chair"
+              ]
+            },
+            {
+              "ex_of_definition": "He laid down his pencil",
+              "world_new": [
+                "pencil"
+              ]
+            },
+            {
+              "ex_of_definition": "She laid her report before the committee.",
+              "world_new": [
+                "report",
+                "committee"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đặt cái gì vào vị trí",
+          "definition": "to place in a lying position",
+          "world_new": [
+            "place",
+            "position"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She laid the baby on his back.",
+              "world_new": [
+                "baby"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sắp xếp đúng trật tự",
+          "definition": "to put in order or arrange",
+          "world_new": [
+            "order",
+            "arrange"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She went to lay the table for dinner",
+              "world_new": [
+                "table",
+                "dinner"
+              ]
+            },
+            {
+              "ex_of_definition": "They laid a trap.",
+              "world_new": [
+                "trap"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm xẹp xuống",
+          "definition": "to flatten",
+          "world_new": [
+            "flatten"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The animal laid back its ears",
+              "world_new": [
+                "animal",
+                "its"
+              ]
+            },
+            {
+              "ex_of_definition": "The wind laid the corn flat.",
+              "world_new": [
+                "wind",
+                "corn",
+                "flat"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm lắng xuống",
+          "definition": "to cause to disappear or become quiet",
+          "world_new": [
+            "cause",
+            "disappear",
+            "become",
+            "quiet"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She attempted to help him lay his ghosts to rest.",
+              "world_new": [
+                "attempted",
+                "help",
+                "rest"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đẻ trứng",
+          "definition": "(of a bird) to produce (eggs)",
+          "world_new": [
+            "produce"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The hen laid four eggs",
+              "world_new": [
+                "hen"
+              ]
+            },
+            {
+              "ex_of_definition": "My hens are laying well."
+            }
+          ]
+        },
+        {
+          "mean_english": "đánh cuộc",
+          "definition": "to bet",
+          "world_new": [
+            "bet"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ll lay five pounds that you don’t succeed.",
+              "world_new": [
+                "succeed"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thế tục",
+          "definition": "not a member of the clergy",
+          "world_new": [
+            "member",
+            "clergy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "lay preachers."
+            }
+          ]
+        },
+        {
+          "mean_english": "không có chuyên môn",
+          "definition": "not an expert or a professional (in a particular subject)",
+          "world_new": [
+            "expert",
+            "professional",
+            "particular"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Doctors tend to use words that lay people don’t understand.",
+              "world_new": [
+                "tend",
+                "people",
+                "understand"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bài ca",
+          "definition": "an epic poem.",
+          "world_new": [
+            "epic",
+            "poem"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Lay interviewers were used to collect the data on the presence or absence of the specific symptoms identified in the instrument.",
+    "Underlying all these seemingly inclusive efforts, however, lay scientific theories and impressions of newcomers as at least potentially toxic.",
+    "She lay there, a distressed, unsheltered, senseless creature.",
+    "In his catalogue of her sadness, the narrator allows the poem to lay heavy blame on the lover who abandoned her.",
+    "Its oddness, in his view, lay in the disproportion it sustained between stimulus and response.",
+    "Then, she lay down to sleep with an indescribably beatific expression.",
+    "They are not specialist enough for scientists actively involved in the topics, and not general enough for lay people.",
+    "Its interest, however, lay in its anomalous status."
+  ],
+  "list_see_also": [
+    "layer",
+    "layabout",
+    "lay-by",
+    "layout",
+    "laid up",
+    "lay aside",
+    "lay bare",
+    "lay by",
+    "lay down",
+    "lay (one’s) hands on",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "lax",
+    "laxative",
+    "laxity",
+    "laxness",
+    "lay",
+    "lay (one’s) hands on",
+    "lay aside",
+    "lay bare",
+    "lay down"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318061_b632456485_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318061_eb1915beca_o.png",
+      "id_image": "lay_5635727"
+    }
+  ]
+}

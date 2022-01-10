@@ -1,0 +1,82 @@
+{
+  "english": "lamp",
+  "phat_am": "lӕmp",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bóng đèn",
+          "definition": "a (glass-covered) light",
+          "world_new": [
+            "light"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an oil lamp",
+              "world_new": [
+                "oil"
+              ]
+            },
+            {
+              "ex_of_definition": "a table lamp",
+              "world_new": [
+                "table"
+              ]
+            },
+            {
+              "ex_of_definition": "a street-lamp."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Meanwhile, the town's new gas lamps had ceased to operate by midyear.",
+    "The reference light and a third beam used for accessory adaptation came from two other tungsten-halide lamps.",
+    "I began to question my assumption - the basis of years of selfexperimentation - that light from the lamps caused early l awakening.",
+    "The aluminium scaffolding had been previously covered by a black cotton cloth to reduce stray light from the various lamps.",
+    "From the camera images, we extract horizontal lines and circular features that correspond to the lamps placed in the ceiling.",
+    "Second, the intensity of the tungsten halogen lamps could be reduced in order to lower the thermal heating of plant canopies.",
+    "The lamps have a variable angle, aperture and extent, so the beam of influence can be directed very precisely within the interpolation space (figure 1).",
+    "Thus, all plants were measured under the seven lamps with their canopies aligned to face in the same direction."
+  ],
+  "list_see_also": [
+    "lamp-post",
+    "lampshade"
+  ],
+  "list_browse": [
+    "lamely",
+    "lameness",
+    "lament",
+    "lamentation",
+    "lamp",
+    "lamp-post",
+    "lampshade",
+    "lance",
+    "land"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367072_8c3233a6a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367072_00b31f6135_o.png",
+      "id_image": "lamp_1108652"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437503_7b24c3dbac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437503_30034d307f_o.png",
+      "id_image": "lamp_164353"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059015_bb1067f831_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059015_a7779ab184_o.png",
+      "id_image": "lamp_168635"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437438_25b6d89575_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437438_df172a622b_o.png",
+      "id_image": "lamp_292025"
+    }
+  ]
+}

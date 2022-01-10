@@ -1,0 +1,99 @@
+{
+  "english": "harmony",
+  "phat_am": "ˈhaːməni",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự hài hoà; sự hoà âm",
+          "definition": "(of musical sounds, colours/colors etc) (the state of forming) a pleasing combination",
+          "world_new": [
+            "musical",
+            "state",
+            "pleasing",
+            "combination"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The singers sang in harmony."
+            }
+          ]
+        },
+        {
+          "mean_english": "sự hoà hợp",
+          "definition": "the agreement of people’s feelings, opinions etc",
+          "world_new": [
+            "agreement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Few married couples live in perfect harmony.",
+              "world_new": [
+                "married",
+                "live",
+                "perfect"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Analogously, \"brain harmonies\" were supposed to exist in gifted persons, that is, the formation of those brain centers necessar y for a particular special ability.",
+    "Vocal harmonies can not be performed by separate players over networked connections due to latency issues.",
+    "Systematic allomorphy in the form of vowel harmony expands the number of forms for this double agreement morpheme.",
+    "Because this is so, the combinations, harmonies, and discords between successive pieces and layers of information will present many problems of survival and determine many directions of change.",
+    "The superimposition of different times is manifest structurally in the opera in the organization of the set pieces and syntactically in the choice of scales, harmonies and melodies.",
+    "What the forms in (18) show is a pattern with unrestricted harmony.",
+    "They do not need to imagine the precise nature of the melodic curve, the rhythms, and the harmonies, and then realise these at the keyboard.",
+    "The result is music deceptively simple on initial hearing - comprising recognisable lyrics, melodies and harmonies - but infused with complex rhythms and harmonic variations derived from bluegrass."
+  ],
+  "list_see_also": [
+    "harmonic",
+    "harmonious",
+    "harmoniously",
+    "harmoniousness",
+    "harmonize",
+    "harmonization"
+  ],
+  "list_browse": [
+    "harmoniously",
+    "harmoniousness",
+    "harmonization",
+    "harmonize",
+    "harmony",
+    "harness",
+    "harp",
+    "harp on (about)",
+    "harpist"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699294_8914b32443_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699294_2081642e33_o.png",
+      "id_image": "harmony_1783687"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699284_f1fcba7ef3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699284_69aa659dc3_o.png",
+      "id_image": "harmony_2102523"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389097_858552961a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389097_0050e2ca93_o.png",
+      "id_image": "harmony_2773071"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458908_b579822d66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458908_b00b642506_o.png",
+      "id_image": "harmony_4601147"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458893_00e9334fd6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458893_ea7ab0441f_o.png",
+      "id_image": "harmony_5265801"
+    }
+  ]
+}

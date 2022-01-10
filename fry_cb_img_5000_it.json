@@ -1,0 +1,88 @@
+{
+  "english": "fry",
+  "phat_am": "frai",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "rán; chiên",
+          "definition": "to cook in hot oil or fat",
+          "world_new": [
+            "cook",
+            "hot",
+            "oil",
+            "fat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Shall I fry the eggs or boil them?",
+              "world_new": [
+                "I",
+                "boil"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cá bột",
+          "definition": "a swarm of young, especially of fish.",
+          "world_new": [
+            "swarm",
+            "young",
+            "fish"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, the present work has shown that cortisol concentrations in rainbow trout fry can be measured by using body fluids obtained after sonication and centrifugation of the whole fish.",
+    "He moves across the kitchen to look at the fries and then provides an answer.",
+    "After 1 month, 50 fry out of each group were transferred into 50 l tanks.",
+    "In the mean time, the automatic cleaning mechanism will be designed into the stirring-fry and dispersing mechanism.",
+    "Then fried chicken was also added and mixed.",
+    "Furthermore, instances of vocal fry or noise were common in the vocalizations of the deaf infant.",
+    "She always ordered french fries when they went out to eat.",
+    "Once fried or steamed, the sardines were left to cool and dry because if they were introduced hot into the cans their skins would rupture, producing a poor-quality product."
+  ],
+  "list_see_also": [
+    "fried",
+    "fries",
+    "frying pan",
+    "out of the frying pan into the fire"
+  ],
+  "list_browse": [
+    "fruity",
+    "frustrate",
+    "frustrated",
+    "frustration",
+    "fry",
+    "frying pan",
+    "ft",
+    "fudge",
+    "fuel"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388077_4b9508da62_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388077_cf692992fb_o.png",
+      "id_image": "fry_311776"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080545_8548ba734f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080545_ca3b05822e_o.png",
+      "id_image": "fry_3690287"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698294_95f3c07bc7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698294_73d9bf3dc9_o.png",
+      "id_image": "fry_6192837"
+    }
+  ]
+}

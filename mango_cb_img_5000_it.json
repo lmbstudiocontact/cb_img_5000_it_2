@@ -1,0 +1,80 @@
+{
+  "english": "mango",
+  "phat_am": "ˈmӕŋɡəu",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quả xoài",
+          "definition": "the yellowish fruit of an Indian tropical tree",
+          "world_new": [
+            "fruit",
+            "Indian",
+            "tropical",
+            "tree"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "(also adjective) mango juice.",
+              "world_new": [
+                "juice"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cây xoài",
+          "definition": "(also mango tree) the tree.",
+          "world_new": [
+            "tree"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They exchanged salt for chickens, mangoes, and venison; for the latter they could get much salt.",
+    "For this reason a decision-maker can rationally expect low mango prices to rise enough to make investment worthwhile, even when price drops initially.",
+    "Nearly two-thirds of the population work in agriculture, growing maize, beans, sesame, mangos, watermelons and avocados.",
+    "Overall, large farms appear to plant larger absolute area to mango.",
+    "We can't go back to the era when mangos grew liberally on the trees and game ran free in the woods.",
+    "Similarly, mango cultivation increased during periods in which rice and corn prices declined.",
+    "The effect of greater risk aversion is to reduce the share of land devoted to mango.",
+    "The king humoured him, and was amazed when the old man succeeded - not only in bringing down the mango, but in splitting it in two."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "mandolin",
+    "mane",
+    "manger",
+    "mangle",
+    "mango",
+    "mangosteen",
+    "mangrove",
+    "manhandle",
+    "manhole"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441093_a98a5a5448_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441093_55dbc02f3f_o.png",
+      "id_image": "mango_3439181"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681179_b3f3d68854_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681179_0343bcf538_o.png",
+      "id_image": "mango_5175216"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326041_61d1e5ac0f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326041_80bf3a6482_o.png",
+      "id_image": "mango_6321991"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441118_09c5813751_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441118_974e03aaac_o.png",
+      "id_image": "mango_909155"
+    }
+  ]
+}

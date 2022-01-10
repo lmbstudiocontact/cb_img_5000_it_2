@@ -1,0 +1,96 @@
+{
+  "english": "forget",
+  "phat_am": "fəˈɡet",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "quên",
+          "definition": "to fail to remember",
+          "world_new": [
+            "fail",
+            "remember"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has forgotten my name.",
+              "world_new": [
+                "my",
+                "name"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quên lãng",
+          "definition": "to leave behind accidentally",
+          "world_new": [
+            "leave",
+            "accidentally"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She has forgotten her handbag.",
+              "world_new": [
+                "handbag"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hành động không đứng đắn",
+          "definition": "to lose control of (oneself), act in an undignified manner",
+          "world_new": [
+            "lose",
+            "control",
+            "act",
+            "manner"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She forgot herself and criticized her boss during the company party.",
+              "world_new": [
+                "boss",
+                "company",
+                "party"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "At the least, the par tial exhumation demonstrates that the ancestor buried therein had not been forgotten.",
+    "Nevertheless, it should not be forgotten that those who aspired to be diplomats and journalists received a middle-school education.",
+    "Furthermore, although artists or song titles may have been forgotten, the lyrics were more often remembered, and many were able to sing along.",
+    "At the same time it should not be forgotten that these statements are only half the story.",
+    "However, along with this focus on the micro level consequences of unemployment, researchers have largely forgotten about the role of state intervention in relieving unemployment.",
+    "An elderly woman, aged 72 years, had clearly forgotten that the practice was nurse-led.",
+    "At the same time, the influence of a diaphragm is such that the obtained turbulent flow \"does not forget\" the initial conditions.",
+    "The half of the actor who 'does not forget' himself is the knower, the half who 'becomes the character' is the feeler."
+  ],
+  "list_see_also": [
+    "forgetful",
+    "forgetfully"
+  ],
+  "list_browse": [
+    "foreword",
+    "forfeit",
+    "forge",
+    "forgery",
+    "forget",
+    "forgetful",
+    "forgetfully",
+    "forgive",
+    "forgiveness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051785_4799b5073d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051785_9047cb1ebe_o.png",
+      "id_image": "forget_6370384"
+    }
+  ]
+}

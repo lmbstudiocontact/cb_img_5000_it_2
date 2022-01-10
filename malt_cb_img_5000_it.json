@@ -1,0 +1,78 @@
+{
+  "english": "malt",
+  "phat_am": "moːlt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mạch nha",
+          "definition": "barley or other grain soaked in water, allowed to sprout, and dried in a kiln, used in making beer, whisky etc.",
+          "world_new": [
+            "barley",
+            "grain",
+            "soaked",
+            "water",
+            "sprout",
+            "dried",
+            "kiln",
+            "beer",
+            "whisky"
+          ]
+        },
+        {
+          "mean_english": "rượu ủ mạch nha",
+          "definition": "a variety of malt whisky",
+          "world_new": [
+            "variety",
+            "whisky"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This pub sells fifteen different malts."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In specific processing industries, the top four firms marketed 90% of malt beverages in 1992 and 83% of beef packing in 200414.",
+    "The need for the latter is also emphasized by the frequent choice of thistle seed cake and malt culms as potential feedstuffs.",
+    "While the state continued to favour wine and spirits producers, brewers were angered by the unduly heavy excise on malt beer.",
+    "Characterization of malting barley cultivars with more or less stable grain protein content under varying environmental conditions.",
+    "The town's awful beer, they suggested, was the result of bad malt and bungling brewers.",
+    "Significantly, the increased popularity of spirits, wine and malt beer had not curtailed the sorghum market.",
+    "The demand for malt beer elicited an even more determined attempt by the state to defend the products of the wine industry.",
+    "Quantitative trait loci for germination and malting quality characters in a spring barley cross."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "malingerer",
+    "mall",
+    "mallet",
+    "malnutrition",
+    "malt",
+    "malware",
+    "mamma",
+    "mammal",
+    "mammalian"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682709_a4f8423162_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682709_8944829105_o.png",
+      "id_image": "malt_2298761"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064245_77852010d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064245_0faf10d4ef_o.png",
+      "id_image": "malt_2533886"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442533_7325ab1e3d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442533_5ee83faf29_o.png",
+      "id_image": "malt_2597533"
+    }
+  ]
+}

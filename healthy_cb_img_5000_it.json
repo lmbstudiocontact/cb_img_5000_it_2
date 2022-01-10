@@ -1,0 +1,129 @@
+{
+  "english": "healthy",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "khoẻ mạnh",
+          "definition": "(generally) having good health",
+          "world_new": [
+            "health"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m rarely ill – I’m really a very healthy person",
+              "world_new": [
+                "rarely",
+                "ill",
+                "person"
+              ]
+            },
+            {
+              "ex_of_definition": "My bank balance is healthier now than it used to be.",
+              "world_new": [
+                "bank",
+                "balance"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "có lợi cho sức khoẻ",
+          "definition": "causing or helping to produce good health",
+          "world_new": [
+            "helping",
+            "produce",
+            "health"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a healthy climate.",
+              "world_new": [
+                "climate"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sức khoẻ tốt",
+          "definition": "resulting from good health",
+          "world_new": [
+            "health"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a healthy appetite.",
+              "world_new": [
+                "appetite"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nghiêm túc",
+          "definition": "showing a sensible concern for one’s own well-being etc",
+          "world_new": [
+            "sensible",
+            "concern",
+            "well-being"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He shows a healthy respect for the law.",
+              "world_new": [
+                "respect",
+                "law"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The retirees were more likely than the pre-retired husbands to perceive their wives as healthier than themselves.",
+    "Though we may perhaps feel that a healthier, non-dominated existence must be better for her, she need not concur in that judgment given her current evaluative perspective.",
+    "Just as with organically grown food, only certain people will pay extra for what they consider to be healthier, more natural foods.",
+    "Men with a severe illness selected physical health less often than healthier men.",
+    "People under stress who have a greater sense of control, commitment and challenge will stay healthier than people who are less hardy.",
+    "Consciousness of one's own irrational urges was healthier than denial.",
+    "Many thought price premiums are also justified because they perceived organic products to be healthier, more nutritious and more delicious.",
+    "In most studies, employed women have been found to be physically and psychologically healthier than nonemployed women."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "health food",
+    "health maintenance organization",
+    "health service",
+    "healthiness",
+    "healthy",
+    "heap",
+    "heaped",
+    "hear",
+    "hear! hear!"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386057_743f82a8a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386057_14a4b74d01_o.png",
+      "id_image": "healthy_2707368"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341161_09bb3cc0e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341161_ec143184a8_o.png",
+      "id_image": "healthy_706204"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078470_e8b1955fe9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078470_faa618d133_o.png",
+      "id_image": "healthy_851514"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341086_25c5e45249_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341086_10f75e429e_o.png",
+      "id_image": "healthy_926107"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "english": "fusion",
+  "phat_am": "ˈfjuːʒən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự trộn lẫn bằng cách nấu chảy",
+          "definition": "the act of melting together",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "fusion of the metal pieces.",
+              "world_new": [
+                "metal"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự liên kết chặt chẽ",
+          "definition": "a very close joining of things",
+          "world_new": [
+            "close"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the fusion of his ideas."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "After syncytial fusion the cascade of apoptosis seems to be halted for several weeks.",
+    "Fault features of large rotating machinery and diagnosis using sensor fusion.",
+    "Here we experimentally enlarged blastomeres to zygote size by enucleation and fusion with blastomeres that were in developmental synchrony with the recipient.",
+    "However, data-level fusion is only viable for sensors producing the same type of observations.",
+    "Their removal by unfolding can help obtain more efficient programs with better opportunities for fusion.",
+    "Fusion proceeded normally in the presence of classmatched negative controls.",
+    "The cold fusion claims of 1989, in contrast, attracted criticism that spilled over from the purely theoretic domain to the professional one.",
+    "One chapter discusses the problems of controlled fusion, the outstanding difficulties, and possible methods of overcoming them."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "furtive",
+    "fury",
+    "fuse",
+    "fuselage",
+    "fusion",
+    "fuss",
+    "fussily",
+    "fussy",
+    "futile"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078265_af56e3cd66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078265_3841b07509_o.png",
+      "id_image": "fusion_2934081"
+    }
+  ]
+}

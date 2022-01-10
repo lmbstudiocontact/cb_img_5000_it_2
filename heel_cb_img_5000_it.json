@@ -1,0 +1,129 @@
+{
+  "english": "heel",
+  "phat_am": "hiːl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "gót chân",
+          "definition": "the back part of the foot",
+          "world_new": [
+            "part",
+            "foot"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I have a blister on my heel.",
+              "world_new": [
+                "I",
+                "blister",
+                "my"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gót bít tất)",
+          "definition": "the part of a sock etc that covers this part of the foot",
+          "world_new": [
+            "part",
+            "sock",
+            "part",
+            "foot"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I have a hole in the heel of my sock.",
+              "world_new": [
+                "I",
+                "hole",
+                "my",
+                "sock"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gót giày",
+          "definition": "the part of a shoe, boot etc under or round the heel of the foot",
+          "world_new": [
+            "part",
+            "shoe",
+            "boot",
+            "foot"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The heel has come off this shoe.",
+              "world_new": [
+                "shoe"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đóng gót giày",
+          "definition": "to put a heel on (a shoe etc).",
+          "world_new": [
+            "shoe"
+          ]
+        },
+        {
+          "mean_english": "nghiêng đi (tàu thuỷ)",
+          "definition": "(usually with over) (of ships) to lean to one side",
+          "world_new": [
+            "lean",
+            "side"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The boat heeled over in the strong wind.",
+              "world_new": [
+                "boat",
+                "strong",
+                "wind"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "-heeled",
+    "at/on one’s heels",
+    "kick one’s heels",
+    "take to one’s heels",
+    "to heel",
+    "turn on one’s heel"
+  ],
+  "list_browse": [
+    "heed",
+    "heedful",
+    "heedless",
+    "heedlessly",
+    "heel",
+    "-heeled",
+    "hefty",
+    "heifer",
+    "height"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384527_e87c3a868f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384527_e6fcbeb380_o.png",
+      "id_image": "heel_1397431"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076755_a35f29ff9c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076755_514642f875_o.png",
+      "id_image": "heel_6401050"
+    }
+  ]
+}

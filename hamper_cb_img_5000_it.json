@@ -1,0 +1,87 @@
+{
+  "english": "hamper",
+  "phat_am": "ˈhӕmpə",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ngăn cản",
+          "definition": "to make it difficult for (someone) to do something",
+          "world_new": [
+            "difficult"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I tried to run away, but I was hampered by my long dress.",
+              "world_new": [
+                "I",
+                "run",
+                "I",
+                "my",
+                "long",
+                "dress"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hòm mây",
+          "definition": "a large basket with a lid",
+          "world_new": [
+            "large",
+            "basket",
+            "lid"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a picnic hamper.",
+              "world_new": [
+                "picnic"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There were land transfers before this emergence, and even a sort of land market, but these were hampered, restricted and insecure.",
+    "Understanding why, however, has been hampered by difficulties with the sources.",
+    "Such interaction would hamper the analysis although at lower beam intensities they could be negligible.",
+    "Beyond this, such institutional features contributed to disputes among church members, thereby hampering the overall efficacy of the organisations.",
+    "This differing orientation may hamper effective collaborative assessment.",
+    "Although such discrepancies hamper cross-variety comparisons and the conclusions drawn from them, they need not obviate them entirely.",
+    "A second problem is that such representations will hamper the variable phonological encoding the model must allow for.",
+    "It emphasises how the formal rigidities and informal outcomes of the corporatist institutional structure hampered an efficient pace of modernisation."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "hammer",
+    "hammer home",
+    "hammer out",
+    "hammock",
+    "hamper",
+    "hamster",
+    "hamstring",
+    "hand",
+    "hand down"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430688_ca35a2f46b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430688_5a46c994f7_o.png",
+      "id_image": "hamper_3778557"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430663_6a5c3132fa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430663_31f6c057bc_o.png",
+      "id_image": "hamper_4277886"
+    }
+  ]
+}

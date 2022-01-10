@@ -1,0 +1,217 @@
+{
+  "english": "low",
+  "phat_am": "ləu",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thấp",
+          "definition": "not at or reaching up to a great distance from the ground, sea-level etc",
+          "world_new": [
+            "great",
+            "distance",
+            "ground"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "low hills"
+            },
+            {
+              "ex_of_definition": "a low ceiling",
+              "world_new": [
+                "ceiling"
+              ]
+            },
+            {
+              "ex_of_definition": "This chair is too low for the child.",
+              "world_new": [
+                "chair",
+                "child"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhỏ tiếng",
+          "definition": "making little sound; not loud",
+          "world_new": [
+            "loud"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She spoke in a low voice.",
+              "world_new": [
+                "spoke",
+                "voice"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trầm",
+          "definition": "at the bottom of the range of musical sounds",
+          "world_new": [
+            "bottom",
+            "range",
+            "musical"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That note is too low for a female voice.",
+              "world_new": [
+                "note",
+                "female",
+                "voice"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhỏ",
+          "definition": "small",
+          "world_new": [
+            "small"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a low price.",
+              "world_new": [
+                "price"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "yếu",
+          "definition": "not strong; weak or feeble",
+          "world_new": [
+            "weak",
+            "feeble"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The fire was very low.",
+              "world_new": [
+                "fire"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thấp",
+          "definition": "near the bottom in grade, rank, class etc",
+          "world_new": [
+            "bottom",
+            "grade",
+            "rank",
+            "class"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "low temperatures"
+            },
+            {
+              "ex_of_definition": "the lower classes.",
+              "world_new": [
+                "lower"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "vị trí thấp",
+          "definition": "in or to a low position, manner or state",
+          "world_new": [
+            "position",
+            "manner",
+            "state"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The ball flew low over the net.",
+              "world_new": [
+                "ball",
+                "net"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm ầm",
+          "definition": "to make the noise of cattle; to moo",
+          "world_new": [
+            "noise",
+            "moo"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The cows were lowing."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This case admits a specially simple normal form in which the low degree terms of the normal form can be replaced by coordinate functions.",
+    "In addition to the reverberant field and low-pass filtering of the source, the sound-object's image size has been reduced.",
+    "This is because their phonetic ability is low and their functional knowledge (in terms of the recoverability principle) is not yet developed.",
+    "If the project generates financial revenues, but they are lower than for purely commercial investments, then perhaps an interest rate subsidy would be most appropriate.",
+    "Both men and women with low support were more likely to report psychological distress than those with high support.",
+    "However, what is reinforced by these data, is the very low percentage of flies in the total trapped population that bore pollinaria.",
+    "The ' incorrigibles ', by contrast, remained on the lowest stage.",
+    "In the model, word final stops and fricatives were given weaker representations in the normal case to reflect their lower salience."
+  ],
+  "list_see_also": [
+    "lower",
+    "lowly",
+    "lowliness",
+    "low-down",
+    "lowland",
+    "lowlander",
+    "lowlands",
+    "low-lying",
+    "low-tech",
+    "low tide/water",
+    ""
+  ],
+  "list_browse": [
+    "lover",
+    "lovesick",
+    "loving",
+    "lovingly",
+    "low",
+    "low tide/water",
+    "low-down",
+    "low-lying",
+    "low-tech"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070770_09c38436f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070770_98bb743726_o.png",
+      "id_image": "low_3103546"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070735_58c120021c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070735_effb62e2cc_o.png",
+      "id_image": "low_5692344"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070685_c0e943377d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070685_4d2764aa3f_o.png",
+      "id_image": "low_6418233"
+    }
+  ]
+}

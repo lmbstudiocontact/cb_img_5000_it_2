@@ -1,0 +1,67 @@
+{
+  "english": "manufacturer",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhà sản xuất",
+          "definition": "a person or firm that manufactures goods",
+          "world_new": [
+            "person",
+            "firm",
+            "goods"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is a carpet manufacturer.",
+              "world_new": [
+                "carpet"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In vain would they assemble for this purpose the wisest statisticians, the most expert merchants, the most skilled manufacturers, and the ablest administrators.",
+    "In addition to postcards, manufacturers distributed small gifts to customers.",
+    "Recent legislation requiring pharmaceutical manufacturers to present economic evaluations when requesting reimbursement decisions will probably have an important impact in the future.",
+    "The search took over five years of effort and co-operation by research, extension, growers and fabric manufacturers.",
+    "The providers of healthcare - whether physicians, drug manufacturers, or insurers - can, by contrast, be addressed straightforwardly by moral and legal norms.",
+    "For simplicity, this value was not multiplied by 10 as recommended by the manufacturer.",
+    "At some point in the 1950s, most manufacturers quietly omitted the wheels.",
+    "One reason is that today manufacturers of machinery, computers, etc., contain increasing proportions of services."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "mantle",
+    "manual",
+    "manually",
+    "manufacture",
+    "manufacturer",
+    "manufacturing",
+    "manure",
+    "manuscript",
+    "many"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439883_5434d390ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439883_493752dcb3_o.png",
+      "id_image": "manufacturer_1353751"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369602_d661f8f48f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369602_ab3000e89f_o.png",
+      "id_image": "manufacturer_1857062"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679919_9fdf50e187_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679919_1713e7609b_o.png",
+      "id_image": "manufacturer_2761089"
+    }
+  ]
+}

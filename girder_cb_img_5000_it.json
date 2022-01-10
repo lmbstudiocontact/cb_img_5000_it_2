@@ -1,0 +1,71 @@
+{
+  "english": "girder",
+  "phat_am": "ˈɡəːdə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "rầm cầu",
+          "definition": "a large beam of steel etc, eg to support a road or bridge",
+          "world_new": [
+            "large",
+            "beam",
+            "steel",
+            "support",
+            "road",
+            "bridge"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the steel girders of the bridge.",
+              "world_new": [
+                "steel",
+                "bridge"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Go and see them now—heaps of rubble, girders twisted by fire.",
+    "Even without compensation for injury caused by a rolling girder, the lowly laborer could thus be a proud member of the ' ' imperial ' ' corporate body.",
+    "This girder system was connected to the periphery foundation, which supports the rest of the building.",
+    "It is not one of seeing a thick steel girder running through a building.",
+    "Strain- time curve induced in bridge girder by the passage of a truck.",
+    "I understand that two of the seven cast iron girders in the central span were severely damaged.",
+    "As a truck crosses a bridge, it induces strain in the girders.",
+    "The scaffolding on which he stood was attached by ropes to a girder that inexplicably rolled over, plunging him eighty feet to the basement."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "ginger ale",
+    "gingerbread",
+    "gingerly",
+    "giraffe",
+    "girder",
+    "girdle",
+    "girl",
+    "Girl Guide",
+    "girlfriend"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332546_2d01ba3b2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332546_53561ea673_o.png",
+      "id_image": "girder_4631745"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377322_f99253cefc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377322_92c409c45a_o.png",
+      "id_image": "girder_4631782"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687499_f87d2b0583_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687499_2aba6386a0_o.png",
+      "id_image": "girder_6078018"
+    }
+  ]
+}

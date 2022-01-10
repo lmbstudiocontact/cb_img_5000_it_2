@@ -1,0 +1,99 @@
+{
+  "english": "freelance",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người làm nghề tự do",
+          "definition": "(of or done by) a person who is working on his own, not for any one employer",
+          "world_new": [
+            "person",
+            "employer"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a freelance journalist",
+              "world_new": [
+                "journalist"
+              ]
+            },
+            {
+              "ex_of_definition": "freelance work.",
+              "world_new": [
+                "work"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm nghề tự do",
+          "definition": "to work in this way",
+          "world_new": [
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is freelancing now."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There were strong preferences for freelancing as a final but indefinite phase of work.",
+    "If there is a distinction between amateur and professional journalists, there must be a distinction between staff journalists and freelances.",
+    "In contrast, the ' creatives' tended to pursue the imaginative or artistic element of their work by freelancing, which they combined with part-time posts that provided some financial security.",
+    "He also freelanced for nearly every major comic book publisher.",
+    "He is the author of five non-fiction books dealing with topics from online creativity to freelancing, incorporating aspects of empathy and business.",
+    "Secondly, the industry uses freelances a great deal, and if there is no solid core of training more freelances will be used.",
+    "The rest of the year, he freelanced as a clown at birthday parties and special events.",
+    "Kuijers freelanced briefly as a designer and illustrator, but now paints full-time."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "freedom fighter",
+    "Freefone",
+    "freehand",
+    "freehold",
+    "freelance",
+    "freely",
+    "freemason",
+    "Freepost",
+    "freeway"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049400_02b6df9d62_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049400_a102a436a9_o.png",
+      "id_image": "freelance_1329495"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356892_4313e340b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356892_99bdf19c6a_o.png",
+      "id_image": "freelance_1791917"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312866_8c42c81e07_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312866_aa933845d1_o.png",
+      "id_image": "freelance_2765614"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427678_ee557cab81_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427678_89cdd76a58_o.png",
+      "id_image": "freelance_3107788"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667684_faf1da0196_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667684_c4322c61df_o.png",
+      "id_image": "freelance_4633110"
+    }
+  ]
+}

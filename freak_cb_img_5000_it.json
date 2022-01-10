@@ -1,0 +1,85 @@
+{
+  "english": "freak",
+  "phat_am": "friːk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người, vật, sự kiện kỳ quặc",
+          "definition": "an unusual or abnormal event, person or thing",
+          "world_new": [
+            "unusual",
+            "abnormal",
+            "event",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A storm as bad as that one is a freak of nature",
+              "world_new": [
+                "storm",
+                "bad",
+                "nature"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a freak result.",
+              "world_new": [
+                "result"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người hâm mộ",
+          "definition": "a person who is wildly enthusiastic about something",
+          "world_new": [
+            "person",
+            "wildly",
+            "enthusiastic"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a film freak.",
+              "world_new": [
+                "film"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Here, the fantastical sphinx, herself a freak of nature, becomes the emblem of good design, abstract and laden with symbolic meaning.",
+    "The disciplines of the control freaks have been applied ruthlessly in government.",
+    "Their action was one of those freaks of freedom which occur from time to time and which people enjoy.",
+    "They would indeed be administrative freaks; and of course administrators do not like freaks, they like tidy and uniform administrative patterns.",
+    "He decided to create a show that featured various oddball characters and freaks of nature.",
+    "Climate protection is not a marginal subject for environment freaks, it is one of the greatest challenges of our time.",
+    "Even so, there were still icing problems during freak weather conditions soon after completion.",
+    "Intellectuals are still seen by party leaders as genetically flawed, and by ordinary people as underpaid freaks, always making trouble for themselves."
+  ],
+  "list_see_also": [
+    "freak out"
+  ],
+  "list_browse": [
+    "fraudulence",
+    "fraudulent",
+    "fraudulently",
+    "fray",
+    "freak",
+    "freak out",
+    "freckle",
+    "freckled",
+    "free"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049480_f268f8050f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049480_31706f97ba_o.png",
+      "id_image": "freak_2777003"
+    }
+  ]
+}

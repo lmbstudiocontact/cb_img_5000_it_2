@@ -1,0 +1,84 @@
+{
+  "english": "jobless",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thất nghiệp",
+          "definition": "without a job; unemployed",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a jobless carpenter.",
+              "world_new": [
+                "carpenter"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun plural",
+      "list_definition": [
+        {
+          "mean_english": "người thất nghiệp",
+          "definition": "people who do not have jobs",
+          "world_new": [
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a government program to help the jobless.",
+              "world_new": [
+                "government",
+                "program",
+                "help"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The change will affect the jobless count, as only benefit claimants are counted in the total.",
+    "Jobless growth is not sustainable either in economics or in politics.",
+    "Children growing up in council-run homes are statistically many times more likely to leave school without any educational qualifications and to become jobless.",
+    "Only three days ago in another place an announcement was made that there were more jobless elsewhere.",
+    "We have the farce of trainers being added to the queue of jobless.",
+    "However, it does not mean that, because they have the prospect of a jobless future they should be denied the possibility of securing educational qualifications.",
+    "Others signed on with corporations as industrial designers, or consultants, but the bulk of architects were simply jobless.",
+    "The unit's claim that the monthly count underestimates jobless by up to a third is exaggerated."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "jittery",
+    "Jnr",
+    "job",
+    "job seeker",
+    "jobless",
+    "jockey",
+    "jodhpurs",
+    "joey",
+    "jog"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070445_bac91fd0d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070445_cdeb471266_o.png",
+      "id_image": "jobless_3154661"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688584_e9a8e9e6e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688584_b6d5d4474d_o.png",
+      "id_image": "jobless_3154669"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688554_7d41725817_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688554_7a7bd624bf_o.png",
+      "id_image": "jobless_6333413"
+    }
+  ]
+}

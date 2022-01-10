@@ -1,0 +1,86 @@
+{
+  "english": "mackerel",
+  "phat_am": "ˈmӕkrəl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cá thu",
+          "definition": "a type of edible sea-fish, bluish green with wavy markings",
+          "world_new": [
+            "type",
+            "edible",
+            "bluish",
+            "green",
+            "wavy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They are fishing for mackerel.",
+              "world_new": [
+                "fishing"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thịt cá thu",
+          "definition": "its flesh as food",
+          "world_new": [
+            "its",
+            "flesh",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "fried mackerel.",
+              "world_new": [
+                "fried"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "All the pelagic stocks—not just herring, but mackerel and bass—are doing very well indeed.",
+    "Pelagic fishing gear is normally used for shoaling mid-water swimming species such as mackerel, pilchards and sprats.",
+    "Commercial species including prawns, sardines, mackerels, oil sardines, and some crustaceans are harvested in the region.",
+    "The trustees have been instrumental in the past 12 months in developing a large herring and mackerel processing factory, which employs about 100 people.",
+    "We quite agree with what the deputation said about the food value of mackerel.",
+    "They found that mackerel populations in coastal and oceanic regions differed markedly in the composition of their parasite faunas.",
+    "The net also samples shoaling or pelagic species including herring and mackerel.",
+    "The significant mackerel fishery is to be closed to pelagic boats to protect a fish that they have no chance of catching."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "machine-gun",
+    "machinery",
+    "machinist",
+    "macho",
+    "mackerel",
+    "mackintosh",
+    "macramé",
+    "macro",
+    "macroscopic"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445893_641866fdda_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445893_05bf502efc_o.png",
+      "id_image": "mackerel_1900791"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685914_925d7b637f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685914_c43e6159d8_o.png",
+      "id_image": "mackerel_2885031"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685874_4e2c98ee9a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685874_c8a9558f2d_o.png",
+      "id_image": "mackerel_6202242"
+    }
+  ]
+}

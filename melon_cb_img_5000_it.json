@@ -1,0 +1,80 @@
+{
+  "english": "melon",
+  "phat_am": "ˈmelən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quả dưa",
+          "definition": "a large, sweet fruit with many seeds.",
+          "world_new": [
+            "large",
+            "sweet",
+            "fruit"
+          ]
+        },
+        {
+          "mean_english": "quả dưa",
+          "definition": "its firm yellow or red flesh as food",
+          "world_new": [
+            "its",
+            "firm",
+            "yellow",
+            "red",
+            "flesh",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We started the meal with melon",
+              "world_new": [
+                "meal"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a melon seed.",
+              "world_new": [
+                "seed"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, melon accessions differ in their ability to germinate at low temperatures.",
+    "It was widely used again on the spring, 1995 melon crop preceding the second year of our field study.",
+    "We reviewed processes contributing to cantaloupe contamination, conditions affecting survival and growth of bacterial pathogens on melons, and potential methods for sanitization.",
+    "Effective methods for decontaminating whole and cut melons have not been identified.",
+    "Bacteriophages, gamma irradiation, and ultraviolet light treatment are possible alternatives to sanitizing melons but have not been sufficiently evaluated for their efficacy.",
+    "Two additional melon huts and a small, galvanised iron 'garden shed' were added later.",
+    "Oranges and melons at the bottom of the image have been peeled, broken open or cut into slices.",
+    "These observations point out the need to discard the entire melon when only a small area shows visual decay."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "melodrama",
+    "melodramatic",
+    "melodramatically",
+    "melody",
+    "melon",
+    "melt",
+    "meltdown",
+    "melting pot",
+    "melting-point"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348231_cda5f03d7b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348231_35087cf30e_o.png",
+      "id_image": "melon_3944173"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702924_9a66f8a755_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702924_df47e6eabd_o.png",
+      "id_image": "melon_4480823"
+    }
+  ]
+}

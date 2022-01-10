@@ -1,0 +1,141 @@
+{
+  "english": "gain",
+  "phat_am": "ɡein",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "giành được",
+          "definition": "to obtain",
+          "world_new": [
+            "obtain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He quickly gained experience.",
+              "world_new": [
+                "quickly",
+                "experience"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "có lợi từ cái gì/làm gì",
+          "definition": "(often with byor from) to get (something good) by doing something",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What do I have to gain by staying here?",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thu được, lấy được",
+          "definition": "to have an increase in (something)",
+          "world_new": [
+            "increase"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He gained strength after his illness.",
+              "world_new": [
+                "strength",
+                "illness"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhanh",
+          "definition": "(of a clock or watch) to go too fast",
+          "world_new": [
+            "clock",
+            "fast"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This clock gains (four minutes a day).",
+              "world_new": [
+                "clock"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự tăng thêm",
+          "definition": "an increase (in weight etc)",
+          "world_new": [
+            "increase",
+            "weight"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a gain of one kilo."
+            }
+          ]
+        },
+        {
+          "mean_english": "lợi lộc",
+          "definition": "profits, advantage, wealth etc",
+          "world_new": [
+            "advantage",
+            "wealth"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His loss was my gain",
+              "world_new": [
+                "loss",
+                "my"
+              ]
+            },
+            {
+              "ex_of_definition": "He’d do anything for gain."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They all gained some position of status, never mind how, sufficient to win the respect of the general public.",
+    "First, how do the opportunities for private gain differ in different electoral systems?",
+    "Spreading a reproduction before students and colleagues always gains a response, usually verbal.",
+    "Enlightenment, in this sense, is gained through communities.",
+    "As the stimulus became larger, more long-range axons were recruited into the collective oscillation, thereby increasing the gain of the feedback circuit.",
+    "The thermal mass in superinsulated housing is not able to store all this solar energy, so the useful solar gains are greatly reduced.",
+    "More importantly, by studying the subjective experiences of the meaning of music we gain insights into the person's self.",
+    "Numerous political parties have gained representation, and they all have a stake in the survival of the regime."
+  ],
+  "list_see_also": [
+    "gain ground",
+    "gain on"
+  ],
+  "list_browse": [
+    "gaffe",
+    "gag",
+    "gaiety",
+    "gaily",
+    "gain",
+    "gain ground",
+    "gain on",
+    "gait",
+    "gala"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077880_e0cf19b1d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077880_4733c5c0ee_o.png",
+      "id_image": "gain_3553737"
+    }
+  ]
+}

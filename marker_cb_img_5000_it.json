@@ -1,0 +1,100 @@
+{
+  "english": "marker",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người ghi điểm",
+          "definition": "a person who marks eg the score at games.",
+          "world_new": [
+            "person",
+            "score",
+            "games"
+          ]
+        },
+        {
+          "mean_english": "vật dùng để đánh dấu",
+          "definition": "something used for marking, eg in scoring, showing the position of something etc",
+          "world_new": [
+            "position"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The area is indicated by large green markers.",
+              "world_new": [
+                "area",
+                "large",
+                "green"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bút dạ",
+          "definition": "a type of pen, usually with a thick point",
+          "world_new": [
+            "type",
+            "pen",
+            "thick",
+            "point"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a felt marker",
+              "world_new": [
+                "felt"
+              ]
+            },
+            {
+              "ex_of_definition": "a permanent marker.",
+              "world_new": [
+                "permanent"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "No doubt such m e t h o d s will generate many more potential markers.",
+    "One drawback of it, however, is the dominant nature of the markers.",
+    "What factors lead to the loss and replacement of pragmatic markers in the course of time?",
+    "The chapter on molecular markers in selection of tomato germplasm has been cleverly written even though markers are used in many other chapters.",
+    "In large populations, selection acting on genetic markers may bias estimates of gene flow.",
+    "Molecular size markers are shown on the left of the gel.",
+    "Pragmatic pressure to communicate encouraged participants to employ an available solution in order to avoid the ambiguity that resulted from the absence of grammatical markers.",
+    "The first is well-defined and concrete, the mountains and rivers natural markers that stress territorial integrity and individuality."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "mark out",
+    "mark time",
+    "marked",
+    "markedly",
+    "marker",
+    "market",
+    "market price/value",
+    "market research",
+    "market-garden"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678289_a9b7322ceb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678289_9907aea943_o.png",
+      "id_image": "marker_4287379"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323111_afe328bb4d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323111_b6cd63f31b_o.png",
+      "id_image": "marker_6301141"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678184_6648b01745_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678184_9de0759c85_o.png",
+      "id_image": "marker_6396748"
+    }
+  ]
+}

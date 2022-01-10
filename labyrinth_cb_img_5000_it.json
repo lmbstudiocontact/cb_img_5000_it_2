@@ -1,0 +1,68 @@
+{
+  "english": "labyrinth",
+  "phat_am": "ˈlӕbərinθ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mê cung",
+          "definition": "a place full of long, winding passages, maze",
+          "world_new": [
+            "place",
+            "full",
+            "long",
+            "winding"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The basement is a labyrinth of corridors.",
+              "world_new": [
+                "basement"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This labyrinth, being sheltered by the building, will be at a temperature close to the mean ground temperature, like a cellar or cave.",
+    "In this referential labyrinth, the two media, although simultaneous, are never identical.",
+    "These labyrinths are apparently connected to each other.",
+    "The finite difference computer program gives a satisfactory answer to the problem of leakage in the labyrinth seal.",
+    "Our art intentionally adds conflicting information to this silicon labyrinth: musically, culturally and contextually.",
+    "A political labyrinth emerged from this contradictory attitude.",
+    "The very elaborated exhibition spaces seemed inflexible and overworked, again more of a labyrinth than an enjoyable spatial progression.",
+    "Here, the city appears as a labyrinth that threatens the subject with deracination in the midst of a fast-paced economy."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "labour dispute",
+    "labour-saving",
+    "labourer",
+    "Labrador",
+    "labyrinth",
+    "lace",
+    "lack",
+    "laconic",
+    "laconically"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368542_c947f08773_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368542_e798f8911f_o.png",
+      "id_image": "labyrinth_170613"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060410_b06fdef7c2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060410_f985a272cd_o.png",
+      "id_image": "labyrinth_428779"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438663_6b83661c57_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438663_c66198c909_o.png",
+      "id_image": "labyrinth_6193391"
+    }
+  ]
+}

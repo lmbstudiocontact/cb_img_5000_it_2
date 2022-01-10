@@ -1,0 +1,83 @@
+{
+  "english": "maximize",
+  "phat_am": "ˈmaksimaiz",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tăng tối đa",
+          "definition": "to increase something as much as it is possible",
+          "world_new": [
+            "increase",
+            "possible"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’re trying to maximize our profits.",
+              "world_new": [
+                "trying",
+                "our"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sử dụng hết cỡ",
+          "definition": "to make the best possible use of something",
+          "world_new": [
+            "best",
+            "possible"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You have to maximize the opportunities that come your way.",
+              "world_new": [
+                "your"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "At that point, revenue would be maximized on average, but would be volatile.",
+    "First, she maximizes lifetime utility through a decision on fertility investment.",
+    "As seen, from equation (13), bsc is maximized when both heterosis and inbreeding depression are maximized.",
+    "Moreover, this optimal policy corresponds to the public investment ratio that maximizes growth.",
+    "A mean-variance efficient portfolio is any portfolio that maximizes the expected rate of return holding the variance of returns constant.",
+    "Under restricted inbreeding, optimum designs are very similar for maximizing gains at different time horizons.",
+    "Therefore, maximizing the proportion of leaves within the canopy will increase overall photosynthesis.",
+    "He would assert that minimal prot was enough and demanded that entrepreneurs refrain from maximizing prots and generating too much wealth."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "mausoleum",
+    "mauve",
+    "max",
+    "maxim",
+    "maximize",
+    "maximum",
+    "may",
+    "may as well",
+    "May Day"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364262_08503efa7f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364262_158121c9b1_o.png",
+      "id_image": "maximize_2748462"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319556_58aab63d14_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319556_b701f3f732_o.png",
+      "id_image": "maximize_3094414"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674419_2dcb43ce2d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674419_7b76005461_o.png",
+      "id_image": "maximize_5068482"
+    }
+  ]
+}

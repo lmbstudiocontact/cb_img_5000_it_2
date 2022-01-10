@@ -1,0 +1,85 @@
+{
+  "english": "forest",
+  "phat_am": "ˈforist",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "rừng",
+          "definition": "(a large piece of) land covered with trees.",
+          "world_new": [
+            "large",
+            "piece",
+            "land"
+          ]
+        },
+        {
+          "mean_english": "rừng để săn bắn",
+          "definition": "an area of land in which animals, especially deer, are kept",
+          "world_new": [
+            "area",
+            "land",
+            "deer"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a deer forest.",
+              "world_new": [
+                "deer"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In particular, we have examined impacts at the landscape- and stand-scales for rain forests with contrasting management histories.",
+    "Secondary forests were used as habitats only for a limited subset of bats, representing less than 20% of the total species reported.",
+    "As previously mentioned, there are many examples of exotic species found in disturbed tropical forests, and a dearth of such examples from undisturbed tropical forests.",
+    "Mountain forests were extensively burned and more than 500 houses were lost.",
+    "However, in dry forests, light reaching the understorey varies enormously through the annual cycle due to seasonality in leaf fall and leaf flushing.",
+    "However, there is a lack of studies in subtropical forests on community phenology and on the identification of important resources.",
+    "Different kinds of mangrove forests provide different goods and services.",
+    "The project causes submergence of about 2800 hectares of tropical forests, two tribal settlements and stretches of cultivated land of non-tribal settlers."
+  ],
+  "list_see_also": [
+    "forested",
+    "forester",
+    "forestry"
+  ],
+  "list_browse": [
+    "foresee",
+    "foreseeable",
+    "foresight",
+    "foreskin",
+    "forest",
+    "forested",
+    "forester",
+    "forestry",
+    "foretaste"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315481_4fd925a3a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315481_883fc581c9_o.png",
+      "id_image": "forest_1151674"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051895_25645c5a8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051895_7df6d804c1_o.png",
+      "id_image": "forest_1280468"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051925_a6cdc8f7c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051925_eeed3d8584_o.png",
+      "id_image": "forest_172790"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670019_4312259014_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670019_c8eaf669f8_o.png",
+      "id_image": "forest_1864084"
+    }
+  ]
+}

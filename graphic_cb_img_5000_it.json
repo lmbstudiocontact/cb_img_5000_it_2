@@ -1,0 +1,92 @@
+{
+  "english": "graphic",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "sinh động",
+          "definition": "vivid",
+          "world_new": [
+            "vivid"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a graphic description of the accident.",
+              "world_new": [
+                "description",
+                "accident"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đồ họa",
+          "definition": "of painting, drawing etc",
+          "world_new": [
+            "painting",
+            "drawing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the graphic arts.",
+              "world_new": [
+                "arts"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Each channel was scanned separately and the images saved as digital graphics files.",
+    "Methods exist for creating photorealistic computer graphics as do methods to simulate the concert hall acoustics.",
+    "Resourceful personalities and individual strategies come alive in these portraits, which are also illustrated by evocative graphics.",
+    "Thoroughly glossed so as to maximize accessibility and impact, these graphics create cultural texture.",
+    "The optional external parts are the details that belong to the graphics of the car.",
+    "There was a time when advances in computer graphics were generated largely to satisfy technical and design needs.",
+    "Even though computer graphics techniques are used to actually produce the scenes, there is nothing new about them.",
+    "Creating a scene from a system's interaction log is a matter of using computer graphics techniques such as rendering."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "grapefruit",
+    "grapevine",
+    "graph",
+    "graph paper",
+    "graphic",
+    "graphic design",
+    "graphic designer",
+    "graphically",
+    "graphite"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439793_772a171b59_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439793_38713f3af3_o.png",
+      "id_image": "graphic_1567083"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369537_555e6cc17f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369537_988deaafdb_o.png",
+      "id_image": "graphic_2271598"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324636_3c65d4675c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324636_77fbf82e6a_o.png",
+      "id_image": "graphic_2811186"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679789_54a8a766ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679789_2830b94c05_o.png",
+      "id_image": "graphic_2898227"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369452_79db7b2d30_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369452_2bd6018e42_o.png",
+      "id_image": "graphic_6258724"
+    }
+  ]
+}

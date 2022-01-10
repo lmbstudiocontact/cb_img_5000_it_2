@@ -1,0 +1,130 @@
+{
+  "english": "guarantee",
+  "phat_am": "ɡarənˈtiː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự bảo đảm",
+          "definition": "a statement by the maker that something will work for a certain period of time",
+          "world_new": [
+            "statement",
+            "maker",
+            "work",
+            "certain",
+            "period",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This guarantee is valid for one year.",
+              "world_new": [
+                "valid",
+                "year"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vật bảo đảm",
+          "definition": "a thing that makes something likely or certain",
+          "world_new": [
+            "likely",
+            "certain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It is no guarantee against failure.",
+              "world_new": [
+                "failure"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bảo đảm",
+          "definition": "to act as, or give, a guarantee",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This watch is guaranteed for six months.",
+              "world_new": [
+                "watch"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cam đoan",
+          "definition": "to state that something is true, definite etc",
+          "world_new": [
+            "state",
+            "true",
+            "definite"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I can’t guarantee that what he told me is correct.",
+              "world_new": [
+                "I",
+                "correct"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The best strategy in the current period by no means guarantees its future success.",
+    "Second, citizens' access to specific constitutional guarantees was likewise remote.",
+    "Here, every firmly guaranteed transition is shadowed by one that is possible.",
+    "In 8, we detail how square-filling guarantees this extension.",
+    "Instead, the government would return to the barter, which guarantees strictly positive net surplus from the direct exchange of commodities. 12.",
+    "In contrast, our approach uses an underlying generic representation and employs the type system for further guarantees.",
+    "Thus, if two type parameters are being compared, they are guaranteed to be the same type parameter.",
+    "The return of contributions cannot be guaranteed unless return postage is provided."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "grumpiness",
+    "grumpy",
+    "grunge",
+    "grunt",
+    "guarantee",
+    "guard",
+    "guard of honour",
+    "guarded",
+    "guardedly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434218_68d3fbc4f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434218_2e6561fcf7_o.png",
+      "id_image": "guarantee_1077883"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363577_997597f68f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363577_a1448c5b0e_o.png",
+      "id_image": "guarantee_1981824"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434173_c081a728cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434173_874214b0f5_o.png",
+      "id_image": "guarantee_4829878"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055505_50166dbcfb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055505_3af470ce27_o.png",
+      "id_image": "guarantee_5091546"
+    }
+  ]
+}

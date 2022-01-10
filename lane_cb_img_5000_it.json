@@ -1,0 +1,120 @@
+{
+  "english": "lane",
+  "phat_am": "lein",
+  "list_english": [
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "đường làng",
+          "definition": "a narrow road or street",
+          "world_new": [
+            "narrow",
+            "road",
+            "street"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a winding lane.",
+              "world_new": [
+                "winding"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đường hẻm",
+          "definition": "used in the names of certain roads or streets",
+          "world_new": [
+            "certain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His address is 12 Penny Lane.",
+              "world_new": [
+                "address"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làn đường",
+          "definition": "a division of a road for one line of traffic",
+          "world_new": [
+            "division",
+            "road",
+            "line",
+            "traffic"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The new motorway has three lanes in each direction.",
+              "world_new": [
+                "motorway",
+                "direction"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đường đua",
+          "definition": "a regular course across the sea taken by ships",
+          "world_new": [
+            "regular",
+            "course",
+            "across",
+            "sea"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a regular shipping lane.",
+              "world_new": [
+                "regular",
+                "shipping"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The first and last lanes represent lambda ladder size standards.",
+    "Waiting times at periodically switched one-way traffic lanes: a periodic, two-queue polling system with random setup times.",
+    "Even in the mews lanes, where a more heterogeneous, informal idiom predominates, the planning system seems to have prevented invention and experiment.",
+    "Each of the first three lanes and the first wash contained 10 ng of proteins.",
+    "Each has its scale - speeds, widths, lanes, intervals and - its attributes - from populated open parkway to mechanical green-walled canal.",
+    "Small lanes were gradually added to demarcate different sections and also to connect them as an organic whole.",
+    "The sequences listed above the lanes show the predicted phosphorylation site present in the recombinant arrestin isoform assayed.",
+    "Percent tolerance settings varied according to the enzyme used (range : 1.0-3.0 %), and were determined by minimizing the percent tolerance that resulted in 100 % similarity between the standard isolate lanes."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "landscape gardening",
+    "landslide",
+    "landslide (victory)",
+    "landslide defeat",
+    "lane",
+    "language",
+    "language laboratory",
+    "languid",
+    "languidly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675949_5b3d1ce02c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675949_967b9fde57_o.png",
+      "id_image": "lane_1810850"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675909_7829836a55_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675909_ca9c117111_o.png",
+      "id_image": "lane_3393640"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320831_fbc0802f14_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320831_33488f9796_o.png",
+      "id_image": "lane_5664489"
+    }
+  ]
+}

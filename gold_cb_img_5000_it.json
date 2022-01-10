@@ -1,0 +1,101 @@
+{
+  "english": "gold",
+  "phat_am": "ɡould",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vàng",
+          "definition": "(symbol Au) an element, a precious yellow metal used for making jewellery/jewelry etc",
+          "world_new": [
+            "element",
+            "precious",
+            "yellow",
+            "metal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This watch is made of gold",
+              "world_new": [
+                "watch"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a gold watch.",
+              "world_new": [
+                "watch"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tiền vàng",
+          "definition": "coins, jewellery/jewelry etc made of gold."
+        },
+        {
+          "mean_english": "màu vàng",
+          "definition": "the colour/color of the metal",
+          "world_new": [
+            "metal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the shades of brown and gold of autumn leaves",
+              "world_new": [
+                "shades",
+                "brown",
+                "autumn"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a gold carpet.",
+              "world_new": [
+                "carpet"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Within this \"beleaguered city\" (147; bk. 1, ch. 12), is there any gold to be found?",
+    "White gold's properties vary depending on the metals and proportions used.",
+    "If the proliferation of paper currency can destabilize the value of gold, its strict regulation seems desirable.",
+    "One can believe the coins to be gold and thus have the concept of gold without knowing the real nature of gold.",
+    "Another concern with the design of this study is reference test bias, inherent with the use of an \"imperfect\" gold standard.",
+    "The latter is ideally the true outcome or a gold standard test.",
+    "Manumission of women declined as they lost opportunities to earn the gold they needed to buy their freedom.",
+    "Long-term survival estimates only exist for gold inlays (7;28)."
+  ],
+  "list_see_also": [
+    "golden",
+    "goldfish",
+    "gold-leaf",
+    "gold medal",
+    "goldmine",
+    "gold rush",
+    "goldsmith",
+    "as good as gold",
+    "golden opportunity"
+  ],
+  "list_browse": [
+    "going",
+    "going-over",
+    "goings-on",
+    "goitre",
+    "gold",
+    "gold medal",
+    "gold rush",
+    "gold-leaf",
+    "golden"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684334_65ab211943_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684334_f25a07db06_o.png",
+      "id_image": "gold_855382"
+    }
+  ]
+}

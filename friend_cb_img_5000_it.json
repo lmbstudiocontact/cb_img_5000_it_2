@@ -1,0 +1,87 @@
+{
+  "english": "friend",
+  "phat_am": "frend",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bạn; người bạn",
+          "definition": "someone who knows and likes another person very well",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is my best friend.",
+              "world_new": [
+                "my",
+                "best"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người ủng hộ; người giúp đỡ",
+          "definition": "a person who acts in a friendly and generous way to people etc he or she does not know",
+          "world_new": [
+            "person",
+            "friendly",
+            "generous",
+            "people",
+            "know"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She is a friend to animals."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "These gifts not only endeared him to many friends and colleagues but made him a valued member of boards and committees.",
+    "Another possible solution for minimising a person's dependence on family and friends outside the household is to recruit a relative to join the household.",
+    "While some enemies became friends, as realists anticipate, why have not some friends become enemies?",
+    "When the younger child wants to join in, the friend tells the older child to exclude the younger sibling from play.",
+    "These items are often referred to with the terms \"false friends\" or \"quasi-homophones across languages\".",
+    "Ties with close friends and/or relatives assumed greater importance for those aged 60 and older.",
+    "The opportunity structures for making friends were linked to all stages of life.",
+    "Thirty-seven people said they enjoyed seeing friends for company and the opportunity to do things with others (particularly if they were widowed)."
+  ],
+  "list_see_also": [
+    "friendless",
+    "friendly",
+    "friendship",
+    "make friends (with)"
+  ],
+  "list_browse": [
+    "friction",
+    "Friday",
+    "fridge",
+    "fried",
+    "friend",
+    "friendless",
+    "friendly",
+    "friendship",
+    "fries"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699449_4b6607aa21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699449_89a51307c7_o.png",
+      "id_image": "friend_1141092"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344291_4feea2454c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344291_b05f0128cc_o.png",
+      "id_image": "friend_1141127"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699384_80cbde3ee6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699384_72e56475be_o.png",
+      "id_image": "friend_2495155"
+    }
+  ]
+}

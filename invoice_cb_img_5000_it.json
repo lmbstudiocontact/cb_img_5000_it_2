@@ -1,0 +1,98 @@
+{
+  "english": "invoice",
+  "phat_am": "ˈinvois",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hóa đơn",
+          "definition": "a list sent with goods giving details of price and quantity",
+          "world_new": [
+            "list",
+            "goods",
+            "price",
+            "quantity"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Don’t forget to send an invoice for the goods.",
+              "world_new": [
+                "forget",
+                "send",
+                "goods"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "lập hóa đơn",
+          "world_new": [],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They invoiced us for the cost of the shipment.",
+              "world_new": [
+                "cost",
+                "shipment"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Many of the invoices are, of course, tax-inclusive from unregistered wholesalers, and so the purchase tax is not known.",
+    "Information on the number of individual purchase orders and firms to which these invoices related is not available except at disproportionate cost.",
+    "No central record is kept of late payment of individual invoices.",
+    "The proposed changes would allow payment on invoices under $25,000 prior to verification of receipt and acceptance of the items purchased.",
+    "Firstly, all equipment should be bought and owned by specific members of the band, and all purchase invoices should be kept.",
+    "The errors occurred because poor controls existed in the review and processing of invoices for payment.",
+    "As long as oil does not get on the brains of the computer, it is possible to put one in a workshop to deliver invoices.",
+    "Four surveys have been carried out, covering all invoices paid during specific periods."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "invitation",
+    "invite",
+    "inviting",
+    "invocation",
+    "invoice",
+    "invoke",
+    "involuntarily",
+    "involuntary",
+    "involve"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452938_a0cd0d6afb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452938_75407759b3_o.png",
+      "id_image": "invoice_144925"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452888_4a5399490c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452888_9e7c6c4a16_o.png",
+      "id_image": "invoice_290954"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452853_52c4c80183_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452853_ff2c97e9de_o.png",
+      "id_image": "invoice_392769"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337921_3d28c2f623_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337921_6abcbaa3c6_o.png",
+      "id_image": "invoice_407776"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337871_51a7739bb8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337871_295c99c31d_o.png",
+      "id_image": "invoice_411745"
+    }
+  ]
+}

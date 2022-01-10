@@ -1,0 +1,108 @@
+{
+  "english": "industry",
+  "phat_am": "ˈindəstri",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ngành công nghiệp",
+          "definition": "(any part of) the business of producing or making goods",
+          "world_new": [
+            "part",
+            "business",
+            "goods"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the ship-building industry"
+            },
+            {
+              "ex_of_definition": "The government should invest more money in industry.",
+              "world_new": [
+                "government",
+                "invest",
+                "money"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tính siêng năng",
+          "definition": "hard work or effort",
+          "world_new": [
+            "work",
+            "effort"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He owed his success to both ability and industry.",
+              "world_new": [
+                "success",
+                "ability"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In terms of recreation, culture, education, and even rural industries, the period was characterised as much by development and change as by stagnation and decline.",
+    "Therefore, the experts who planned production were drawn from industry itself.",
+    "The policy network representing the interests of the mainland heavy industry (most importantly the metallurgical industry) comes very close to the ideal type policy community.",
+    "This is in contrast to the current industry vertical integration that is outside of farmers' control.",
+    "Rather, a labour shortage was holding back further expansion of the rubber, palm oil and timber export industries.",
+    "Apparently, these types of pension funds are able to manage their investment more efficiently than the other categories : industry funds have lower costs.",
+    "The latter will, however, probably gather more substance from following industry reports than this book.",
+    "Floor shows that some traditional handicrafts suffered from foreign competition during this period, but other handicrafts flourished-such as the handwoven carpet industry."
+  ],
+  "list_see_also": [
+    "industrial",
+    "industrialist",
+    "industrialized",
+    "industrialization",
+    "industrious",
+    "industrial action",
+    "industrial estate",
+    "industrial relations"
+  ],
+  "list_browse": [
+    "industrialist",
+    "industrialization",
+    "industrialized",
+    "industrious",
+    "industry",
+    "inedible",
+    "ineffective",
+    "ineffectiveness",
+    "ineffectual"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361752_0314a3839a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361752_5cf7b3e1a5_o.png",
+      "id_image": "industry_1437238"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053805_9082685e00_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053805_d06fc8b5d2_o.png",
+      "id_image": "industry_1437239"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432473_536f87c659_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432473_b6731a850f_o.png",
+      "id_image": "industry_2143482"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672059_357e84a7ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672059_192ee1b063_o.png",
+      "id_image": "industry_2994350"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317306_c81c4e12ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317306_2d3a2a6f9d_o.png",
+      "id_image": "industry_5434557"
+    }
+  ]
+}

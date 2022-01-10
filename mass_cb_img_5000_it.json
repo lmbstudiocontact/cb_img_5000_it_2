@@ -1,0 +1,204 @@
+{
+  "english": "mass",
+  "phat_am": "mӕs",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "khối; đống",
+          "definition": "a large lump or quantity, gathered together",
+          "world_new": [
+            "large",
+            "lump",
+            "quantity"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A mass of people were waiting outside the concert hall",
+              "world_new": [
+                "people",
+                "outside",
+                "concert",
+                "hall"
+              ]
+            },
+            {
+              "ex_of_definition": "The new car park has been described as an ugly mass of concrete.",
+              "world_new": [
+                "car",
+                "park",
+                "ugly",
+                "concrete"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhiều; đông",
+          "definition": "a large quantity",
+          "world_new": [
+            "large",
+            "quantity"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve masses of work / things to do.",
+              "world_new": [
+                "work"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đa số; phần lớn",
+          "definition": "the bulk, principal part or main body",
+          "world_new": [
+            "bulk",
+            "principal",
+            "part",
+            "main",
+            "body"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The mass of people are in favour of peace.",
+              "world_new": [
+                "people",
+                "favour",
+                "peace"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khối lượng",
+          "definition": "(a) measure of the quantity of matter in an object",
+          "world_new": [
+            "measure",
+            "quantity",
+            "matter",
+            "object"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The mass of the rock is 500 kilos.",
+              "world_new": [
+                "rock"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tập trung",
+          "definition": "to bring or come together in large numbers or quantities",
+          "world_new": [
+            "bring",
+            "large"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The troops massed for an attack.",
+              "world_new": [
+                "troops",
+                "attack"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "đông; hàng loạt",
+          "definition": "of large quantities or numbers",
+          "world_new": [
+            "large"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "mass murder",
+              "world_new": [
+                "murder"
+              ]
+            },
+            {
+              "ex_of_definition": "a mass meeting.",
+              "world_new": [
+                "meeting"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lễ Mét",
+          "definition": "(a) celebration, especially in the Roman Catholic church, of Christ’s last meal (Last Supper) with his disciples",
+          "world_new": [
+            "celebration",
+            "Roman",
+            "church",
+            "meal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The monks were attending midnight Mass.",
+              "world_new": [
+                "midnight"
+              ]
+            },
+            {
+              "ex_of_definition": "What time do you go to Mass?",
+              "world_new": [
+                "time"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bật nhạc",
+          "definition": "a setting to music of some of the words used in this service.",
+          "world_new": [
+            "music",
+            "service"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "mass-produced",
+    "mass-produce",
+    "mass-production",
+    "the mass media"
+  ],
+  "list_browse": [
+    "mask",
+    "mason",
+    "masonry",
+    "masquerade",
+    "mass",
+    "mass-produce",
+    "mass-produced",
+    "mass-production",
+    "massacre"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321211_dcb674f121_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321211_7f108f8204_o.png",
+      "id_image": "mass_1534157"
+    }
+  ]
+}

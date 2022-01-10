@@ -1,0 +1,62 @@
+{
+  "english": "increment",
+  "phat_am": "ˈiŋkrəmənt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự tăng lương",
+          "definition": "an increase especially in salary",
+          "world_new": [
+            "increase",
+            "salary"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Mortgage rates tend to go up or down in small increments.",
+              "world_new": [
+                "tend",
+                "small"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The second modification was concerned with the (now) inner iteration; the solution for the new pressure increments.",
+    "The soft-contact safety zone is sized with the maximum joint motions per increment to avoid actual collision.",
+    "The latter is an extra return on the equity security (in terms of a utility increment), which the household believes to materialize over the period.",
+    "They represent deposition from suspension and from weak traction currents and sedimentation taking place in separate increments, representing individual flood events.",
+    "The generation of a new prompt value uses the global counter and increments it as a side effect.",
+    "In this framework, the heap consists of a number of independently collectible regions (called increments), which are arranged in one or more groups (called belts).",
+    "This result is due to the increment of the electron-ion interactions when the magnetic field generates the electron trap in front of the target surface.",
+    "The rate of phonological development within short time increments and the identification of possible speech constraints motivating slow development of expressive language were examined."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "incredible",
+    "incredibly",
+    "incredulity",
+    "incredulous",
+    "increment",
+    "incriminate",
+    "incriminating",
+    "incrimination",
+    "incubate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363117_d1fdec776b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363117_91a5d0cf72_o.png",
+      "id_image": "increment_1933944"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318531_9687692ce8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318531_87f2b0f1d5_o.png",
+      "id_image": "increment_5672051"
+    }
+  ]
+}

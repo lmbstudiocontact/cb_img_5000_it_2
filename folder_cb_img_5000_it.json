@@ -1,0 +1,67 @@
+{
+  "english": "folder",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bìa kẹp hồ sơ",
+          "definition": "a cover for keeping loose papers together",
+          "world_new": [
+            "cover",
+            "keeping",
+            "loose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He kept the notes for his speech in a folder.",
+              "world_new": [
+                "speech"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Storage devices use directories (or folders) as namespaces.",
+    "They will keep opening files within the folders until the designated file is located.",
+    "As with rolled materials, the potentially damaging chemical interactions of print processes should be considered when grouping drawings in folders.",
+    "In addition, specimen banknotes are sold in some countries to collectors (often in special commemorative folders or albums).",
+    "Most paper folders pull paper into the machine by use of a friction wheel; this grabs paper using friction.",
+    "Correctly named folders make it easier to maintain clean archives and unique filenames allow dupecheck to work properly.",
+    "A more common technique is to have index cards with forty-three dividers or a system with forty-three folders or two accordion files.",
+    "To use this capability one has to define the mask that would be matched against the list of folders with each synchronization."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "foggy",
+    "foil",
+    "fold",
+    "folded",
+    "folder",
+    "folding",
+    "foliage",
+    "folio",
+    "folk"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054450_29db364b3c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054450_58a19e1835_o.png",
+      "id_image": "folder_168666"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362277_0ccc881bf5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362277_8bceea0d73_o.png",
+      "id_image": "folder_169102"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672609_6e01874625_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672609_f44036b534_o.png",
+      "id_image": "folder_207308"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "english": "impatient",
+  "phat_am": "imˈpeiʃənt",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thiếu kiên nhẫn",
+          "definition": "not willing to wait or delay; not patient",
+          "world_new": [
+            "willing",
+            "wait",
+            "patient"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Don’t be so impatient – it will soon be your turn.",
+              "world_new": [
+                "soon",
+                "your",
+                "turn"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In the face of impatient patrons clamoring for his works, he sometimes crafted paintings whose subject matters were metaphors of the careful, painstaking process of painting itself.",
+    "We are impatient for change, and want to see evidence of faster, fairer, more convenient services, including modern diagnostic and treatment services.",
+    "Indeed, he was notable in being impatient with any apparently agreed conclusions in modern history.",
+    "However, because of the enormity of the refugee problem, it tends to give priority to averting humanitarian crises, and gets impatient with the red tape that permeates state bureaucracies.",
+    "He studied a partial equilibrium model of impatient agents trading a single asset with a constant, exogenous interest rate, and facing a nonnegativity constraint on wealth.",
+    "In addition, they were also impatient with the cultural and linguistic studies required for a serious analysis, while anthropologists were seldom interested in politics.",
+    "The nation was not impatient under all this.",
+    "To overcome this uncertainty, individuals require a way of ensuring that they can avoid being cheated by impatient outsiders."
+  ],
+  "list_see_also": [
+    "impatience",
+    "impatiently"
+  ],
+  "list_browse": [
+    "impassable",
+    "impassive",
+    "impassively",
+    "impatience",
+    "impatient",
+    "impatiently",
+    "impeach",
+    "impeachment",
+    "impeccable"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058210_d4b15782fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058210_416b9f4998_o.png",
+      "id_image": "impatient_3220581"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321461_8e89b3407e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321461_d48a74e930_o.png",
+      "id_image": "impatient_6365909"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676634_92247d684a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676634_3afa0f5b00_o.png",
+      "id_image": "impatient_708652"
+    }
+  ]
+}

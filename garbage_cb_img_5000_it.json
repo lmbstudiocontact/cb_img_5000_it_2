@@ -1,0 +1,69 @@
+{
+  "english": "garbage",
+  "phat_am": "ˈɡaːbidʒ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "rác",
+          "definition": "rubbish",
+          "world_new": [
+            "rubbish"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Have you taken the garbage out yet?",
+              "world_new": [
+                "yet"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) There is a garbage chute at the end of the corridor.",
+              "world_new": [
+                "chute",
+                "corridor"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "garbage can"
+  ],
+  "list_browse": [
+    "gap year",
+    "gape",
+    "gaping",
+    "garage",
+    "garbage",
+    "garbage can",
+    "garbled",
+    "garden",
+    "garden centre"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694364_841e36c784_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694364_d38be76f3c_o.png",
+      "id_image": "garbage_1066081"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694329_fc967696d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694329_af67c86f43_o.png",
+      "id_image": "garbage_3035034"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694284_2f1fe634f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694284_845eba32fe_o.png",
+      "id_image": "garbage_3762017"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076255_efeec2847a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076255_2089ff4cac_o.png",
+      "id_image": "garbage_5207497"
+    }
+  ]
+}

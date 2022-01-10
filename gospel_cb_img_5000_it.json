@@ -1,0 +1,54 @@
+{
+  "english": "gospel",
+  "phat_am": "ˈɡospəl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sách Phúc âm",
+          "definition": "(one of the four descriptions in the Bible of) the life and teaching of Christ",
+          "world_new": [
+            "Bible",
+            "life",
+            "teaching",
+            "Christ"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the Gospel according to St Luke",
+              "world_new": [
+                "St"
+              ]
+            },
+            {
+              "ex_of_definition": "The parable of the sower is in one of the gospels.",
+              "world_new": [
+                "parable"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "gorilla",
+    "gory",
+    "gosh",
+    "gosling",
+    "gospel",
+    "gossamer",
+    "gossip",
+    "gossip column",
+    "gossipy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443248_09f356e31c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443248_dea19fc04f_o.png",
+      "id_image": "gospel_122846"
+    }
+  ]
+}

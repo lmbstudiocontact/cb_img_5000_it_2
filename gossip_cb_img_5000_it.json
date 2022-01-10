@@ -1,0 +1,116 @@
+{
+  "english": "gossip",
+  "phat_am": "ˈɡosip",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chuyện tầm phào",
+          "definition": "talk about other people’s affairs, not always truthful",
+          "world_new": [
+            "talk",
+            "truthful"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I never pay any attention to gossip.",
+              "world_new": [
+                "I",
+                "pay",
+                "attention"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tán gẫu",
+          "definition": "a chat",
+          "world_new": [
+            "chat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She dropped in for a cup of coffee and a gossip.",
+              "world_new": [
+                "cup",
+                "coffee"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người thích chuyện tầm phào",
+          "definition": "a person who listens to and passes on gossip",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s a dreadful gossip.",
+              "world_new": [
+                "dreadful"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nói chuyện tầm phào",
+          "definition": "to pass on gossip.",
+          "world_new": [
+            "pass"
+          ]
+        },
+        {
+          "mean_english": "tán gẫu; nói chuyện phiếm",
+          "definition": "to chat.",
+          "world_new": [
+            "chat"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "gossipy",
+    "gossip column"
+  ],
+  "list_browse": [
+    "gosh",
+    "gosling",
+    "gospel",
+    "gossamer",
+    "gossip",
+    "gossip column",
+    "gossipy",
+    "gotta",
+    "gouge"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064905_5a06ab3d28_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064905_e739ff9f53_o.png",
+      "id_image": "gossip_1935529"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443173_c57387aa98_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443173_7edacb5da5_o.png",
+      "id_image": "gossip_2117442"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064800_0f846f6e22_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064800_2f1151ffeb_o.png",
+      "id_image": "gossip_4278020"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443068_9ca6be64ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443068_496bb98395_o.png",
+      "id_image": "gossip_4441440"
+    }
+  ]
+}

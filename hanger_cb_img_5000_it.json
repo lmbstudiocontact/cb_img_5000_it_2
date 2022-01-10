@@ -1,0 +1,71 @@
+{
+  "english": "hanger",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mắc áo",
+          "definition": "(usually coat hanger) a shaped metal, wooden or plastic frame with a hook on which jackets, dresses etc are hung up",
+          "world_new": [
+            "shaped",
+            "metal",
+            "wooden",
+            "plastic",
+            "frame",
+            "hook"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a wire coat hanger.",
+              "world_new": [
+                "wire",
+                "coat"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The work consists of coat hanger recycling, paper hat manufacture for the catering industry, welding, painting model soldiers and folding and enveloping charity bags.",
+    "It is unfortunate that it has become something of a phrase that is, in a way, the monopoly of the hanger and the flogger.",
+    "They are going to want 20 years; and the hangers, if there are any, are going to want one year.",
+    "The replacement of the hangers and the strengthening of the splay saddles is estimated to cost approximately £185,000 in the current financial year.",
+    "There are those who write off many of our mayors as simply coat hangers for the regalia of office.",
+    "Their brief has since been extended to assess the main cables, hangers, anchorages and saddles.",
+    "The major part of the bridge weight and traffic loading is carried by the main cables and the hangers.",
+    "That applies to the hangers and to the suspension cable."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "hang together",
+    "hang up",
+    "hang-glider",
+    "hangar",
+    "hanger",
+    "hanging",
+    "hangings",
+    "hangman",
+    "hangover"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390007_c8c51f44d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390007_eb31441068_o.png",
+      "id_image": "hanger_373018"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459833_78785287ce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459833_def6a1ca0e_o.png",
+      "id_image": "hanger_376524"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389967_c145501913_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389967_7fbd4596c9_o.png",
+      "id_image": "hanger_547913"
+    }
+  ]
+}

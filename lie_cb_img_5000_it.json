@@ -1,0 +1,173 @@
+{
+  "english": "lie",
+  "phat_am": "lai",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lời nói dối",
+          "definition": "a false statement made with the intention of deceiving",
+          "world_new": [
+            "false",
+            "statement",
+            "intention"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It would be a lie to say I knew, because I didn’t.",
+              "world_new": [
+                "I",
+                "I"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nói dối",
+          "definition": "to say etc something which is not true, with the intention of deceiving",
+          "world_new": [
+            "true",
+            "intention"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There’s no point in asking her – she’ll just lie about it.",
+              "world_new": [
+                "point"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nằm",
+          "definition": "to be in or take a more or less flat position",
+          "world_new": [
+            "flat",
+            "position"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She went into the bedroom and lay on the bed",
+              "world_new": [
+                "bedroom",
+                "lay",
+                "bed"
+              ]
+            },
+            {
+              "ex_of_definition": "The book was lying in the hall.",
+              "world_new": [
+                "book",
+                "hall"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đặt; trong",
+          "definition": "to be situated; to be in a particular place etc",
+          "world_new": [
+            "particular",
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The farm lay three miles from the sea",
+              "world_new": [
+                "farm",
+                "lay",
+                "sea"
+              ]
+            },
+            {
+              "ex_of_definition": "His interest lies in farming.",
+              "world_new": [
+                "interest",
+                "farming"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vẫn còn ở một tình trạng nào đó",
+          "definition": "to remain in a certain state",
+          "world_new": [
+            "remain",
+            "certain",
+            "state"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The shop is lying empty now.",
+              "world_new": [
+                "shop",
+                "empty"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thuộc",
+          "definition": "(with in) (of feelings, impressions etc) to be caused by or contained in",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His charm lies in his honesty.",
+              "world_new": [
+                "charm",
+                "honesty"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "To be more precise, the answer lies in the theory of freedom that underlies this emphasis on freedom of choice.",
+    "The answer appears to lie, at least in part, in the popular perception of rampant official corruption in that country.",
+    "A key to understanding the debacle of anti-nuclear reform lies in the past history of the movement itself.",
+    "He further repeats the tired official lie that war veterans engineered the subsequent farm invasions.",
+    "The primary advantage of the pyramidic approach lies in its responsiveness.",
+    "One reason for that unpredictability lies in the fact that an individual's needs and wants themselves often cannot be articulated.",
+    "The difference between studies lies in the interpretation.",
+    "Opening up the adaptive toolbox and figuring out what lies inside is a challenge that must be addressed from many directions."
+  ],
+  "list_see_also": [
+    "liar",
+    "lie detector"
+  ],
+  "list_browse": [
+    "lick",
+    "lick into shape",
+    "licking",
+    "lid",
+    "lie",
+    "lie back",
+    "lie detector",
+    "lie down",
+    "lie in"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343291_3049ec54ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343291_ff2b01942c_o.png",
+      "id_image": "lie_3798350"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343266_8f0ef6bc14_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343266_78ddfe6320_o.png",
+      "id_image": "lie_5526267"
+    }
+  ]
+}

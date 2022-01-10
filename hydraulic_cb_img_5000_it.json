@@ -1,0 +1,72 @@
+{
+  "english": "hydraulic",
+  "phat_am": "haiˈdroːlik",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuỷ lực",
+          "definition": "worked by the pressure of water or some other liquid",
+          "world_new": [
+            "pressure",
+            "water",
+            "liquid"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "hydraulic brakes."
+            }
+          ]
+        },
+        {
+          "mean_english": "thuộc thuỷ lực",
+          "definition": "relating to hydraulics",
+          "world_new": [
+            "hydraulics"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a hydraulic engineer.",
+              "world_new": [
+                "engineer"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The latter may seem somewhat specialized, but is important because hydraulic actuators are critical components of robotic devices that enter hazardous environments.",
+    "Each hole connected by nylon hydraulic tubing to a ' fluid commutator ', a manifold containing a rotatable, ported centre-body.",
+    "Further improvement was sometimes achieved by trial-and-error adjustment of the valves controlling the oil pressures in the hydraulic system.",
+    "Nevertheless, the development and enlargement of an integrated hydraulic network in the thirteenth century inclined proprietors to take precautions against usurpers.",
+    "Melted paraffin wax was poured over the agar to provide an effective hydraulic seal.",
+    "Also, the actuator is equipped with two pressure sensors in the hydraulic circuit; they monitor the output torque.",
+    "But conventional hydraulic jumps form only upstream of some obstruction in the channel, while in the present case there is no obstruction.",
+    "The present day humanoid robots are stiff-legged, have complex structures, and do not use energy restoring element like pneumatic hydraulic cylinders or mechanical springs."
+  ],
+  "list_see_also": [
+    "hydraulically",
+    "hydraulics"
+  ],
+  "list_browse": [
+    "hybrid",
+    "hydrant",
+    "hydrate",
+    "hydration",
+    "hydraulic",
+    "hydraulically",
+    "hydraulics",
+    "hydroelectric",
+    "hydroelectricity"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325896_6fedd9a89d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325896_021b255f2f_o.png",
+      "id_image": "hydraulic_2387907"
+    }
+  ]
+}

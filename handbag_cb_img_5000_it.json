@@ -1,0 +1,63 @@
+{
+  "english": "handbag",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "túi xách",
+          "definition": "a small bag carried by women, for personal belongings",
+          "world_new": [
+            "small",
+            "bag",
+            "personal",
+            "belongings"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a designer handbag.",
+              "world_new": [
+                "designer"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "On one of the handbags being opened in order to see to whom it belonged, a contraceptive was found in it.",
+    "If these searches are to proceed into private homes, into diaries and handbags and other items of a personal nature, there is real cause for concern.",
+    "They expect the volume of handbags to eventually represent 20% of their annual sales.",
+    "On the whole, it has been felt that handbags are more likely to be left unattended than trousers.",
+    "However, one can envisage circumstances in which he may be metaphorically sand-bagged or, perish the thought, \"handbagged\" into something which may be less advantageous.",
+    "Among its product line items there are watches, handbags, jewelry and other durable personal goods.",
+    "Confidence, once it has been handbagged, is hard to win back.",
+    "I do not know about gentlemen's pockets, but ladies' handbags are extraordinarily weighty nowadays."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "hand over fist",
+    "hand to hand",
+    "hand-operated",
+    "hand-picked",
+    "handbag",
+    "handbill",
+    "handbook",
+    "handbrake",
+    "handcuff"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315771_f7e8938640_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315771_72de9485b8_o.png",
+      "id_image": "handbag_492030"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430628_435d75fa9a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430628_e0241d1f10_o.png",
+      "id_image": "handbag_592160"
+    }
+  ]
+}

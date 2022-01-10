@@ -1,0 +1,73 @@
+{
+  "english": "magnify",
+  "phat_am": "ˈmӕɡnifai",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "phóng to; thổi phồng",
+          "definition": "to cause to appear greater",
+          "world_new": [
+            "cause",
+            "appear"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A telescope is a device used to magnify distant objects",
+              "world_new": [
+                "telescope",
+                "device",
+                "distant"
+              ]
+            },
+            {
+              "ex_of_definition": "The media attention magnified the actor’s troubles.",
+              "world_new": [
+                "media",
+                "attention"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Effective diameter grades for the test object (horizontally magnified by 50).",
+    "Uncertainty about the elasticities is magnified by assuming that observed realisations of output and inflation are subject to measurement error.",
+    "The economic decline in this period is magnified if the increase in population is taken into account.",
+    "The beam diameter is magnified before the compressor to 140 mm to match the grating damage threshold.",
+    "By magnifying still further, each element of the gesture is revealed, thereby making the original appear one-dimensional again, and so on.",
+    "Their signficant freedom is reduced or eliminated, while their joy is magnified.",
+    "Sweeping generalizations then emerge from these distortions so that they look like an image reflected from a magnifying mirror.",
+    "The difficulty is magnified when uncertainty in economic or political systems raises questions about the continued availability of resources into the future."
+  ],
+  "list_see_also": [
+    "magnification",
+    "magnifying glass"
+  ],
+  "list_browse": [
+    "magnification",
+    "magnificence",
+    "magnificent",
+    "magnificently",
+    "magnify",
+    "magnifying glass",
+    "magnitude",
+    "magnolia",
+    "magpie"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444298_3ed9d252f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444298_28181b8933_o.png",
+      "id_image": "magnify_2455867"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444238_6bab83ccfb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444238_603ec193b0_o.png",
+      "id_image": "magnify_5236225"
+    }
+  ]
+}

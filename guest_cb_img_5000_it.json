@@ -1,0 +1,75 @@
+{
+  "english": "guest",
+  "phat_am": "ɡest",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "khách",
+          "definition": "a visitor received in a house, in a hotel etc",
+          "world_new": [
+            "visitor",
+            "house",
+            "hotel"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We are having guests for dinner",
+              "world_new": [
+                "dinner"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a guest bedroom.",
+              "world_new": [
+                "bedroom"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We have to generate a seating arrangement for k guests, with m tables and n chairs per table.",
+    "They held the tray and played pranks until the guests made a contribution.",
+    "Articles were written both by full-time staff and by invited guests.",
+    "The division between the public and private areas of a hotel preserves the expectations of management and guests about the form of hospitality being provided.",
+    "Of those who do not receive guests for meals, some feel that their age and physical limitations preclude such activity.",
+    "Local notables and guests of honour were fetched in procession, to witness the worship of the deities.",
+    "The - cook seemed unfamiliar with the ritual, offering more of the cardamom-spiced drink even after the guests had politely shaken the cup.",
+    "He needed also to maintain socially and emotionally comfortable circumstances for his guests by preserving harmony among a notoriously quarrelsome group of people."
+  ],
+  "list_see_also": [
+    "guesthouse"
+  ],
+  "list_browse": [
+    "guava",
+    "guerrilla",
+    "guess",
+    "guesswork",
+    "guest",
+    "guesthouse",
+    "guffaw",
+    "guidance",
+    "guide"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318581_1d38573fa8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318581_546f26e494_o.png",
+      "id_image": "guest_4668378"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055140_82d070cc7a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055140_8627bcf1fa_o.png",
+      "id_image": "guest_6413790"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318536_54b29c96bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318536_0c67e63b42_o.png",
+      "id_image": "guest_6413806"
+    }
+  ]
+}

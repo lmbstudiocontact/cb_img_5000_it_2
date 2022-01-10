@@ -1,0 +1,58 @@
+{
+  "english": "incense",
+  "phat_am": "ˈinsens",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "que hương",
+          "definition": "a substance which is burned especially in religious services, and which gives off a pleasant smell",
+          "world_new": [
+            "substance",
+            "religious",
+            "pleasant",
+            "smell"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a stick of incense.",
+              "world_new": [
+                "stick"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "incarnation",
+    "incautious",
+    "incautiousness",
+    "incendiary",
+    "incense",
+    "incensed",
+    "incentive",
+    "incessant",
+    "incessantly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674824_39dd287dde_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674824_723aa35625_o.png",
+      "id_image": "incense_1143348"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434953_afdd41800a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434953_004b086b43_o.png",
+      "id_image": "incense_3378463"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434943_5dc45efac4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434943_6bdde4a9fc_o.png",
+      "id_image": "incense_3498298"
+    }
+  ]
+}

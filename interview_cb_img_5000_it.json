@@ -1,0 +1,121 @@
+{
+  "english": "interview",
+  "phat_am": "ˈintəvjuː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cuộc phỏng vấn",
+          "definition": "a formal meeting and discussion with someone, eg a person applying for a job, or a person with information to broadcast on radio or television",
+          "world_new": [
+            "formal",
+            "meeting",
+            "discussion",
+            "person",
+            "job",
+            "person",
+            "information",
+            "broadcast",
+            "radio",
+            "television"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I always get nervous before job interviews",
+              "world_new": [
+                "I",
+                "nervous",
+                "job"
+              ]
+            },
+            {
+              "ex_of_definition": "The author gave a fascinating radio interview last month.",
+              "world_new": [
+                "author",
+                "fascinating",
+                "radio",
+                "month"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "phỏng vấn",
+          "definition": "to question (a person) in an interview",
+          "world_new": [
+            "question"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They interviewed seven people for the job",
+              "world_new": [
+                "people",
+                "job"
+              ]
+            },
+            {
+              "ex_of_definition": "He was interviewed by reporters about his policies."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Candidates are showing up in a random order for the interview.",
+    "Both authors advocate an eclectic mix of quantitative survey and qualitative interviews for the study of current rural labour transformations.",
+    "At one point they interview a soldier recovering from amnesia.",
+    "Although recruits were informed of the purpose of the interview, they were not provided with a copy of the interview schedule in advance.",
+    "The interviewees were not known beforehand by the interviewers, and the interviews took place at the interviewees' institutions.",
+    "Each interview took about 5 min to complete.",
+    "How can you interview the patient in teaching rounds with compassion and so as to avoid disrespect?",
+    "Fifty-two participants (53 %) returned the questionnaire on interview preference."
+  ],
+  "list_see_also": [
+    "interviewer"
+  ],
+  "list_browse": [
+    "interstate",
+    "interval",
+    "intervene",
+    "intervention",
+    "interview",
+    "interviewer",
+    "intestinal",
+    "intestine",
+    "intimacy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385802_dcc628e98c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385802_5d844ee56b_o.png",
+      "id_image": "interview_166908"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385682_c97001648e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385682_0b1517e8b4_o.png",
+      "id_image": "interview_2303813"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385772_71f8058959_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385772_c636e9137e_o.png",
+      "id_image": "interview_470208"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385732_52cc6efe3c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385732_a80deafb9f_o.png",
+      "id_image": "interview_476712"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078055_7f2cbbee3d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078055_5f724e66ec_o.png",
+      "id_image": "interview_6315737"
+    }
+  ]
+}

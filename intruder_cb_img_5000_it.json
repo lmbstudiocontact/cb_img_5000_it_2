@@ -1,0 +1,54 @@
+{
+  "english": "intruder",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người xâm nhập",
+          "definition": "a person who intrudes, eg a burglar",
+          "world_new": [
+            "person",
+            "burglar"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Fit a good lock to your door to keep out intruders.",
+              "world_new": [
+                "lock",
+                "your",
+                "door",
+                "keep"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "introductory",
+    "introspective",
+    "introvert",
+    "intrude",
+    "intruder",
+    "intrusion",
+    "intuition",
+    "intuitive",
+    "Inuit"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695274_bc41338a3f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695274_05d93bbc6f_o.png",
+      "id_image": "intruder_2170234"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077260_cfe92637e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077260_cb13ec6075_o.png",
+      "id_image": "intruder_2857720"
+    }
+  ]
+}

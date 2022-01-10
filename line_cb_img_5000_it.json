@@ -1,0 +1,415 @@
+{
+  "english": "line",
+  "phat_am": "lain",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "dây",
+          "definition": "(a piece of) thread, cord, rope etc",
+          "world_new": [
+            "piece",
+            "thread",
+            "cord",
+            "rope"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She hung the washing on the line",
+              "world_new": [
+                "washing"
+              ]
+            },
+            {
+              "ex_of_definition": "a fishing-rod and line."
+            }
+          ]
+        },
+        {
+          "mean_english": "đường kẻ",
+          "definition": "a long, narrow mark, streak or stripe",
+          "world_new": [
+            "long",
+            "narrow",
+            "mark",
+            "streak",
+            "stripe"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She drew a straight line across the page",
+              "world_new": [
+                "straight",
+                "across",
+                "page"
+              ]
+            },
+            {
+              "ex_of_definition": "a dotted/wavy line."
+            }
+          ]
+        },
+        {
+          "mean_english": "đường nét",
+          "definition": "outline or shape especially relating to length or direction",
+          "world_new": [
+            "outline",
+            "shape",
+            "length",
+            "direction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The ship had very graceful lines",
+              "world_new": [
+                "ship",
+                "graceful",
+                "lines"
+              ]
+            },
+            {
+              "ex_of_definition": "A dancer uses a mirror to improve his line.",
+              "world_new": [
+                "dancer",
+                "mirror",
+                "improve"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nếp nhăn",
+          "definition": "a groove on the skin; a wrinkle",
+          "world_new": [
+            "groove",
+            "wrinkle"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Deep lines were etched across his forehead.",
+              "world_new": [
+                "lines",
+                "across",
+                "forehead"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xếp hàng",
+          "definition": "a row or group of objects or persons arranged side by side or one behind the other",
+          "world_new": [
+            "row",
+            "group",
+            "side",
+            "side"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The children stood in a line"
+            },
+            {
+              "ex_of_definition": "a line of trees."
+            }
+          ]
+        },
+        {
+          "mean_english": "vài dòng",
+          "definition": "a short letter",
+          "world_new": [
+            "short",
+            "letter"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ll drop him a line.",
+              "world_new": [
+                "drop"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dòng họ",
+          "definition": "a series or group of persons which come one after the other especially in the same family",
+          "world_new": [
+            "series",
+            "group",
+            "family"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a line of kings."
+            }
+          ]
+        },
+        {
+          "mean_english": "hướng",
+          "definition": "a track or direction",
+          "world_new": [
+            "track",
+            "direction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He pointed out the line of the new road",
+              "world_new": [
+                "pointed",
+                "road"
+              ]
+            },
+            {
+              "ex_of_definition": "a new line of research.",
+              "world_new": [
+                "research"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đường tàu hỏa",
+          "definition": "the railway/railroad or a single track of the railway/railroad",
+          "world_new": [
+            "single",
+            "track"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Passengers must cross the line by the bridge only.",
+              "world_new": [
+                "cross",
+                "bridge"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đường dây",
+          "definition": "a continuous system (especially of pipes, electrical or telephone cables etc) connecting one place with another",
+          "world_new": [
+            "continuous",
+            "system",
+            "pipes",
+            "electrical",
+            "telephone",
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a pipeline",
+              "world_new": [
+                "pipeline"
+              ]
+            },
+            {
+              "ex_of_definition": "a line of communication",
+              "world_new": [
+                "communication"
+              ]
+            },
+            {
+              "ex_of_definition": "All (telephone) lines are engaged.",
+              "world_new": [
+                "lines",
+                "engaged"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dòng chữ",
+          "definition": "a row of written or printed words",
+          "world_new": [
+            "row"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The letter contained only three lines",
+              "world_new": [
+                "letter",
+                "lines"
+              ]
+            },
+            {
+              "ex_of_definition": "a poem of sixteen lines.",
+              "world_new": [
+                "poem",
+                "lines"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tuyến đường",
+          "definition": "a regular service of ships, aircraft etc",
+          "world_new": [
+            "regular",
+            "service",
+            "aircraft"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a shipping line.",
+              "world_new": [
+                "shipping"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chuyên ngành",
+          "definition": "a group or class (of goods for sale) or a field of activity, interest etc",
+          "world_new": [
+            "group",
+            "class",
+            "goods",
+            "field",
+            "activity",
+            "interest"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This has been a very popular new line",
+              "world_new": [
+                "popular"
+              ]
+            },
+            {
+              "ex_of_definition": "Computers are not really my line.",
+              "world_new": [
+                "my"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phòng tuyến",
+          "definition": "an arrangement of troops, especially when ready to fight",
+          "world_new": [
+            "arrangement",
+            "troops",
+            "ready",
+            "fight"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was sent to fight on the front line.",
+              "world_new": [
+                "fight",
+                "front"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "xếp thành hàng dọc",
+          "definition": "to form lines along",
+          "world_new": [
+            "form",
+            "lines"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Crowds lined the pavement to see the Queen.",
+              "world_new": [
+                "lined",
+                "pavement",
+                "see"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đánh dấu",
+          "definition": "to mark with lines.",
+          "world_new": [
+            "mark",
+            "lines"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "phủ bên trong",
+          "definition": "to cover on the inside",
+          "world_new": [
+            "cover"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She lined the box with newspaper.",
+              "world_new": [
+                "lined",
+                "box",
+                "newspaper"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lót",
+          "definition": "to put a lining in",
+          "world_new": [
+            "lining"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She lined the dress with silk.",
+              "world_new": [
+                "lined",
+                "dress",
+                "silk"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "lineage",
+    "linear",
+    "lined",
+    "liner",
+    "line graph",
+    "lines",
+    "linesman",
+    "hard lines!",
+    "in line for",
+    "in/out of line with",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "limitless",
+    "limousine",
+    "limp",
+    "limpet",
+    "line",
+    "line graph",
+    "line up",
+    "lineage",
+    "linear"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078770_92d7f6c929_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078770_709925f72b_o.png",
+      "id_image": "line_168653"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078725_31333847a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078725_6298e26af0_o.png",
+      "id_image": "line_207014"
+    }
+  ]
+}

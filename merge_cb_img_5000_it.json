@@ -1,0 +1,105 @@
+{
+  "english": "merge",
+  "phat_am": "məːdʒ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "hoà vào",
+          "definition": "to (cause to) combine or join",
+          "world_new": [
+            "combine",
+            "join"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The sea and sky appear to merge at the horizon.",
+              "world_new": [
+                "sea",
+                "sky",
+                "appear",
+                "horizon"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "biến đổi",
+          "definition": "(with into) to change gradually into something else",
+          "world_new": [
+            "change",
+            "gradually",
+            "else"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Summer slowly merged into autumn.",
+              "world_new": [
+                "slowly",
+                "autumn"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "biến vào",
+          "definition": "(with into etc) to disappear into (eg a crowd, back-ground etc)",
+          "world_new": [
+            "disappear",
+            "crowd"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He merged into the crowd.",
+              "world_new": [
+                "crowd"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Much electroacoustic music merges intervallic and relative pitch approaches.",
+    "Intuitively, we construct hypergraphs by drawing edges (with nodes) and then merging the nodes, rather than by drawing nodes and then connecting them by edges.",
+    "The two types of resulting merged syllables are traditionally transcribed identically with a 35 tone.",
+    "The dialogue data should not be merged for authors whose characters are intended to be from different locales or social groups.",
+    "The change will consist of merging the two evidences (the prior and the new) about the same real situation.",
+    "In another case, the additional information is quantitative; for example, the segment number 13 is merged into a measure landmark.",
+    "The constraints for [apply] and [eval-var] help to illustrate why and where merging happens.",
+    "Subsequently, the algorithm merges certain basic segments into a single segment."
+  ],
+  "list_see_also": [
+    "merger"
+  ],
+  "list_browse": [
+    "mercury",
+    "mercy",
+    "mere",
+    "merely",
+    "merge",
+    "merger",
+    "meridian",
+    "meringue",
+    "merit"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391297_a5474a49bb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391297_b072acb1ce_o.png",
+      "id_image": "merge_1809011"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701259_de2b3c7cf2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701259_3f5fbf7af1_o.png",
+      "id_image": "merge_4505128"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461183_46cbcc4055_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461183_ddcaf18469_o.png",
+      "id_image": "merge_589590"
+    }
+  ]
+}

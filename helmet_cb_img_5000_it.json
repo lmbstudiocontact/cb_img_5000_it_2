@@ -1,0 +1,83 @@
+{
+  "english": "helmet",
+  "phat_am": "ˈhelmit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mũ bảo hiểm",
+          "definition": "a metal, leather etc covering to protect the head",
+          "world_new": [
+            "metal",
+            "leather",
+            "covering",
+            "protect",
+            "head"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a safety helmet",
+              "world_new": [
+                "safety"
+              ]
+            },
+            {
+              "ex_of_definition": "Soldiers wear helmets when fighting",
+              "world_new": [
+                "wear",
+                "fighting"
+              ]
+            },
+            {
+              "ex_of_definition": "It is compulsory for motorcyclists to wear helmets.",
+              "world_new": [
+                "compulsory",
+                "wear"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "These examples suggest that the word for \"helmet\" was pronounced ko'haw or ko'waw.",
+    "His red mask had three eyes, a helmet with five skulls, and was terrifying in appearance.",
+    "Male, with helmet or hairdo having a cylindrical projection.",
+    "Promoting older children's use of cycle helmets, including providing helmets.",
+    "Male, with a helmet or hairdo having a crest and a cylindrical projection.",
+    "The third one is a mechanical passive breakaway device that acts as a mechanical link between the helmet and the master robot in normal operation.",
+    "For example, cyclists may not realize the risks involved in riding without a helmet.",
+    "Incidence and severity of head injury are lower in cyclists wearing helmets."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "helium",
+    "hell",
+    "hello",
+    "helm",
+    "helmet",
+    "helmsman",
+    "help",
+    "help oneself",
+    "help out"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454208_caf70a4e47_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454208_50508d04d3_o.png",
+      "id_image": "helmet_184062"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384212_dc2b138611_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384212_473fd71af7_o.png",
+      "id_image": "helmet_297817"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384177_5b6b65e682_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384177_863e4e69e0_o.png",
+      "id_image": "helmet_434024"
+    }
+  ]
+}

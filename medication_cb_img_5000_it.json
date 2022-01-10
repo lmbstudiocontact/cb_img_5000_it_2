@@ -1,0 +1,77 @@
+{
+  "english": "medication",
+  "phat_am": "ˌmediˈkeiʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cấp thuốc",
+          "definition": "medicine or drugs that are given to people who are ill/sick",
+          "world_new": [
+            "medicine",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has to take medication for a heart condition.",
+              "world_new": [
+                "heart",
+                "condition"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Given the universal effectiveness of antipsychotic medication, it may be reasonable to assume that mechanisms for psychosis are universal.",
+    "The past and current medications used in their cancer treatment were also examined in detail for an accurate evaluation.",
+    "Affordable access to essential medication in developing countries: conflicts between ethical and economic imperatives.",
+    "Physicians' visits, medications, and patient transportation costs were determined by the negotiated price list.",
+    "Ratings of social and work functioning were not carried out by individuals blind to the patient's status regarding earlier continuation of medication.",
+    "Lower intake of medication might be expected to cause more severe psychotic symptoms.",
+    "The prevalence of various symptoms and prescriptions for antibiotics and antiviral medications were also found to be independent of virus variant.",
+    "On the contrary, they were believed to have a physiological problem, which could be solved with certain medications."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "medic",
+    "medical",
+    "medically",
+    "medicated",
+    "medication",
+    "medicinal",
+    "medicinally",
+    "medicine",
+    "medieval"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318076_83976cd71f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318076_56620cf7fc_o.png",
+      "id_image": "medication_1098069"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433308_26ba3f1922_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433308_10b88985b7_o.png",
+      "id_image": "medication_2621577"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318071_55c13aca4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318071_0b8658e846_o.png",
+      "id_image": "medication_2621814"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433273_1132d0aefe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433273_e88bc8f6ce_o.png",
+      "id_image": "medication_4514486"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672949_a996c6874b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672949_b10442e854_o.png",
+      "id_image": "medication_552437"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "english": "increase",
+  "phat_am": "inˈkriːs",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tăng lên",
+          "definition": "to (cause to) grow in size, number etc",
+          "world_new": [
+            "grow",
+            "size",
+            "number"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The number of children in this school has increased greatly in recent years.",
+              "world_new": [
+                "number",
+                "school",
+                "greatly",
+                "recent"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "sự tăng",
+          "definition": "(the amount, number etc added by) growth",
+          "world_new": [
+            "amount",
+            "number",
+            "added",
+            "growth"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There has been some increase in business",
+              "world_new": [
+                "business"
+              ]
+            },
+            {
+              "ex_of_definition": "The increase in the population over the last ten years was 40,000.",
+              "world_new": [
+                "population"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Since increased canopy reduces the kinetic energy with which raindrops hit the ground, the damage to soil from rainfall is reduced.",
+    "Opportunity for increasing nitrogen use efficiency from improved lowland rice germplasm.",
+    "Has this increase permitted an increase in the percentage of women?",
+    "The parallel to phasing out or reducing quantities in tradable permits can be mimicked by increasing the tax.",
+    "The effective number of parties increased significantly and minority governments without stable support in parliament became the standard type of government.",
+    "There is an increasing need for assessments of the status of monkey populations both within and outside protected areas.",
+    "I think there are encouraging developments in technology that are permitting developed countries to 'do more with less', and increasing incentives to do so.",
+    "Nevertheless, experimental evidence shows that the parameter t tends to increase when observed paths are nonstationary."
+  ],
+  "list_see_also": [
+    "increasingly",
+    "on the increase"
+  ],
+  "list_browse": [
+    "incorrectness",
+    "incorrigible",
+    "incorruptibility",
+    "incorruptible",
+    "increase",
+    "increasingly",
+    "incredibility",
+    "incredible",
+    "incredibly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318686_b1a4898715_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318686_afbf10fcc3_o.png",
+      "id_image": "increase_1011586"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673519_fd31d41305_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673519_28f2544314_o.png",
+      "id_image": "increase_1190358"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673444_150a667d4a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673444_a189b61c8b_o.png",
+      "id_image": "increase_2350508"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318596_75865b8a09_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318596_0648e71d8d_o.png",
+      "id_image": "increase_2586022"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363157_376632007b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363157_78af4cca92_o.png",
+      "id_image": "increase_4328843"
+    }
+  ]
+}

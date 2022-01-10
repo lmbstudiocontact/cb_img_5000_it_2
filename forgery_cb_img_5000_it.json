@@ -1,0 +1,73 @@
+{
+  "english": "forgery",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tội giả mạo",
+          "definition": "(the crime of) copying pictures, documents, signatures etc and pretending they are genuine",
+          "world_new": [
+            "crime",
+            "genuine"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was sent to prison for forgery.",
+              "world_new": [
+                "prison"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "văn kiện, chữ ký… giả",
+          "definition": "a picture, document etc copied for this reason",
+          "world_new": [
+            "picture",
+            "document",
+            "reason"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The painting was a forgery.",
+              "world_new": [
+                "painting"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "It is less often recognized that the report focused on specific crimes and most notably on forgery.",
+    "Behaviors such as forgery, hoarding, printing paper currency without the legitimate backing of bullion, and such are treasonous.",
+    "Ought the crime of forgery to be punished with death.",
+    "In addition, the defendants in this forgery case realized that if they lost it could well mean terms of imprisonment for them.",
+    "It argues that the scandal surrounding the crime of forgery was vital to the reformers' success.",
+    "The paintings in the gallery turned out to be forgeries.",
+    "By the twelfth century, exemption from both secular and ecclesiastical jurisdiction had been obtained, partly by the judicious use of forgeries.",
+    "The document is so unusual that it seems probable that it is a forgery, though there is no problem with the witness list."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "forethought",
+    "foreword",
+    "forfeit",
+    "forge",
+    "forgery",
+    "forget",
+    "forgetful",
+    "forgetfully",
+    "forgive"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430163_f93c062d81_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430163_1c01e1d1d1_o.png",
+      "id_image": "forgery_5411049"
+    }
+  ]
+}

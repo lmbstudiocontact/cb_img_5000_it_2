@@ -1,0 +1,284 @@
+{
+  "english": "home",
+  "phat_am": "həum",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhà; chỗ ở",
+          "definition": "the house, town, country etc where a person etc, usually lives",
+          "world_new": [
+            "house",
+            "town",
+            "country",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I work in London but my home is in Bournemouth",
+              "world_new": [
+                "I",
+                "work",
+                "my"
+              ]
+            },
+            {
+              "ex_of_definition": "When I retire, I’ll make my home in Bournemouth",
+              "world_new": [
+                "I",
+                "retire",
+                "my"
+              ]
+            },
+            {
+              "ex_of_definition": "Africa is the home of the lion",
+              "world_new": [
+                "lion"
+              ]
+            },
+            {
+              "ex_of_definition": "We’ll have to find a home for the kitten.",
+              "world_new": [
+                "find",
+                "kitten"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quê hương",
+          "definition": "the place from which a person, thing etc comes originally",
+          "world_new": [
+            "place",
+            "person",
+            "originally"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "America is the home of jazz.",
+              "world_new": [
+                "jazz"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trại mồ côi; trại dưỡng lão",
+          "definition": "a place where children without parents, old people, people who are ill etc live and are looked after",
+          "world_new": [
+            "place",
+            "old",
+            "people",
+            "people",
+            "ill",
+            "live"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an old folk’s home",
+              "world_new": [
+                "old"
+              ]
+            },
+            {
+              "ex_of_definition": "a nursing home.",
+              "world_new": [
+                "nursing"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhà hộ sinh",
+          "definition": "a place where people stay while they are working",
+          "world_new": [
+            "place",
+            "people",
+            "stay"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a nurses’ home."
+            }
+          ]
+        },
+        {
+          "mean_english": "nhà",
+          "definition": "a house",
+          "world_new": [
+            "house"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He invited me round to his home."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc nhà mình",
+          "definition": "of a person’s home or family",
+          "world_new": [
+            "family"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "home comforts."
+            }
+          ]
+        },
+        {
+          "mean_english": "nội địa",
+          "definition": "of the country etc where a person lives",
+          "world_new": [
+            "country",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "home produce.",
+              "world_new": [
+                "produce"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "(thể thao) chơi trên sân nhà",
+          "definition": "(in football/soccer) playing or played on a team’s own ground",
+          "world_new": [
+            "ground"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the home team",
+              "world_new": [
+                "team"
+              ]
+            },
+            {
+              "ex_of_definition": "a home game.",
+              "world_new": [
+                "game"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "ở tại nhà mình",
+          "definition": "to a person’s home",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m going home now"
+            },
+            {
+              "ex_of_definition": "Honey – I’m home!"
+            }
+          ]
+        },
+        {
+          "mean_english": "tới địa điểm đã định",
+          "definition": "completely; to the place, position etc a thing is intended to be",
+          "world_new": [
+            "place",
+            "position"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He drove the nail home",
+              "world_new": [
+                "nail"
+              ]
+            },
+            {
+              "ex_of_definition": "Few of his punches went home"
+            },
+            {
+              "ex_of_definition": "These photographs of the war brought home to me the suffering of the soldiers.",
+              "world_new": [
+                "war",
+                "suffering"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Sensitivity in the caregiver-infant interaction was assessed by behavior observations within the scope of home visits.",
+    "Older infants may be more likely to have moved around to different foster homes and thus to have suffered more disruptions than younger infants.",
+    "Soldiers on leave and veterans returning home undoubtedly passed on their knowledge and experiences to the rest of the population.",
+    "Families in the intervention group received six home visits and, parallel in timing, families in the control group received six telephone calls.",
+    "The respondents were again reassured on confidentiality during home visits.",
+    "Consumption was part of the ordinary life, still represented, albeit often precariously, by the home front.",
+    "This study describes how home visits were used in an attempt to improve the effectiveness of a family planning service.",
+    "I think of this as a mandatory code, imposed by each home country, unlike the voluntary code approach discussed below which is complementary."
+  ],
+  "list_see_also": [
+    "homeless",
+    "homely",
+    "homeliness",
+    "homing",
+    "home-coming",
+    "home economics",
+    "home-grown",
+    "homeland",
+    "home-made",
+    "homeowner",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "holy",
+    "Holy Thursday",
+    "(Holy) Communion",
+    "homage",
+    "home",
+    "home economics",
+    "home in on",
+    "home page",
+    "home rule"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689584_7f77006f9d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689584_b8b798f5f1_o.png",
+      "id_image": "home_169108"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071445_94d6ffd9bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071445_a9b739bc95_o.png",
+      "id_image": "home_437497"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689504_869bae055e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689504_a5681e5fd7_o.png",
+      "id_image": "home_538235"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "english": "gallery",
+  "phat_am": "ˈɡӕləri",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phòng trưng bày",
+          "definition": "a large room or building in which paintings, statues etc are on show",
+          "world_new": [
+            "large",
+            "room",
+            "building"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an art gallery.",
+              "world_new": [
+                "art"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hạng vé rẻ nhất",
+          "definition": "an upper floor of seats in a church, theatre/theater etc, especially (in a theatre/theater) the top floor",
+          "world_new": [
+            "upper",
+            "floor",
+            "church",
+            "top",
+            "floor"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Our seats were in the gallery"
+            },
+            {
+              "ex_of_definition": "(also adjective) gallery seats."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Between these are other galleries 24 feet wide and above these are 12 galleries 80 feet long by 24 feet wide.",
+    "The time from seed germination to the delivery of the surviving plants to the orchid galleries varied from 1 year to 18 months.",
+    "In this sense, landscapes may be found hanging on the walls of the mansions of the well-to-do, and of city art galleries around the world.",
+    "The existing wall forms an external screen to the new envelope construction which is behind, separated by a gap providing space for access galleries.",
+    "We must take our music out of the concert halls and into alternative venues such as art galleries and public art spaces.",
+    "The display is structured as a network of galleries whose door openings become the frames of visual compositions.",
+    "The material of the galleries is used again in the new structures.",
+    "In ants and termites, different geographically-separated sub-nests are regarded as the same colony as long as there are interconnecting galleries."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "gallant",
+    "gallantly",
+    "gallantry",
+    "galleon",
+    "gallery",
+    "galley",
+    "gallon",
+    "gallons (of)",
+    "gallop"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385252_50e9a901c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385252_eb39387268_o.png",
+      "id_image": "gallery_3309178"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455178_eca4fcc103_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455178_35726e7f4c_o.png",
+      "id_image": "gallery_4311650"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455128_b6aa5922e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455128_08ec5c839b_o.png",
+      "id_image": "gallery_4344627"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695704_28c2f548b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695704_f2e1a4cab6_o.png",
+      "id_image": "gallery_751380"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077630_856853b4bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077630_0fee898ca9_o.png",
+      "id_image": "gallery_758515"
+    }
+  ]
+}

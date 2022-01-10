@@ -1,0 +1,93 @@
+{
+  "english": "glamour",
+  "phat_am": "ˈɡlӕmə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sức mê hoặc",
+          "definition": "the often false or superficial beauty or charm which attracts",
+          "world_new": [
+            "false",
+            "superficial",
+            "beauty",
+            "charm"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the glamour of a career in films.",
+              "world_new": [
+                "career"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vẻ đẹp quyến rũ",
+          "definition": "great beauty or charm, achieved with the aid of make-up, beautiful clothes etc",
+          "world_new": [
+            "great",
+            "beauty",
+            "charm",
+            "aid",
+            "make-up",
+            "beautiful",
+            "clothes"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the glamour of film stars.",
+              "world_new": [
+                "film"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Most respondents, however, defined real prestige in opposition to quick success, glamour and glitz.",
+    "They trade on glamour and dreams without drawing attention to risks and complications.",
+    "The epitome of glamour and decadence before the 1949 revolution, the city was punished for its capitalist excesses afterwards.",
+    "This is particularly the case where the goods are semi-luxuries, which sell more on the quality, or even on the glamour that surrounds them.",
+    "The international icons of glamour served variously as jealously collected possessions and as casual communicative media.",
+    "This could arguably further marginalize the care and services provided for older people as a speciality, which also lacked glamour.",
+    "There is a tremendous glamour about international sport, and a sense of pride is created by the achievements of our national sportsmen.",
+    "After all, there is no great glamour about being a member of a larger county council."
+  ],
+  "list_see_also": [
+    "glamorize",
+    "glamorous",
+    "glamorously"
+  ],
+  "list_browse": [
+    "gladness",
+    "glamorize",
+    "glamorous",
+    "glamorously",
+    "glamour",
+    "glance",
+    "glance off",
+    "glancing",
+    "gland"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376762_11d714e45b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376762_f5671e451e_o.png",
+      "id_image": "glamour_351838"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331956_e7dd10bae5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331956_2cfaa96b5b_o.png",
+      "id_image": "glamour_422105"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068615_6d07394562_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068615_d06f3ee2c5_o.png",
+      "id_image": "glamour_988447"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "english": "ideology",
+  "phat_am": "(British) ˌaidiˈolədʒi; (American) ˌaidiːˈolədʒiː, ˌidiːˈolədʒiː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hệ tư tưởng",
+          "definition": "a set of beliefs on which a political or economic system is based",
+          "world_new": [
+            "political",
+            "economic",
+            "system"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Marxist ideology.",
+              "world_new": [
+                "Marxist"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ý thức hệ",
+          "definition": "a set of beliefs held by a social group or an individual person",
+          "world_new": [
+            "social",
+            "group",
+            "individual",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "bourgeois ideology",
+              "world_new": [
+                "bourgeois"
+              ]
+            },
+            {
+              "ex_of_definition": "the ideology of parenthood.",
+              "world_new": [
+                "parenthood"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Language ideology both reflects and enacts racial inequalities.",
+    "Alongside the independent variables for party and ideology are the variables for social class, religious practice and economic evaluation.",
+    "How is it that political ideologies are social products, yet have ineliminable features?",
+    "According to this definition - ideology-as-shorthand - it should have been no more difficult to assess a party's positions than to formulate one's own ideology.",
+    "Indeed, if the symbol of the hunter dominated the ideology of the state, the notion of the blacksmith was more visible in personal\\residential relations.",
+    "Yet this ruling class ideology was and remains one of cultural synthesis.",
+    "If this is true, good government performance does not persuade people that the ideology of the government is more valuable and effective than they thought.",
+    "An ideology was needed to explain why it was that some people were not caught up in the neutralist struggle to avoid civil war altogether."
+  ],
+  "list_see_also": [
+    "ideological",
+    "ideologically"
+  ],
+  "list_browse": [
+    "identity",
+    "identity card",
+    "ideological",
+    "ideologically",
+    "ideology",
+    "idiocy",
+    "idiom",
+    "idiomatic",
+    "idiomatically"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060815_d0334ee739_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060815_53046c2872_o.png",
+      "id_image": "ideology_2473091"
+    }
+  ]
+}

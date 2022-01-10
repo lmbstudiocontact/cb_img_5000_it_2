@@ -1,0 +1,80 @@
+{
+  "english": "holy",
+  "phat_am": "ˈhəuli",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc thần thánh; linh thiêng",
+          "definition": "(worthy of worship or respect because) associated with God, Jesus, a saint etc; sacred",
+          "world_new": [
+            "worship",
+            "respect",
+            "God",
+            "saint",
+            "sacred"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the Holy Bible",
+              "world_new": [
+                "Bible"
+              ]
+            },
+            {
+              "ex_of_definition": "holy ground.",
+              "world_new": [
+                "ground"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trong sạch",
+          "definition": "good; pure; following the rules of religion",
+          "world_new": [
+            "following",
+            "religion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a holy life.",
+              "world_new": [
+                "life"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "holiness",
+    "the Holy Father",
+    "Holy Thursday"
+  ],
+  "list_browse": [
+    "holly",
+    "holocaust",
+    "hologram",
+    "holster",
+    "holy",
+    "Holy Thursday",
+    "(Holy) Communion",
+    "homage",
+    "home"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449578_1fb2c1a271_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449578_48a9b93275_o.png",
+      "id_image": "holy_3426096"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071540_3312882711_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071540_2693f25887_o.png",
+      "id_image": "holy_4977212"
+    }
+  ]
+}

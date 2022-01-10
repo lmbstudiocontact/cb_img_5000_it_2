@@ -1,0 +1,105 @@
+{
+  "english": "invest",
+  "phat_am": "inˈvest",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đầu tư",
+          "definition": "(with in) to put (money) into (a firm or business) usually by buying shares in it, in order to make a profit",
+          "world_new": [
+            "firm",
+            "order",
+            "profit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He invested (20,000 dollars) in a building firm.",
+              "world_new": [
+                "building",
+                "firm"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "phong chức",
+          "definition": "to establish (a person) officially in a position of authority etc",
+          "world_new": [
+            "establish",
+            "officially",
+            "position",
+            "authority"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The governor will be invested next week.",
+              "world_new": [
+                "governor",
+                "week"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The constant represents the expected project yield in capital (per unit invested), net of monitoring costs.",
+    "This is a very small fund, which also has only 2 % invested in equities.",
+    "Proposals for egalitarian redistribution are frequently objected to on the grounds that they will undermine incentives to work and invest in human capital.",
+    "The access to wage labor enabled a younger generation of men to invest profits into new production regimes and ensure food security.",
+    "In data not shown, older women prove slightly more conservative, investing more in insurance products than men.",
+    "The users of the water invested the communal power with the duty of protecting them against usurpers' efforts to divert the water.",
+    "Unfortunately, health policy analysts have been so invested in refining models of regulated competition that alternative models for organizing health care transactions are less developed.",
+    "In particular, they were invested with a major pedagogical role concerning spiritual matters inside the household."
+  ],
+  "list_see_also": [
+    "investment",
+    "investor"
+  ],
+  "list_browse": [
+    "inversion",
+    "invert",
+    "invertebrate",
+    "inverted commas",
+    "invest",
+    "investigate",
+    "investigation",
+    "investigator",
+    "investiture"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454248_3ef77c039e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454248_744a62f083_o.png",
+      "id_image": "invest_1987379"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076590_6033367032_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076590_d86837b165_o.png",
+      "id_image": "invest_393787"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694544_cb9b12c3d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694544_1d648711fd_o.png",
+      "id_image": "invest_421712"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339296_23d5373fd4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339296_80697f240d_o.png",
+      "id_image": "invest_4465682"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384302_8e36737462_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384302_2f5db8d0b3_o.png",
+      "id_image": "invest_648420"
+    }
+  ]
+}

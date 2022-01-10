@@ -1,0 +1,92 @@
+{
+  "english": "germ",
+  "phat_am": "dʒəːm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vi trùng",
+          "definition": "a very tiny animal or plant that causes disease",
+          "world_new": [
+            "tiny",
+            "animal",
+            "plant",
+            "disease"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Disinfectant kills household germs.",
+              "world_new": [
+                "household"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mầm mống",
+          "definition": "the small beginning (of anything)",
+          "world_new": [
+            "small",
+            "beginning"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the germ of an idea.",
+              "world_new": [
+                "idea"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The germs are now becoming visible in their whole alarming view to the public gaze.",
+    "The microbicidal effect of irradiation varies considerably, and may lead to an increase in germs.",
+    "The danger will come from germs and gases.",
+    "She took well cooked food out of a clean pantry and put it into her mouth which was filthy and full of germs.",
+    "We can shut people into the slums, as we have discovered, but we cannot necessarily shut the germs into the slums.",
+    "The well-to-do class of our society is dragging its women out of their homes to be infected by the same germs of westernism that have already spoiled our male population.",
+    "Have the inflationary germs become immune to this type of treatment?",
+    "I remember very vividly, as a young man just qualified, taking baby teeth out and removing some of the germs of the permanent teeth."
+  ],
+  "list_see_also": [
+    "germicide",
+    "germicidal"
+  ],
+  "list_browse": [
+    "geotropism",
+    "geranium",
+    "geriatric",
+    "geriatrics",
+    "germ",
+    "German measles",
+    "germicidal",
+    "germicide",
+    "germinate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379562_45b760b207_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379562_d662ae41ae_o.png",
+      "id_image": "germ_5282557"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689709_fb4349b09a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689709_813b3a7f38_o.png",
+      "id_image": "germ_5282591"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689644_2cc584a12b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689644_4ae00d142c_o.png",
+      "id_image": "germ_5282627"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449513_9d20bebb41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449513_c8b6c8af57_o.png",
+      "id_image": "germ_5282666"
+    }
+  ]
+}

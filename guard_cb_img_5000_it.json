@@ -1,0 +1,164 @@
+{
+  "english": "guard",
+  "phat_am": "ɡaːd",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "canh gác",
+          "definition": "to protect from danger or attack",
+          "world_new": [
+            "protect",
+            "danger",
+            "attack"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The soldiers were guarding the king/palace."
+            }
+          ]
+        },
+        {
+          "mean_english": "canh giữ",
+          "definition": "to prevent (a person) escaping, (something) happening",
+          "world_new": [
+            "prevent",
+            "happening"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The soldiers guarded their prisoners",
+              "world_new": [
+                "guarded",
+                "their"
+              ]
+            },
+            {
+              "ex_of_definition": "Try to guard against making silly mistakes.",
+              "world_new": [
+                "silly"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người canh gác",
+          "definition": "someone who or something which protects",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The security officers formed a guard round the president",
+              "world_new": [
+                "security",
+                "president"
+              ]
+            },
+            {
+              "ex_of_definition": "a guard in front of the fire.",
+              "world_new": [
+                "front",
+                "fire"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quản giáo",
+          "definition": "someone whose job is to prevent (a person) escaping",
+          "world_new": [
+            "job",
+            "prevent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There was a guard with the prisoner every hour of the day.",
+              "world_new": [
+                "prisoner",
+                "hour",
+                "day"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trưởng tàu",
+          "definition": "a person in charge of a train; conductor American",
+          "world_new": [
+            "person",
+            "charge"
+          ]
+        },
+        {
+          "mean_english": "hành động canh gác",
+          "definition": "the act or duty of guarding.",
+          "world_new": [
+            "act",
+            "duty"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The common atrioventricular junction may be guarded by a common valve or by separate right and left valvar orifices.",
+    "On the basis of this and subsequent feedback to date, course development has retained emphasis on integration and guards against isolation in music technology.",
+    "In fact, the keys of figure 2 do not give the exact layout of figure 1 in which guards and equal signs are aligned.",
+    "Dentists have guarded a professional identity that values individual restorative practice, carried out in a small business setting, as in the interests of patients.",
+    "Instead of secluding, domesticating, or devaluing, privacy guards women's place and participation in public.",
+    "In particular, previous versions used a concept called a coalgebraic monad, which has now been renamed as a strongly guarded monad.",
+    "We develop a general method for obtaining finitary guarded monads that allows us to define and prove properties of the rational and term graph monads.",
+    "The old guards, for their part, are forced to learn how to play by the new rules, or face marginalization."
+  ],
+  "list_see_also": [
+    "guarded",
+    "guardedly",
+    "guard of honour",
+    "keep guard (on)",
+    "off guard",
+    "on guard",
+    "stand guard"
+  ],
+  "list_browse": [
+    "grumpy",
+    "grunge",
+    "grunt",
+    "guarantee",
+    "guard",
+    "guard of honour",
+    "guarded",
+    "guardedly",
+    "guardian"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434093_032a4d08be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434093_92014d7079_o.png",
+      "id_image": "guard_1600904"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434078_85fff75fd2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434078_7abbcdd812_o.png",
+      "id_image": "guard_2349488"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055375_4b2b6c4622_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055375_826df84e9c_o.png",
+      "id_image": "guard_3168638"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363377_fd4df8f2a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363377_d9fede7ec0_o.png",
+      "id_image": "guard_3994113"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318746_5f972e358b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318746_592e2cd48c_o.png",
+      "id_image": "guard_4413056"
+    }
+  ]
+}

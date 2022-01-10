@@ -1,0 +1,87 @@
+{
+  "english": "lucky",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "có tính may mắn",
+          "definition": "having good luck",
+          "world_new": [
+            "luck"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was very lucky to escape alive.",
+              "world_new": [
+                "escape",
+                "alive"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mang tới vận may",
+          "definition": "bringing good luck",
+          "world_new": [
+            "luck"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a lucky number",
+              "world_new": [
+                "number"
+              ]
+            },
+            {
+              "ex_of_definition": "a lucky charm.",
+              "world_new": [
+                "charm"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Her reference to being \"lucky\" is made in comparison to her college roommates who come from families where such female gatherings are shunned.",
+    "In that respect, my generation of television playwrights was lucky.",
+    "I am lucky to be able to draw on both cultures.",
+    "There are those who are lucky or clever enough to possess dollars.",
+    "The last bride is always lucky and/or clever.",
+    "Both approaches, however, emphasize that it is possible to understand discovery in terms of heuristics of creative thinking and thus to go beyond lucky guesses.",
+    "It is consistent with taking him to be lucky for being blessed with this gift.",
+    "We were lucky; other people ended up in refugee camps."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "luck",
+    "luckily",
+    "luckiness",
+    "luckless",
+    "lucky",
+    "lucky dip",
+    "lucrative",
+    "ludicrous",
+    "ludicrously"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378112_42c7e33373_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378112_7e8f9009d0_o.png",
+      "id_image": "lucky_1775628"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378087_899ac42b01_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378087_134cbc78d1_o.png",
+      "id_image": "lucky_3004082"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070055_4e1bdfe37c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070055_94f7b9b911_o.png",
+      "id_image": "lucky_4617318"
+    }
+  ]
+}

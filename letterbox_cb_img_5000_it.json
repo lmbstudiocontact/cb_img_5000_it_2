@@ -1,0 +1,75 @@
+{
+  "english": "letterbox",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "khe hở ở các cửa lớn có nắp lật để bỏ thư",
+          "definition": "a slit in a door (sometimes with a box behind it) through which mail from the post is put",
+          "world_new": [
+            "slit",
+            "door",
+            "box",
+            "mail"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He put the card through the letterbox.",
+              "world_new": [
+                "card"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hộp thư",
+          "definition": "a postbox.",
+          "world_new": [
+            "postbox"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Secondly, that a letterbox should be provided on the outside gate by dog owners.",
+    "One is the easy availability of credit; unsolicited credit card offers and even cheque books are pushed through people's letterboxes daily.",
+    "About 15,000 do not even have a letterbox for the forms to go through.",
+    "Many thousands of people are now members of a society for letterboxing enthusiasts.",
+    "There are books about letterboxing which show where letterboxes may be placed.",
+    "One can publish in all sorts of forms, even by putting leaflets through everyone's letterbox.",
+    "An election address that came through my letterbox said that there would be a saving of about £1¼ million on privatisation.",
+    "For many other children, whose parents have simply been unable to provide the necessary care and support, letterbox contact may be appropriate."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "lethal",
+    "lethargic",
+    "lethargy",
+    "letter",
+    "letterbox",
+    "letterhead",
+    "lettering",
+    "lettuce",
+    "leucocyte"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700159_cb4a74f214_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700159_08c49bb446_o.png",
+      "id_image": "letterbox_3937000"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345001_8f763b73eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345001_767012d6c8_o.png",
+      "id_image": "letterbox_4205673"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082515_309ee07ab8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082515_425d93c4f5_o.png",
+      "id_image": "letterbox_719246"
+    }
+  ]
+}

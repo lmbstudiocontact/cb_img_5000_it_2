@@ -1,0 +1,91 @@
+{
+  "english": "galaxy",
+  "phat_am": "ˈɡӕləksi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thiên hà",
+          "definition": "a very large group of stars",
+          "world_new": [
+            "large",
+            "group"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The telescope scans the galaxies of outer space.",
+              "world_new": [
+                "telescope",
+                "outer",
+                "space"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhóm tinh hoa",
+          "definition": "a large group of famous, impressive etc people, things etc",
+          "world_new": [
+            "large",
+            "group",
+            "famous",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a galaxy of entertainers"
+            },
+            {
+              "ex_of_definition": "a galaxy of new cars."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The main challenge here is to find out how these galaxies manage to convert so much gas into stars so efficiently and in such a very short time.",
+    "As the universe has evolved, galaxies often collide and merge, creating larger galaxies.",
+    "He has made notable contributions to astronomy in the areas of the evolution of high redshift galaxies, and mass ejection from active galaxies.",
+    "Research on barred galaxies has been performed using observations, theory and numerical simulations.",
+    "At the core, most galaxies have a supermassive black hole, which may result in an active galactic nucleus.",
+    "When we turn from galaxies to the distribution of galaxies, the distribution does not seem to exhibit design - it looks rather random and haphazard.",
+    "Imagine looking at two disk galaxies edge-on, one with a bulge and one without a bulge.",
+    "Here we are, microscopic creatures scuttling about on the surface of a minor planet circling round a second-rate star in one of halt-a-million galaxies."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "gain ground",
+    "gain on",
+    "gait",
+    "gala",
+    "galaxy",
+    "gale",
+    "gale force",
+    "gall",
+    "gall bladder"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695849_b0f09170e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695849_cd6540e6ff_o.png",
+      "id_image": "galaxy_167347"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077800_06b7604169_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077800_35e89c4698_o.png",
+      "id_image": "galaxy_207300"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385422_d10eebb177_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385422_293146100e_o.png",
+      "id_image": "galaxy_3212598"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077735_f5647e8bf8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077735_586832bd33_o.png",
+      "id_image": "galaxy_5570602"
+    }
+  ]
+}

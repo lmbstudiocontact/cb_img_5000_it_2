@@ -1,0 +1,97 @@
+{
+  "english": "function",
+  "phat_am": "ˈfaŋkʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chức năng",
+          "definition": "a special job, use or duty (of a machine, part of the body, person etc)",
+          "world_new": [
+            "special",
+            "job",
+            "duty",
+            "machine",
+            "part",
+            "body",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The function of the brake is to stop the car.",
+              "world_new": [
+                "brake",
+                "stop",
+                "car"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "hoạt động; chạy",
+          "definition": "(of a machine etc) to work; to operate",
+          "world_new": [
+            "machine",
+            "operate"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This photocopier isn’t functioning very well.",
+              "world_new": [
+                "photocopier"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Higher order functions are also a common concept in functional programming.",
+    "The constant function 0 is a compensation function.",
+    "If you are not clear on what a function should do, you will find it difficult to write it!",
+    "All plots are a function of local wavenumber.",
+    "The commonly used weight functions in one dimension are as follows.",
+    "Each segment is chosen such that it can be given as a function of the independent variables.",
+    "Reasoning about function and its applications to engineering.",
+    "Also, the technical forecast is a function of past prices."
+  ],
+  "list_see_also": [
+    "functional",
+    "function key"
+  ],
+  "list_browse": [
+    "fumigate",
+    "fumigation",
+    "fun",
+    "fun and games",
+    "function",
+    "function key",
+    "functional",
+    "fund",
+    "fundamental"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457443_8ca3aac4e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457443_74e311b650_o.png",
+      "id_image": "function_4496243"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457393_c3f1e463d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457393_c55fe47fce_o.png",
+      "id_image": "function_5486008"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080140_3389284ac8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080140_0a84198ac6_o.png",
+      "id_image": "function_994633"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "english": "gamble",
+  "phat_am": "ˈɡӕmbl",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đánh cờ bạc",
+          "definition": "to risk losing money on the result of a horse-race etc",
+          "world_new": [
+            "risk",
+            "money",
+            "result"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He enjoys gambling on horse-races.",
+              "world_new": [
+                "gambling"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "việc đánh bạc",
+          "definition": "(something which involves) a risk",
+          "world_new": [
+            "risk"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The whole business was a bit of a gamble.",
+              "world_new": [
+                "whole",
+                "business",
+                "bit"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Risk aversion is defined as the curvature of the value function rather than simple consumption gambles.",
+    "In a sense, all of our research and theoretical commitments are gambles, investments we hope will pay off epistemologically.",
+    "Beliefs about control over gambling among young people, and their relation to problem gambling.",
+    "The puzzle in this observation is that the fact of gambling seems to imply risk-loving, whereas that of insurance purchase implies risk-aversion.",
+    "Passing from gambling to two-or-more-person games, we encounter similar difficulties with prescriptive decision theory.",
+    "Writing an explicit description of the expected utility as a function of gambles is overly complicated and relies on the order of task completions.",
+    "Nine-tenths of the crime in this country is caused by gambling.",
+    "The lottery assumption, in this framework, allows parents to engage in implicit wealth gambles."
+  ],
+  "list_see_also": [
+    "gambler",
+    "gambling",
+    "take a gamble"
+  ],
+  "list_browse": [
+    "gallstone",
+    "galore",
+    "galvanize",
+    "gambit",
+    "gamble",
+    "gambler",
+    "gambling",
+    "gambol",
+    "game"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077400_e22867cca8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077400_375cc9a6cf_o.png",
+      "id_image": "gamble_1055852"
+    }
+  ]
+}

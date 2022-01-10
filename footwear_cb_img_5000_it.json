@@ -1,0 +1,62 @@
+{
+  "english": "footwear",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đồ đi ở chân",
+          "definition": "boots, shoes, slippers etc",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He always buys expensive footwear.",
+              "world_new": [
+                "expensive"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In the hygiene gate, the clean footwear was frequently contaminated (8 flocks).",
+    "Footwear that fits well and which allows proper grip and feeling was discussed as desirable by the sample.",
+    "Their footwear had been in tatters, with no possibility of any repair.",
+    "She notes the possibility that the footwear evidence might be explicable solely (pardon my pun) in terms of males.",
+    "Much information can be gathered from watching the patient mobilize, noting what aids are required, and from assessing gait and footwear.",
+    "It is therefore unlikely that the small-scale footwear sector is benefiting from such schemes.",
+    "Other environmental samples included soil, debris from footwear used at the camp and from the climbing tower.",
+    "We looked and looked but never did find her footwear."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "footpath",
+    "footprint",
+    "footsore",
+    "footstep",
+    "footwear",
+    "footwork",
+    "for",
+    "for a change",
+    "for a start"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431353_2e08f97b0f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431353_9afceba2eb_o.png",
+      "id_image": "footwear_1280486"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360727_34ec55813c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360727_806054f4b3_o.png",
+      "id_image": "footwear_280062"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671144_0f30811006_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671144_e74289bc1f_o.png",
+      "id_image": "footwear_339065"
+    }
+  ]
+}

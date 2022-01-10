@@ -1,0 +1,69 @@
+{
+  "english": "iceberg",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tảng băng",
+          "definition": "a huge mass of ice floating in the sea",
+          "world_new": [
+            "huge",
+            "mass",
+            "ice",
+            "sea"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The ship hit an iceberg and sank.",
+              "world_new": [
+                "ship",
+                "hit"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This means of transmission represents the tip of the iceberg as far as technology goes.",
+    "As is increasingly common in ambitious projects of this nature, the published book is merely the tip of the iceberg.",
+    "This is just the tip of the iceberg for cognitive archaeology, however, because such conceptualization is by no means sufficient for actual tool production.",
+    "We assume iceberg transport costs for both goods.",
+    "These examples represent only the tip of the iceberg.",
+    "Cardiovascular accidents are rare because the exercise is self-paced, but minor orthopaedic events are reported and these are probably the tip of the iceberg.",
+    "The first iceberg, a large tabular berg, had already been spotted at 0410.",
+    "But this is only the tip of the iceberg when it comes to institutional complexity in the welfare field."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "ice rink",
+    "ice tray",
+    "ice-skate",
+    "ice-skating",
+    "iceberg",
+    "icicle",
+    "icily",
+    "iciness",
+    "icing"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369952_7528024ab1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369952_19ae4f0708_o.png",
+      "id_image": "iceberg_1983675"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680204_81e295a1ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680204_74a780d72f_o.png",
+      "id_image": "iceberg_1983679"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440013_c24f83ef30_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440013_f24c65c3b6_o.png",
+      "id_image": "iceberg_6202202"
+    }
+  ]
+}

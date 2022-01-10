@@ -1,0 +1,123 @@
+{
+  "english": "frost",
+  "phat_am": "frost",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự đông giá",
+          "definition": "frozen dew, vapour/vapor etc",
+          "world_new": [
+            "frozen",
+            "dew"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The ground was covered with frost this morning.",
+              "world_new": [
+                "ground",
+                "morning"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sương giá",
+          "definition": "the coldness of weather needed to form ice",
+          "world_new": [
+            "coldness",
+            "weather",
+            "form",
+            "ice"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There’ll be (a) frost tomorrow.",
+              "world_new": [
+                "tomorrow"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "phủ sương giá",
+          "definition": "to become covered with frost",
+          "world_new": [
+            "become"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The windscreen of my car frosted up last night.",
+              "world_new": [
+                "windscreen",
+                "my",
+                "car",
+                "night"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "rắc đường lên",
+          "definition": "to cover a cake with frosting.",
+          "world_new": [
+            "cover",
+            "cake",
+            "frosting"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Experiments exposing dry selenite crystals to cold, moisture-rich (frost-forming) conditions overnight show that moisture condenses around the microbial colonies.",
+    "Not all soils are susceptible to frost heaving.",
+    "How then can we claim that roads and buildings are part of the material world, if rain and frost are not?",
+    "Moreover, as frosts may have a negative impact on seed viability, we suggest that artificial sowing should take place in spring.",
+    "Such activity could be important to protect seed tissues from frost damage in temperate and boreal regions.",
+    "Finally, the probable significance of these factors for various aspects of frost heaving is briefly addressed.",
+    "It is not appropriate to call the development of needle ice 'soil frost heave' because the elevation of the soil surface may not change.",
+    "Farmers are concerned with the risks associated with multiple factors including frost, drought, and diseases."
+  ],
+  "list_see_also": [
+    "frosting",
+    "frosty",
+    "frostily",
+    "frostbite",
+    "frostbitten"
+  ],
+  "list_browse": [
+    "frontage",
+    "frontal",
+    "frontier",
+    "frontispiece",
+    "frost",
+    "frostbite",
+    "frostbitten",
+    "frostily",
+    "frosting"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388597_49f75ff8eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388597_91a2c2a208_o.png",
+      "id_image": "frost_271869"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343611_a68c67d83c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343611_d38b3035cc_o.png",
+      "id_image": "frost_6183141"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698794_a140e7cf0f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698794_6fe3299cb1_o.png",
+      "id_image": "frost_6301438"
+    }
+  ]
+}

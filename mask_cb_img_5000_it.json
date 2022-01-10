@@ -1,0 +1,101 @@
+{
+  "english": "mask",
+  "phat_am": "maːsk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mặt nạ",
+          "definition": "something, eg a covering resembling a face, used for hiding or protecting the whole or part of the face",
+          "world_new": [
+            "covering",
+            "face",
+            "hiding",
+            "whole",
+            "part",
+            "face"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The thief wore a black mask",
+              "world_new": [
+                "thief",
+                "black"
+              ]
+            },
+            {
+              "ex_of_definition": "Her face was a mask",
+              "world_new": [
+                "face"
+              ]
+            },
+            {
+              "ex_of_definition": "under the mask of friendship.",
+              "world_new": [
+                "friendship"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "mang mặt nạ; che giấu",
+          "definition": "to hide or disguise",
+          "world_new": [
+            "hide",
+            "disguise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He managed to mask his feelings."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The modality can be eliminated under certain conditions, just as effects that stay in some sense local can be masked in an effect system.",
+    "The attitude towards masks is another example; in different areas of the state they are viewed in completely different manner.",
+    "Cereal yields, as indicators of output, fluctuated over the period of the trial, masking any possible long-term change.",
+    "Of the eight deaths that resulted two were due to the explosions and six were due to improper use of gas masks.",
+    "Furthermore, the general improvement in levels of imperial trade masked important regional variations between overseas territories and within individual colonies.",
+    "In separating the nervous system and its adaptive properties out of the physical world, the perception-action coupling is masked.",
+    "He portrays this varied appeal as a feature of the libel as a genre, with simple, seemingly nave, rhymes sometimes masking informed political criticism.",
+    "Generally, the masks are not pierced at the eyes, nose, or mouth."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "mascot",
+    "masculine",
+    "masculinity",
+    "mash",
+    "mask",
+    "mason",
+    "masonry",
+    "masquerade",
+    "mass"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058305_3f9afc00d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058305_d4026f4ccc_o.png",
+      "id_image": "mask_119161"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366412_b97ea51abf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366412_07e4c598ef_o.png",
+      "id_image": "mask_297341"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058225_a12bc1684c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058225_aa6fc2804d_o.png",
+      "id_image": "mask_588826"
+    }
+  ]
+}

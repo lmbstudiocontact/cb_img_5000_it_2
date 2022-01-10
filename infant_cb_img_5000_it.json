@@ -1,0 +1,75 @@
+{
+  "english": "infant",
+  "phat_am": "ˈinfənt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "trẻ thơ",
+          "definition": "a baby or very young child",
+          "world_new": [
+            "baby",
+            "young",
+            "child"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the baptism of infants",
+              "world_new": [
+                "baptism"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) an infant school.",
+              "world_new": [
+                "school"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The developing physiology of newborns and infants can be profoundly affected by cardiopulmonary bypass.",
+    "The literature on the phonetic development of infants being raised in bilingual environments is generally sparse.",
+    "To understand what causes development in infants, we must be able to link the emerging behaviour to the unfolding of the underlying biological structures.",
+    "Further investigation of the use of sedation and analgesia for dying infants is needed.",
+    "Both their first wives died in childbirth, as did the infants.",
+    "However, this speech register is not limited to use with infants, for whom these attentional biases have been demonstrated.",
+    "As health care reform takes place, physicians will be challenged to devise cost effective plans for management of this large group of affected infants.",
+    "Supraventricular tachycardia in newborn infants: an approach to therapy."
+  ],
+  "list_see_also": [
+    "infancy"
+  ],
+  "list_browse": [
+    "infallibly",
+    "infamous",
+    "infamy",
+    "infancy",
+    "infant",
+    "infantry",
+    "infect",
+    "infected",
+    "infection"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317246_e24578e1db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317246_28ff610bc7_o.png",
+      "id_image": "infant_2621483"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432293_4fdca057b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432293_f68e73c367_o.png",
+      "id_image": "infant_2621728"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361477_b5a065cbc0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361477_baf715c1df_o.png",
+      "id_image": "infant_5233937"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "english": "gas",
+  "phat_am": "ɡӕs",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ga",
+          "definition": "a substance like air",
+          "world_new": [
+            "substance",
+            "air"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Oxygen, Hydrogen and other gases."
+            }
+          ]
+        },
+        {
+          "mean_english": "hơi đốt",
+          "definition": "any gas which is used for heating, cooking etc",
+          "world_new": [
+            "heating",
+            "cooking"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "(also adjective) a gas stove.",
+              "world_new": [
+                "stove"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khí gây tê",
+          "definition": "a gas which is used by dentists as an anaesthetic.",
+          "world_new": [
+            "anaesthetic"
+          ]
+        },
+        {
+          "mean_english": "khí độc",
+          "definition": "a poisonous or irritating gas used in war etc",
+          "world_new": [
+            "poisonous",
+            "irritating",
+            "war"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The police used tear gas to control the riot.",
+              "world_new": [
+                "police",
+                "tear",
+                "control",
+                "riot"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thả hơi độc",
+          "definition": "to poison or kill (a person or animal) with gas",
+          "world_new": [
+            "poison",
+            "kill",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was gassed during World War I.",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Thus, as the temperature increases or decreases in soil, a corresponding change in the mass attributed to each phase (aqueous and gas) will result.",
+    "The source is equipped with is a system for dosed gas supply.",
+    "This tendency is similar to a gas gap when it breaks down by a static voltage.",
+    "This is no doubt related to the increased interest in gas centrifuges as a means of separating uranium isotopes.",
+    "As the transmission operator, this company can operate only in the areas of transportation, re-gasification and storage of gas.",
+    "The odour map shows the spatial layout of the environment, the presence of multiple gases and how these gases are distributed.",
+    "Second, the non-uniformity is strongly decreased in the presence of the gas jet.",
+    "The argon gas discharge takes place between two parallel circular electrodes enclosed in a cylindrical chamber."
+  ],
+  "list_see_also": [
+    "gaseous",
+    "gasify",
+    "gasification",
+    "gassy",
+    "gassiness",
+    "gas chamber",
+    "gas mask",
+    "gas meter",
+    "gasoline",
+    "gas station",
+    ""
+  ],
+  "list_browse": [
+    "garrulity",
+    "garrulous",
+    "garrulously",
+    "garrulousness",
+    "gas",
+    "gas chamber",
+    "gas mask",
+    "gas meter",
+    "gas station"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338401_2400af30ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338401_aa4bcf3530_o.png",
+      "id_image": "gas_3365464"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453343_3e5f09e80a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453343_c40f182428_o.png",
+      "id_image": "gas_3523673"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383372_96424b035d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383372_8d74130b48_o.png",
+      "id_image": "gas_465018"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075390_cf940399a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075390_e22f87888a_o.png",
+      "id_image": "gas_6315520"
+    }
+  ]
+}

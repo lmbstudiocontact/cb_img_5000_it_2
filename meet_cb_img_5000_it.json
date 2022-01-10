@@ -1,0 +1,224 @@
+{
+  "english": "meet",
+  "phat_am": "miːt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "gặp gỡ",
+          "definition": "to come face to face with (eg a person whom one knows), by chance",
+          "world_new": [
+            "face",
+            "face",
+            "person",
+            "chance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She met a man on the train.",
+              "world_new": [
+                "train"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "họp",
+          "definition": "(sometimes, especially American, with with) to come together with (a person etc), by arrangement",
+          "world_new": [
+            "person",
+            "arrangement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The committee meets every Monday.",
+              "world_new": [
+                "committee",
+                "Monday"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giới thiệu",
+          "definition": "to be introduced to (someone) for the first time",
+          "world_new": [
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Come and meet my wife.",
+              "world_new": [
+                "my",
+                "wife"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giao nhau",
+          "definition": "to join",
+          "world_new": [
+            "join"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Where do the two roads meet?"
+            }
+          ]
+        },
+        {
+          "mean_english": "đáp ứng",
+          "definition": "to be equal to or satisfy (eg a person’s needs, requirements etc)",
+          "world_new": [
+            "equal",
+            "satisfy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Will there be sufficient stocks to meet the public demand?",
+              "world_new": [
+                "sufficient",
+                "stocks",
+                "public",
+                "demand"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hiện ra",
+          "definition": "to come into the view, experience or presence of",
+          "world_new": [
+            "view",
+            "experience",
+            "presence"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A terrible sight met him / his eyes when he opened the door.",
+              "world_new": [
+                "terrible",
+                "sight",
+                "door"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đối mặt",
+          "definition": "to come to or be faced with",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He met his death in a car accident.",
+              "world_new": [
+                "death",
+                "car",
+                "accident"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cam chịu",
+          "definition": "(with with) to experience or suffer; to receive a particular response",
+          "world_new": [
+            "experience",
+            "receive",
+            "particular",
+            "response"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She met with an accident",
+              "world_new": [
+                "accident"
+              ]
+            },
+            {
+              "ex_of_definition": "The scheme met with their approval.",
+              "world_new": [
+                "scheme",
+                "their",
+                "approval"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tiếp nhận",
+          "definition": "to answer or oppose",
+          "world_new": [
+            "answer",
+            "oppose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We will meet force with greater force.",
+              "world_new": [
+                "force",
+                "force"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cuộc thi đấu",
+          "definition": "a gathering, especially of sportsmen",
+          "world_new": [
+            "gathering"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The local athletics club are holding a meet this week.",
+              "world_new": [
+                "local",
+                "athletics",
+                "club",
+                "week"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Again, although none of these have been measured in field settings, these joint conditions are unlikely to be met.",
+    "The function information is typically in the form of various attributes that a design must meet before it can be considered complete.",
+    "If an impresario did not meet the minimum, he had to lower the ticket prices, and his theater would receive a smaller subsidy.",
+    "They were permitted one repetition of each of the training phases if this 75% criterion was not initially met.",
+    "First, political elites may respond selectively to indigenous claims, meeting specific types of demands, while marginalising or punishing other types of claims.",
+    "A single treatment approach, like one used with adults, is unlikely to meet the needs of children at various developmental levels.",
+    "It seems highly unlikely that any of these would meet our definition of a dream.",
+    "In summer, there would be sufficient solar energy to meet the hot water demand for the centre."
+  ],
+  "list_see_also": [
+    "meeting",
+    "meet (someone) halfway"
+  ],
+  "list_browse": [
+    "medley",
+    "meek",
+    "meekly",
+    "meekness",
+    "meet",
+    "meet (someone) halfway",
+    "meeting",
+    "mega-",
+    "megabyte"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463388_2e05d902ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463388_ed6254dae4_o.png",
+      "id_image": "meet_4458775"
+    }
+  ]
+}

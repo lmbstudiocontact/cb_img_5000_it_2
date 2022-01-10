@@ -1,0 +1,74 @@
+{
+  "english": "injustice",
+  "phat_am": "inˈdʒastis",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự không công bằng",
+          "definition": "(an instance of) unfairness or the lack of justice",
+          "world_new": [
+            "instance",
+            "unfairness",
+            "lack",
+            "justice"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He complained of injustice in the way he had been treated"
+            },
+            {
+              "ex_of_definition": "They agreed that an injustice had been committed.",
+              "world_new": [
+                "agreed",
+                "committed"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The language used here, which emphasizes the severity of the injustices involved, was not the simple cipher of ruling concerns.",
+    "They regarded society as naturally harmonious and designed their anti-theft campaigns to rectify injustice and restore harmony by means of confession and compensation.",
+    "Those who take away property commit an injustice.",
+    "Their justifications for the public sector rested on the injustices of material inequalities, the oppressions of industrial power, and the inefficiencies of market failure.",
+    "But this injustice is part of a more global picture, keenly felt and bitterly expressed at the local level.",
+    "How far back must one go in wiping clean the historical slate of injustices?",
+    "The validity of the relevant statutory norms as members of the given system of law is not as such put into doubt by their injustice.",
+    "But when they strike the balance incorrectly, they cannot but do comparative injustice."
+  ],
+  "list_see_also": [
+    "do (someone) an injustice"
+  ],
+  "list_browse": [
+    "injure",
+    "injured",
+    "injurious",
+    "injury",
+    "injustice",
+    "ink",
+    "inkling",
+    "inkpot",
+    "inky"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084095_ffecd86d8f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084095_974b098a02_o.png",
+      "id_image": "injustice_2473095"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461468_80515a02ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461468_a0dc77e3a3_o.png",
+      "id_image": "injustice_3724896"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391597_10294c57e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391597_d9f133110f_o.png",
+      "id_image": "injustice_5434083"
+    }
+  ]
+}

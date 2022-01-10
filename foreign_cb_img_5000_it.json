@@ -1,0 +1,67 @@
+{
+  "english": "foreign",
+  "phat_am": "ˈforən",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "nước ngoài",
+          "definition": "belonging to a country other than one’s own",
+          "world_new": [
+            "country"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "foreign coins"
+            },
+            {
+              "ex_of_definition": "a foreign passport.",
+              "world_new": [
+                "passport"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xa lạ với ai/cái gì",
+          "definition": "(with to) not naturally part of",
+          "world_new": [
+            "naturally",
+            "part"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Anger was foreign to her nature.",
+              "world_new": [
+                "nature"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "foreigner",
+    "foreign exchange"
+  ],
+  "list_browse": [
+    "foregone",
+    "foreground",
+    "forehand",
+    "forehead",
+    "foreign",
+    "foreign exchange",
+    "foreigner",
+    "foreleg",
+    "foreman"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052065_82934c0ac6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052065_fcdbcbea14_o.png",
+      "id_image": "foreign_381607"
+    }
+  ]
+}

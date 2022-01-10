@@ -1,0 +1,80 @@
+{
+  "english": "font",
+  "phat_am": "font",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "font chữ",
+          "definition": "a set of letters, numbers, and other characters of a particular style and size that are used for printing",
+          "world_new": [
+            "particular",
+            "style",
+            "size",
+            "printing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The small font size makes the document difficult to read.",
+              "world_new": [
+                "small",
+                "size",
+                "document",
+                "difficult",
+                "read"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bình đựng nước thánh",
+          "definition": "a large stone container in a church, that holds the water used in a baptism ceremony.",
+          "world_new": [
+            "large",
+            "stone",
+            "container",
+            "church",
+            "water",
+            "baptism",
+            "ceremony"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The letterforms are similar to neo-grotesque or \"realist\" sans-serif fonts.",
+    "Medium, medium oblique, extra bold, and extra bold oblique fonts were released in 1936.",
+    "In 2000-01, the old fonts were replaced with traditional block letters and numbers, which have been used ever since.",
+    "Wider fonts may be called \"wide\", \"extended\" or \"expanded\".",
+    "The result was significantly better-looking fonts even at low resolution; it had formerly been believed that hand-tuned bitmap fonts were required for this task.",
+    "Serif fonts are probably the most used class in printed materials, including most books, newspapers and magazines.",
+    "However, both sans-serif fonts used more ink than most typical serif fonts.",
+    "Based on the results of the analysis, the static debugger annotates the program with font and color changes."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "fond of",
+    "fondle",
+    "fondly",
+    "fondness",
+    "font",
+    "food",
+    "food chain",
+    "food processor",
+    "food stall"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432553_bc7981d710_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432553_7a9829bf8a_o.png",
+      "id_image": "font_421008"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053860_3f53e2445b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053860_5df51debea_o.png",
+      "id_image": "font_6298091"
+    }
+  ]
+}

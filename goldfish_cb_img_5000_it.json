@@ -1,0 +1,68 @@
+{
+  "english": "goldfish",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cá vàng",
+          "definition": "a small golden-yellow fish often kept as a pet",
+          "world_new": [
+            "small",
+            "fish",
+            "pet"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The child kept a goldfish in a bowl.",
+              "world_new": [
+                "child",
+                "bowl"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Evidence from thymidine labeling for continuing growth of the retina and tectum in juvenile goldfish.",
+    "Tetrodotoxin inhibits the formation of refined retinotopography in goldfish.",
+    "Cannabinoids modulate the cone light response in goldfish.",
+    "Activity sharpens the map during the regeneration of the retinotectal projection in goldfish.",
+    "Responsivity and absolute sensitivity of retinal ganglion cells in goldfish of different sizes, when measured under \"psychophysical\" conditions.",
+    "Large-scale synaptic errors during map formation by regenerating optic axons in the goldfish.",
+    "Electrical resonance and calcium influx in the synaptic terminal of depolarizing bipolar cells from the goldfish retina.",
+    "Throughout the years, we have obtained precise descriptions of the response properties of cones and horizontal cells and their interactions in the goldfish retina."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "gold rush",
+    "gold-leaf",
+    "golden",
+    "golden opportunity",
+    "goldfish",
+    "goldmine",
+    "goldsmith",
+    "golf",
+    "golf course"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065925_925baa5a8c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065925_bcf303656a_o.png",
+      "id_image": "goldfish_2281206"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329161_c1cf542f59_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329161_8c24350ea2_o.png",
+      "id_image": "goldfish_371912"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684094_d161897f36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684094_d1b2c3e983_o.png",
+      "id_image": "goldfish_6256005"
+    }
+  ]
+}

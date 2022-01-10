@@ -1,0 +1,74 @@
+{
+  "english": "mechanic",
+  "phat_am": "miˈkӕnik",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thợ máy",
+          "definition": "a skilled worker who repairs or maintains machinery",
+          "world_new": [
+            "skilled",
+            "worker",
+            "machinery"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a garage mechanic.",
+              "world_new": [
+                "garage"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "To understand this, we may consider the analogy between quantum mechanics and a drum.",
+    "Statistical mechanics is the successor theory to thermodynamics, the science of work and heat.",
+    "Newtonian mechanics is seen as a paradigmatic causal theory; but as an action-at-a-distance theory, it can hardly be said to comply with the contiguity requirement.",
+    "Computing scientists are generating new insights into the foundations of quantum mechanics, which will be of value even if practical quantum computers are never built.",
+    "There is now also a wide literature on applications in solid and fluid mechanics.",
+    "A newly developed statistical mechanics model describing the evolution of the turbulent mixing zone from an initial random per turbation is presented.",
+    "To explicate this position, we map the likely operational mechanics of dot eu by employing a conceptual framework which extends academic analysis in two areas.",
+    "In view of its many specific features one can say that robot dynamic constituted a new field of applied mechanics."
+  ],
+  "list_see_also": [
+    "mechanical",
+    "mechanically",
+    "mechanics",
+    "mechanism",
+    "mechanize",
+    "mechanization"
+  ],
+  "list_browse": [
+    "measure up",
+    "measurement",
+    "meat",
+    "meaty",
+    "mechanic",
+    "mechanical",
+    "mechanically",
+    "mechanics",
+    "mechanism"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363072_1464f655aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363072_ce6bc1a42c_o.png",
+      "id_image": "mechanic_307946"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433723_c7da42b558_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433723_96bb1f3e06_o.png",
+      "id_image": "mechanic_5050418"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673299_3695af1ea4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673299_7375f4d714_o.png",
+      "id_image": "mechanic_6036781"
+    }
+  ]
+}

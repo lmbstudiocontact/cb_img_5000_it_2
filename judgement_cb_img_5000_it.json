@@ -1,0 +1,95 @@
+{
+  "english": "judgement",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quyết định tòa án",
+          "definition": "the decision of a judge in a court of law",
+          "world_new": [
+            "decision",
+            "judge",
+            "court",
+            "law"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It looked as if he might be acquitted but the judgement went against him."
+            }
+          ]
+        },
+        {
+          "mean_english": "sự xét xử",
+          "definition": "the act of judging or estimating",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Faulty judgement when overtaking is a common cause of traffic accidents.",
+              "world_new": [
+                "common",
+                "cause",
+                "traffic"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lương tri",
+          "definition": "the ability to make right or sensible decisions",
+          "world_new": [
+            "ability",
+            "right",
+            "sensible"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You showed good judgement in choosing this method.",
+              "world_new": [
+                "method"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ý kiến",
+          "definition": "(an) opinion",
+          "world_new": [
+            "opinion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "In my judgement, he is a very good actor.",
+              "world_new": [
+                "my",
+                "actor"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "jubilation",
+    "jubilee",
+    "Judaism",
+    "judge",
+    "judgement",
+    "judging from / to judge from",
+    "judicial",
+    "judicially",
+    "judicious"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331716_9a4e74ea5b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331716_2388f5dfd0_o.png",
+      "id_image": "judgement_4144623"
+    }
+  ]
+}

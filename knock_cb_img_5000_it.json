@@ -1,0 +1,178 @@
+{
+  "english": "knock",
+  "phat_am": "nok",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "gõ",
+          "definition": "to make a sharp noise by hitting or tapping, especially on a door etc to attract attention",
+          "world_new": [
+            "sharp",
+            "noise",
+            "door",
+            "attract",
+            "attention"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Just then, someone knocked at the door.",
+              "world_new": [
+                "door"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm rơi",
+          "definition": "to cause to move, especially to fall, by hitting (often accidentally)",
+          "world_new": [
+            "cause",
+            "move",
+            "fall"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She knocked a vase on to the floor while she was dusting.",
+              "world_new": [
+                "vase",
+                "floor"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đẩy",
+          "definition": "to put into a certain state or position by hitting",
+          "world_new": [
+            "certain",
+            "state",
+            "position"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He knocked the other man senseless.",
+              "world_new": [
+                "senseless"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "va vào",
+          "definition": "(often with against, on) to strike against or bump into",
+          "world_new": [
+            "strike",
+            "bump"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She knocked against the table and spilt his cup of coffee",
+              "world_new": [
+                "table",
+                "cup",
+                "coffee"
+              ]
+            },
+            {
+              "ex_of_definition": "I knocked my head on the car door.",
+              "world_new": [
+                "I",
+                "my",
+                "head",
+                "car",
+                "door"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự gõ",
+          "definition": "an act of knocking or striking",
+          "world_new": [
+            "act",
+            "striking"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She gave two knocks on the door",
+              "world_new": [
+                "door"
+              ]
+            },
+            {
+              "ex_of_definition": "He had a nasty bruise from a knock he had received playing football.",
+              "world_new": [
+                "nasty",
+                "bruise",
+                "football"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tiếng gõ",
+          "definition": "the sound made by a knock, especially on a door etc",
+          "world_new": [
+            "sound",
+            "door"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Suddenly they heard a loud knock.",
+              "world_new": [
+                "loud"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "And young audiences found the slapstick and knock-about violence appealing.",
+    "Imagine that one person knocks on the door and steps into another's office.",
+    "He actually went down to see them and knocked on doors.",
+    "The most commonly produced transitive verbs were knock and do (mostly present progressives and past tense uses).",
+    "Heterozygous knock-out mice for brain-derived neurotrophic factor show a pathway-specific impairment of long-term potentiation but normal critical period for monocular deprivation.",
+    "However, in the knock-on source calculation, the thermal motion of background fuel ions was neglected.",
+    "The man found himself stuck on the roof because he knocked down the ladder.",
+    "The other thing he said to me was that you don't knock something when it is working."
+  ],
+  "list_see_also": [
+    "knocker",
+    "knock-kneed",
+    "knock about/around",
+    "knock back",
+    "knock down",
+    "knock off",
+    "knock out",
+    "knock over",
+    "knock up",
+    "get knocked up"
+  ],
+  "list_browse": [
+    "knitting",
+    "knitting needle",
+    "knob",
+    "knobbly",
+    "knock",
+    "knock about/around",
+    "knock back",
+    "knock down",
+    "knock off"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061885_1fa397d94b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061885_7c3d17227d_o.png",
+      "id_image": "knock_4223167"
+    }
+  ]
+}

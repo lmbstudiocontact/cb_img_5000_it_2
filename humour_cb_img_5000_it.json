@@ -1,0 +1,105 @@
+{
+  "english": "humour",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "biết đùa",
+          "definition": "the ability to amuse people; quickness to spot a joke",
+          "world_new": [
+            "ability",
+            "amuse",
+            "quickness",
+            "spot",
+            "joke"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has a great sense of humour.",
+              "world_new": [
+                "great",
+                "sense"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự hài hước",
+          "definition": "the quality of being amusing",
+          "world_new": [
+            "quality",
+            "amusing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the humour of the situation.",
+              "world_new": [
+                "situation"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm vừa lòng",
+          "definition": "to please (someone) by agreeing with him or doing as he wishes",
+          "world_new": [
+            "please"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There is no point in telling him he is wrong – just humour him instead.",
+              "world_new": [
+                "point",
+                "telling",
+                "wrong",
+                "instead"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The humour originates from the fact that you will often be convinced that you know, or have been taught by, the precise teacher being described.",
+    "Further analysis revealed that all subjects (patients and controls) were susceptible regarding humour (minimum laughing frequency=3).",
+    "I prefer practical jokes to verbal humour. 17.",
+    "Deliberately mixing genres is the source of much humour.",
+    "They focus on its absurdities and the humour to be derived from seeking to regulate human behaviour by means of formal rules.",
+    "For one thing, he said with humour, the future could hardly be expected to rely on men as old as he was.",
+    "But to those who knew her, it was even more her humour, her enthusiasm, her generosity, and her integrity for which she will be remembered.",
+    "I have always believed that verbal is the least personal and offensive of all forms of humour."
+  ],
+  "list_see_also": [
+    "humorist",
+    "humorous",
+    "humorously",
+    "humorousness",
+    "-humoured"
+  ],
+  "list_browse": [
+    "humorist",
+    "humorous",
+    "humorously",
+    "humorousness",
+    "humour",
+    "-humoured",
+    "hump",
+    "humpback",
+    "humpbacked"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442943_c19523da48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442943_481f8b1fa6_o.png",
+      "id_image": "humour_2178177"
+    }
+  ]
+}

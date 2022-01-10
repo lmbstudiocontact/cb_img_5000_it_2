@@ -1,0 +1,68 @@
+{
+  "english": "manometer",
+  "phat_am": "(British) məˈnomitə; (American) məˈnomitər",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "áp kế",
+          "definition": "an instrument for measuring the pressure of liquids and gases",
+          "world_new": [
+            "instrument",
+            "pressure"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Boyle used a manometer to discover his gas law.",
+              "world_new": [
+                "discover",
+                "gas",
+                "law"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The manometer reading will vary based on how much snow is sitting on the pillow.",
+    "This pressure can easily be measured with a manometer.",
+    "Usually the snow pillow will be connected to a manometer.",
+    "The use of small capillary tubing for transmitting the pressure in the stagnation chamber to the manometer effectively prevented cavity resonance in this tube.",
+    "An attached water manometer was employed to allow for measurement of pleural pressure and air volume.",
+    "It is also the fundamental principle behind the spring scale, the manometer, and the balance wheel of the mechanical clock.",
+    "Using the manometer he tested those hypotheses one by one.",
+    "The blood pressure can be simply measured using a plethysmograph or cuff connected to a pressure sensor (mercury or aneroid manometer)."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "manner",
+    "-mannered",
+    "mannerism",
+    "manoeuvre",
+    "manometer",
+    "manpower",
+    "manservant",
+    "mansion",
+    "manslaughter"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062185_32c737fe30_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062185_71ab3175de_o.png",
+      "id_image": "manometer_1085244"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325476_d4363c470f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325476_635ba5ae96_o.png",
+      "id_image": "manometer_231914"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440383_56b1c50d0b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440383_7453c2c997_o.png",
+      "id_image": "manometer_3977784"
+    }
+  ]
+}

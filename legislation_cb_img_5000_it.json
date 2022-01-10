@@ -1,0 +1,80 @@
+{
+  "english": "legislation",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự lập pháp",
+          "definition": "the act of legislating.",
+          "world_new": [
+            "act"
+          ]
+        },
+        {
+          "mean_english": "pháp luật",
+          "definition": "a law or group of laws",
+          "world_new": [
+            "law",
+            "group"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The government will introduce the new legislation in the summer.",
+              "world_new": [
+                "government",
+                "introduce",
+                "summer"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Inevitably, health and safety legislation generates a plethora of acronyms, which are fortunately well covered by a 12-page appendix.",
+    "He also provides useful observations on the activities of civic authorities in, for example, enacting relevant legislation.",
+    "In each case, central leaders reasoned that they did not have the votes for stronger legislation and saw no advantage in reopening earlier controversies.",
+    "While he does not identify specific legislation by name, he was almost certainly warning against recently enacted federal laws.",
+    "While the community care legislation was enacted in 1990, full implementation was delayed until 1993.",
+    "Recent legislation requiring pharmaceutical manufacturers to present economic evaluations when requesting reimbursement decisions will probably have an important impact in the future.",
+    "In law, it enables judges to implement the intent of legislation rather than its literal meaning.",
+    "At the same time as landed income went up, parliament enacted legislation to limit patronage sources available to politicians."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "legible",
+    "legibly",
+    "legion",
+    "legislate",
+    "legislation",
+    "legislative",
+    "legislator",
+    "legislature",
+    "legitimacy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391307_c5382aa770_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391307_40e73e41b5_o.png",
+      "id_image": "legislation_3883150"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346371_b1f109f56a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346371_96b8b7d038_o.png",
+      "id_image": "legislation_3900034"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701214_6f27b42e04_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701214_3a95aeb51f_o.png",
+      "id_image": "legislation_5605971"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346271_db335550c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346271_008eeb3aea_o.png",
+      "id_image": "legislation_6174541"
+    }
+  ]
+}

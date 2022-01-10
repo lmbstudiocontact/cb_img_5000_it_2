@@ -1,0 +1,65 @@
+{
+  "english": "longitude",
+  "phat_am": "ˈloŋɡitjuːd",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "kinh độ",
+          "definition": "the distance, measured in degrees on the map, that a place is east or west of a standard north-south line, usually that which passes through Greenwich",
+          "world_new": [
+            "distance",
+            "map",
+            "place",
+            "east",
+            "west",
+            "standard",
+            "line"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What is the latitude and longitude of that town?",
+              "world_new": [
+                "latitude",
+                "town"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "What is more, the title page of the book does not contain the same promise of a longitude solution as found in the newspaper ad.",
+    "To the south of a specified latitude, the coordinate system uses latitude and longitude.",
+    "Indeed, it may be for this reason that the stronger correlation with longitude was observed with the genotype data than the allele frequency scores.",
+    "While there have been many studies of the race to determine longitude, advertisements have not received close scrutiny.",
+    "It would seem that the lure of longitude was here used as a literary device to pique interest in the publication.",
+    "Solutions that relied on the accuracy of instruments were common among the longitude ads.",
+    "The climate normals dataset consisted of 67,420 points spaced on a 0.5 latituder0.5 longitude regular grid for significant land areas worldwide.",
+    "We have seen that ads for longitude may be considered as both texts of marketing persuasion and as pieces of scientific rhetoric."
+  ],
+  "list_see_also": [
+    "longitudinal",
+    "longitudinally"
+  ],
+  "list_browse": [
+    "longevity",
+    "longhand",
+    "longing",
+    "longingly",
+    "longitude",
+    "longitudinal",
+    "longitudinally",
+    "longways",
+    "loo"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335931_b1e5248898_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335931_0840014ee7_o.png",
+      "id_image": "longitude_992275"
+    }
+  ]
+}

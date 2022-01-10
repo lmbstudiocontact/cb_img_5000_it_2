@@ -1,0 +1,71 @@
+{
+  "english": "funny",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "buồn cười, ngồ ngộ, khôi hài",
+          "definition": "amusing; making one laugh",
+          "world_new": [
+            "laugh"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a funny story.",
+              "world_new": [
+                "story"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "là lạ, khang khác",
+          "definition": "strange; peculiar",
+          "world_new": [
+            "peculiar"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I heard a funny noise.",
+              "world_new": [
+                "I",
+                "noise"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "funicular",
+    "funk",
+    "funnel",
+    "funnily",
+    "funny",
+    "fur",
+    "furious",
+    "furl",
+    "furnace"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456418_19fea73eb7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456418_b19429537e_o.png",
+      "id_image": "funny_2173889"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341551_3c54842338_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341551_a55d271782_o.png",
+      "id_image": "funny_2978195"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078980_e7c17afe39_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078980_bc89a302f1_o.png",
+      "id_image": "funny_4138870"
+    }
+  ]
+}

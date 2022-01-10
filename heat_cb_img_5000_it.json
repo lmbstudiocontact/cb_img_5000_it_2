@@ -1,0 +1,187 @@
+{
+  "english": "heat",
+  "phat_am": "hiːt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sức nóng",
+          "world_new": [],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Test the heat of the water before you bath the baby.",
+              "world_new": [
+                "water",
+                "bath",
+                "baby"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hơi nóng",
+          "definition": "the warmth from something which is hot",
+          "world_new": [
+            "warmth",
+            "hot"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The heat from the fire will dry your coat",
+              "world_new": [
+                "fire",
+                "dry",
+                "your",
+                "coat"
+              ]
+            },
+            {
+              "ex_of_definition": "the effect of heat on metal",
+              "world_new": [
+                "effect",
+                "metal"
+              ]
+            },
+            {
+              "ex_of_definition": "the heat of the sun.",
+              "world_new": [
+                "sun"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự nóng nực",
+          "definition": "the hottest time",
+          "world_new": [
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the heat of the day.",
+              "world_new": [
+                "day"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự hăng hái",
+          "definition": "anger or excitement",
+          "world_new": [
+            "anger",
+            "excitement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He didn’t mean to be rude – he just said that in the heat of the moment.",
+              "world_new": [
+                "mean",
+                "rude",
+                "moment"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đấu loại",
+          "definition": "in a sports competition etc, one of two or more contests from which the winners go on to take part in later stages of the competition",
+          "world_new": [
+            "sports",
+            "competition",
+            "part",
+            "competition"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Having won his heat, he is going through to the final.",
+              "world_new": [
+                "final"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nóng lên; trở nên nóng",
+          "definition": "(sometimes with up) to make or become hot or warm",
+          "world_new": [
+            "become",
+            "hot",
+            "warm"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’ll heat (up) the soup",
+              "world_new": [
+                "soup"
+              ]
+            },
+            {
+              "ex_of_definition": "The day heats up quickly once the sun has risen.",
+              "world_new": [
+                "day",
+                "quickly",
+                "once",
+                "sun"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The development of almost all embryos cultured in the heat-treated or trypsin-treated medium was arrested at the 2-cell stage.",
+    "They concluded that unless this heat was dissipated, it would slow imbibition of vapour.",
+    "From the temperature profiles and the boundary condition, the total power for heat flow was calculated.",
+    "Meanwhile, as an epistemological consequence of microscopy, the argument from invisibility had led to heated debates over microscopic reality.",
+    "Under the blistering heat, the long marches could be exhausting and water was a scarce commodity.",
+    "There is renewed interest in adopting heat treatments around the world as a viable insect control alternative to fumigation with methyl bromide.",
+    "In addition, it continuously monitors the heat consumption and sends each minute a report to the redistribution agent of the cluster it belongs to.",
+    "The heat generated in the doped core has to pass the heat impedance of the coating before it reaches the convecting water flow."
+  ],
+  "list_see_also": [
+    "heated",
+    "heatedly",
+    "heatedness",
+    "heater",
+    "heating",
+    "heatwave",
+    "in/on heat",
+    "hot"
+  ],
+  "list_browse": [
+    "heartlessly",
+    "heartlessness",
+    "hearts",
+    "hearty",
+    "heat",
+    "heated",
+    "heatedly",
+    "heatedness",
+    "heater"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455048_1312ea95c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455048_0d344d0997_o.png",
+      "id_image": "heat_1870752"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340171_476c984c11_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340171_d3ce4c4e6d_o.png",
+      "id_image": "heat_3058010"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077370_ccd08d5e63_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077370_62ff35267b_o.png",
+      "id_image": "heat_6182875"
+    }
+  ]
+}

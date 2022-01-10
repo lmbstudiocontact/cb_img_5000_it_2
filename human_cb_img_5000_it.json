@@ -1,0 +1,100 @@
+{
+  "english": "human",
+  "phat_am": "ˈhjuːmən",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc con người",
+          "definition": "of, natural to, concerning, or belonging to, mankind",
+          "world_new": [
+            "natural",
+            "concerning",
+            "mankind"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "human nature",
+              "world_new": [
+                "nature"
+              ]
+            },
+            {
+              "ex_of_definition": "The dog was so clever that he seemed almost human.",
+              "world_new": [
+                "dog",
+                "clever",
+                "almost"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "con người",
+          "definition": "a person",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Humans are not as different from animals as we might think.",
+              "world_new": [
+                "think"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Descartes expressed this by suggesting that humans were composed of two kinds of matter, one which has spatial extension, and another which thinks.",
+    "Studies have provided evidence for the existence of mammary stem cells in mice, rats and humans.",
+    "The concept of regionally vulnerable areas in the developing brain has been supported in animal models and clinical studies of humans.",
+    "Unfortunately, most of the research on amygdala functioning has been based on animals or humans with severely damaged amygdalas.",
+    "The difference may be caused by the fact that live humans emit a wider range of cues than the foot odour collected on stockings.",
+    "In humans, more than 95% are cortico-cortical; less than 5% are thalamocortical.",
+    "By far the largest residual (more than 2.2 standard deviations) is associated with modern humans.",
+    "Without doubt, the success of humans has centrally depended on their ability to acquire and transmit cultural information."
+  ],
+  "list_see_also": [
+    "humanly",
+    "human being",
+    "human race",
+    "human resources"
+  ],
+  "list_browse": [
+    "hulk",
+    "hull",
+    "hullabaloo",
+    "hum",
+    "human",
+    "human being",
+    "human race",
+    "human resources",
+    "humane"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328256_c79a70402b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328256_5fa3d6f4e4_o.png",
+      "id_image": "human_1742013"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328206_257bb525a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328206_0a1daab851_o.png",
+      "id_image": "human_1761554"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443193_3fde63a518_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443193_b3649455ef_o.png",
+      "id_image": "human_3382602"
+    }
+  ]
+}

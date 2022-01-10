@@ -1,0 +1,66 @@
+{
+  "english": "locust",
+  "phat_am": "ˈləukəst",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "châu chấu",
+          "definition": "a type of large insect of the grasshopper family, found in Africa and Asia, which moves in very large groups and destroys growing crops by eating them",
+          "world_new": [
+            "type",
+            "large",
+            "insect",
+            "grasshopper",
+            "family",
+            "found",
+            "large"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a plague of locusts.",
+              "world_new": [
+                "plague"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In the countryside, the absence of government measures to ensure pest control made farmers' efforts to deal with a swarm of locusts futile.",
+    "From the beginning, the sages warn that there will be locusts, dearth, hunger, and death.",
+    "Treated locusts reared in field cages or in the laboratory can be used to confirm the field data.",
+    "During the dry season the locusts could be approached nearer than during the rains, owing to their inactivity when the humidity is low.",
+    "The wing femur and pronotum-depth head-width ratios were determined for locusts collected in 1930, 1931, 1932 and 1933.",
+    "It is of interest, however, that the locusts in the jars ate at least four times as much food as those in the cages.",
+    "Depressed agricultural prices, unemployment, drought and locust infestations produced scarcity.",
+    "Various kinds of hunger crises caused by natural disasters such as drought, invasions of locusts, blight and other pests and epidemics can be categorized."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "locksmith",
+    "locomotion",
+    "locomotive",
+    "locum",
+    "locust",
+    "lodge",
+    "lodger",
+    "lodging",
+    "loft"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452253_62436d18ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452253_b88320a61d_o.png",
+      "id_image": "locust_1850312"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382387_fc67711da0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382387_c77c79e969_o.png",
+      "id_image": "locust_3805703"
+    }
+  ]
+}

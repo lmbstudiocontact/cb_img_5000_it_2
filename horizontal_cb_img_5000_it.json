@@ -1,0 +1,74 @@
+{
+  "english": "horizontal",
+  "phat_am": "horiˈzontl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "nằm ngang",
+          "definition": "at right angles to vertical; parallel to the horizon; lying level or flat",
+          "world_new": [
+            "right",
+            "parallel",
+            "level",
+            "flat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a horizontal line",
+              "world_new": [
+                "line"
+              ]
+            },
+            {
+              "ex_of_definition": "a horizontal surface.",
+              "world_new": [
+                "surface"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Interestingly, since there is no significant horizontal flow in the thin-layer limit, the total amount of water removed from the felt is known exactly.",
+    "The total contribution of block rotation to the horizontal component of deformation is less than 5 %, and is therefore negligible.",
+    "Here, the orbit was an ellipse with a 3: 1 vertical to horizontal axis ratio.",
+    "Note that the vertical shears occur before the column where ha(y, t) or ha(z, t) has affected the horizontal dimensions.",
+    "The transmissibility of the capacity to induce biofilm formation in co-culture suggested a significant role for horizontal gene transfer in the phenomenon.",
+    "Most of the bones lie in horizontal position but a vertically orientated dentary and rib have been observed.",
+    "The horizontal ramus is narrow in lateral view.",
+    "The experiments were performed utilizing electrically heated horizontal copper surfaces situated in a water environment."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "hopelessness",
+    "hopscotch",
+    "horde",
+    "horizon",
+    "horizontal",
+    "horizontally",
+    "hormone",
+    "horn",
+    "horned"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332196_9b3b7fbb15_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332196_75135abdd8_o.png",
+      "id_image": "horizontal_1484599"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332166_1a90f4e813_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332166_e1907de091_o.png",
+      "id_image": "horizontal_2280396"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068820_eee8f9eaa4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068820_1a929af93c_o.png",
+      "id_image": "horizontal_4598313"
+    }
+  ]
+}

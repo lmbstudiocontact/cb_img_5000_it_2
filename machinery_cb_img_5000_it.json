@@ -1,0 +1,83 @@
+{
+  "english": "machinery",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "máy móc",
+          "definition": "machines in general",
+          "world_new": [
+            "general"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Nowadays, most products are made by machinery rather than by hand.",
+              "world_new": [
+                "rather",
+                "hand"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bộ máy",
+          "definition": "the workings or processes",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the machinery of government.",
+              "world_new": [
+                "government"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We believe that the noise associated with the pose measurements provided by the external machinery has a large influence on the calibration result.",
+    "All of the machinery of the factory is installed in one large room that measures about sixty meters in length by twenty-five meters in width.",
+    "The approach does not require any additional machinery other than what the two-level formalism and finite state transducers provide.",
+    "The blasts resulted in the destruction of several machineries and vehicles.",
+    "Equally, once the students had arrived in the coastal areas there was no systematic machinery of oppression in place.",
+    "Expenditures on machinery simply replaced expenditures on construction.",
+    "The fallacy is: an obvious function of the machinery of access-consciousness is illicitly transferred to phenomenal consciousness.",
+    "Other firms, particularly the small and medium ones, have attempted to improve their design, and quality, to invest in machinery, and seek the ' high road'."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "Mach",
+    "machine",
+    "machine tool",
+    "machine-gun",
+    "machinery",
+    "machinist",
+    "macho",
+    "mackerel",
+    "mackintosh"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375807_4a87be524c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375807_6a64f4ce87_o.png",
+      "id_image": "machinery_2761086"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067850_60b6247a30_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067850_ae3dab0153_o.png",
+      "id_image": "machinery_4646936"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375722_2c6c7e4e3f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375722_c6166dd3a3_o.png",
+      "id_image": "machinery_4668487"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375847_25bb36ee3c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375847_71c62e9f84_o.png",
+      "id_image": "machinery_566145"
+    }
+  ]
+}

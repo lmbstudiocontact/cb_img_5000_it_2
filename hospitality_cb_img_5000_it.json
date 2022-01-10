@@ -1,0 +1,78 @@
+{
+  "english": "hospitality",
+  "phat_am": "hospiˈtaləti",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lòng hiếu khách",
+          "definition": "a friendly welcome for guests or strangers, which often includes offering them food, drink etc",
+          "world_new": [
+            "friendly",
+            "welcome",
+            "offering",
+            "food",
+            "drink"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The local people are renowned for their warm hospitality.",
+              "world_new": [
+                "local",
+                "people",
+                "renowned",
+                "their",
+                "warm"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There can be no trade without such services as finance, accountancy, management, trading expertise, legal services, transport and logistics, hotel and hospitality services, technological research, and design.",
+    "They usually involved several days of hospitality and qat and remained unaccounted for.",
+    "He thanks the institute for its hospitality.",
+    "I am grateful for their hospitality.",
+    "In urban homes, distinctive forms of sociability, different from ' country hospitality ', evolved under the rubric of politeness.",
+    "He would like to express his gratitude for their very kind hospitality.",
+    "His appointment, they argued, reflected favoritism, circumventing the rules, and by implication, the politics of hospitality (a dominant tribal process).",
+    "The most obvious change was the decline of ancient hospitality and personal charity."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "hospitable",
+    "hospitableness",
+    "hospitably",
+    "hospital",
+    "hospitality",
+    "hospitalization",
+    "hospitalize",
+    "host",
+    "hostage"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067655_5051a08094_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067655_d8d5f7edfa_o.png",
+      "id_image": "hospitality_1645017"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067630_3c5577416c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067630_a685da0196_o.png",
+      "id_image": "hospitality_2631559"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375462_9838e972ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375462_1442b2e008_o.png",
+      "id_image": "hospitality_5778508"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685789_0976cffd20_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685789_7eeeb143dd_o.png",
+      "id_image": "hospitality_5778929"
+    }
+  ]
+}

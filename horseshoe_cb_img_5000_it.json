@@ -1,0 +1,67 @@
+{
+  "english": "horseshoe",
+  "phat_am": "ˈhoːʃʃuː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "móng ngựa",
+          "definition": "a curved iron shoe for a horse.",
+          "world_new": [
+            "curved",
+            "iron",
+            "shoe",
+            "horse"
+          ]
+        },
+        {
+          "mean_english": "vật có hình móng ngựa",
+          "definition": "something in the shape of a horseshoe",
+          "world_new": [
+            "shape"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The bride was presented with a lucky silver horseshoe.",
+              "world_new": [
+                "bride",
+                "lucky",
+                "silver"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Recreational features included hobby shops and recreation rooms, plus opportunities for such sports as skiing, skating, horseshoes, and basketball.",
+    "Invariant manifolds and equilibrium states for non-uniformly hyperbolic horseshoes.",
+    "Available activities include camping, boating, fishing, waterskiing, horseshoes, interpretive activities, wildlife viewing, and mountain biking.",
+    "The horses were fitted with copper horseshoes to reduce the likelihood of sparks.",
+    "Horseshoes, baseball games, bingo, bowling, games of chance and children's games. 3rd annual $1000 hole-in-one play-off.",
+    "They have certainly not forgotten to put their horseshoes in their bouquets.",
+    "Play is to either 11 or 21 with two players on each side, with teammates on opposing sides (similar to horseshoes).",
+    "Many objects were used, not just clogs: horseshoes, shingles, slates, wooden plates with a message, coins with a cross on them."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "horseman",
+    "horsemanship",
+    "horseplay",
+    "horsepower",
+    "horseshoe",
+    "horticultural",
+    "horticulture",
+    "hose",
+    "hose down"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686284_04b8e17385_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686284_a2845306ec_o.png",
+      "id_image": "horseshoe_124360"
+    }
+  ]
+}

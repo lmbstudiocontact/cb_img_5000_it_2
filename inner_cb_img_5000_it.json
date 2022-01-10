@@ -1,0 +1,81 @@
+{
+  "english": "inner",
+  "phat_am": "ˈinə",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "ở trong",
+          "definition": "placed etc on the inside or further in",
+          "world_new": [
+            "further"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The inner tube of his tyre was punctured.",
+              "world_new": [
+                "tube",
+                "tyre"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thầm kín",
+          "definition": "(of feelings etc) secret or hidden",
+          "world_new": [
+            "secret",
+            "hidden"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I could not guess what his inner thoughts might be.",
+              "world_new": [
+                "I",
+                "guess"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The analysis of the inner reaction-diffusion layer yields the heat flux produced by the exothermic reaction.",
+    "Parallel analyses were conducted with the low-income, inner-city students; details of the analytic strategy used are outlined in the section that follows.",
+    "Now the inner landscape became a crucial site where the battle of the pious for the good took place.",
+    "According to him art was primarily a personal, inner process.",
+    "Each disc was attached at its inner diameter to a stainless-steel tube of inner radius a = 19 mm.",
+    "Depressed people, for example, are known to experience frequent nightmares which are due to inner psychological conditions rather than external causes.",
+    "One proclaims that no progress is possible unless certain changes take place in the inner being of the individual.",
+    "The inner boundary jet is still evident, but the eddy motion inside it is greater than in the westerly-forcing case."
+  ],
+  "list_see_also": [
+    "innermost",
+    "inner tube"
+  ],
+  "list_browse": [
+    "inlay",
+    "inlet",
+    "inmate",
+    "inn",
+    "inner",
+    "inner tube",
+    "innermost",
+    "inning",
+    "innings"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461238_0b2c3e8320_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461238_ff4abddedc_o.png",
+      "id_image": "inner_1994777"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461193_14f85eab1a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461193_cbb80ed43f_o.png",
+      "id_image": "inner_2244686"
+    }
+  ]
+}

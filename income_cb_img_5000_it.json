@@ -1,0 +1,75 @@
+{
+  "english": "income",
+  "phat_am": "ˈiŋkəm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thu nhập",
+          "definition": "money received by a person as wages etc",
+          "world_new": [
+            "money",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He cannot support his family on his income.",
+              "world_new": [
+                "support",
+                "family"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Business users are a mix of commuters and city users, with speci®c consumption (and business) needs and often with high disposable incomes.",
+    "They were free to choose their occupation as well as the disposition of their incomes.",
+    "A 50 % fall in green cob maize price reduced net incomes by more than 63 % in all the treatments.",
+    "Instead, i they are lumped together with \"other incomes,\" including any capital and rental incomes that are reported in the survey.",
+    "Disposable incomes were still too small and the power of young people, particularly young girls, too weak to trigger a decisive confrontation between generations.",
+    "The paper then looks within the pensioner population at the incomes of different groups of older people.",
+    "The links that joined men to women, cash to care, incomes to carers have all been fractured.",
+    "With this in mind, the effect on incomes would need to be presented in a way that is easy to understand."
+  ],
+  "list_see_also": [
+    "income tax",
+    "income-tax return"
+  ],
+  "list_browse": [
+    "incoherence",
+    "incoherent",
+    "incoherently",
+    "incombustible",
+    "income",
+    "income tax",
+    "income-tax return",
+    "incoming",
+    "incomparable"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673924_f464eb52ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673924_8d83272c8d_o.png",
+      "id_image": "income_1322208"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318996_686e908bd8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318996_aecb364874_o.png",
+      "id_image": "income_2503467"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363582_475755a81e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363582_b615b9a4e7_o.png",
+      "id_image": "income_4695210"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363677_fa4fb7c5bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363677_1970e50e08_o.png",
+      "id_image": "income_950576"
+    }
+  ]
+}

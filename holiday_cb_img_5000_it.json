@@ -1,0 +1,115 @@
+{
+  "english": "holiday",
+  "phat_am": "ˈholədi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ngày nghỉ",
+          "definition": "a day when one does not have to work",
+          "world_new": [
+            "day",
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Next Monday is a holiday.",
+              "world_new": [
+                "Monday"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thời gian nghỉ",
+          "definition": "a period of time when one does not have to work",
+          "world_new": [
+            "period",
+            "time",
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The summer holidays will soon be here",
+              "world_new": [
+                "summer",
+                "soon"
+              ]
+            },
+            {
+              "ex_of_definition": "We’re going to Sweden for our holiday(s)",
+              "world_new": [
+                "our"
+              ]
+            },
+            {
+              "ex_of_definition": "I’m taking two weeks’ holiday in June",
+              "world_new": [
+                "June"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) holiday clothes.",
+              "world_new": [
+                "clothes"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Which friend did the man repair the very long roof for during the holidays?",
+    "During school holidays her oldest son helps in buying and selling the vegetables.",
+    "Many commented that they had no entitlements left to take family holidays where the whole family could be off together.",
+    "Thus, a trade union might offer discounts on holidays to its members, and threaten non-members with ostracism.",
+    "Across the eighteenth and nineteenth centuries the number of religious holidays was gradually reduced, sometimes by the state and sometimes by the churches themselves.",
+    "Also, a strong seasonality of the parliamentary agenda is apparent, amongst other reasons, due to the structural absence of debates during parliamentary holidays.",
+    "Except for limitations on work on religious holidays, official regulation of the daily and weekly round declined.",
+    "Which friend did the man repair the roof for during the holidays?"
+  ],
+  "list_see_also": [
+    "holidaymaker",
+    "on holiday"
+  ],
+  "list_browse": [
+    "hold-all",
+    "-holder",
+    "hole",
+    "hole out",
+    "holiday",
+    "holidaymaker",
+    "holiness",
+    "holler",
+    "hollow"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690059_45a6a9874d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690059_a8415d8b0b_o.png",
+      "id_image": "holiday_2569878"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071855_2bd1f8a2a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071855_075ff5426d_o.png",
+      "id_image": "holiday_2855569"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689954_d58302e9eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689954_70031dedb2_o.png",
+      "id_image": "holiday_5020319"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334806_344bf8e0bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334806_1023260e87_o.png",
+      "id_image": "holiday_5020459"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689889_ee6a1341e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689889_3089a61f08_o.png",
+      "id_image": "holiday_5775604"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "english": "fresh",
+  "phat_am": "freʃ",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "mới; tươi",
+          "definition": "newly made, gathered, arrived etc",
+          "world_new": [
+            "newly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "fresh fruit (= fruit that is not tinned, frozen etc)",
+              "world_new": [
+                "fruit",
+                "fruit",
+                "tinned",
+                "frozen"
+              ]
+            },
+            {
+              "ex_of_definition": "fresh flowers."
+            }
+          ]
+        },
+        {
+          "mean_english": "mới hoặc khác",
+          "definition": "another; different; not already used, begun, worn, heard etc",
+          "world_new": [
+            "worn"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a fresh piece of paper",
+              "world_new": [
+                "piece",
+                "paper"
+              ]
+            },
+            {
+              "ex_of_definition": "fresh news.",
+              "world_new": [
+                "news"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trong lành; mát mẻ",
+          "definition": "(of weather etc) cool; refreshing",
+          "world_new": [
+            "weather",
+            "refreshing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a fresh breeze",
+              "world_new": [
+                "breeze"
+              ]
+            },
+            {
+              "ex_of_definition": "fresh air.",
+              "world_new": [
+                "air"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nước ngọt",
+          "definition": "(of water) without salt",
+          "world_new": [
+            "salt"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The swimming pool has fresh water in it, not sea water.",
+              "world_new": [
+                "swimming",
+                "pool",
+                "water",
+                "sea",
+                "water"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sảng khoái",
+          "definition": "(of people etc) healthy; not tired",
+          "world_new": [
+            "people",
+            "tired"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You are looking very fresh this morning.",
+              "world_new": [
+                "morning"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "freshen",
+    "fresher",
+    "freshly",
+    "freshman",
+    "freshwater"
+  ],
+  "list_browse": [
+    "frequent",
+    "frequent flyer/flier",
+    "frequently",
+    "fresco",
+    "fresh",
+    "freshen",
+    "fresher",
+    "freshly",
+    "freshman"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699694_119c936750_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699694_827e83880f_o.png",
+      "id_image": "fresh_1140841"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082050_3e71c9635c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082050_63c878a191_o.png",
+      "id_image": "fresh_2451311"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389467_9c702faf2c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389467_d9de3822b9_o.png",
+      "id_image": "fresh_3967356"
+    }
+  ]
+}

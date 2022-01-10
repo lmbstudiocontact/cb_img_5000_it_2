@@ -1,0 +1,59 @@
+{
+  "english": "intimacy",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự thân thiết",
+          "definition": "the quality of being intimate",
+          "world_new": [
+            "quality",
+            "intimate"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "sexual intimacy.",
+              "world_new": [
+                "sexual"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tình bạn thân",
+          "definition": "close friendship.",
+          "world_new": [
+            "close",
+            "friendship"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "interview",
+    "interviewer",
+    "intestinal",
+    "intestine",
+    "intimacy",
+    "intimate",
+    "intimately",
+    "intimation",
+    "intimidate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340361_66d3129b1e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340361_7b060214c1_o.png",
+      "id_image": "intimacy_4412730"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695714_a9a8cdd497_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695714_d02a6618b4_o.png",
+      "id_image": "intimacy_5526261"
+    }
+  ]
+}

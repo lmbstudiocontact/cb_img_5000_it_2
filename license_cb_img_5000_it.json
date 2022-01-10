@@ -1,0 +1,74 @@
+{
+  "english": "license",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cấp phép",
+          "definition": "to give a licence to or permit",
+          "world_new": [
+            "licence",
+            "permit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The restaurant is licensed to serve alcohol.",
+              "world_new": [
+                "restaurant",
+                "licensed",
+                "serve",
+                "alcohol"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "It will also include a special category of liquor license for music and entertainment venues separate from hotel licenses.",
+    "Such a duty may license in different ways at various levels of voluntariness the use of coercion for a person's own good.",
+    "Having non-head status at some level of prosodic structure compromises a position's ability to license melodic material.",
+    "Will healthcare professionals risk their licenses if they assist a woman?",
+    "The transgressions that representation licenses are predicated on the representational - that is, figurative - nature of those transgressions.",
+    "Music can be licensed under creative commons,8 meaning that the artists can determine how and for what purposes their music can be used.",
+    "Sales of licenses were usually for one year, although this could be extended.",
+    "Competitive individuals would not rationally give each other such license."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "Libra",
+    "librarian",
+    "library",
+    "licence",
+    "license",
+    "license plate",
+    "licensed",
+    "licensee",
+    "lichen"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698659_7a3e6e2882_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698659_18ab39b1f3_o.png",
+      "id_image": "license_2481949"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343456_919eec864e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343456_e1b290c31d_o.png",
+      "id_image": "license_5902688"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388382_c1f92456ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388382_812735530c_o.png",
+      "id_image": "license_6082521"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698684_4b688035a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698684_d269cf2738_o.png",
+      "id_image": "license_950573"
+    }
+  ]
+}

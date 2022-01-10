@@ -1,0 +1,78 @@
+{
+  "english": "homeless",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun plural",
+      "list_definition": [
+        {
+          "mean_english": "vô gia cư",
+          "definition": "(people) without a place to live in",
+          "world_new": [
+            "place",
+            "live"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This charity was set up to help the homeless",
+              "world_new": [
+                "charity",
+                "help"
+              ]
+            },
+            {
+              "ex_of_definition": "homeless people.",
+              "world_new": [
+                "people"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "While walking along, the boy sees a welldressed man stop by a homeless woman, falling on his knees before her, weeping.",
+    "Six were of dual diagnosis patients (with substance misuse), ten of homeless mentally ill patients and one of jail recidivists.",
+    "She was horrified to see thousands, who doubtless had once sat and cheered her, homeless and hungry.",
+    "Whilst the support is maintained the person is unlikely to become homeless.",
+    "Furthermore, homeless people often encountered negative attitudes from health and social care staff and therefore were often reluctant to access mainstream health services.",
+    "Most authorities were, though, active in resisting the retrenchment of the institutionalised rights of homeless people to social housing which was enacted in 1996.",
+    "Moreover, newcomers showed the same results as all homeless boys in having higher exposure to pathogens, higher cortisol, and better nutritional status than squatter boys.",
+    "During the first six months after being resettled, 10 renewed family contacts, including a few who had been homeless for years."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "home-coming",
+    "home-grown",
+    "home-made",
+    "homeland",
+    "homeless",
+    "homeliness",
+    "homely",
+    "homeopath",
+    "homeopathic"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379297_d049e29c5b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379297_b01d422ff8_o.png",
+      "id_image": "homeless_4812313"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379267_d7a466aaa8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379267_a1f3f1c365_o.png",
+      "id_image": "homeless_5017482"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449358_526c2ccb98_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449358_2e426bb082_o.png",
+      "id_image": "homeless_5256206"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334251_f3dcb84373_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334251_a0a02e1081_o.png",
+      "id_image": "homeless_6418258"
+    }
+  ]
+}

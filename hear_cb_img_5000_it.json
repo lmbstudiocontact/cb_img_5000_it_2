@@ -1,0 +1,151 @@
+{
+  "english": "hear",
+  "phat_am": "hiə",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nghe",
+          "definition": "to (be able to) receive (sounds) by ear",
+          "world_new": [
+            "receive",
+            "ear"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I don’t hear very well",
+              "world_new": [
+                "I"
+              ]
+            },
+            {
+              "ex_of_definition": "Speak louder – I can’t hear you",
+              "world_new": [
+                "I"
+              ]
+            },
+            {
+              "ex_of_definition": "I didn’t hear you come in.",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lắng nghe",
+          "definition": "to listen to for some purpose",
+          "world_new": [
+            "listen",
+            "purpose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A judge hears court cases",
+              "world_new": [
+                "judge",
+                "court"
+              ]
+            },
+            {
+              "ex_of_definition": "Part of a manager’s job is to hear workers’ complaints.",
+              "world_new": [
+                "job"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nghe nói",
+          "definition": "to receive information, news etc, not only by ear",
+          "world_new": [
+            "receive",
+            "information",
+            "news",
+            "ear"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve heard that story before",
+              "world_new": [
+                "story"
+              ]
+            },
+            {
+              "ex_of_definition": "I hear that you’re leaving",
+              "world_new": [
+                "I"
+              ]
+            },
+            {
+              "ex_of_definition": "‘Have you heard from your sister?’ ‘Yes, I got a letter from her today’",
+              "world_new": [
+                "your",
+                "sister",
+                "I",
+                "letter"
+              ]
+            },
+            {
+              "ex_of_definition": "I’ve never heard of him – who is he? This is the first I’ve heard of the plan.",
+              "world_new": [
+                "plan"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Visual responses further show the user that what she said was heard and is being acted on.",
+    "Parents of young hearing children often augment their verbal labelling of objects with gestures.",
+    "First, results were more clear-cut for the group hearing 'happy' background music.",
+    "In the overt condition, participants were asked to overtly repeat each of the nonwords they heard during the exposure phase immediately after they heard it.",
+    "Hearing a sentence twice cannot be better than hearing it once unless the second exposure produces additional processing.",
+    "Thus, children heard each novel word a total of 12 times per normal game session (twice in each of six models).",
+    "Surely this shows that you heard the chimes even before you noticed it?",
+    "One group were trained in the impending condition, hearing both verbs prior to the events."
+  ],
+  "list_see_also": [
+    "hearing",
+    "hearing aid",
+    "hearsay",
+    "hear! hear!",
+    "I/he etc will/would not hear of"
+  ],
+  "list_browse": [
+    "healthiness",
+    "healthy",
+    "heap",
+    "heaped",
+    "hear",
+    "hear! hear!",
+    "hear/see etc the last of",
+    "hearing",
+    "hearing aid"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385962_5ccecda4a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385962_db01efb937_o.png",
+      "id_image": "hearing_3988150"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455753_e1fbc18449_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455753_0f3ba48788_o.png",
+      "id_image": "hearing_5759960"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455728_78e2fc91e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455728_f313b7da38_o.png",
+      "id_image": "hearing_5983893"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386017_b29799932b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386017_b67b19a4fe_o.png",
+      "id_image": "hear_5827885"
+    }
+  ]
+}

@@ -1,0 +1,424 @@
+{
+  "english": "good",
+  "phat_am": "ɡud",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "ngoan",
+          "definition": "well-behaved; not causing trouble etc",
+          "world_new": [
+            "trouble"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Be good!"
+            },
+            {
+              "ex_of_definition": "She’s a good baby.",
+              "world_new": [
+                "baby"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đúng, đảm đang",
+          "definition": "correct, desirable etc",
+          "world_new": [
+            "correct",
+            "desirable"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was a good wife",
+              "world_new": [
+                "wife"
+              ]
+            },
+            {
+              "ex_of_definition": "He has good manners"
+            },
+            {
+              "ex_of_definition": "Mario speaks good English.",
+              "world_new": [
+                "English"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tốt; hay",
+          "definition": "of high quality",
+          "world_new": [
+            "quality"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "good food/literature"
+            },
+            {
+              "ex_of_definition": "His singing is very good.",
+              "world_new": [
+                "singing"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thạo; giỏi",
+          "definition": "skilful; able to do something well",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a good doctor",
+              "world_new": [
+                "doctor"
+              ]
+            },
+            {
+              "ex_of_definition": "She’s good at tennis",
+              "world_new": [
+                "tennis"
+              ]
+            },
+            {
+              "ex_of_definition": "He’s good with children."
+            }
+          ]
+        },
+        {
+          "mean_english": "tử tế",
+          "definition": "kind",
+          "world_new": [
+            "kind"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You’ve been very good to him"
+            },
+            {
+              "ex_of_definition": "He’s a good father.",
+              "world_new": [
+                "father"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "có lợi; bổ ích",
+          "definition": "helpful; beneficial",
+          "world_new": [
+            "beneficial"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Exercise is good for you."
+            }
+          ]
+        },
+        {
+          "mean_english": "vui vẻ",
+          "definition": "pleased, happy etc",
+          "world_new": [
+            "pleased",
+            "happy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m in a good mood today.",
+              "world_new": [
+                "mood"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dễ chịu",
+          "definition": "pleasant; enjoyable",
+          "world_new": [
+            "enjoyable"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He enjoys reading a good book",
+              "world_new": [
+                "reading",
+                "book"
+              ]
+            },
+            {
+              "ex_of_definition": "Ice-cream is good to eat.",
+              "world_new": [
+                "eat"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đáng kể",
+          "definition": "considerable; enough",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a good salary",
+              "world_new": [
+                "salary"
+              ]
+            },
+            {
+              "ex_of_definition": "She talked a good deal of nonsense.",
+              "world_new": [
+                "deal",
+                "nonsense"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phù hợp",
+          "definition": "suitable",
+          "world_new": [
+            "suitable"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a good man for the job.",
+              "world_new": [
+                "job"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khỏe mạnh",
+          "definition": "sound, fit",
+          "world_new": [
+            "sound",
+            "fit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "good health",
+              "world_new": [
+                "health"
+              ]
+            },
+            {
+              "ex_of_definition": "good eyesight",
+              "world_new": [
+                "eyesight"
+              ]
+            },
+            {
+              "ex_of_definition": "a car in good condition.",
+              "world_new": [
+                "car",
+                "condition"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chính đáng",
+          "definition": "sensible",
+          "world_new": [
+            "sensible"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Can you think of one good reason for doing that?",
+              "world_new": [
+                "think",
+                "reason"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tốt lành",
+          "definition": "showing approval",
+          "world_new": [
+            "approval"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’ve had very good reports about you."
+            }
+          ]
+        },
+        {
+          "mean_english": "hoàn toàn",
+          "definition": "thorough",
+          "world_new": [
+            "thorough"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The living room needs a good clean.",
+              "world_new": [
+                "living",
+                "room",
+                "clean"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khoẻ mạnh",
+          "definition": "healthy or in a positive mood",
+          "world_new": [
+            "healthy",
+            "positive",
+            "mood"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I don’t feel very good this morning.",
+              "world_new": [
+                "I",
+                "feel",
+                "morning"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lợi nhuận, thuận lợi…",
+          "definition": "advantage or benefit",
+          "world_new": [
+            "advantage",
+            "benefit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He worked for the good of the poor",
+              "world_new": [
+                "poor"
+              ]
+            },
+            {
+              "ex_of_definition": "It’s for your own good",
+              "world_new": [
+                "your"
+              ]
+            },
+            {
+              "ex_of_definition": "What’s the good of a broken-down car?",
+              "world_new": [
+                "car"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "điều tốt",
+          "definition": "goodness",
+          "world_new": [
+            "goodness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I always try to see the good in people.",
+              "world_new": [
+                "I",
+                "try",
+                "see",
+                "people"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "interjection",
+      "list_definition": [
+        {
+          "mean_english": "đồng tình",
+          "definition": "an expression of approval, gladness etc.",
+          "world_new": [
+            "expression",
+            "approval",
+            "gladness"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The book makes good use of black and white photographs, has a useful appendix on methodology and an excellent bibliography.",
+    "Works that were centrally planned and assigned, moreover, had a better chance of seeing print than did books written on personal initiative.",
+    "In other words, voters had good reason to vote strategically within parties to maximize the number of seats their side would win.",
+    "Thus, for an intensive cropping system, external sources of decomposed organic matter addition would be a better option.",
+    "Intuitively, with the pollution charge set too high, good 2 is protected less than good, 3 initially.",
+    "Note, however, that our numerical bounds frequently get better if multiple edges are replaced by a single equivalent edge.",
+    "Science advances by replacing old theories with new ones that make better predictions.",
+    "Here, altruistic players always do better than selfish players if they are fully altruistic or if the game is symmetric."
+  ],
+  "list_see_also": [
+    "goodness",
+    "goods",
+    "goody",
+    "goodbye",
+    "good-for-nothing",
+    "good humour",
+    "good-humoured",
+    "good-humouredly",
+    "good-looking",
+    "good morning",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "gondola",
+    "gondolier",
+    "gong",
+    "gonna",
+    "good",
+    "good for",
+    "good for you/him etc",
+    "Good Friday",
+    "good gracious"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373472_88e89e3bc0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373472_12eb78c786_o.png",
+      "id_image": "good_4703279"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443658_1e942bde9a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443658_fb8e9a378c_o.png",
+      "id_image": "good_6171954"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328656_b7da281a10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328656_6f9a9fa496_o.png",
+      "id_image": "good_6394260"
+    }
+  ]
+}

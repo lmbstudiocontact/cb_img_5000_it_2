@@ -1,0 +1,77 @@
+{
+  "english": "lip",
+  "phat_am": "lip",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "môi",
+          "definition": "either of the folds of flesh which form the edge of the mouth",
+          "world_new": [
+            "flesh",
+            "form",
+            "edge",
+            "mouth"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She bit her lip.",
+              "world_new": [
+                "bit"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gờ; mép",
+          "definition": "the edge of something",
+          "world_new": [
+            "edge"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the lip of a cup.",
+              "world_new": [
+                "cup"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "lip-read",
+    "lipstick",
+    "pay lip service to"
+  ],
+  "list_browse": [
+    "links",
+    "linoleum",
+    "lint",
+    "lion",
+    "lip",
+    "lip-read",
+    "lipstick",
+    "liquefy",
+    "liqueur"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340731_58cf404a2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340731_51d125a946_o.png",
+      "id_image": "lips_286512"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695974_ce0d785dfc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695974_722091a615_o.png",
+      "id_image": "lips_458102"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340761_2b08974d0e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340761_60f3767835_o.png",
+      "id_image": "lip_1862698"
+    }
+  ]
+}

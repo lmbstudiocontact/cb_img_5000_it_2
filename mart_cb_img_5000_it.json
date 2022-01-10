@@ -1,0 +1,61 @@
+{
+  "english": "mart",
+  "phat_am": "maːt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chợ",
+          "definition": "(especially in the names of shops/stores) a place where goods are sold",
+          "world_new": [
+            "place",
+            "goods"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a furniture mart.",
+              "world_new": [
+                "furniture"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Co-operation is needed between farmers and livestock marts on the one hand and renderers and abattoirs on the other.",
+    "A vast number of cattle come through the marts every day of the week, and those cattle are unknown to anybody.",
+    "Scrutiny of live auction marts is also inevitable.",
+    "For a short time there was much bewildering consternation in all the marts and exchanges in the world.",
+    "The train of events is affecting farmers, processors at the marts, factory workers and butchers.",
+    "Circulars could also be available at post offices and marts, directed to farmers with empty cottages, persuading them to enter into hirings.",
+    "Quite apart from destroying the value of property and the general amenities, these marts are a great nuisance to shoppers and residents.",
+    "There are the merchants and auction marts that deal with these commodities."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "marshiness",
+    "marshmallow",
+    "marshy",
+    "marsupial",
+    "mart",
+    "martial",
+    "martial art",
+    "martial law",
+    "Martian"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677014_b42a46cc69_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677014_6b961648d6_o.png",
+      "id_image": "mart_1915316"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437068_4bce3323e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437068_888fee56e2_o.png",
+      "id_image": "mart_6040953"
+    }
+  ]
+}

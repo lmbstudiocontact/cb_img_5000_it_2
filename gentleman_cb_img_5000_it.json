@@ -1,0 +1,89 @@
+{
+  "english": "gentleman",
+  "phat_am": "ˈdʒentlmən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người đàn ông lịch sự",
+          "definition": "a polite word for a man",
+          "world_new": [
+            "polite"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Two gentlemen arrived this morning.",
+              "world_new": [
+                "morning"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người đàn ông hào hoa phong nhã",
+          "definition": "a polite, well-mannered man",
+          "world_new": [
+            "polite",
+            "well-mannered"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s a real gentleman.",
+              "world_new": [
+                "real"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Other reports of the voyage are very formal and record only the names of those who were officers or gentlemen.",
+    "What kind of ideological work made possible the transformation of a men's lavatory into a facility for gentlemen?",
+    "The exception was a gentleman's daughter who married a shoemaker.",
+    "Reports of unknown philosophers from far afield needed to be believed as trustworthy, as they were the testimonies of gentlemen.",
+    "To calm the fears of potential travellers, the gentlemen of science, engineers, and entrepreneurs turned to forms of popular culture.",
+    "Of those rising in status four - grocer's, miller's, maltster's and pattenmaker's daughters - all married gentlemen, and a tanner's daughter married an esquire.",
+    "They have no earls, no barons, no noblemen, of whom their gentlemen should stand in awe.",
+    "They thought that smartly dressed men were nonviolent, being gentlemen."
+  ],
+  "list_see_also": [
+    "gentlemanly",
+    "gents"
+  ],
+  "list_browse": [
+    "genteelness",
+    "gentile",
+    "gentility",
+    "gentle",
+    "gentleman",
+    "gentlemanly",
+    "gentleness",
+    "gently",
+    "gents"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380557_ea847be09c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380557_229b8b1637_o.png",
+      "id_image": "gentleman_2234093"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072345_d9cb3f4fdc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072345_e7ea9a2efe_o.png",
+      "id_image": "gentleman_2368839"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335411_bf24429295_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335411_f370444d75_o.png",
+      "id_image": "gentleman_2896999"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335376_2ace966983_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335376_691b5f2b36_o.png",
+      "id_image": "gentleman_5020638"
+    }
+  ]
+}

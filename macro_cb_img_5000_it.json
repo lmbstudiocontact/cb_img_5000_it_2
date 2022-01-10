@@ -1,0 +1,73 @@
+{
+  "english": "macro",
+  "phat_am": "ˈmækrou",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lệnh macro",
+          "definition": "a single instruction that starts a set of instructions for a computer to carry out a particular task",
+          "world_new": [
+            "single",
+            "instruction",
+            "computer",
+            "carry",
+            "particular",
+            "task"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You can run a macro to find any duplicate names in the database.",
+              "world_new": [
+                "run",
+                "find",
+                "duplicate",
+                "database"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Understanding subsystem interrelations across ethnic groups also helps us understand how macro- and microsystems interact in relating to risk and resilience in children's development.",
+    "Equivalence is straightforward between constants, but not between in-line functions or macro definitions; some decidable approximation must be agreed upon.",
+    "By examining these two nations, we can observe the impact of macro-level diversity on policy preference in these homogenous and heterogeneous settings.",
+    "At the macro-level, none of the variables is statistically significant.",
+    "From a macro-level perspective, the outcome of coordination can be conceived of as a \"global\" plan (or decision, action and so on).",
+    "Macro-simulation (or cell-based) models were used to make comparable projections based on a set of common assumptions.",
+    "The period saw the radical separation of micro- and macro-economics (a separation denoted, paradoxically, as a 'neoclassical synthesis').",
+    "Maintenance of a surface litter cover on the soil is a key feature, which allows the development of soil macro fauna."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "macho",
+    "mackerel",
+    "mackintosh",
+    "macramé",
+    "macro",
+    "macroscopic",
+    "mad",
+    "mad cow disease",
+    "madam"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445638_c935439f4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445638_6b8d32d665_o.png",
+      "id_image": "macro_5982674"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375357_aa07042f14_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375357_653975774b_o.png",
+      "id_image": "macro_6315825"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375417_f3540a7a9f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375417_babcc55c4f_o.png",
+      "id_image": "macro_948490"
+    }
+  ]
+}

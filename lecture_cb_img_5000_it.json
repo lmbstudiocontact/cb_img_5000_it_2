@@ -1,0 +1,118 @@
+{
+  "english": "lecture",
+  "phat_am": "ˈlektʃə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bài giảng",
+          "definition": "a formal talk given to students or other audiences",
+          "world_new": [
+            "formal",
+            "talk"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a history lecture.",
+              "world_new": [
+                "history"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bài thuyết trình",
+          "definition": "a long and boring or irritating speech, warning or scolding",
+          "world_new": [
+            "long",
+            "boring",
+            "irritating",
+            "speech",
+            "warning",
+            "scolding"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The teacher gave the children a lecture for running in the corridor.",
+              "world_new": [
+                "teacher",
+                "running",
+                "corridor"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "giảng bài",
+          "definition": "to give a lecture",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He lectures on Roman Art",
+              "world_new": [
+                "Roman"
+              ]
+            },
+            {
+              "ex_of_definition": "She lectured him on good behaviour.",
+              "world_new": [
+                "behaviour"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The lectures were apparently subjected to little revision in the transcription process other than adjustments to compensate for the lack of aural illustration.",
+    "The lectures articulate deep fears for the prospects for empirical economics.",
+    "She might advise younger writers, prepare revised editions of her books, lecture at university campuses, and so forth.",
+    "He mentions it in his articles and his lectures.",
+    "All have centres that organize seminars, film screenings, lectures, and international exchanges with fellow artists and intellectuals.",
+    "A significant difference is also found between lecture listening and post-lecture listening and between postlecture listening and the pre-test.",
+    "Gandhians made frequent trips, giving lectures, writing books, and winning support for nonviolence.",
+    "He studied history and philosophy and lectured on logic, philosophy, ethics, psychology, and sociology."
+  ],
+  "list_see_also": [
+    "lecturer"
+  ],
+  "list_browse": [
+    "leave out",
+    "leave/make one’s mark",
+    "leavened",
+    "lectern",
+    "lecture",
+    "lecturer",
+    "ledge",
+    "ledger",
+    "lee"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347451_47fe96634e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347451_5ee1729867_o.png",
+      "id_image": "lecture_288063"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462183_85f0e795e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462183_d44eb85187_o.png",
+      "id_image": "lecture_3319587"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347361_74b63e61ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347361_e5f89c088a_o.png",
+      "id_image": "lecture_3612048"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347341_a88d438653_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347341_ff5bcf7aee_o.png",
+      "id_image": "lecture_5299764"
+    }
+  ]
+}

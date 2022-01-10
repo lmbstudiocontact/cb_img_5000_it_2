@@ -1,0 +1,88 @@
+{
+  "english": "friendship",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tình hữu nghị",
+          "definition": "the state of being friends",
+          "world_new": [
+            "state"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an act of friendship.",
+              "world_new": [
+                "act"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tình bạn",
+          "definition": "a particular relationship between two friends",
+          "world_new": [
+            "particular",
+            "relationship"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Our friendship grew through the years."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "It is precisely not the mark of a true friend to be motivated primarily by thoughts of her own friendship.",
+    "Friendship attachments provide a sense of security and a sense of belonging which potentially counters isolation and loneliness.",
+    "The familiar notions of friendship and conversation are shown to be useful in conceptualising the work of these projects.",
+    "Now, suppose that the empirical situation has favored the consequentialist and her friendly character, allowing her to develop deep, meaningful friendships.",
+    "These dilemmas in face concerns are managed by the coordination of the relevant friendship elements through interactive features such as silence and emphatic markers.",
+    "Furthermore, all friendship relationships have fluid boundaries, in that over time they can become deeper and more meaningful, or retract and dissolve.",
+    "The modified extended family, supplemented by friendships, provides substantial expressive and instrumental support but many do not expect informal care.",
+    "Here was one reason that friendship among men was to be prized and cultivated."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "fried",
+    "friend",
+    "friendless",
+    "friendly",
+    "friendship",
+    "fries",
+    "frieze",
+    "fright",
+    "frighten"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389112_5f6e092da9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389112_41ce33acd0_o.png",
+      "id_image": "friendship_1001211"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458898_eb1943d985_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458898_190f0fe1a4_o.png",
+      "id_image": "friendship_1001226"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344071_6d0a9c37ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344071_997f658b81_o.png",
+      "id_image": "friendship_1001230"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081465_9c8a2a0277_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081465_9ce905191c_o.png",
+      "id_image": "friendship_1622612"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699204_a253f32301_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699204_aaabc71a46_o.png",
+      "id_image": "friendship_1706040"
+    }
+  ]
+}

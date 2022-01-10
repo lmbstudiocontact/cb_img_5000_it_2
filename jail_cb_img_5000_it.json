@@ -1,0 +1,82 @@
+{
+  "english": "jail",
+  "phat_am": "dʒeil",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tù",
+          "definition": "(a) prison",
+          "world_new": [
+            "prison"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You ought to be sent to jail for doing that."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bỏ tù",
+          "definition": "to put in prison",
+          "world_new": [
+            "prison"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was jailed for two years."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There are political prisoners in its jails, there is no freedom of speech and there is censorship.",
+    "Basically, every prisoner in our jails costs the taxpayer about £34,000.",
+    "Comorbidity of severe psychiatric disorders and substance use disorders among women in jails.",
+    "Asylums became repositories, as had the jails and workhouses before them, for any individual who could not be cared for in the community.",
+    "Members were often jailed and fined for violating ordinances and laws pertaining to public order and were targeted by antiterrorism measures.",
+    "We have evidence which we accept that such offences are committed frequently inside the jails.",
+    "Elected representatives are being persecuted and jailed en masse.",
+    "If it were absolute and operative at every stage of a prosecution, the defendant could never be jailed until conviction."
+  ],
+  "list_see_also": [
+    "jailer",
+    "jailbird"
+  ],
+  "list_browse": [
+    "jagged",
+    "jaggedly",
+    "jaggedness",
+    "jaguar",
+    "jail",
+    "jailbird",
+    "jailer",
+    "jam",
+    "jam on"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450913_b4b000ccba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450913_2c43c5e146_o.png",
+      "id_image": "jail_1685853"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380982_40d9654a46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380982_a54c21ae81_o.png",
+      "id_image": "jail_1901838"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335996_59a718ec67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335996_13fe301fff_o.png",
+      "id_image": "jail_372273"
+    }
+  ]
+}

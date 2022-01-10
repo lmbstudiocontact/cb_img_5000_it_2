@@ -1,0 +1,68 @@
+{
+  "english": "imp",
+  "phat_am": "imp",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tiểu yêu",
+          "definition": "a small devil or wicked spirit.",
+          "world_new": [
+            "small",
+            "devil",
+            "wicked",
+            "spirit"
+          ]
+        },
+        {
+          "mean_english": "đứa trẻ tinh quái",
+          "definition": "a mischievous child",
+          "world_new": [
+            "mischievous",
+            "child"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her son is a little imp.",
+              "world_new": [
+                "son"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Pinel was unable to achieve much for him, and appears in the book as a servant of the imps.",
+    "And these devil clowns can in turn trace their ancestry to the imps and tricksters of folk performance and ritual.",
+    "The two imps tie up all loose ends with their cosmic powers.",
+    "On its south wall is a squint with a carved image, known as the church imp, who looks through the squint.",
+    "She was an imp of mischief from commencement to conclusion.",
+    "That imp sits on his shoulders very often, but there must have been one on each shoulder when he designed this wretched, mean and despicable tax on the poor children.",
+    "The imps of mischief have been at work to-day.",
+    "While appearing as a diminutive imp monster, her actual form is human-shaped."
+  ],
+  "list_see_also": [
+    "impish"
+  ],
+  "list_browse": [
+    "immune",
+    "immunity",
+    "immunization",
+    "immunize",
+    "imp",
+    "impact",
+    "impair",
+    "impairment",
+    "impale"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436923_d5caefcddd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436923_91a30c5bff_o.png",
+      "id_image": "imp_5243172"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "english": "laundry",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cửa hàng giặt lả",
+          "definition": "a place where clothes etc are washed, especially in return for payment",
+          "world_new": [
+            "place",
+            "clothes",
+            "return",
+            "payment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She took the sheets to the laundry"
+            },
+            {
+              "ex_of_definition": "a hospital laundry.",
+              "world_new": [
+                "hospital"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quần áo đưa giặt",
+          "definition": "clothes etc which have been, or are to be, washed",
+          "world_new": [
+            "clothes"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bundle of laundry.",
+              "world_new": [
+                "bundle"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The labour press reported major strikes among women workers in a number of occupations including laundries and engineering works.",
+    "Don't put all the laundry in the machine together.",
+    "The majority of the assessments included items on cooking, housework and laundry activities.",
+    "Prices in the laundries are merely one example.",
+    "All these marvellous laundries we are told about no longer exist.",
+    "The question we have to ask is whether the growth of hospital laundries is in the national interest.",
+    "Most laundries will find their profit margins to be extremely low.",
+    "Meals would be cooked, linen washed and clothes made and repaired by public caterers, laundry workers and needlewomen."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "launching pad",
+    "launder",
+    "launderette",
+    "laundress",
+    "laundry",
+    "laurel",
+    "lava",
+    "lavatory",
+    "lavender"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363607_6e0fdd528e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363607_1bf5c1218b_o.png",
+      "id_image": "laundry_4636715"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434198_3881222bdb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434198_5f245ce613_o.png",
+      "id_image": "laundry_5390433"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318931_64840a6267_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318931_1a327c64e3_o.png",
+      "id_image": "laundry_6040430"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673789_3dc4526406_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673789_c54545c6b9_o.png",
+      "id_image": "laundry_6135594"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363637_dba55c5815_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363637_32778be6c2_o.png",
+      "id_image": "laundry_769656"
+    }
+  ]
+}

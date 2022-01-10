@@ -1,0 +1,103 @@
+{
+  "english": "joy",
+  "phat_am": "dʒoi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hạnh phúc",
+          "definition": "great happiness",
+          "world_new": [
+            "great",
+            "happiness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The children jumped for joy when they saw the new toys.",
+              "world_new": [
+                "saw"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "niềm vui",
+          "definition": "a cause of great happiness",
+          "world_new": [
+            "cause",
+            "great",
+            "happiness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Their son is a great joy to them.",
+              "world_new": [
+                "son",
+                "great"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "At this stage, we disregarded the earlier categories and found new, wider aspects such as joy, community and pedagogical usefulness.",
+    "All the while her thought was trying to justify her delight in the colours by merging them in her mystic religious joy.",
+    "In contrast to basic emotions (anger, fear, and joy), higher-order emotions like empathy and guilt are derivations of primary emotions.",
+    "These narratives were concerned with the subjective experiences of young people - their joys, pains, disappointments and ideological dilemmas - and often resembled confessions.",
+    "This is performing the comedy and the joy of life as well as ritualizing the pain and agony of existence in the long dark nights.",
+    "Overall the book is extremely well written and is a joy to read.",
+    "He suggests that most scientists he has encountered care little about taking risks when faced with the sheer joy of scientific inquiry.",
+    "One of the joys of reading this book is the clarity of the writing and the accessible presentation which includes extracts from the participants' narratives."
+  ],
+  "list_see_also": [
+    "joyful",
+    "joyfully",
+    "joyfulness",
+    "joyless",
+    "joylessly",
+    "joyous",
+    "joyously",
+    "joystick"
+  ],
+  "list_browse": [
+    "jovial",
+    "joviality",
+    "jovially",
+    "jowl",
+    "joy",
+    "joyful",
+    "joyfully",
+    "joyfulness",
+    "joyless"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446963_e943f56694_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446963_5e55a51b19_o.png",
+      "id_image": "joy_2341866"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068570_1fc57c3f9c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068570_c961308f35_o.png",
+      "id_image": "joy_3508730"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686889_9d38fe95e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686889_a1997c4cbf_o.png",
+      "id_image": "joy_6000975"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332031_9af3cbc5a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332031_7257d917bd_o.png",
+      "id_image": "joy_708669"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068640_03fa592fcf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068640_05e03ae926_o.png",
+      "id_image": "joy_708677"
+    }
+  ]
+}

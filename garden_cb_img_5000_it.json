@@ -1,0 +1,103 @@
+{
+  "english": "garden",
+  "phat_am": "ˈɡaːdn",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vườn",
+          "definition": "a piece of ground on which flowers, vegetables etc are grown",
+          "world_new": [
+            "piece",
+            "ground",
+            "grown"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a small garden at the front of the house",
+              "world_new": [
+                "small",
+                "front",
+                "house"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a garden slug.",
+              "world_new": [
+                "slug"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm vườn",
+          "definition": "to work in a garden, usually as a hobby",
+          "world_new": [
+            "work",
+            "hobby"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The old lady does not garden much.",
+              "world_new": [
+                "old",
+                "lady"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Places where the traders could gather and negotiate also grew up - eating-houses, tea shops, tea gardens, playhouses and the like - and a townscape was formed.",
+    "Initially, he worked on a small garden nursery venture begun by his energetic father, who was primarily a postmaster and shopkeeper.",
+    "It is a field of orchards and market gardens cultivated on a leased basis.",
+    "The gardens employed a large number of women, nearly all being married when they arrived.",
+    "So, my garden is both adjacent to and adjoining my next-door neighbour's.",
+    "The shortage of both labor and development capital restricted families to exploiting their land extensively by woodcutting, or through specialized farming, as in market gardens.",
+    "The remaining garden production activities studied were undertaken by either gender, depending on household labor allocation priorities.",
+    "Extensive studies in the surrounding forest by the authors confirmed that epiphytes occur only occasionally on ant and termite substrate other than ant gardens."
+  ],
+  "list_see_also": [
+    "gardener",
+    "gardening",
+    "gardens",
+    "garden centre",
+    "garden party"
+  ],
+  "list_browse": [
+    "garage",
+    "garbage",
+    "garbage can",
+    "garbled",
+    "garden",
+    "garden centre",
+    "garden party",
+    "gardener",
+    "gardening"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453998_d3f6683477_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453998_dac930d5b4_o.png",
+      "id_image": "garden_2071668"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694129_a14bc76a0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694129_cdc7d52b74_o.png",
+      "id_image": "garden_2808470"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339096_59473daea1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339096_31114fc41f_o.png",
+      "id_image": "garden_327405"
+    }
+  ]
+}

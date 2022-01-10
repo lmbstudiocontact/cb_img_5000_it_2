@@ -1,0 +1,69 @@
+{
+  "english": "inscription",
+  "phat_am": "inˈskripʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hình khắc",
+          "definition": "something written, eg on a gravestone or on a coin",
+          "world_new": [
+            "gravestone",
+            "coin"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The coin was so worn that the inscription could scarcely be read.",
+              "world_new": [
+                "coin",
+                "worn",
+                "scarcely",
+                "read"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Thus, alternative explanations are also consistent with the inscriptions.",
+    "Half of the inscription is set upside down.",
+    "In our present analysis, the liminal world is achieved largely by the lamination of narrated space and inscription space.",
+    "There are, to be sure, fewer inscriptions and no very lengthy ones, but that too reflects the relative poverty of public culture.",
+    "We will now explore cases in which speakers talk about scientific topics in the presence of inscriptions as they occur in various science-related contexts.",
+    "The first par t of this paper will address these three women rulers and their appellative phrases - sequences of names and titles- in monumental inscriptions.",
+    "Most of the inscriptions describing the e-democracy application were also prescriptions about the user context.",
+    "The test becomes a tiny but highly transferable diagram of a procedure for the inscription of human difference into the calculations of authorities."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "insatiable",
+    "insatiableness",
+    "insatiably",
+    "inscribe",
+    "inscription",
+    "insect",
+    "insect repellent",
+    "insecticide",
+    "insectivorous"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390997_f963f45432_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390997_7e4c5acd56_o.png",
+      "id_image": "inscription_2229939"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345986_4500b6940e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345986_c94f44cc9c_o.png",
+      "id_image": "inscription_3317593"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700994_b1ffa3746e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700994_b394b493b6_o.png",
+      "id_image": "inscription_4127094"
+    }
+  ]
+}

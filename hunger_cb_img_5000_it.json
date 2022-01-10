@@ -1,0 +1,140 @@
+{
+  "english": "hunger",
+  "phat_am": "ˈhaŋɡə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tình trạng đói",
+          "definition": "the desire for food",
+          "world_new": [
+            "desire",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A cheese roll won’t satisfy my hunger.",
+              "world_new": [
+                "cheese",
+                "roll",
+                "satisfy",
+                "my"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự đói",
+          "definition": "the state of not having enough food",
+          "world_new": [
+            "state",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Poor people in many parts of the world are dying of hunger.",
+              "world_new": [
+                "people",
+                "world"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự khao khát",
+          "definition": "any strong desire",
+          "world_new": [
+            "strong",
+            "desire"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a hunger for love.",
+              "world_new": [
+                "love"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "khao khát",
+          "definition": "(usually with for) to long for (eg affection, love)",
+          "world_new": [
+            "long",
+            "affection"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He hungered for a bit of peace and quiet.",
+              "world_new": [
+                "bit",
+                "peace",
+                "quiet"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The rest of the day remains for solving the problems (indicated by hunger, thirst, and so on) that midday happiness kept hidden.",
+    "He is a cunning and dangerous person who hungers for power.",
+    "The more they consumed, the more they hungered for power.",
+    "When they hungered, they reached up with their hands to eat the roasted meat.",
+    "Of the 8,000 that arrived, at least 3,000 died of disease, hunger, and despair.",
+    "Moreover, the results strongly suggest that vulnerable households suffered more deaths due to hunger.",
+    "The lessening of weight fluctuations and the containment of chronic thinness, as compared with the 1960s, gave further leverage for cushioning seasonal hunger.",
+    "Betrayed by love, and hungering for revenge, she slowly becomes as cruel as those she would destroy."
+  ],
+  "list_see_also": [
+    "hungry",
+    "hungrily",
+    "hungriness",
+    "hunger strike"
+  ],
+  "list_browse": [
+    "hundredfold",
+    "hundreds of",
+    "hundredth",
+    "hundredweight",
+    "hunger",
+    "hunger strike",
+    "hungrily",
+    "hungriness",
+    "hungry"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064400_c7bf907d67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064400_1af65a6ee5_o.png",
+      "id_image": "hunger_4799053"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064360_91635d8150_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064360_4c325fb1bf_o.png",
+      "id_image": "hunger_5017485"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442678_7d0116f0ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442678_3dbc01acb7_o.png",
+      "id_image": "hunger_6000814"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372292_7cf1091e54_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372292_7f589be47e_o.png",
+      "id_image": "hunger_6002532"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064425_880d330e7f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064425_d7c59a38d9_o.png",
+      "id_image": "hunger_708678"
+    }
+  ]
+}

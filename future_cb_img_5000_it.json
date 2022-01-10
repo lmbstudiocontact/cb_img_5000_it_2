@@ -1,0 +1,109 @@
+{
+  "english": "future",
+  "phat_am": "ˈfjuːtʃə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tương lai",
+          "definition": "(what is going to happen in) the time to come",
+          "world_new": [
+            "happen",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was afraid of what the future might bring",
+              "world_new": [
+                "afraid",
+                "bring"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) his future wife.",
+              "world_new": [
+                "wife"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thời tương lai",
+          "definition": "(a verb in) the future tense.",
+          "world_new": [
+            "verb",
+            "tense"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc hoặc xảy ra trong tương lai",
+          "definition": "(of a tense of a verb) indicating an action which will take place at a later time.",
+          "world_new": [
+            "tense",
+            "action",
+            "place",
+            "time"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The spatial considerations are easier to conceptualize because they are related to the basis between the delivery market and the futures market.",
+    "Trading futures and derivatives, it could have been a jungle of aggressive queue jumpers, seeking to trample their fellow traders under foot.",
+    "Turning to the life scenarios, crossovers into the past tended to occur wherever the narrators had difficulty envisaging or talking about their futures.",
+    "The life trajectory therefore appears as a linear movement that connects the past with possible futures.",
+    "If daily data is available, maturity is the number of calendar days remaining until delivery of the futures contract takes place.",
+    "We initially hoped to make the indexes the basis for futures contracts, but that still hasn't happened.",
+    "The futures price, the margin (strike price), and the riskfree interest rate are observable.",
+    "The estimated differentials between arbitrage prices and the futures price demonstrate the model's capacity to capture the characteristics of the markets."
+  ],
+  "list_see_also": [
+    "future perfect",
+    "in future"
+  ],
+  "list_browse": [
+    "fussy",
+    "futile",
+    "futility",
+    "futon",
+    "future",
+    "future perfect",
+    "fuzz",
+    "fuzzily",
+    "fuzziness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385832_ce5f89abcd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385832_d440aa8b41_o.png",
+      "id_image": "future_1900204"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696129_8563e916d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696129_2908421610_o.png",
+      "id_image": "future_4072740"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078150_84a225c4dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078150_1d538b0813_o.png",
+      "id_image": "future_4310272"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385727_f198cd9af6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385727_65d2e5b991_o.png",
+      "id_image": "future_4412693"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385687_0cbc1acb3d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385687_d94185f7d8_o.png",
+      "id_image": "future_4901060"
+    }
+  ]
+}

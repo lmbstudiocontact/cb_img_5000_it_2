@@ -1,0 +1,78 @@
+{
+  "english": "laboratory",
+  "phat_am": "ləˈborətəri",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phòng thí nghiệm",
+          "definition": "(abbreviated to lablab) a place where scientific experiments are carried on or where drugs etc are prepared",
+          "world_new": [
+            "place",
+            "scientific",
+            "prepared"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Samples of her blood were sent to the hospital lab(oratory) for testing.",
+              "world_new": [
+                "blood",
+                "hospital"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, no punitive measures can be taken against a laboratory that refuses to participate.",
+    "In fact, the controlled laboratory events that served as the mnemonic targets of this investigation were relatively pedestrian.",
+    "A pure quartz reagent blank and several certified geological reference standards, as well as internal laboratory standards, were analysed with these samples.",
+    "Her history of chemical theory refuses to isolate theory from the laboratory, the lecture hall, or the public and its philosophical interests.",
+    "This has led inevitably to the development of laboratory-based models that simulate oral biofilms in vitro.",
+    "These findings were corroborated by a number of laboratory-based measures of grammatical competence including estimated mean length of utterances, verbal comprehension, and repetition of sentences.",
+    "In contrast, more traditional approaches, such as laboratory-based studies, tend to be disconnected from the lived detail of the work.",
+    "The two appendices cover topics applicable to the whole book - site description and laboratory safety."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "kwashiorkor",
+    "L",
+    "L-plate",
+    "label",
+    "laboratory",
+    "laborious",
+    "laboriously",
+    "laboriousness",
+    "labour"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060805_154ac327d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060805_af01a89eac_o.png",
+      "id_image": "laboratory_2472810"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368747_93c5ed1ecd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368747_1bd915d175_o.png",
+      "id_image": "laboratory_2720338"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323801_b5825bee25_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323801_cb018243b9_o.png",
+      "id_image": "laboratory_2752105"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678989_186d7b2b6b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678989_acbb7faed6_o.png",
+      "id_image": "laboratory_2854778"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323721_f62511fbda_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323721_3aa402abba_o.png",
+      "id_image": "laboratory_4178737"
+    }
+  ]
+}

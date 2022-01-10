@@ -1,0 +1,65 @@
+{
+  "english": "handmade",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "làm bằng tay",
+          "definition": "made with a person’s hands or with tools held in the hands, rather than by machines",
+          "world_new": [
+            "rather"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "handmade furniture.",
+              "world_new": [
+                "furniture"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Handmade somatic cell cloning in cattle: analysis of factors contributing to high efficiency in vitro.",
+    "A handmade fake is dependent on the original.",
+    "So there are aspects of the handmade process that are not to be ignored.",
+    "To lament the loss of an embodied architecture is to valorize concepts of craft and the handmade.",
+    "We then inserted a handmade heterograft pericardial valve at the site of the pulmonary valve, and completed the reconstruction of the right ventricular outflow tract with a patch.",
+    "For instance, under reference 58.01 and 58.02, only some of the handmade knotted carpets, carpeting and rugs and coir mats and mattings are exempt.",
+    "The computer reveals things about the handmade, it re-invents the handmade as an issue.",
+    "Far from marginalizing issues of the senses, the body, and the handmade, the computer seems to amplify these concerns."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "handle",
+    "handlebars",
+    "-handled",
+    "handler",
+    "handmade",
+    "handout",
+    "hands down",
+    "hands off!",
+    "hands up!"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460698_0183c01c21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460698_2c6954375c_o.png",
+      "id_image": "handmade_1748878"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083360_d1c8eda443_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083360_d7fda9304d_o.png",
+      "id_image": "handmade_3905007"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390827_f14bbd58c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390827_82e363aac7_o.png",
+      "id_image": "handmade_3967370"
+    }
+  ]
+}

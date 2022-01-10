@@ -1,0 +1,75 @@
+{
+  "english": "immune",
+  "phat_am": "iˈmjuːn",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "miễn khỏi",
+          "definition": "(with toor from) immune protected against, or naturally resistant to, eg a disease",
+          "world_new": [
+            "protected",
+            "naturally",
+            "resistant",
+            "disease"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is immune to measles",
+              "world_new": [
+                "measles"
+              ]
+            },
+            {
+              "ex_of_definition": "On the river you are never completely immune from danger.",
+              "world_new": [
+                "river",
+                "completely",
+                "danger"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Effects of solar radiation and feeding time on behavior, immune response and production of lactating ewes under high ambient temperature.",
+    "In addition, the joint effects of pollutants and parasitism on the immune system of the host has not been ascertained.",
+    "The major challenge in the development of antischistosome vaccines is to use defined antigens to stimulate an appropriate immune response that leads to resistance.",
+    "Moreover, the successful development and long-term survival of cysticerci in mice may also be related to the immune response.",
+    "This could have consequences for understanding the pathogenesis of the disease and for developing methods to manipulate immune responses to eliminate the parasite.",
+    "First, mouse immune pathways are not always the same as human pathways.",
+    "For this reason, parasites have developed sophisticated self-regulating mechanisms to evade the immune response and to avoid being destroyed by the host.",
+    "This dichotomy is reflected in the immune response of these mice."
+  ],
+  "list_see_also": [
+    "immunity",
+    "immunize",
+    "immunization"
+  ],
+  "list_browse": [
+    "immortal",
+    "immortality",
+    "immortalize",
+    "immovable",
+    "immune",
+    "immunity",
+    "immunization",
+    "immunize",
+    "imp"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437318_6607383528_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437318_f426ae5279_o.png",
+      "id_image": "immune_5730167"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322051_cbf6cf045e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322051_bb8c42c649_o.png",
+      "id_image": "immune_6181888"
+    }
+  ]
+}

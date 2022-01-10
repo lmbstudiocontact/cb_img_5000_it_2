@@ -1,0 +1,101 @@
+{
+  "english": "mention",
+  "phat_am": "ˈmenʃən",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đề cập",
+          "definition": "to speak of or refer to",
+          "world_new": [
+            "speak",
+            "refer"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He mentioned the plan.",
+              "world_new": [
+                "plan"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lưu ý",
+          "definition": "to remark or say usually briefly or indirectly",
+          "world_new": [
+            "remark",
+            "briefly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She mentioned (that) she might be leaving."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự đề cập",
+          "definition": "(often with of) a (usually brief) remark (about)",
+          "world_new": [
+            "remark"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "No mention was made of this matter.",
+              "world_new": [
+                "matter"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Names mentioned by par ticipants in the conversations have been changed.",
+    "To strengthen their request, they also mentioned similar situations in other central administrations, where such demands had already been granted.",
+    "There were frequent mentions of the food and especially the dinner menu.",
+    "Of course, our work on observational equivalence mentioned above also applies mutatis mutandi to this system.",
+    "The size of the network is based on the number of relationships the respondent mentioned during the delineation of the network.",
+    "Indeed, they mentioned that they would be unable to compete in the market if they paid tax.",
+    "However, the studies mentioned above do not take into consideration the salience of contextual features in establishing such linkages in talk-in-interaction.",
+    "We were particularly pleased to find the connection between modalities and powerdomains mentioned before."
+  ],
+  "list_see_also": [
+    "not to mention"
+  ],
+  "list_browse": [
+    "mentality",
+    "mentally",
+    "menthol",
+    "mentholated",
+    "mention",
+    "menu",
+    "MEP",
+    "mercenary",
+    "merchandise"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461738_9581de5730_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461738_737e7019c3_o.png",
+      "id_image": "mention_3893261"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391827_7b2aae7102_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391827_6a16d5bca4_o.png",
+      "id_image": "mention_3983632"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701674_035e3a2e04_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701674_3a87b9a5ca_o.png",
+      "id_image": "mention_5660389"
+    }
+  ]
+}

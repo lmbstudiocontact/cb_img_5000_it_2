@@ -1,0 +1,108 @@
+{
+  "english": "impression",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ấn tượng",
+          "definition": "the idea or effect produced in someone’s mind by a person, experience etc",
+          "world_new": [
+            "idea",
+            "effect",
+            "mind",
+            "person",
+            "experience"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The film made a great impression on me.",
+              "world_new": [
+                "film",
+                "great"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cảm giác",
+          "definition": "a vague idea",
+          "world_new": [
+            "vague",
+            "idea"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I have the impression that he’s not pleased.",
+              "world_new": [
+                "I",
+                "pleased"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dấu",
+          "definition": "the mark left by an object on another object",
+          "world_new": [
+            "mark",
+            "left",
+            "object",
+            "object"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The dog left an impression of its paws in the wet cement.",
+              "world_new": [
+                "dog",
+                "left",
+                "its",
+                "wet",
+                "cement"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bản in",
+          "definition": "a single printing of a book etc.",
+          "world_new": [
+            "single",
+            "printing",
+            "book"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The first impressions afforded by this book are not altogether reassuring.",
+    "426 digit impressions and was made by a plantigrade foot.",
+    "A consensus is reached by reading the text, talking about the impressions it gives and historical research.",
+    "The pes impressions, however, show features that are different from pterosaur footprints reported previously.",
+    "Experiences from childhood, he maintained, were able to \"bore\" especially strong impressions into consciousness, and these impressions appeared very frequently in dreams.",
+    "Many bear official seal impressions and notes stating the year and location of the household register.",
+    "Here estimates of forest-line depression are based on impressions from the vegetation study.",
+    "Their first impressions, drawn from plain application, must be corrected, and it would seem that only additional information will do the correcting."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "imprecision",
+    "impregnate",
+    "impregnation",
+    "impress",
+    "impression",
+    "Impressionism",
+    "impressionist",
+    "imprint",
+    "imprison"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057335_fb41a7eeb7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057335_471c92f718_o.png",
+      "id_image": "impression_3703284"
+    }
+  ]
+}

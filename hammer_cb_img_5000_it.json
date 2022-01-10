@@ -1,0 +1,134 @@
+{
+  "english": "hammer",
+  "phat_am": "ˈhӕmə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái búa",
+          "definition": "a tool with a heavy usually metal head, used for driving nails into wood, breaking hard substances etc",
+          "world_new": [
+            "tool",
+            "heavy",
+            "metal",
+            "head",
+            "driving",
+            "wood"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He accidentally hit his thumb with the hammer",
+              "world_new": [
+                "accidentally",
+                "hit",
+                "thumb"
+              ]
+            },
+            {
+              "ex_of_definition": "a joiner’s hammer."
+            }
+          ]
+        },
+        {
+          "mean_english": "đầu cần",
+          "definition": "the part of a bell, piano, clock etc that hits against some other part, so making a noise.",
+          "world_new": [
+            "part",
+            "bell",
+            "piano",
+            "clock",
+            "part",
+            "noise"
+          ]
+        },
+        {
+          "mean_english": "ném búa",
+          "definition": "in sport, a metal ball on a long steel handle for throwing.",
+          "world_new": [
+            "sport",
+            "metal",
+            "ball",
+            "long",
+            "steel",
+            "handle"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đóng bằng búa",
+          "definition": "to hit, beat, break etc (something) with a hammer",
+          "world_new": [
+            "hit",
+            "beat",
+            "break"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He hammered the nail into the wood.",
+              "world_new": [
+                "nail",
+                "wood"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhồi nhét",
+          "definition": "to teach a person (something) with difficulty, by repetition",
+          "world_new": [
+            "teach",
+            "person",
+            "difficulty",
+            "repetition"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Grammar was hammered into us at school.",
+              "world_new": [
+                "school"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "give (someone) a hammering",
+    "hammer home",
+    "hammer out"
+  ],
+  "list_browse": [
+    "halve",
+    "ham",
+    "ham-fisted",
+    "hamburger",
+    "hammer",
+    "hammer home",
+    "hammer out",
+    "hammock",
+    "hamper"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315901_c26b6f2ca8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315901_eb7bf53634_o.png",
+      "id_image": "hammer_313069"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430753_0b88c5e93d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430753_e9227e011d_o.png",
+      "id_image": "hammer_939512"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315871_6db2eb8173_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315871_fa881868ab_o.png",
+      "id_image": "hammer_942385"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "english": "jaw",
+  "phat_am": "dʒoː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quai hàm",
+          "definition": "either of the two bones of the mouth in which the teeth are set",
+          "world_new": [
+            "mouth"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the upper/lower jaw"
+            },
+            {
+              "ex_of_definition": "His jaw was broken in the fight.",
+              "world_new": [
+                "broken",
+                "fight"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "miệng",
+          "definition": "the mouth (especially of an animal)",
+          "world_new": [
+            "mouth"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The crocodile’s jaws opened wide.",
+              "world_new": [
+                "wide"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Head and lower jaws were cut off and hoisted aboard separately, followed by the rest of the carcass.",
+    "The cross-sectional area of the tube is determined by the placement of the lips, jaw, tongue and velum.",
+    "These elements are homologous to the bones and cartilage of the primary jaw joint in non-mammalian jawed vertebrates.",
+    "Cynodonts had a more mammal-like jaw musculature, but the ear ossicles were still attached to the lower jaw, as they are in reptiles.",
+    "Most of the additional teeth observed in this study occurred in the upper jaw (43 of 52 individuals).",
+    "These skills are then transferred to the control of artificial devices of different type, starting from a simple jaw gripper to multi-fingered hands.",
+    "Unlike in mastodonsaurids, there are no ridges for attachment of jaw musculature.",
+    "Once he got whacked under the jaw with a mallet, leaving a perfect imprint of all his teeth on his tongue."
+  ],
+  "list_see_also": [
+    "jawbone"
+  ],
+  "list_browse": [
+    "jauntily",
+    "jauntiness",
+    "jaunty",
+    "javelin",
+    "jaw",
+    "jawbone",
+    "jaywalker",
+    "jaywalking",
+    "jazz"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380552_4d8697eb3d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380552_85e82c49db_o.png",
+      "id_image": "jaw_3465304"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690659_2fbdf28263_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690659_55841266c7_o.png",
+      "id_image": "jaw_5737402"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335426_baa96fa654_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335426_c85f7c526b_o.png",
+      "id_image": "jaw_6408745"
+    }
+  ]
+}

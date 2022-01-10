@@ -1,0 +1,87 @@
+{
+  "english": "index",
+  "phat_am": "ˈindeks",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bản chú dẫn",
+          "definition": "an alphabetical list of names, subjects etc eg at the end of a book",
+          "world_new": [
+            "alphabetical",
+            "list",
+            "book"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Look it up in the index."
+            }
+          ]
+        },
+        {
+          "mean_english": "số mũ",
+          "definition": "(plural indicesˈindisiːz) in mathematics the figure which indicates the number of times a figure etc must be multiplied by itself etc",
+          "world_new": [
+            "mathematics",
+            "figure",
+            "number",
+            "times",
+            "figure"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "In 63 and 75, the figures 3 and 5 are the indices."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The hypothesis was that phonological memory, as indexed by nonword repetition, is causally related to vocabulary development.",
+    "At the second step, two of the three models were significant, with specific risk indexes contributing to each model.",
+    "Thus, a key question for research as well as intervention is how closely associated these various indices of children's vocabulary are.",
+    "One might therefore expect the two indices to coincide in indicating the same words as understood.",
+    "The notes and indexes are carefully done, and there are two maps.",
+    "The construction of these indices is based on the cointegration and spatial market arbitrage opportunities inherent in agricultural commodity markets.",
+    "The overall good quality of the series made it possible to compute rent indexes for the period 1595-1850.",
+    "A chronology of important events in the composer's life, a bibliography and various indexes complete the volume."
+  ],
+  "list_see_also": [
+    "index finger"
+  ],
+  "list_browse": [
+    "independence",
+    "independent",
+    "independently",
+    "indestructible",
+    "index",
+    "index finger",
+    "india rubber",
+    "Indian",
+    "indicate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318106_d1b8753010_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318106_738a6ac97f_o.png",
+      "id_image": "index_2329851"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672914_d8d217d3cc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672914_7279e5ddb8_o.png",
+      "id_image": "index_2472045"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672854_de81635c8c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672854_8e7b5f4750_o.png",
+      "id_image": "index_2748516"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433213_8d996596e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433213_e31595567b_o.png",
+      "id_image": "index_3527778"
+    }
+  ]
+}

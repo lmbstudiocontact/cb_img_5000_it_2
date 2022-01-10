@@ -1,0 +1,71 @@
+{
+  "english": "genealogy",
+  "phat_am": "dʒiːniˈӕlədʒi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phả hệ",
+          "definition": "the history of families from generation to generation",
+          "world_new": [
+            "history",
+            "generation",
+            "generation"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the genealogy of the royal house of Tudor.",
+              "world_new": [
+                "royal",
+                "house"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sơ đồ phả hệ",
+          "definition": "a plan, list etc of the ancestors of a person or family.",
+          "world_new": [
+            "plan",
+            "list",
+            "person",
+            "family"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The book traces a genealogy of exchange between these two milieux.",
+    "One can also ask what might be inferred, in principle, from genealogies at multiple loci.",
+    "The effect of hitch-hiking on neutral genealogies.",
+    "The concept of effective size has usually an asymptotic meaning in a regular system, and it is more frequently used for predictive purposes rather than for analysing realized genealogies.",
+    "Allelic genealogies in sporophytic self-incompatibility systems in plants.",
+    "In principle, one could consider genealogies conditioning on the random series of background frequencies and then average over these sequences.",
+    "Each of these extended genealogies was thus checked and re-checked from different villages, where the various relatives of the family resided.",
+    "The genealogies show how, in some cases, fate, in the form of reproductive chance (death without male heirs), was seized upon in order to further specific ambitions."
+  ],
+  "list_see_also": [
+    "genealogical",
+    "genealogist"
+  ],
+  "list_browse": [
+    "gender",
+    "gene",
+    "genealogical",
+    "genealogist",
+    "genealogy",
+    "general",
+    "general election",
+    "general knowledge",
+    "general store"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381432_104ffcaec3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381432_29773aee12_o.png",
+      "id_image": "genealogy_2597677"
+    }
+  ]
+}

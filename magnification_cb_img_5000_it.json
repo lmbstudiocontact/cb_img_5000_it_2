@@ -1,0 +1,83 @@
+{
+  "english": "magnification",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hành động phóng to; thổi phồng",
+          "definition": "the act of magnifying (something).",
+          "world_new": [
+            "act"
+          ]
+        },
+        {
+          "mean_english": "sự phóng đại",
+          "definition": "the power of magnifying",
+          "world_new": [
+            "power"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the magnification of a pair of binoculars.",
+              "world_new": [
+                "pair",
+                "binoculars"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "độ phóng đại",
+          "definition": "the extent to which something (eg a photograph) has been magnified",
+          "world_new": [
+            "extent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The magnification is ten times (10 ).",
+              "world_new": [
+                "times"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "At this very high magnification the gold coating on the surface of the clay minerals becomes visible as a granular cover.",
+    "Pronuclear formation was examined with a phase-contrast microscope at a magnification of x 200 and x 400.",
+    "A retinal slice of a prehatchling animal at low magnification showing the different layers that are present in their retina.",
+    "Each length was measured with a ruler attached on the chest wall in order to correct the difference in magnification between the two projections.",
+    "Twigs pruned to 4 cm length and carrying the experimental egg batch were fixed under a dissecting microscope with 16-fold magnification.",
+    "Several scanning electron micrographs are exhibited which illustrate the ovum surface detail at various magnifications.",
+    "It is fully explicit, quantitative, and economical, and it brings in known features of the visual system (differential magnification) and oculomotor system.",
+    "The amount of the magnification being decided upon, it only is necessary to place the front and back of the camera in correct relative positions."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "magnetic north",
+    "magnetically",
+    "magnetism",
+    "magnetize",
+    "magnification",
+    "magnificence",
+    "magnificent",
+    "magnificently",
+    "magnify"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066160_ddc4d4fb5e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066160_c8e5621f99_o.png",
+      "id_image": "magnification_2472737"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444338_3f4429fb4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444338_93128cc67d_o.png",
+      "id_image": "magnification_3160992"
+    }
+  ]
+}

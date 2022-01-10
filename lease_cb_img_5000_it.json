@@ -1,0 +1,105 @@
+{
+  "english": "lease",
+  "phat_am": "liːs",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự cho thuê nhà đất",
+          "definition": "(the period of) an agreement giving the use of a house etc on payment of rent",
+          "world_new": [
+            "period",
+            "agreement",
+            "house",
+            "payment",
+            "rent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We signed the lease yesterday",
+              "world_new": [
+                "yesterday"
+              ]
+            },
+            {
+              "ex_of_definition": "a twenty-year lease."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cho thuê",
+          "definition": "to give or acquire a house etc in this way",
+          "world_new": [
+            "acquire",
+            "house"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He leases the land from the local council.",
+              "world_new": [
+                "land",
+                "local",
+                "council"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Another is the threat of cancellation of leases which have not been planted.",
+    "In the same year, troops were deployed to guard the leased territory.",
+    "Rents for housing and agricultural leases were lowered, for example, and military expenditures were considerably increased.",
+    "The settlers established property rights on revenue forestlands by leasing the land from the government.",
+    "Revenue accounts with the different landed proprietors were adjusted and leases confirmed or revoked.",
+    "Of course, these cultural or physical limitations cannot explain why women did not own more grain fields that they leased to others.",
+    "Because we are holding population fixed within each county, the amount of land leased will be directly correlated with its availability.",
+    "The amount of land leased was also different from that adver tised."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "learner",
+    "learner-friendly",
+    "learning",
+    "learning outcome",
+    "lease",
+    "leash",
+    "least",
+    "leather",
+    "leathery"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462718_ce57ed9e6b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462718_d0e5ded91a_o.png",
+      "id_image": "lease_1965904"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347866_27a362bc84_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347866_647e02c8cd_o.png",
+      "id_image": "lease_2558072"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392742_bd07457538_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392742_d3f465aebf_o.png",
+      "id_image": "lease_5235522"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347816_6cf7286341_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347816_2a2fa027b5_o.png",
+      "id_image": "lease_5235570"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702509_300a599e6a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702509_9514c5034f_o.png",
+      "id_image": "lease_5235616"
+    }
+  ]
+}

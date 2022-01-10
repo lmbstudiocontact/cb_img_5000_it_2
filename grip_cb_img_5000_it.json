@@ -1,0 +1,155 @@
+{
+  "english": "grip",
+  "phat_am": "ɡrip",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nắm chặt; giữ chặt",
+          "definition": "to take a firm hold of",
+          "world_new": [
+            "firm",
+            "hold"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He gripped his stick",
+              "world_new": [
+                "stick"
+              ]
+            },
+            {
+              "ex_of_definition": "The speaker gripped (the attention of) his audience.",
+              "world_new": [
+                "speaker",
+                "attention",
+                "audience"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự nắm chặt",
+          "definition": "a firm hold",
+          "world_new": [
+            "firm",
+            "hold"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He had a firm grip on his stick",
+              "world_new": [
+                "firm",
+                "stick"
+              ]
+            },
+            {
+              "ex_of_definition": "He has a very strong grip",
+              "world_new": [
+                "strong"
+              ]
+            },
+            {
+              "ex_of_definition": "The sailors were caught in the grip of a fierce storm.",
+              "world_new": [
+                "fierce",
+                "storm"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "túi du lịch",
+          "definition": "a bag used by travellers",
+          "world_new": [
+            "bag"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He carried his sports equipment in a large grip.",
+              "world_new": [
+                "sports",
+                "equipment",
+                "large"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự thấu hiểu",
+          "definition": "understanding",
+          "world_new": [
+            "understanding"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has a good grip of the subject.",
+              "world_new": [
+                "subject"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The intention, declared on the first page, is to come to grips with the relations between built environments and development.",
+    "There is at any rate nothing figurative about the paralysis which grips her when her husband tumbles into the water.",
+    "Then, however, she will have to come to grips with the claim that predation contributes directly or indirectly to the occurrence of evolutionary progress.",
+    "Hargreaves towered throughout, gripping the audience from the outset: tetchy, moody, nervous, wheedling, sympathetic, insistent and bossy; but always engaging.",
+    "The method of gripping solar cells is described based on pneumatic technology.",
+    "In the experiments the subjects held statically instrumented handles using prismatic grips.",
+    "Individuals gripped in passion's vice could do little to regulate the emotion and had to wait until it ebbed.",
+    "Standing on the cardboard, the female raises its abdomen and lowers the ovipositor, the latter being gripped at its tip by the sheath."
+  ],
+  "list_see_also": [
+    "gripping",
+    "come to grips with",
+    "lose one’s grip"
+  ],
+  "list_browse": [
+    "grind up",
+    "grinder",
+    "grinding",
+    "grindstone",
+    "grip",
+    "gripping",
+    "grisly",
+    "gristle",
+    "gristly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675899_9157fb4740_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675899_e611d0aab9_o.png",
+      "id_image": "grip_193656"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320826_29d72ea05b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320826_3dfe9d0d4f_o.png",
+      "id_image": "grip_2270954"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365707_79aaaf9714_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365707_418c41bcbc_o.png",
+      "id_image": "grip_2464793"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320761_872ac00271_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320761_d51546ec03_o.png",
+      "id_image": "grip_4205504"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365657_013037428a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365657_d6152a8943_o.png",
+      "id_image": "grip_5612911"
+    }
+  ]
+}

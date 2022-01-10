@@ -1,0 +1,109 @@
+{
+  "english": "learn",
+  "phat_am": "ləːn",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "học",
+          "definition": "to gain knowledge or skill (in)",
+          "world_new": [
+            "gain",
+            "knowledge",
+            "skill"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A child is always learning",
+              "world_new": [
+                "child",
+                "learning"
+              ]
+            },
+            {
+              "ex_of_definition": "She wants to learn French",
+              "world_new": [
+                "French"
+              ]
+            },
+            {
+              "ex_of_definition": "She is learning (how) to swim.",
+              "world_new": [
+                "learning",
+                "swim"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "biết được",
+          "definition": "to get to know",
+          "world_new": [
+            "know"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It was then that I learned that she was dead.",
+              "world_new": [
+                "I",
+                "learned",
+                "dead"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Pilot work showed that it was not feasible to measure rate of learning in terms of the number of trials to criterion.",
+    "Another question concerns the types of contexts that are conducive to learning.",
+    "How, then, can young children's learning potential be exploited most effectively?",
+    "More important than anything, is learning to listen.",
+    "Every child learns that elephants never forget; that their excellent memory is essential for survival.",
+    "One strand of research has sought to identify relationships between biographical variables such as first language background and educational experiences with learning strategy preferences.",
+    "French leaders should have learned, but many did not, that adolescent nationalism is a most dangerous kind to challenge.",
+    "Participants' preliminary data on the benefits and potentials for learning to read and reading for learning other things are discussed."
+  ],
+  "list_see_also": [
+    "learned",
+    "learner",
+    "learning",
+    "learner-friendly",
+    "learning outcome"
+  ],
+  "list_browse": [
+    "leanness",
+    "leap",
+    "leap year",
+    "leapfrog",
+    "learn",
+    "learned",
+    "learner",
+    "learner-friendly",
+    "learning"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462923_8f171e9c56_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462923_f0e3274dcc_o.png",
+      "id_image": "learn_2072720"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702704_8f9bdd7d5f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702704_db7f28af40_o.png",
+      "id_image": "learn_4861806"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462808_e3b705f5e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462808_f86e50445a_o.png",
+      "id_image": "learn_5020821"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392847_6fd48ba876_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392847_6aaefd8fdc_o.png",
+      "id_image": "learn_5387480"
+    }
+  ]
+}

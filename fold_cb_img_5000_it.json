@@ -1,0 +1,193 @@
+{
+  "english": "fold",
+  "phat_am": "fould",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "gấp; xếp lại",
+          "definition": "to double over (material, paper etc)",
+          "world_new": [
+            "double",
+            "paper"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She folded the paper in half.",
+              "world_new": [
+                "folded",
+                "paper",
+                "half"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đặt lên trên",
+          "definition": "to lay one on top of another",
+          "world_new": [
+            "lay",
+            "top"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She folded her hands in her lap.",
+              "world_new": [
+                "folded",
+                "lap"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gập cánh",
+          "definition": "to bring in (wings) close to the body",
+          "world_new": [
+            "bring",
+            "close",
+            "body"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The bird folded its wings.",
+              "world_new": [
+                "bird",
+                "folded",
+                "its",
+                "wings"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự gấp nếp",
+          "definition": "a doubling of one layer of material, paper etc over another",
+          "world_new": [
+            "layer",
+            "material",
+            "paper"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her dress hung in folds.",
+              "world_new": [
+                "dress"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nếp gấp",
+          "definition": "a mark made especially on paper etc by doing this; a crease",
+          "world_new": [
+            "mark",
+            "paper",
+            "crease"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There was a fold in the page.",
+              "world_new": [
+                "page"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bãi rào (nhốt súc vật)",
+          "definition": "a place surrounded by a fence or wall, in which sheep are kept",
+          "world_new": [
+            "place",
+            "fence",
+            "wall",
+            "sheep"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a sheep fold.",
+              "world_new": [
+                "sheep"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "suffix",
+      "list_definition": [
+        {
+          "mean_english": "hậu tố “tăng lên bao nhiêu lần”",
+          "definition": "(in adjectives and adverbs) used with numbers to show by how many times something has increased",
+          "world_new": [
+            "times"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There has been a threefold increase in car thefts over the past decade.",
+              "world_new": [
+                "increase",
+                "car",
+                "decade"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Consequently, it was divided into 15 sections, each folded into six panels.",
+    "The main phosphatic zone overlies dark massive cherts and underlies pale marls with important synsedimentary folds.",
+    "A few metre-scale recumbent folds with axial plane schistosity have been observed in the fine-grained layers from the lower part of the section.",
+    "As a result, the number of define steps is finite as all re-occurring expressions will be folded.",
+    "Asymmetric folds at lithological boundaries indicate some flexural slip occurred during this folding.",
+    "Within rows, on the other hand, interactions may be very complicated and long-ranged - just imagine a protein folding back upon itself.",
+    "Intracellular folding pathway of human chorionic gonadotropin beta subunit.",
+    "In general, the outer surface of the epidermis is relatively smooth, although in certain places it may be highly folded."
+  ],
+  "list_see_also": [
+    "folded",
+    "folder",
+    "folding"
+  ],
+  "list_browse": [
+    "fog-bound",
+    "fog-horn",
+    "foggy",
+    "foil",
+    "fold",
+    "folded",
+    "folder",
+    "folding",
+    "foliage"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433143_d33703f59d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433143_8923ae48d4_o.png",
+      "id_image": "fold_4145093"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672734_9404921605_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672734_c26fc1fd38_o.png",
+      "id_image": "fold_4145102"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054480_f8846696ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054480_3bcbf63cfe_o.png",
+      "id_image": "fold_4145109"
+    }
+  ]
+}

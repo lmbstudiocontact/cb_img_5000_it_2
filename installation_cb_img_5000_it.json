@@ -1,0 +1,79 @@
+{
+  "english": "installation",
+  "phat_am": "instəˈleiʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự lắp đặt",
+          "definition": "the act of installing",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "software installation.",
+              "world_new": [
+                "software"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cái được lắp đặt",
+          "definition": "a piece of equipment that has been installed",
+          "world_new": [
+            "piece",
+            "equipment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The cooker, fridge, and other electrical installations are all in working order.",
+              "world_new": [
+                "cooker",
+                "fridge",
+                "electrical",
+                "order"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The number of units are given for both installations and operational stock.",
+    "Both theorists and experiments required the investigation of very different targets from very unusual materials for a number of installations.",
+    "Between 2005 and 2008, a robust growth in robot installations worldwide can be expected.",
+    "They have investigated the generation of fast ions at various laser installations with different flux densities and laser wavelengths.",
+    "Everyone knows how well appreciated sound installations can be.",
+    "Now, art installations have become commonplace, and their success demands ever more sophisticated environments.",
+    "Composers began constructing audio installations in which musical changes would occur as the audience walked through or around the space.",
+    "During the past fifteen years, however, we have focused in particular on the development of autonomous installations."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "inspire",
+    "inspired",
+    "instability",
+    "install",
+    "installation",
+    "instalment",
+    "instance",
+    "instant",
+    "instantaneous"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081945_26d07acbd0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081945_cec0dd292f_o.png",
+      "id_image": "installation_2568922"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699569_75b10d6400_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699569_482b9a8699_o.png",
+      "id_image": "installation_2714631"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "english": "haze",
+  "phat_am": "heiz",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sương mù",
+          "definition": "a thin mist",
+          "world_new": [
+            "thin",
+            "mist"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The mountains were dim through the haze.",
+              "world_new": [
+                "dim"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bắt nạt",
+          "definition": "to play tricks on new college students, army recruits etc or make them perform humiliating tasks.",
+          "world_new": [
+            "play",
+            "college",
+            "army",
+            "perform",
+            "humiliating"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Eleven of those individuals face one count of third-degree felony hazing resulting in death, which is punishable by up to six years in prison.",
+    "There is a zero tolerance against any kind of hazing.",
+    "Gangs foster fellowship though the brutality of hazing and the camaraderie of drinking sessions.",
+    "In military circles hazing is sometimes assumed to test recruits under situations of stress and hostility.",
+    "Although the day used to consist of hazing instead of fun, the school has put an end to the hazing of grade 9 day.",
+    "Rewards during initiations or hazing rituals matter in that initiates who feel more rewarded express stronger group identity.",
+    "The college president typically enforced strict discipline, and the upperclassman enjoyed hazing the freshman.",
+    "Three windows were removed from the orbiter due to pitting and hazing."
+  ],
+  "list_see_also": [
+    "hazy",
+    "haziness"
+  ],
+  "list_browse": [
+    "haywire",
+    "hazard",
+    "hazardous",
+    "hazardousness",
+    "haze",
+    "hazel",
+    "hazelnut",
+    "haziness",
+    "hazing"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457658_02af214db2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457658_001ab1f9d0_o.png",
+      "id_image": "haze_3104495"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342821_438828e00b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342821_1e422e1c36_o.png",
+      "id_image": "haze_6236517"
+    }
+  ]
+}

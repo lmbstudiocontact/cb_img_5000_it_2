@@ -1,0 +1,96 @@
+{
+  "english": "landmark",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mốc",
+          "definition": "an object on land that serves as a guide to seamen or others",
+          "world_new": [
+            "object",
+            "land",
+            "guide"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The church tower is a landmark for sailors because it stands on the top of a cliff.",
+              "world_new": [
+                "church",
+                "tower",
+                "top",
+                "cliff"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự kiện",
+          "definition": "an event of great importance",
+          "world_new": [
+            "event",
+            "great",
+            "importance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The discovery of noble gases was an important landmark in the history of chemistry.",
+              "world_new": [
+                "discovery",
+                "noble",
+                "important",
+                "history",
+                "chemistry"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The two books represent major landmarks in the study of growing old, and confirm the value and importance of historical and policy analysis.",
+    "Visual optics in the cat including posterior nodal distance and retinal landmarks.",
+    "The camera is pointed towards the wall that the robot follows and analyzes the images captured looking for landmarks.",
+    "The setups used in the robot experiments consisted of 2-4 landmarks.",
+    "On the other hand, the interval bounds for the landmarks of the position, velocity, and acceleration of the mass remain unchanged in the example.",
+    "The robot uses a system composed of three landmarks for its absolute location.",
+    "In order to ease the door detection, artificial landmarks with numerical information have been placed beside the doors.",
+    "There is a list of dated landmarks, an appendix of poems that cover virtually all the material of the book, a glossary, bibliography and index."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "landing gear",
+    "landing stage",
+    "landlocked",
+    "landlord",
+    "landmark",
+    "landmine",
+    "landowner",
+    "Landrover",
+    "landscape"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321321_94bf2d081a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321321_c1e90c70ef_o.png",
+      "id_image": "landmark_1282237"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366247_4c70e1a949_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366247_98502e7648_o.png",
+      "id_image": "landmark_1282245"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321266_64c39548bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321266_1bfb1bf9d7_o.png",
+      "id_image": "landmark_3700216"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321241_8d3fe6ba12_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321241_0a40e4aa17_o.png",
+      "id_image": "landmark_3949456"
+    }
+  ]
+}

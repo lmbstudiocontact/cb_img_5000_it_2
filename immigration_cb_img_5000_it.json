@@ -1,0 +1,73 @@
+{
+  "english": "immigration",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự nhập cư",
+          "definition": "the act of entering a country in order to settle there",
+          "world_new": [
+            "act",
+            "country",
+            "order",
+            "settle"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Immigration has increased significantly over the past few years.",
+              "world_new": [
+                "significantly"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Having established that immigration was problematic, because of men's ' political and racial' differences, he proceeded to explain in detail the nature of those differences.",
+    "With a shrinking immigration program, the chances for renewal by impor tation are also shrinking.",
+    "Does he recognise that the last two major immigrations into this country were not widely welcomed by the indigenous population?",
+    "There were two notable immigrations to the state during his administration.",
+    "Immigration and emigration was assumed to be negligible (except where indicated).",
+    "In the early 1970s, an uneasy interparty consensus on race and immigration began to break down and race began to move up the public agenda.",
+    "His claim of rationality, morality, and veracity guarantees his authority to make assertions about immigration and the behavior of immigrants.",
+    "Although, 5 years after immigration, a favorable change in objective parameters of absorption was found, no decrease in psychological distress was observed."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "immersion",
+    "immersion heater",
+    "immersion programme",
+    "immigrant",
+    "immigration",
+    "imminence",
+    "imminent",
+    "immiscible",
+    "immobile"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437498_0bcf9f6a45_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437498_6bc7a21588_o.png",
+      "id_image": "immigration_3061872"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437473_4cbf399b03_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437473_e334eea1fd_o.png",
+      "id_image": "immigration_4251721"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322166_f59dee5877_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322166_ef042da7a8_o.png",
+      "id_image": "immigration_4283080"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058960_080d3bd94d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058960_3145462c3b_o.png",
+      "id_image": "immigration_5965823"
+    }
+  ]
+}

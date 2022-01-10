@@ -1,0 +1,312 @@
+{
+  "english": "keep",
+  "phat_am": "kiːp",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "gìn giữ",
+          "definition": "to have for a very long or indefinite period of time",
+          "world_new": [
+            "long",
+            "indefinite",
+            "period",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He gave me the picture to keep.",
+              "world_new": [
+                "picture"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giữ",
+          "definition": "not to give or throw away; to preserve",
+          "world_new": [
+            "throw",
+            "preserve"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I kept the most interesting books",
+              "world_new": [
+                "I",
+                "interesting"
+              ]
+            },
+            {
+              "ex_of_definition": "Can you keep a secret?",
+              "world_new": [
+                "secret"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giữ trong tình trạng",
+          "definition": "to (cause to) remain in a certain state or position",
+          "world_new": [
+            "remain",
+            "certain",
+            "state",
+            "position"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I keep this gun loaded",
+              "world_new": [
+                "I",
+                "gun",
+                "loaded"
+              ]
+            },
+            {
+              "ex_of_definition": "How do you keep cool in this heat?",
+              "world_new": [
+                "cool",
+                "heat"
+              ]
+            },
+            {
+              "ex_of_definition": "Will you keep me informed of what happens?"
+            }
+          ]
+        },
+        {
+          "mean_english": "tiếp tục",
+          "definition": "to go on (performing or repeating a certain action)",
+          "world_new": [
+            "certain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He kept walking."
+            }
+          ]
+        },
+        {
+          "mean_english": "dự trữ",
+          "definition": "to have in store",
+          "world_new": [
+            "store"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I always keep a tin of baked beans for emergencies.",
+              "world_new": [
+                "I",
+                "tin",
+                "baked"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chăm sóc",
+          "definition": "to look after or care for",
+          "world_new": [
+            "look",
+            "care"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She keeps the garden beautifully",
+              "world_new": [
+                "garden",
+                "beautifully"
+              ]
+            },
+            {
+              "ex_of_definition": "I think they keep hens.",
+              "world_new": [
+                "I",
+                "think"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "duy trì",
+          "definition": "to remain in good condition",
+          "world_new": [
+            "remain",
+            "condition"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That meat won’t keep in this heat unless you put it in the fridge.",
+              "world_new": [
+                "meat",
+                "heat",
+                "unless",
+                "fridge"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lưu",
+          "definition": "to make entries in (a diary, accounts etc)",
+          "world_new": [
+            "diary"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She keeps a diary to remind her of her appointments",
+              "world_new": [
+                "diary",
+                "remind"
+              ]
+            },
+            {
+              "ex_of_definition": "He kept the accounts for the club.",
+              "world_new": [
+                "club"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giữ lại; níu kéo",
+          "definition": "to hold back or delay",
+          "world_new": [
+            "hold",
+            "delay"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Sorry to keep you."
+            }
+          ]
+        },
+        {
+          "mean_english": "chăm sóc",
+          "definition": "to provide food, clothes, housing for (someone)",
+          "world_new": [
+            "provide",
+            "food",
+            "clothes",
+            "housing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has a wife and child to keep.",
+              "world_new": [
+                "wife",
+                "child"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tuân theo",
+          "definition": "to act in the way demanded by someone",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She kept her promise.",
+              "world_new": [
+                "promise"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nuôi thân",
+          "definition": "food and lodging",
+          "world_new": [
+            "food",
+            "lodging"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She gives her mother money every week for her keep",
+              "world_new": [
+                "mother",
+                "money",
+                "week"
+              ]
+            },
+            {
+              "ex_of_definition": "Our cat really earns her keep – she kills all the mice in the house.",
+              "world_new": [
+                "cat",
+                "house"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There is a weak indication that childless men reported more often than fathers that the start of care-giving had no effect - that they kept working.",
+    "Preliminary estimates indicate that traditional livestock keeping has a small but positive net contribution to the national economy (value added to national income).",
+    "Recent studies indicate that calcium is part of the body's natural system for burning fat, while protein is essential for building and keeping muscle.",
+    "The knight and his servant are acting their rôles: the knight acting adventurously, but stupidly, while the servant keeps him to realities.",
+    "The novel unfolds out of it and any narrative comment about that talk is kept to a minimum.",
+    "In cases where there were disagreements between our informants, words were kept in our final list of diminutizable words.",
+    "The deposition substrate was kept at room temperature.",
+    "No doubt he could have taken all sorts of ridiculous steps quite out of keeping with the triviality of the occasion."
+  ],
+  "list_see_also": [
+    "keeper",
+    "keeping",
+    "keep-fit",
+    "keepsake",
+    "for keeps",
+    "in keeping with",
+    "keep away",
+    "keep back",
+    "keep one’s distance",
+    "keep down",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "keen",
+    "keen on",
+    "keenly",
+    "keenness",
+    "keep",
+    "keep (some)one’s nose to the grindstone",
+    "keep (somebody) posted",
+    "keep (someone) company",
+    "keep (someone) on the hop"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066380_0e3d67c14e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066380_9920d1b650_o.png",
+      "id_image": "keep_1274204"
+    }
+  ]
+}

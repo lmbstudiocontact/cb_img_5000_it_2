@@ -1,0 +1,170 @@
+{
+  "english": "joint",
+  "phat_am": "dʒoint",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chỗ nối",
+          "definition": "the place where two or more things join",
+          "world_new": [
+            "place",
+            "join"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The plumber tightened up all the joints in the pipes.",
+              "world_new": [
+                "plumber",
+                "pipes"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khớp",
+          "definition": "a part of the body where two bones meet but are able to move in the manner of eg a hinge",
+          "world_new": [
+            "part",
+            "body",
+            "meet",
+            "move",
+            "manner",
+            "hinge"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The shoulders, elbows, wrists, hips, knees, and ankles are joints."
+            }
+          ]
+        },
+        {
+          "mean_english": "súc thịt",
+          "definition": "a piece of meat for cooking containing a bone",
+          "world_new": [
+            "piece",
+            "meat",
+            "cooking",
+            "bone"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a joint of meat",
+              "world_new": [
+                "meat"
+              ]
+            },
+            {
+              "ex_of_definition": "A leg of mutton is a fairly large joint.",
+              "world_new": [
+                "leg",
+                "mutton",
+                "fairly",
+                "large"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "cùng",
+          "definition": "united; done together",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the joint efforts of the whole team.",
+              "world_new": [
+                "whole",
+                "team"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chung",
+          "definition": "shared by, or belonging to, two or more",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She and her husband have a joint bank account.",
+              "world_new": [
+                "husband",
+                "bank",
+                "account"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chia nhỏ",
+          "definition": "to divide (an animal etc for cooking) at the, or into, joints",
+          "world_new": [
+            "divide",
+            "animal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Joint the chicken before cooking it.",
+              "world_new": [
+                "chicken",
+                "cooking"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "These measures reflect the rate of caregiver utterances by style during each joint engagement state.",
+    "Our verb results confirm the joint roles of informativeness and limited resources hypothesized in the introduction.",
+    "The fixed effects are reported and have been tested for joint significance.",
+    "Because of joint flexibility, the manipulators are difficult to calibrate kinematically.",
+    "Coefficients for the sawmill density variable are higher in the revenue efficiency models in both the joint timber-agriculture and agriculture-specific cases.",
+    "Because they use a numerical algorithm to optimize the cubic polynomial joint interpolator, it is not a real-time algorithm.",
+    "The remaining joints will be slowed proportional to the slow joint motion.",
+    "Again, although none of these have been measured in field settings, these joint conditions are unlikely to be met."
+  ],
+  "list_see_also": [
+    "jointed",
+    "jointly",
+    "out of joint",
+    "join"
+  ],
+  "list_browse": [
+    "join in",
+    "join up",
+    "joiner",
+    "joinery",
+    "joint",
+    "jointed",
+    "jointly",
+    "joke",
+    "joker"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447903_faec61c704_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447903_b80ee36c51_o.png",
+      "id_image": "joint_2865381"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687869_53afd7939a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687869_136233d2f9_o.png",
+      "id_image": "joint_605652"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687819_09c4c0bf20_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687819_a1dbdb20da_o.png",
+      "id_image": "joint_6147488"
+    }
+  ]
+}

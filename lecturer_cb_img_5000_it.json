@@ -1,0 +1,66 @@
+{
+  "english": "lecturer",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "giảng viên",
+          "definition": "a person who lectures, especially to students",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is a lecturer in the English department.",
+              "world_new": [
+                "English",
+                "department"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "So let us remind ourselves what happened (all of which a lecturer on the subject of modern architecture and industrial art must constantly repeat).",
+    "Evaluating the effect of a lecturer's language background on a student rating of teaching form.",
+    "The teaching programmes after all reflect the research horizon of the lecturers.",
+    "It was only natural that they became the benefactors, masters/deans, resident teachers and frequent guest lecturers of these old classic learning institutions.",
+    "They included government officials, lawyers, doctors, teachers, college lecturers, journalists, managers in multi-national corporations or in smaller private concerns, computer software personnel, engineers and scientists.",
+    "Ample opportunities are offered to lecturers to enrich courses on curriculum design.",
+    "The book fills an important gap and should be accessible to geology students let alone their lecturers and course planners.",
+    "He is from a middle class background and is a lecturer in education."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "leave/make one’s mark",
+    "leavened",
+    "lectern",
+    "lecture",
+    "lecturer",
+    "ledge",
+    "ledger",
+    "lee",
+    "leech"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347301_f0220a2faf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347301_f9980abb67_o.png",
+      "id_image": "lecturer_2700524"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462068_369c482c70_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462068_9d72b35d9a_o.png",
+      "id_image": "lecturer_4728738"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347251_d339a571ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347251_22689769aa_o.png",
+      "id_image": "lecturer_4736362"
+    }
+  ]
+}

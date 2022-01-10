@@ -1,0 +1,74 @@
+{
+  "english": "meat",
+  "phat_am": "miːt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thịt",
+          "definition": "the flesh of animals or birds used as food",
+          "world_new": [
+            "flesh",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She does not eat meat",
+              "world_new": [
+                "eat"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) What did you have for the meat course?",
+              "world_new": [
+                "course"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Consumption figures for the major meats are as shown.",
+    "They increased the import of canned meats from 22,000 tons in the first half of 1950 to 75,000 tons in the first half of 1951.",
+    "There is nothing sinister about the higher limit for the short term for certain tinned meats.",
+    "There are, however, fair quantities of slicing meats and in addition the ready-meal pack, which is only two points per 1b.",
+    "The present request applies to imported canned meats other than these.",
+    "The price of fish, like those of other meats, has been depressed over the last year or 18 months.",
+    "Further varieties of canned meats, both home and imported, are also becoming available on points.",
+    "Additives to meats and other foods should be studied with the greatest care."
+  ],
+  "list_see_also": [
+    "meaty"
+  ],
+  "list_browse": [
+    "measure",
+    "measure out",
+    "measure up",
+    "measurement",
+    "meat",
+    "meaty",
+    "mechanic",
+    "mechanical",
+    "mechanically"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673379_94c6e20138_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673379_a30833f63e_o.png",
+      "id_image": "meat_124365"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363132_709efe0314_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363132_9f68bd6210_o.png",
+      "id_image": "meat_1702826"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055130_eef52ec91a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055130_e83b5acc50_o.png",
+      "id_image": "meat_2403379"
+    }
+  ]
+}

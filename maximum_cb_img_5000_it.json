@@ -1,0 +1,78 @@
+{
+  "english": "maximum",
+  "phat_am": "ˈmӕksiməm",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "tối đa",
+          "definition": "greatest",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This requires maximum effort / the maximum amount of effort.",
+              "world_new": [
+                "effort",
+                "amount",
+                "effort"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lượng cực đại",
+          "definition": "the greatest number or quantity or the highest point or degree",
+          "world_new": [
+            "number",
+            "quantity",
+            "point",
+            "degree"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Two hundred an hour is the maximum we can produce.",
+              "world_new": [
+                "hour",
+                "produce"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "One more interesting fact is that the primary maxima and minima are slowly increasing while the two intermediate extrema are slowly decreasing.",
+    "The finger-tips are negative curvature minima (the fluid interface is locally concave), while the fjords are positive curvature maxima (fluid interface locally convex).",
+    "In particular, it can automatically exclude parameter values corresponding to unreasonable models, such as exponential-plus-linear models without finite maxima.",
+    "The transitions of the chain are inversions which replace local maxima with local minima, or vice versa, by interchanging two edges along the walk.",
+    "In addition, unlike word stress, which cannot be altered easily, phrasal stress can be adjusted to produce stress maxima in the right places.",
+    "The maxima (75, 43, 39) are outliers, as reflected by the median numbers of admissions in the range 2-4.",
+    "Let us prove the statement for maxima only.",
+    "Measurements of local minima and maxima were made for the portions of the pitchtrack excluding these."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "mauve",
+    "max",
+    "maxim",
+    "maximize",
+    "maximum",
+    "may",
+    "may as well",
+    "May Day",
+    "may have"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674369_493638b08b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674369_287612500b_o.png",
+      "id_image": "maximum_4745557"
+    }
+  ]
+}

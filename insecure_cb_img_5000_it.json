@@ -1,0 +1,82 @@
+{
+  "english": "insecure",
+  "phat_am": "insiˈkjuə",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "không an toàn",
+          "definition": "unsure of oneself or lacking confidence",
+          "world_new": [
+            "unsure",
+            "confidence"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Whenever he was in a crowd of people he felt anxious and insecure.",
+              "world_new": [
+                "crowd",
+                "people",
+                "felt",
+                "anxious"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bấp bênh",
+          "definition": "not safe or firmly fixed",
+          "world_new": [
+            "safe",
+            "firmly",
+            "fixed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This chair-leg is insecure"
+            },
+            {
+              "ex_of_definition": "an insecure lock.",
+              "world_new": [
+                "lock"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "If the threat or use of force makes states insecure, realist folklore posits that they should increase their power.",
+    "Monotonic increases in the proportion of overall insecure attachment were associated with increasing cumulative risk scores.",
+    "At the beginning of the project, they were also insecure when dealing with the new ways, confronting as they did, years of inherited tradition.",
+    "People are feeling insecure; they want their home to be a fortress.",
+    "However, the dyad engaged in more insecure - rejecting - insecure exchanges than secure - nurturant - secure exchanges.",
+    "However, low negative reactivity was not consistently related to the activation of the attachment behavioral system, or associated with insecure attachment relationships.",
+    "Insecure ciations linking trauma, representation, and children who have been victimized by vio- memory were detected.",
+    "We were particularly interested in creating categories that would describe insecure attachment organizations in children from difficult life circumstances."
+  ],
+  "list_see_also": [
+    "insecurely",
+    "insecurity"
+  ],
+  "list_browse": [
+    "insect",
+    "insect repellent",
+    "insecticide",
+    "insectivorous",
+    "insecure",
+    "insecurely",
+    "insecurity",
+    "inseminate",
+    "insemination"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390622_5108d62b8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390622_3961359771_o.png",
+      "id_image": "insecure_5526255"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "english": "import",
+  "phat_am": "imˈpoːt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nhập khẩu",
+          "definition": "to bring in (goods etc) from abroad usually for sale",
+          "world_new": [
+            "bring",
+            "abroad",
+            "sale"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We import wine from France.",
+              "world_new": [
+                "wine"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "hàng nhập khẩu",
+          "definition": "something which is imported from abroad",
+          "world_new": [
+            "abroad"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The country’s imports are greater than its exports.",
+              "world_new": [
+                "its"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự nhập khẩu",
+          "definition": "the act of bringing in goods from abroad",
+          "world_new": [
+            "act",
+            "goods",
+            "abroad"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the import of wine.",
+              "world_new": [
+                "wine"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Those countries that stayed at this import industrialization substitution stage stagnated economically.",
+    "In other words, as the rate of import increases, the proportion of the obsidian assemblage that is green decreases.",
+    "Limited almost exclusively to problems of spatial perception, that analysis gives short shrift to even the most fundamental issues of psychological or physiological import.",
+    "This overvalued the currency, causing an increase in imports and thus a current-account deficit.",
+    "Unless otherwise specified, references simply to sparrows are to this imported variety.",
+    "The import of these activities was evident after l989.",
+    "Exports have been taxed and import substitute industries are protected.",
+    "Titles should be brief, but informative, and should indicate the nature of the contents, not their import."
+  ],
+  "list_see_also": [
+    "importation",
+    "importer"
+  ],
+  "list_browse": [
+    "imply",
+    "impolite",
+    "impolitely",
+    "impoliteness",
+    "import",
+    "importance",
+    "important",
+    "importantly",
+    "importation"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436113_5da15f6228_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436113_8b87868f08_o.png",
+      "id_image": "import_384023"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365787_fdd2491e73_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365787_f621a2ab9b_o.png",
+      "id_image": "import_384025"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057605_5553c7d0f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057605_50cd22c389_o.png",
+      "id_image": "import_4459833"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320821_3e65175619_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320821_ccaea972c6_o.png",
+      "id_image": "import_5132447"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057555_21ca5b1bfe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057555_dcea01f20c_o.png",
+      "id_image": "import_5496784"
+    }
+  ]
+}

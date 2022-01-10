@@ -1,0 +1,114 @@
+{
+  "english": "groom",
+  "phat_am": "ɡruːm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người chăn ngựa",
+          "definition": "a person who looks after horses",
+          "world_new": [
+            "person",
+            "looks"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He works as a groom at the stables.",
+              "world_new": [
+                "works"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chú rể",
+          "definition": "a bridegroom, male partner of the bride.",
+          "world_new": [
+            "bridegroom",
+            "male",
+            "partner",
+            "bride"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chải lông",
+          "definition": "to clean, brush etc a horse’s coat",
+          "world_new": [
+            "clean",
+            "brush",
+            "coat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The horses were groomed for the horse show.",
+              "world_new": [
+                "horse"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chuẩn bị",
+          "definition": "to prepare for some task, purpose etc",
+          "world_new": [
+            "prepare",
+            "task",
+            "purpose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s being groomed as a possible successor to our head of department.",
+              "world_new": [
+                "possible",
+                "successor",
+                "our",
+                "head",
+                "department"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "groceries",
+    "grogginess",
+    "groggy",
+    "groin",
+    "groom",
+    "groove",
+    "grooved",
+    "grope",
+    "gross"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320536_d2ae9781df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320536_ce44ca08d3_o.png",
+      "id_image": "groom_1775664"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365452_402263778e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365452_b27029f9b0_o.png",
+      "id_image": "groom_1940975"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435633_b3700d059e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435633_40e6ae9116_o.png",
+      "id_image": "groom_4359980"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320406_c24153bd64_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320406_a6bf1aeffb_o.png",
+      "id_image": "groom_5833045"
+    }
+  ]
+}

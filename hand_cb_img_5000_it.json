@@ -1,0 +1,295 @@
+{
+  "english": "hand",
+  "phat_am": "hӕnd",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bàn tay",
+          "definition": "the part of the body at the end of the arm",
+          "world_new": [
+            "part",
+            "body",
+            "arm"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She injured her left hand",
+              "world_new": [
+                "injured",
+                "left"
+              ]
+            },
+            {
+              "ex_of_definition": "People often shake hands when they meet for the first time.",
+              "world_new": [
+                "shake",
+                "meet",
+                "time"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kim đồng hồ",
+          "definition": "a pointer on a clock, watch etc",
+          "world_new": [
+            "pointer",
+            "clock",
+            "watch"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Clocks usually have an hour hand and a minute hand.",
+              "world_new": [
+                "hour",
+                "minute"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thuỷ thủ",
+          "definition": "a person employed as a helper, crew member etc",
+          "world_new": [
+            "person",
+            "employed",
+            "helper",
+            "crew",
+            "member"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a farm hand",
+              "world_new": [
+                "farm"
+              ]
+            },
+            {
+              "ex_of_definition": "All hands on deck!",
+              "world_new": [
+                "deck"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự giúp đỡ",
+          "definition": "help; assistance",
+          "world_new": [
+            "assistance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Can I lend a hand?",
+              "world_new": [
+                "I",
+                "lend"
+              ]
+            },
+            {
+              "ex_of_definition": "Give me a hand with this box, please.",
+              "world_new": [
+                "box",
+                "please"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xấp bài",
+          "definition": "a set of playing-cards dealt to a person",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I had a very good hand so I thought I had a chance of winning.",
+              "world_new": [
+                "I",
+                "I",
+                "thought",
+                "I",
+                "chance",
+                "winning"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gang tay (đơn vị đo chiều cao của ngựa)",
+          "definition": "a measure (approximately centimetres) used for measuring the height of horses",
+          "world_new": [
+            "measure",
+            "height"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a horse of 14 hands.",
+              "world_new": [
+                "horse"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kiểu viết tay",
+          "definition": "handwriting",
+          "world_new": [
+            "handwriting"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The note was written in a neat hand.",
+              "world_new": [
+                "note",
+                "neat"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "trao; đưa",
+          "definition": "to give (something) to someone by hand",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I handed him the book",
+              "world_new": [
+                "I",
+                "book"
+              ]
+            },
+            {
+              "ex_of_definition": "He handed it back to me"
+            },
+            {
+              "ex_of_definition": "I’ll go up the ladder, and you can hand the tools up to me.",
+              "world_new": [
+                "ladder"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chuyển giao",
+          "definition": "to pass, transfer etc into another’s care etc",
+          "world_new": [
+            "pass",
+            "transfer",
+            "care"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That is the end of my report from Paris. I’ll now hand you back to Fred Collins in the television studio in London.",
+              "world_new": [
+                "my",
+                "report",
+                "television",
+                "studio"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They stand there as if they had never been built by human hands.",
+    "The demand for estate hands was, of course, insufficient to offset the shrinkage of farm work.",
+    "Core motivating mechanisms coordinate and synchronize expressions by the muscles of the head receptors and of the hands.",
+    "Consequently, the hand's velocity along this direction decreases, because the current force is approaching the maximum allowed force.",
+    "I had just given grand rounds at the medical school when my colleague handed me a pink message slip.",
+    "In experienced hands, a certain amount of imagination can pay dividends.",
+    "People cannot kick with their hands or eyes or anything else in the normal sense.",
+    "When the government hands out money to somebody, they're taking it from your pocket and mine."
+  ],
+  "list_see_also": [
+    "handful",
+    "handbag",
+    "handbill",
+    "handbook",
+    "handbrake",
+    "handcuff",
+    "handcuffs",
+    "handgun",
+    "hand lens",
+    "hand luggage",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "hammock",
+    "hamper",
+    "hamster",
+    "hamstring",
+    "hand",
+    "hand down",
+    "hand in",
+    "hand in hand",
+    "hand lens"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701139_3130e78fe2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701139_04ed61aab3_o.png",
+      "id_image": "hand_1171144"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391147_e715db455b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391147_17194470c3_o.png",
+      "id_image": "hand_1196465"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346211_257d9f459c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346211_b7a977fa61_o.png",
+      "id_image": "hand_673871"
+    }
+  ]
+}

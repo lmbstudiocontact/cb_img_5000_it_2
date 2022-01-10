@@ -1,0 +1,284 @@
+{
+  "english": "make",
+  "phat_am": "meik",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm; tạo ra",
+          "definition": "to create, form or produce",
+          "world_new": [
+            "create",
+            "form",
+            "produce"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "God made the Earth",
+              "world_new": [
+                "God"
+              ]
+            },
+            {
+              "ex_of_definition": "She makes all her own clothes",
+              "world_new": [
+                "clothes"
+              ]
+            },
+            {
+              "ex_of_definition": "He made it out of paper",
+              "world_new": [
+                "paper"
+              ]
+            },
+            {
+              "ex_of_definition": "He made a muddle/mess of the job.",
+              "world_new": [
+                "job"
+              ]
+            },
+            {
+              "ex_of_definition": "I’m going to make lunch/coffee"
+            },
+            {
+              "ex_of_definition": "We made an arrangement/agreement/deal/bargain."
+            }
+          ]
+        },
+        {
+          "mean_english": "bắt buộc",
+          "definition": "to compel, force or cause (a person or thing to do something)",
+          "world_new": [
+            "compel",
+            "force",
+            "cause",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They made her do it"
+            },
+            {
+              "ex_of_definition": "He made me laugh.",
+              "world_new": [
+                "laugh"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm nên",
+          "definition": "to cause to be",
+          "world_new": [
+            "cause"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I made it clear",
+              "world_new": [
+                "I",
+                "clear"
+              ]
+            },
+            {
+              "ex_of_definition": "You’ve made me very unhappy.",
+              "world_new": [
+                "unhappy"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kiếm được",
+          "definition": "to gain or earn",
+          "world_new": [
+            "gain",
+            "earn"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He makes $100 a week",
+              "world_new": [
+                "week"
+              ]
+            },
+            {
+              "ex_of_definition": "We make a profit of around £1,500 per day.",
+              "world_new": [
+                "profit",
+                "per",
+                "day"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bằng",
+          "definition": "(of numbers etc) to add up to; to amount to",
+          "world_new": [
+            "add",
+            "amount"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "2 and 2 make(s) 4."
+            }
+          ]
+        },
+        {
+          "mean_english": "trở thành",
+          "definition": "to become, turn into, or be",
+          "world_new": [
+            "become",
+            "turn"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’ll make an excellent teacher.",
+              "world_new": [
+                "excellent",
+                "teacher"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ước lượng",
+          "definition": "to estimate as",
+          "world_new": [
+            "estimate"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I make the total 483.",
+              "world_new": [
+                "I",
+                "total"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bổ nhiệm",
+          "definition": "to appoint, or choose, as",
+          "world_new": [
+            "appoint",
+            "choose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was made manager.",
+              "world_new": [
+                "manager"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sử dụng với danh từ và mang nghĩa như động từ mà nó tạo thành",
+          "definition": "used with many nouns to give a similar meaning to that of the verb from which the noun is formed",
+          "world_new": [
+            "similar",
+            "meaning",
+            "verb",
+            "noun"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He made several attempts (= attempted several times)",
+              "world_new": [
+                "attempted"
+              ]
+            },
+            {
+              "ex_of_definition": "They made a left turn (= turned left)",
+              "world_new": [
+                "left",
+                "turn"
+              ]
+            },
+            {
+              "ex_of_definition": "He made (= offered) a suggestion/proposal"
+            },
+            {
+              "ex_of_definition": "Have you any comments to make?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hãng sản xuất",
+          "definition": "a (usually manufacturer’s) brand",
+          "world_new": [
+            "brand"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What make is your new car?",
+              "world_new": [
+                "your",
+                "car"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This may make it difficult to assemble a jury.",
+    "We cannot detect anything that does not make a difference, and what we detect are the differences that are made.",
+    "As bright a flag as we could make.",
+    "Then we realize that there is nothing to make it stop.",
+    "What are we to make of all this?",
+    "Something of excellence that could make you smile?",
+    "It made sense, it was a natural way of hunting.",
+    "But the judgment made clear that silence was not an option."
+  ],
+  "list_see_also": [
+    "maker",
+    "making",
+    "make-believe",
+    "makeover",
+    "makeshift",
+    "make-up",
+    "have the makings of",
+    "in the making",
+    "make a/one’s bed",
+    "make believe",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "majesty",
+    "major",
+    "major-general",
+    "majority",
+    "make",
+    "make (both) ends meet",
+    "make (good) use of",
+    "make (oneself) understood",
+    "make (someone’s) hair stand on end"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683359_22df950ccd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683359_a67d42d812_o.png",
+      "id_image": "make_339986"
+    }
+  ]
+}

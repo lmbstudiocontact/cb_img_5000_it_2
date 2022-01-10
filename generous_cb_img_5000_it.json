@@ -1,0 +1,123 @@
+{
+  "english": "generous",
+  "phat_am": "ˈdʒenərəs",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "hào phóng",
+          "definition": "willing to give a lot of money, time etc for some purpose",
+          "world_new": [
+            "willing",
+            "money",
+            "time",
+            "purpose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a generous donor to the charity",
+              "world_new": [
+                "donor",
+                "charity"
+              ]
+            },
+            {
+              "ex_of_definition": "It is very generous of you to pay for our holiday.",
+              "world_new": [
+                "pay",
+                "our",
+                "holiday"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sung túc; dồi dào",
+          "definition": "large; larger than necessary",
+          "world_new": [
+            "necessary"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a generous sum of money",
+              "world_new": [
+                "sum",
+                "money"
+              ]
+            },
+            {
+              "ex_of_definition": "a generous piece of cake.",
+              "world_new": [
+                "piece",
+                "cake"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cao thượng",
+          "definition": "kind, willing to forgive",
+          "world_new": [
+            "kind",
+            "willing",
+            "forgive"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Try to be generous and forgive her",
+              "world_new": [
+                "forgive"
+              ]
+            },
+            {
+              "ex_of_definition": "his generous nature/remarks."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The strong defiance incentives probably weakened somewhat from the mid 1980s, when the state grants became more generous.",
+    "In the examples we use a more generous syntax (for instance, we allow the inclusion of natural numbers).",
+    "Secondly, even if an older person chooses the more generous ' service option ', this is unlikely to cover all their needs for help.",
+    "Its generous pension programme contrasts with a virtual absence of state interest in health or care provision for elders.",
+    "We also thank four anonymous reviewers for their generous time in providing detailed comments and suggestions that helped us to improve the paper.",
+    "The author wishes to thank two referees for very careful, constructive and generous comments on earlier versions of the paper.",
+    "If we are generous in deciding what utterances involve transfer, the cue validity of the construction is markedly higher than the cue validity for verbs.",
+    "Now governments face a less generous climate and interest has focused on the political processes of reform."
+  ],
+  "list_see_also": [
+    "generously",
+    "generosity"
+  ],
+  "list_browse": [
+    "generation",
+    "generator",
+    "generic",
+    "generosity",
+    "generous",
+    "generously",
+    "genesis",
+    "genetic",
+    "genetic engineering"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335936_b88b02bb46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335936_21b12369af_o.png",
+      "id_image": "generous_2871610"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691154_08ea26495e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691154_7ed397f88d_o.png",
+      "id_image": "generous_5778381"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072825_ebe385d192_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072825_282bd4ef1b_o.png",
+      "id_image": "generous_5778726"
+    }
+  ]
+}

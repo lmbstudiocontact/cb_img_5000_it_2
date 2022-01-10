@@ -1,0 +1,149 @@
+{
+  "english": "mate",
+  "phat_am": "meit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "giao phối",
+          "definition": "to come, or bring (animals etc), together for breeding",
+          "world_new": [
+            "bring",
+            "breeding"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The bears have mated and produced a cub.",
+              "world_new": [
+                "cub"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chiếu tướng",
+          "definition": "to checkmate (someone).",
+          "world_new": [
+            "checkmate"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bạn tình",
+          "definition": "an animal etc with which another is paired for breeding",
+          "world_new": [
+            "animal",
+            "breeding"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Some birds sing in order to attract a mate.",
+              "world_new": [
+                "sing",
+                "order",
+                "attract"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chồng; vợ",
+          "definition": "a husband or wife.",
+          "world_new": [
+            "husband",
+            "wife"
+          ]
+        },
+        {
+          "mean_english": "bạn nghề",
+          "definition": "a companion or friend",
+          "world_new": [
+            "companion",
+            "friend"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’ve been mates for years."
+            }
+          ]
+        },
+        {
+          "mean_english": "người trợ lực",
+          "definition": "a fellow workman or assistant",
+          "world_new": [
+            "fellow",
+            "workman",
+            "assistant"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a carpenter’s mate."
+            }
+          ]
+        },
+        {
+          "mean_english": "phó thuyền trưởng",
+          "definition": "a merchant ship’s officer under the master or captain",
+          "world_new": [
+            "merchant",
+            "officer",
+            "master",
+            "captain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the first mate."
+            }
+          ]
+        },
+        {
+          "mean_english": "sự chiếu tướng",
+          "definition": "in chess, checkmate.",
+          "world_new": [
+            "chess",
+            "checkmate"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "matched",
+    "matching",
+    "matchless",
+    "matchmaker",
+    "mate",
+    "material",
+    "materialization",
+    "materialize",
+    "materially"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675479_7fe73e3649_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675479_dd8a22d104_o.png",
+      "id_image": "mate_4235569"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435628_9d479bb066_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435628_1604a8d048_o.png",
+      "id_image": "mate_4457201"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435583_94e85d9beb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435583_bd5660efbb_o.png",
+      "id_image": "mate_4633938"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365327_42286801c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365327_ccf9e2018d_o.png",
+      "id_image": "mate_6255810"
+    }
+  ]
+}

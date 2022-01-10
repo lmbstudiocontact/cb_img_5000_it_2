@@ -1,0 +1,81 @@
+{
+  "english": "mathematician",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "giỏi toán",
+          "definition": "a person who is good at mathematics",
+          "world_new": [
+            "person",
+            "mathematics"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "For a young boy, he’s quite a mathematician!",
+              "world_new": [
+                "young",
+                "boy",
+                "quite"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhà toán học",
+          "definition": "someone who works in mathematics",
+          "world_new": [
+            "works",
+            "mathematics"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is a mathematician with a local engineering firm.",
+              "world_new": [
+                "local",
+                "engineering",
+                "firm"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Some of them are rather mundane rearrangements or software modifications with no allure for the mathematician.",
+    "Because such lengthy computations cannot be verified by hand, some mathematicians want to use software proof assistants to verify the correctness of these proofs.",
+    "But from the point of view of the mathematician, sort of flexing his mathematical muscles, one would not be so excited.",
+    "On the other hand, mathematicians often present unfinished work at conferences in order to polish it for publication after the conference.",
+    "This is because category theory has appeared as a result of the efforts of many mathematicians to unify mathematical concepts, rather than computing ones.",
+    "Intertextual reference presented rhetorical problems to the nineteenth-century mathematician that are absent in modern science.",
+    "A lot of subsequent research has been performed by mathematicians and physicists both on method construction and on explaining properties of symplectic methods.",
+    "For one thing, there will certainly always be axioms : physicists have it with their postulates and mathematicians do with their formal systems."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "maternally",
+    "maternity",
+    "mathematical",
+    "mathematically",
+    "mathematician",
+    "mathematics",
+    "matinée",
+    "matriarch",
+    "matriarchal"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364622_9d1147929a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364622_2c983e4769_o.png",
+      "id_image": "mathematician_1876932"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674949_d31f4149d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674949_31fa088445_o.png",
+      "id_image": "mathematician_827371"
+    }
+  ]
+}

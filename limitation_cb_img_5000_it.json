@@ -1,0 +1,75 @@
+{
+  "english": "limitation",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự hạn chế",
+          "definition": "an act of limiting",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The government has imposed a limitation on the number of foreign cars which can be imported.",
+              "world_new": [
+                "government",
+                "number",
+                "foreign"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mặt hạn chế",
+          "definition": "a lack, eg of a particular facility, ability etc",
+          "world_new": [
+            "lack",
+            "particular",
+            "facility",
+            "ability"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We all have our limitations.",
+              "world_new": [
+                "our"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The nature and limitations of this strategy are then explicit.",
+    "Perhaps most striking is the limitation of the reduplicant to nasal material.",
+    "Notwithstanding these limitations, this investigation contributes an international perspective to research on development in situations of pervasive poverty.",
+    "The lack of a precise measure of the appropriate deforestation process is a serious limitation of previous studies on the topic.",
+    "The goal of understanding the limitations of the simulation tool is fairly straightforward.",
+    "The limitations of clinical methodology are discussed, for example, the pros and cons of various cognitive assessment tools, and this is valuable.",
+    "A limitation of this data set was the lack of complete data reporting.",
+    "If differences between the children's speech and adult speech cannot be observed, it is unclear what role performance limitations play in early verb-argument structure production."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "limelight: in the limelight",
+    "limerick",
+    "limestone",
+    "limit",
+    "limitation",
+    "limited",
+    "limitless",
+    "limousine",
+    "limp"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341506_1a73db4e64_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341506_9b80d87bf8_o.png",
+      "id_image": "limitation_5387129"
+    }
+  ]
+}

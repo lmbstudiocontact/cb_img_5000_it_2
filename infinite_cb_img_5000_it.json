@@ -1,0 +1,73 @@
+{
+  "english": "infinite",
+  "phat_am": "ˈinfinit",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "vô tận",
+          "definition": "without end or limits",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We believe that space is infinite.",
+              "world_new": [
+                "believe",
+                "space"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "không đếm được",
+          "definition": "very great",
+          "world_new": [
+            "great"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Infinite damage could be caused by such a mistake.",
+              "world_new": [
+                "damage",
+                "mistake"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The intuition is that a program is, in essence, a non-empty finite or infinite sequence of primitive instructions.",
+    "How does the visual system select from this infinite range of possible percepts to produce the single perceptual interpretation observed phenomenally?",
+    "This paper argues that their objections to infinite past existence all turn on a misunderstanding of what that concept involves.",
+    "In particular, a really unbounded operator (that is, one whose norm is infinite) is partial, not out of a forgotten totality, but intrinsically.",
+    "A set of things is potentially infinite if it can be extended without limit by addition or division.",
+    "He adjusts his clothing, he tends to his hair, with infinite loving pains.",
+    "The infinite dilution thermochemical properties of compounds are used if data is available and predicted with group contribution methods when none exists.",
+    "An infinite data structure is represented by a countable set of elementary objects."
+  ],
+  "list_see_also": [
+    "infinitely",
+    "infiniteness",
+    "infinity"
+  ],
+  "list_browse": [
+    "infest",
+    "infestation",
+    "infidelity",
+    "infiltrate",
+    "infinite",
+    "infinitely",
+    "infiniteness",
+    "infinitive",
+    "infinity"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316961_dcb1608d8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316961_46a677b8d9_o.png",
+      "id_image": "infinite_2964647"
+    }
+  ]
+}

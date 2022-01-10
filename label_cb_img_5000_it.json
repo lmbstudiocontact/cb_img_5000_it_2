@@ -1,0 +1,102 @@
+{
+  "english": "label",
+  "phat_am": "ˈleibl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhãn mác",
+          "definition": "a small written note fixed on or near anything to tell its contents, owner etc",
+          "world_new": [
+            "small",
+            "note",
+            "fixed",
+            "tell",
+            "its",
+            "contents",
+            "owner"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "luggage labels",
+              "world_new": [
+                "luggage"
+              ]
+            },
+            {
+              "ex_of_definition": "The label on the blouse said ‘Do not iron’.",
+              "world_new": [
+                "blouse"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "dán nhãn",
+          "definition": "to attach a label to",
+          "world_new": [
+            "attach"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She labelled all the boxes of books carefully.",
+              "world_new": [
+                "carefully"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The equipment could work faster, the mould was sealed against the ingress of dirt, and it was no longer necessary to provide paper labels.",
+    "Response labels were counterbalanced along with response handedness (right vs. left).",
+    "The term ' labelling ' refers to a social process by which individuals or groups classify the social behaviour of other individuals.",
+    "Apparently, a default belief that things have multiple labels is unnecessary for polynomy.",
+    "The neurons labeled by virus from the prostate were larger than those that were labeled by virus from the bladder.",
+    "Another primary point has to do with labels or names of personification figures: are they named?",
+    "I see this as a matter of labelling.",
+    "Again, the decrease in accuracy reflects the burden of being taught two additional labels."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "kw",
+    "kwashiorkor",
+    "L",
+    "L-plate",
+    "label",
+    "laboratory",
+    "laborious",
+    "laboriously",
+    "laboriousness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324216_663bce0685_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324216_5202160980_o.png",
+      "id_image": "label_1168128"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324166_733de47a2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324166_3b4d8f4db2_o.png",
+      "id_image": "label_3120698"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061235_e2336468bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061235_5f2abb030f_o.png",
+      "id_image": "label_618040"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061180_cb2c023ed5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061180_0c441f64d0_o.png",
+      "id_image": "label_618060"
+    }
+  ]
+}

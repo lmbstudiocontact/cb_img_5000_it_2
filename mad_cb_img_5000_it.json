@@ -1,0 +1,105 @@
+{
+  "english": "mad",
+  "phat_am": "mӕd",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "mất trí",
+          "definition": "mentally disturbed or insane",
+          "world_new": [
+            "mentally",
+            "disturbed",
+            "insane"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Ophelia went mad"
+            },
+            {
+              "ex_of_definition": "You must be mad."
+            }
+          ]
+        },
+        {
+          "mean_english": "rất giận dữ",
+          "definition": "(sometimes with ator with) very angry",
+          "world_new": [
+            "angry"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was mad at me for losing my keys.",
+              "world_new": [
+                "my"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "say mê điên dại",
+          "definition": "(with about) having a great liking or desire for",
+          "world_new": [
+            "great",
+            "liking",
+            "desire"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m just mad about Harry."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "madly",
+    "madness",
+    "madden",
+    "maddening",
+    "maddeningly",
+    "madman",
+    "mad cow disease",
+    "like mad"
+  ],
+  "list_browse": [
+    "mackintosh",
+    "macramé",
+    "macro",
+    "macroscopic",
+    "mad",
+    "mad cow disease",
+    "madam",
+    "madden",
+    "maddening"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685709_027695f8de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685709_a33e30e3cf_o.png",
+      "id_image": "mad_2366540"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375272_78745c5bc4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375272_e609b88889_o.png",
+      "id_image": "mad_4126695"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375242_ab32684c53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375242_927b0383d1_o.png",
+      "id_image": "mad_5747320"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445493_e8fd66aafd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445493_7cb5d722ae_o.png",
+      "id_image": "mad_6066498"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330426_c1287f6a41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330426_d66a227ddf_o.png",
+      "id_image": "mad_6300341"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "english": "geometry",
+  "phat_am": "dʒiˈomətri",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hình học",
+          "definition": "a branch of mathematics dealing with the study of lines, angles etc",
+          "world_new": [
+            "branch",
+            "mathematics",
+            "dealing",
+            "study",
+            "lines"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is studying geometry."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The unsteady expansion of an ideal gas into a vacuum is studied in one-dimensional planar and spherical geometries.",
+    "The internal inclusion trail geometries preserved within a first phase of porphyroblast growth.",
+    "Different channels have different geometries which can be quite complicated.",
+    "However, triangular meshes are more flexible in modelling complicated geometries and much easier to generalize to three dimensions.",
+    "The point-matching technique of 5.1 may be extended to other cylinder geometries by modifying the series in equation (50).",
+    "When plate-type geometries are used for testing, some degree of compression is inevitable.",
+    "Although catalytic monoliths may involve a great variety of prismatic geometries, we will only study structures whose cells have square, triangular or hexagonal cross-sections.",
+    "Since the argument concerns the emerging use of these ' geometries ', the data from the youngest children are the most relevant."
+  ],
+  "list_see_also": [
+    "geometric",
+    "geometrically"
+  ],
+  "list_browse": [
+    "geologist",
+    "geology",
+    "geometric",
+    "geometrically",
+    "geometry",
+    "geophysical",
+    "geophysicist",
+    "geophysics",
+    "geothermal"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334901_ac9eceaed1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334901_5932143360_o.png",
+      "id_image": "geometry_1783664"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449983_6df45ce3f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449983_8cbb1eee2a_o.png",
+      "id_image": "geometry_2505670"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449953_ea7e0de95b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449953_cd02627738_o.png",
+      "id_image": "geometry_2802801"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449928_4800705e61_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449928_204fcc00b2_o.png",
+      "id_image": "geometry_2861724"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449908_407682be86_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449908_9bcbc25489_o.png",
+      "id_image": "geometry_5720758"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "english": "harpoon",
+  "phat_am": "haːˈpuːn",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cây lao móc",
+          "definition": "a spear fastened to a rope, used especially for killing whales.",
+          "world_new": [
+            "spear",
+            "rope"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đâm bằng cây lao móc",
+          "definition": "to strike with a harpoon",
+          "world_new": [
+            "strike"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has harpooned the whale.",
+              "world_new": [
+                "whale"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "harness",
+    "harp",
+    "harp on (about)",
+    "harpist",
+    "harpoon",
+    "harpsichord",
+    "harrowing",
+    "harry",
+    "harsh"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388867_a748e1c27c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388867_286dc9f3b5_o.png",
+      "id_image": "harpoon_2439740"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343956_f2c5da2b2c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343956_e4efcd9b22_o.png",
+      "id_image": "harpoon_4632642"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081235_59bc2fb239_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081235_7ed7a0b490_o.png",
+      "id_image": "harpoon_4690500"
+    }
+  ]
+}

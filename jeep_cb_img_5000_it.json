@@ -1,0 +1,50 @@
+{
+  "english": "jeep",
+  "phat_am": "dʒiːp",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "xe jip",
+          "definition": "a kind of small motor vehicle used especially by the armed forces",
+          "world_new": [
+            "kind",
+            "small",
+            "motor",
+            "vehicle",
+            "armed",
+            "forces"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an army jeep.",
+              "world_new": [
+                "army"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "jealous",
+    "jealously",
+    "jealousy",
+    "jeans",
+    "jeep",
+    "jeer",
+    "jeering",
+    "jeeringly",
+    "jejunal"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380182_eea05e0a7a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380182_78d6c9d209_o.png",
+      "id_image": "jeep_290305"
+    }
+  ]
+}

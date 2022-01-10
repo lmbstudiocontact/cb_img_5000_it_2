@@ -1,0 +1,161 @@
+{
+  "english": "handle",
+  "phat_am": "ˈhӕndl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quai; tay cầm",
+          "definition": "the part of an object by which it may be held or grasped",
+          "world_new": [
+            "part",
+            "object"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve broken the handle off this cup",
+              "world_new": [
+                "broken",
+                "cup"
+              ]
+            },
+            {
+              "ex_of_definition": "You’ve got to turn the handle in order to open the door.",
+              "world_new": [
+                "turn",
+                "order",
+                "open",
+                "door"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "sờ; cầm",
+          "definition": "to touch or hold with the hand",
+          "world_new": [
+            "touch",
+            "hold",
+            "hand"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Please wash your hands before handling food.",
+              "world_new": [
+                "wash",
+                "your",
+                "food"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xử lý; quản lý",
+          "definition": "to control, manage or deal with",
+          "world_new": [
+            "control",
+            "manage",
+            "deal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’ll never make a good teacher – he doesn’t know how to handle children.",
+              "world_new": [
+                "teacher",
+                "know"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "buôn bán",
+          "definition": "to buy or sell; to deal in",
+          "world_new": [
+            "buy",
+            "deal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m afraid we do not handle such goods in this shop.",
+              "world_new": [
+                "afraid",
+                "goods",
+                "shop"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đối xử như thế nào đó",
+          "definition": "to treat in a particular way",
+          "world_new": [
+            "treat",
+            "particular"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Never handle animals roughly.",
+              "world_new": [
+                "roughly"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Error handling for readability of the example is omitted.",
+    "Both these senses are claimed to be uniformly handled by her account, which consists in the following two claims.",
+    "The o(2) norm is handled in the same way.",
+    "As mentioned above, they instead can be handled implicitly by working with congruence classes of terms.",
+    "The recorded animals remained in their full-sib groups and any difference between them is due to handling frequency.",
+    "To precisely define how sets of results are handled, we introduce the following strategy constructors.",
+    "However, \"dataintensive\" problems cannot be handled in a typical logic programming system working in main-memory.",
+    "Clear-cut cases, like that in (4), are handled by the computational system."
+  ],
+  "list_see_also": [
+    "-handled",
+    "handler",
+    "handlebars"
+  ],
+  "list_browse": [
+    "handicraft",
+    "handiness",
+    "handiwork",
+    "handkerchief",
+    "handle",
+    "handlebars",
+    "-handled",
+    "handler",
+    "handmade"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391002_3ca1c889ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391002_7ab23873a4_o.png",
+      "id_image": "handle_1035489"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701014_d99e2e05e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701014_ea6ce2a0e7_o.png",
+      "id_image": "handle_1678211"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390922_525a60cc80_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390922_aca21e2acb_o.png",
+      "id_image": "handle_2855725"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700969_be978c0096_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700969_434b2e8dea_o.png",
+      "id_image": "handle_6344536"
+    }
+  ]
+}

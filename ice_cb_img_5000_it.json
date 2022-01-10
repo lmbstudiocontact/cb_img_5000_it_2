@@ -1,0 +1,128 @@
+{
+  "english": "ice",
+  "phat_am": "ais",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "băng",
+          "definition": "frozen water",
+          "world_new": [
+            "frozen",
+            "water"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The pond is covered with ice.",
+              "world_new": [
+                "pond"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kem",
+          "definition": "an ice cream",
+          "world_new": [
+            "cream"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Three chocolate ices, please.",
+              "world_new": [
+                "chocolate",
+                "please"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "món tráng miệng có vị hoa quả (Mỹ)",
+          "definition": "a fruit-flavoured/-flavored frozen dessert usually made without milk and cream",
+          "world_new": [
+            "frozen",
+            "dessert",
+            "milk",
+            "cream"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a lemon ice.",
+              "world_new": [
+                "lemon"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "phủ đường",
+          "definition": "to cover with icing",
+          "world_new": [
+            "cover",
+            "icing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She iced the cake.",
+              "world_new": [
+                "cake"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "icing",
+    "icy",
+    "icily",
+    "iciness",
+    "ice age",
+    "ice axe",
+    "iceberg",
+    "ice box",
+    "ice cube",
+    "ice hockey",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "I wouldn’t say no to",
+    "I/he etc could be doing with / could do with",
+    "I/he etc will/would not hear of",
+    "I/we etc will see",
+    "ice",
+    "ice age",
+    "ice axe",
+    "ice box",
+    "ice cube"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440198_1c9c4236ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440198_f786034f3d_o.png",
+      "id_image": "ice_3038903"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440138_4435dffb1c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440138_c554eb9447_o.png",
+      "id_image": "ice_4051408"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440108_cec8785a34_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440108_3880bba056_o.png",
+      "id_image": "ice_6347258"
+    }
+  ]
+}

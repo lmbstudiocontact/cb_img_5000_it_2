@@ -1,0 +1,129 @@
+{
+  "english": "hoist",
+  "phat_am": "hoist",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "kéo lên",
+          "definition": "to lift (something heavy)",
+          "world_new": [
+            "lift"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She hoisted the sack onto her back",
+              "world_new": [
+                "sack"
+              ]
+            },
+            {
+              "ex_of_definition": "He hoisted the child up on to his shoulders.",
+              "world_new": [
+                "child"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhấc bổng lên",
+          "definition": "to raise or lift by means of some apparatus, a rope etc",
+          "world_new": [
+            "raise",
+            "lift",
+            "means",
+            "apparatus",
+            "rope"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The cargo was hoisted on to the ship",
+              "world_new": [
+                "cargo",
+                "ship"
+              ]
+            },
+            {
+              "ex_of_definition": "They hoisted the flag.",
+              "world_new": [
+                "flag"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cần trục; tời",
+          "definition": "an apparatus for lifting usually heavy objects",
+          "world_new": [
+            "apparatus",
+            "heavy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a luggage hoist.",
+              "world_new": [
+                "luggage"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự kéo lên; sự nhấc bổng lên",
+          "definition": "a lift or push up",
+          "world_new": [
+            "lift",
+            "push"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Give me a hoist over this wall, will you!",
+              "world_new": [
+                "wall"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The cutter could neither be hoisted owing to the sea alongside, nor moored safely astern.",
+    "The first requisite is to retain and keep in use the four existing coal hoists.",
+    "Does he not realise that, by saying that, he hoists himself with his own petard?",
+    "All three hoists were then idle for four hours.",
+    "The function of the balloon unit was to operate a balloon system for hoisting devices under test to the prescribed altitude ready for detonation.",
+    "The truth is that he hoisted the flag of insurrection for 18 hours and then threw up the white flag of surrender.",
+    "The boy insisted on being hoisted on the horse's back.",
+    "If they are right, then at last the signal is hoisted that our decline has begun, and will continue."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "hocus-pocus",
+    "hoe",
+    "hog",
+    "hogwash",
+    "hoist",
+    "hold",
+    "hold back",
+    "hold down",
+    "hold forth"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690549_009f59e5aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690549_2b870680fa_o.png",
+      "id_image": "hoist_1201861"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690499_c6ac16ab56_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690499_43537267f8_o.png",
+      "id_image": "hoist_4852165"
+    }
+  ]
+}

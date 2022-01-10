@@ -1,0 +1,99 @@
+{
+  "english": "invite",
+  "phat_am": "inˈvait",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "mời",
+          "definition": "to ask (a person) politely to come (eg to one’s house, to a party etc)",
+          "world_new": [
+            "ask",
+            "politely",
+            "house",
+            "party"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They have invited us to dinner tomorrow.",
+              "world_new": [
+                "dinner",
+                "tomorrow"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mời ai làm gì",
+          "definition": "to ask (a person) politely to do something",
+          "world_new": [
+            "ask",
+            "politely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was invited to speak at the meeting.",
+              "world_new": [
+                "speak",
+                "meeting"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đề nghị",
+          "definition": "to ask for (another person’s suggestions etc)",
+          "world_new": [
+            "ask"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He invited proposals from members of the society.",
+              "world_new": [
+                "society"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In many voices, the text itself invites revisionist responses and challenges all natural authority that has become arbitrary or authoritarian.",
+    "Nurses are invited to focus on strategies that can be implemented in their work environment.",
+    "We are invited to consider whether it is a real state of affairs.",
+    "With respect to the public debt and the nominal deficit, the situation invites us to take a closer look.",
+    "Contributions for consideration by the organising committee are invited.",
+    "The holiday firm then plans several possible packages, and conducts another poll inviting people to choose between them, or to express some other preference.",
+    "At this time, par tic ipants were g iven an explic it verbal descr iption of the study and were invited to par tic ipate.",
+    "I will point out, though, that it is in some ways a very conservative proposal, inviting a return to origins."
+  ],
+  "list_see_also": [
+    "invitation",
+    "inviting"
+  ],
+  "list_browse": [
+    "invisibility",
+    "invisible",
+    "invisibly",
+    "invitation",
+    "invite",
+    "inviting",
+    "invocation",
+    "invoice",
+    "invoke"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693349_d338de6190_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693349_2a077aea04_o.png",
+      "id_image": "invite_2488415"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338036_bacee62118_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338036_bfdf96d329_o.png",
+      "id_image": "invite_5766413"
+    }
+  ]
+}

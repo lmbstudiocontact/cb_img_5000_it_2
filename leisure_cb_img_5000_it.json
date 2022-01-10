@@ -1,0 +1,87 @@
+{
+  "english": "leisure",
+  "phat_am": "ˈleʒə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thời gian rỗi",
+          "definition": "time which one can spend as one likes, especially when one does not have to work",
+          "world_new": [
+            "time",
+            "spend",
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She leads a life of leisure.",
+              "world_new": [
+                "life"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) Ursula enjoys reading and gardening in her leisure time.",
+              "world_new": [
+                "reading",
+                "gardening",
+                "time"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The survey asked respondents for socio-demographic descriptors and about their financial situation, health and leisure activities.",
+    "For one thing, it is misleading to measure leisure simply as time spent outside the labor market.",
+    "The book begins with a useful series of definitions including the familiar concept of ' leisure ' as free-time rather than a specific set of activities.",
+    "The 2002 sample members were about 50 per cent more likely to participate in physical leisure activities than the 1992 respondents.",
+    "Leisure is much less volatile than any other series.",
+    "Examining the long term effects of leisure education on a sense of independence and psychological well-being among the elderly.",
+    "Time lost from unpaid labor and leisure was consistently the source of the greatest time costs.",
+    "The health effects of solitary leisure activities, such as mainly home-based hobbies or watching television, are however inconclusive."
+  ],
+  "list_see_also": [
+    "leisurely"
+  ],
+  "list_browse": [
+    "legislature",
+    "legitimacy",
+    "legitimate",
+    "legitimately",
+    "leisure",
+    "leisurely",
+    "lemon",
+    "lemon grass",
+    "lemonade"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346126_92156c6043_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346126_137bc8da5c_o.png",
+      "id_image": "leisure_2773074"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083565_ab7d87f383_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083565_672d75013a_o.png",
+      "id_image": "leisure_5020564"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391072_aae462aa19_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391072_3510b1d9d5_o.png",
+      "id_image": "leisure_5778821"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346016_35144a243f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346016_9eb468fd90_o.png",
+      "id_image": "leisure_6193454"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345991_50be5861f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345991_e162a9fb2d_o.png",
+      "id_image": "leisure_6213535"
+    }
+  ]
+}

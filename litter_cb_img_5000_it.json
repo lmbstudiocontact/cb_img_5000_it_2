@@ -1,0 +1,122 @@
+{
+  "english": "litter",
+  "phat_am": "ˈlitə(r)",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "rác rưởi bừa bãi",
+          "definition": "an untidy mess of paper, rubbish etc",
+          "world_new": [
+            "untidy",
+            "mess",
+            "paper",
+            "rubbish"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Put your litter in that bin.",
+              "world_new": [
+                "your",
+                "bin"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đống rơm",
+          "definition": "a heap of straw etc for animals to lie on etc",
+          "world_new": [
+            "heap",
+            "straw",
+            "lie"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "cat litter.",
+              "world_new": [
+                "cat"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lứa đẻ",
+          "definition": "a number of animals born to the same mother at the same time",
+          "world_new": [
+            "number",
+            "mother",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a litter of kittens."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bày bừa lên",
+          "definition": "to cover (the ground etc) with scattered objects",
+          "world_new": [
+            "cover",
+            "ground",
+            "scattered"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Papers littered the table.",
+              "world_new": [
+                "table"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The possible removal of fruits or seeds from litter traps by animals was carefully monitored and considered insignificant.",
+    "These data are representative of assays performed with two independent litters of rat pups.",
+    "Females were caged by litter and a density of four mice per cage was maintained.",
+    "This study reveals the importance of litter-cover on the interactions between seedlings, herbivores and pathogens, as well as on the performance of tropical seedlings.",
+    "Amount of leaf litter was estimated as the number of leaves pierced by a metal stake thrust into the soil at the site.",
+    "Breeding data were compiled from litters that were complete at classification and analysed using maximum likelihood methods.",
+    "Ponerinae have their main distribution in the litter, do also occur in litter vegetation, but nearly drop out in the canopy.",
+    "The single exponential model used to explain the temporal dynamics of litter decay fitted the data well, explaining 59-96% of the data variation."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "litmus",
+    "litmus paper",
+    "litmus test",
+    "litre",
+    "litter",
+    "little",
+    "little by little",
+    "little finger",
+    "live"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384437_55e30ea30f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384437_d4f64074ae_o.png",
+      "id_image": "litter_1435377"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694714_5015d1d762_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694714_245d911525_o.png",
+      "id_image": "litter_2372036"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339456_67cd1d0d71_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339456_00d553d4f0_o.png",
+      "id_image": "litter_5793689"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "english": "kidnap",
+  "phat_am": "ˈkidnӕp",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bắt cóc",
+          "definition": "to carry off (a person) by force, often demanding money in exchange for his safe return",
+          "world_new": [
+            "carry",
+            "force",
+            "demanding",
+            "money",
+            "exchange",
+            "safe",
+            "return"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is very wealthy and lives in fear of his children being kidnapped.",
+              "world_new": [
+                "wealthy",
+                "fear"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "kidnapper"
+  ],
+  "list_browse": [
+    "kick off",
+    "kick one’s heels",
+    "kick up",
+    "kid",
+    "kidnap",
+    "kidnapper",
+    "kidney",
+    "kill",
+    "kill off"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443083_c321544663_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443083_0de1ee7d5c_o.png",
+      "id_image": "kidnapping_2495720"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683064_2f5aae9406_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683064_0a9219a463_o.png",
+      "id_image": "kidnapping_4321550"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443003_54433f9a2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443003_3fa4398780_o.png",
+      "id_image": "kidnapping_6305831"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "english": "influence",
+  "phat_am": "ˈinfluəns",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ảnh hưởng",
+          "definition": "the power to affect people, actions or events",
+          "world_new": [
+            "power",
+            "affect",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He used his influence to get her the job",
+              "world_new": [
+                "job"
+              ]
+            },
+            {
+              "ex_of_definition": "He should not have driven the car while under the influence of alcohol.",
+              "world_new": [
+                "car",
+                "alcohol"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự ảnh hưởng",
+          "definition": "a person or thing that has this power",
+          "world_new": [
+            "person",
+            "power"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She is a bad influence on him.",
+              "world_new": [
+                "bad"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ảnh hưởng tới",
+          "definition": "to have an effect on",
+          "world_new": [
+            "effect"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The weather seems to influence her moods.",
+              "world_new": [
+                "weather"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This condition thus permitted us to measure the influence of performing two mental operations on the storage abilities of the children.",
+    "Research should also examine the way that child gender may influence the development and use of emotion regulation strategies in physically maltreated children.",
+    "Like domestic policy, trade policy is subject to the influence of domestic veto players.",
+    "Their nonlinear interaction has only a minor influence on the qualitative features of the layer evolution.",
+    "Nevertheless, it seems that there is a network of different psychological factors in play, which seem to be interconnected and influencing one another.",
+    "Singing seemed to influence their psychological well-being and mental states significantly.",
+    "Yet so many other factors also influence epistemic convictions that purely national styles may be relatively rare.",
+    "While associations are more visible, low-profile activity by individual business players has been geared towards influencing the policymaking process from within."
+  ],
+  "list_see_also": [
+    "influential",
+    "influentially"
+  ],
+  "list_browse": [
+    "inflexible",
+    "inflexibly",
+    "inflict",
+    "infliction",
+    "influence",
+    "influential",
+    "influentially",
+    "influenza",
+    "influx"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431853_a630ef8312_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431853_d2ff39850c_o.png",
+      "id_image": "influence_1622692"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431823_1935ae9e83_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431823_6c5f02cbe7_o.png",
+      "id_image": "influence_3391572"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053240_beaedcd720_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053240_b9a1cf53b2_o.png",
+      "id_image": "influence_4412638"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671489_71c0647511_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671489_faf24c913a_o.png",
+      "id_image": "influence_4412696"
+    }
+  ]
+}

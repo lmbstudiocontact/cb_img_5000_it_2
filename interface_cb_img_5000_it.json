@@ -1,0 +1,114 @@
+{
+  "english": "interface",
+  "phat_am": "(British) ˈintəˌfeis; (American) ˈintərˌfeis",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "giao diện",
+          "definition": "the manner in which users are presented with information on a computer screen or how they enter data into a software program",
+          "world_new": [
+            "manner",
+            "information",
+            "computer",
+            "screen",
+            "enter",
+            "data",
+            "software",
+            "program"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a point-and-click interface."
+            }
+          ]
+        },
+        {
+          "mean_english": "thiết bị ghép nối",
+          "definition": "a software program or connection that enables two pieces of computer equipment to work together",
+          "world_new": [
+            "software",
+            "program",
+            "connection",
+            "computer",
+            "equipment",
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the interface between the computer and the mouse.",
+              "world_new": [
+                "computer",
+                "mouse"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bề mặt phân chia",
+          "definition": "the point at which two people, things, or events meet or affect each other",
+          "world_new": [
+            "point",
+            "people",
+            "meet",
+            "affect"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the interface between the company and its suppliers.",
+              "world_new": [
+                "company",
+                "its"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The fundamental concept that gives the basis of both logics is the introduction of suitable auxiliary tiles, modelling all the consistent rearrangements of the interfaces.",
+    "Until then, it is possible to speculate about better ways of specifying interfaces and to draw a few conclusions about implementations.",
+    "Pervasive computing environments are characterized as having many different interaction interfaces.",
+    "Two interfaces have remarkably small buried surface areas, but two others were more sizable.",
+    "The unit approach to cycle avoidance is potentially more accurate, but at the expense of infecting interfaces with complex dependency information.",
+    "We believe this limits the usability of form-based interfaces.",
+    "The bundling mechanism should be orthogonal to the subscription mechanisms so that the composed interfaces need not be changed.",
+    "Theoretically, stable interfaces exhibit oscillations in per turbation amplitudes."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "interest rate",
+    "interested",
+    "interesting",
+    "interestingly",
+    "interface",
+    "interfere",
+    "interference",
+    "interfering",
+    "interior"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341836_0942a1db1d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341836_bf4ecb296c_o.png",
+      "id_image": "interface_1897372"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341801_73864025c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341801_eaebda22e2_o.png",
+      "id_image": "interface_3094286"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697044_416fa52087_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697044_67a548576b_o.png",
+      "id_image": "interface_4829613"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697114_e36d36c905_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697114_7f57a6ffa1_o.png",
+      "id_image": "interface_997264"
+    }
+  ]
+}

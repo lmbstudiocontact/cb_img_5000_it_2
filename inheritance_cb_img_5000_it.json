@@ -1,0 +1,82 @@
+{
+  "english": "inheritance",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "gia tài",
+          "definition": "money etc inherited",
+          "world_new": [
+            "money",
+            "inherited"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He spent most of his inheritance on drink.",
+              "world_new": [
+                "spent",
+                "drink"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự thừa kế",
+          "definition": "the act of inheriting",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The property came to him by inheritance.",
+              "world_new": [
+                "property"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "One of the inheritances of the past is the idea that people are living in council accommodation at £1 or £2 a week.",
+    "Finally, inheritance of argument structures is not restricted to deverbal nouns, but is also found with deadjectival nouns.",
+    "Gifts and inheritances would be taxed at the point of receipt.",
+    "Impacts of seed and pollen flow on population genetic structure for plant genomes with three contrasting modes of inheritance.",
+    "Apparently it receives a large proportion of its moneys from inheritances from deceased members.",
+    "I was a little surprised that he did not consider putting some further limitation on inheritances.",
+    "One does not apply the test of efficiency, or one ought not to apply it, to any of the biologically pre-conditioned inheritances.",
+    "The use of multiple thresholds in determining the mode of inheritance of semi-continuous traits."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "inhaler",
+    "inherent",
+    "inherently",
+    "inherit",
+    "inheritance",
+    "inherited",
+    "inhibit",
+    "inhibited",
+    "inhibition"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392347_41c0322a45_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392347_7df1796363_o.png",
+      "id_image": "inheritance_1087549"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462093_528c64b01f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462093_3aa5d345c7_o.png",
+      "id_image": "inheritance_5904096"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347276_dddc67283d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347276_4c253ba1ce_o.png",
+      "id_image": "inheritance_6000962"
+    }
+  ]
+}

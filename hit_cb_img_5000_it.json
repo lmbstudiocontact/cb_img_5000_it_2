@@ -1,0 +1,215 @@
+{
+  "english": "hit",
+  "phat_am": "hit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đánh, đấm, nện",
+          "definition": "to (cause or allow to) come into hard contact with",
+          "world_new": [
+            "allow",
+            "contact"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The ball hit him on the head",
+              "world_new": [
+                "ball",
+                "head"
+              ]
+            },
+            {
+              "ex_of_definition": "He hit his head on/against a low branch",
+              "world_new": [
+                "head",
+                "low",
+                "branch"
+              ]
+            },
+            {
+              "ex_of_definition": "The car hit a lamp-post",
+              "world_new": [
+                "car",
+                "lamp-post"
+              ]
+            },
+            {
+              "ex_of_definition": "He hit me on the head with a bottle",
+              "world_new": [
+                "head",
+                "bottle"
+              ]
+            },
+            {
+              "ex_of_definition": "He was hit by a bullet",
+              "world_new": [
+                "bullet"
+              ]
+            },
+            {
+              "ex_of_definition": "That boxer can certainly hit hard!",
+              "world_new": [
+                "boxer",
+                "certainly"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đâm, đụng",
+          "definition": "to make hard contact with (something), and force or cause it to move in some direction",
+          "world_new": [
+            "contact",
+            "force",
+            "cause",
+            "move",
+            "direction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The batsman hit the ball (over the wall).",
+              "world_new": [
+                "batsman",
+                "ball"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm tổn thương, làm đau khổ",
+          "definition": "to cause to suffer",
+          "world_new": [
+            "cause",
+            "suffer"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The farmers were badly hit by the lack of rain",
+              "world_new": [
+                "badly",
+                "lack",
+                "rain"
+              ]
+            },
+            {
+              "ex_of_definition": "Her husband’s death hit her hard.",
+              "world_new": [
+                "death"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tìm ra, vớ được",
+          "definition": "to find; to succeed in reaching",
+          "world_new": [
+            "succeed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His second arrow hit the bull’s-eye",
+              "world_new": [
+                "arrow",
+                "bull’s-eye"
+              ]
+            },
+            {
+              "ex_of_definition": "Take the path across the fields and you’ll hit the road",
+              "world_new": [
+                "path",
+                "across",
+                "road"
+              ]
+            },
+            {
+              "ex_of_definition": "She used to be a famous soprano but she cannot hit the high notes now.",
+              "world_new": [
+                "famous",
+                "soprano"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cú đánh; đòn",
+          "definition": "the act of hitting",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That was a good hit."
+            }
+          ]
+        },
+        {
+          "mean_english": "điểm ghi được",
+          "definition": "a point scored by hitting a target etc",
+          "world_new": [
+            "point",
+            "target"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He scored five hits."
+            }
+          ]
+        },
+        {
+          "mean_english": "việc thành công",
+          "definition": "something which is popular or successful",
+          "world_new": [
+            "popular",
+            "successful"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The play/record is a hit"
+            },
+            {
+              "ex_of_definition": "(also adjective) a hit song.",
+              "world_new": [
+                "song"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "hit-and-run",
+    "hit-or-miss",
+    "hit back",
+    "hit below the belt",
+    "hit it off",
+    "hit on",
+    "hit out",
+    "make a hit with"
+  ],
+  "list_browse": [
+    "historic",
+    "historical",
+    "historically",
+    "history",
+    "hit",
+    "hit back",
+    "hit below the belt",
+    "hit it off",
+    "hit on"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691254_256b4415aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691254_20c473c9bc_o.png",
+      "id_image": "hit_1477178"
+    }
+  ]
+}

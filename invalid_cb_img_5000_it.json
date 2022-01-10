@@ -1,0 +1,118 @@
+{
+  "english": "invalid",
+  "phat_am": "inˈvӕlid",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "vô hiệu",
+          "definition": "(of a document or agreement etc) having no legal force; not valid",
+          "world_new": [
+            "document",
+            "agreement",
+            "legal",
+            "valid"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Your passport is out of date and therefore invalid.",
+              "world_new": [
+                "passport",
+                "date",
+                "therefore"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người tàn tật",
+          "definition": "a person who is ill or disabled",
+          "world_new": [
+            "person",
+            "ill",
+            "disabled"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "During his last few years, he was a permanent invalid.",
+              "world_new": [
+                "permanent"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "cho phục viên vì lý do sức khỏe",
+          "definition": "(with out) to remove (especially a soldier) from service, because of illness",
+          "world_new": [
+            "remove",
+            "service",
+            "illness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was invalided out of the army.",
+              "world_new": [
+                "army"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bị thương tích",
+          "definition": "to cause (especially a soldier) to be disabled",
+          "world_new": [
+            "cause",
+            "disabled"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was invalided in the last war.",
+              "world_new": [
+                "war"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "invalidate",
+    "invalidity"
+  ],
+  "list_browse": [
+    "inundate",
+    "inundation",
+    "invade",
+    "invader",
+    "invalid",
+    "invalidate",
+    "invalidity",
+    "invaluable",
+    "invariable"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339936_933c7031dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339936_e8cc3c9aee_o.png",
+      "id_image": "invalid_4470627"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077080_ef5a9fa8c2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077080_59bda8bb5a_o.png",
+      "id_image": "invalid_5978900"
+    }
+  ]
+}

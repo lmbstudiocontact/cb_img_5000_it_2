@@ -1,0 +1,69 @@
+{
+  "english": "journalist",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhà báo",
+          "definition": "a writer for a newspaper, magazine etc",
+          "world_new": [
+            "writer",
+            "newspaper",
+            "magazine"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She is a freelance journalist who works for publications nationwide.",
+              "world_new": [
+                "freelance",
+                "works",
+                "nationwide"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This herding reduces the likelihood that each journalist will investigate and write a particular story.",
+    "What a journalist wants to show and what an audience wants to watch are not always consistent.",
+    "The journalist criticized the pilot of the traveler who was drinking too much.",
+    "The journalist criticized the pilot of the travelers who was drinking too much.",
+    "Political pundits are another example of journalists who become part of the news product.",
+    "One journalist working for an independent newspaper spoke of ' self-criticism' and saw journalistic liberty as only ' conditional'.",
+    "Nevertheless, it should not be forgotten that those who aspired to be diplomats and journalists received a middle-school education.",
+    "They included government officials, lawyers, doctors, teachers, college lecturers, journalists, managers in multi-national corporations or in smaller private concerns, computer software personnel, engineers and scientists."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "jotter",
+    "joule",
+    "journal",
+    "journalism",
+    "journalist",
+    "journalistic",
+    "journey",
+    "jovial",
+    "joviality"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068930_1697c44968_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068930_ecd03f5d2b_o.png",
+      "id_image": "journalist_1364953"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447193_7236ddfe07_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447193_3cbc3e05f0_o.png",
+      "id_image": "journalist_4382514"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447268_c32a09e4c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447268_5437a52244_o.png",
+      "id_image": "journalist_681857"
+    }
+  ]
+}

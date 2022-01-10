@@ -1,0 +1,77 @@
+{
+  "english": "fox",
+  "phat_am": "foks",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cáo",
+          "definition": "a type of reddish-brown wild animal which looks like a dog.",
+          "world_new": [
+            "type",
+            "wild",
+            "animal",
+            "looks",
+            "dog"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "quá khó hiểu",
+          "definition": "to puzzle or confuse",
+          "world_new": [
+            "puzzle",
+            "confuse"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was completely foxed by the puzzle.",
+              "world_new": [
+                "completely",
+                "puzzle"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "foxy",
+    "foxhound",
+    "fox terrier"
+  ],
+  "list_browse": [
+    "fourteen-year-old",
+    "fourteenth",
+    "fourth",
+    "fowl",
+    "fox",
+    "fox terrier",
+    "foxhound",
+    "foxy",
+    "foyer"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050150_0bdfc0c502_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050150_877dc91cce_o.png",
+      "id_image": "fox_311602"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313546_d622ea9265_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313546_cc24ddde4c_o.png",
+      "id_image": "fox_371908"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050085_6d97ce35c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050085_6d3d4c557f_o.png",
+      "id_image": "fox_5483778"
+    }
+  ]
+}

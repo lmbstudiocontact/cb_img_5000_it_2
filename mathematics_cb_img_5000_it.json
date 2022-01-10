@@ -1,0 +1,77 @@
+{
+  "english": "mathematics",
+  "phat_am": "mӕθəˈmӕtiks",
+  "list_english": [
+    {
+      "type_word": "noun singular",
+      "list_definition": [
+        {
+          "mean_english": "môn toán học",
+          "definition": "(abbreviation mathsmӕθs, British mathmӕθ American the science or branch of knowledge dealing with measurements, numbers and quantities",
+          "world_new": [
+            "science",
+            "branch",
+            "knowledge",
+            "dealing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "applied mathematics.",
+              "world_new": [
+                "applied"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "But they had - at the same time - to be war y that mathematics was not \"so close\" to applications as to produce unwanted philosophical conflict.",
+    "And a group with no need for higher mathematics may package complex arithmetic in its numbering system.",
+    "The book was in two parts, the first part philosophical, the second dealing with mathematics and the natural sciences.",
+    "As such, they are the outcome both of a historical process of reciprocal interaction with the body of mathematics and of external influences.",
+    "Although the mathematics of the model is somewhat complex, the intuition behind it is straightforward.",
+    "In these lectures he sharply criticized accepted views of mathematics and physics.",
+    "The notation for the potential formulation is also simpler, making it easier to understand the underlying physics and mathematics.",
+    "Such changes also produced a revolution in the images of geometrical knowledge and simultaneously triggered interesting and fruitful processes of reflexive thinking in mathematics."
+  ],
+  "list_see_also": [
+    "mathematical",
+    "mathematically",
+    "mathematician"
+  ],
+  "list_browse": [
+    "maternity",
+    "mathematical",
+    "mathematically",
+    "mathematician",
+    "mathematics",
+    "matinée",
+    "matriarch",
+    "matriarchal",
+    "matriculate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674844_3a13cb836b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674844_53bb897b44_o.png",
+      "id_image": "mathematics_1284095"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674794_3341ed1598_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674794_02c1aea0dd_o.png",
+      "id_image": "mathematics_1440980"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056520_37521eac07_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056520_b26c567a0e_o.png",
+      "id_image": "mathematics_170602"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364517_a578087a4c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364517_bcc31e1d33_o.png",
+      "id_image": "mathematics_6032181"
+    }
+  ]
+}

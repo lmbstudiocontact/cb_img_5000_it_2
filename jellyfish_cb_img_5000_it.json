@@ -1,0 +1,65 @@
+{
+  "english": "jellyfish",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "con sứa",
+          "definition": "a kind of sea animal with a jelly-like body",
+          "world_new": [
+            "kind",
+            "sea",
+            "animal",
+            "body"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was stung by a jellyfish."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Lion's mane jellyfish have four different stages in their year-long life span: a larval stage, a polyp stage, an ephyrae stage, and the medusa stage.",
+    "The jellyfish are non-venomous and translucent with average sizes around 2 cm across.",
+    "One of the few hazards that can call for red flags to be flown is to warn bathers of jellyfish.",
+    "He is attempting to insert a fluorescent gene from a jellyfish into a monkey.",
+    "This time, the jellyfish seemed aware of them, and swam around them in a figure-eight.",
+    "Marine hazards include sharks, jellyfish, sea otters, dolphins, and even crocodiles, depending on the location.",
+    "He also encountered sea turtles, dolphins, and jellyfish and befriended them.",
+    "In radially symmetric animals such as the jellyfish and hydra, the nervous system consists of a nerve net, a diffuse network of isolated cells."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "jeeringly",
+    "jejunal",
+    "jejunum",
+    "jelly",
+    "jellyfish",
+    "jeopardise",
+    "jeopardy",
+    "jerk",
+    "jerkily"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334976_3e10bebe83_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334976_cae2aa48ef_o.png",
+      "id_image": "jellyfish_1922990"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334946_3df08897e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334946_350da2f4a1_o.png",
+      "id_image": "jellyfish_1943779"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450018_4a20ee51f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450018_5fa58734d3_o.png",
+      "id_image": "jellyfish_2174094"
+    }
+  ]
+}

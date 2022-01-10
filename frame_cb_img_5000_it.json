@@ -1,0 +1,160 @@
+{
+  "english": "frame",
+  "phat_am": "freim",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sườn; khung",
+          "definition": "a hard main structure round which something is built or made",
+          "world_new": [
+            "main",
+            "structure"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the steel frame of the aircraft.",
+              "world_new": [
+                "steel",
+                "aircraft"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khung",
+          "definition": "something made to enclose something",
+          "world_new": [
+            "enclose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a picture frame",
+              "world_new": [
+                "picture"
+              ]
+            },
+            {
+              "ex_of_definition": "a window frame.",
+              "world_new": [
+                "window"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thân hình; tầm vóc",
+          "definition": "the human body",
+          "world_new": [
+            "human",
+            "body"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has a slight frame.",
+              "world_new": [
+                "slight"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đóng khung",
+          "definition": "to put a frame around",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We ought to frame this picture.",
+              "world_new": [
+                "picture"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tạo khuôn",
+          "definition": "to act as a frame for",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her hair framed her face.",
+              "world_new": [
+                "hair",
+                "face"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tạo chứng cứ giả",
+          "definition": "to arrange false evidence so as to make (someone) seem guilty of a crime etc (noun frame-up)",
+          "world_new": [
+            "arrange",
+            "false",
+            "evidence",
+            "seem",
+            "guilty",
+            "crime"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Harrison claimed that he’’d been framed for the murder.",
+              "world_new": [
+                "murder"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A review of changing scientific perspectives about early development frames our argument.",
+    "With the scheme of approach control step by step, the mated robot can finally achieve the desired target frame with ultra-precision kinematic accuracy.",
+    "This can perhaps best be illustrated by a particular frame of reference that surrounds the grafted tree.",
+    "The document survived in a frame as a decoration hanging in the local pub (no. 317 ; see also p. xlii).",
+    "To further understanding of policy problems, experimental economists construct small-scale abstractions of real-world problems (although typically these miniature replicas are framed in abstract terms).",
+    "This effect causes target position to be misperceived when it is surrounded by a frame presented asymmetrically.",
+    "It gives insight into the format of experts' knowledge structures; experts turn out to use mainly frame representations.",
+    "It was constructed with a rectangular steel section structure, timber frame and asbestos-cement sheet cladding."
+  ],
+  "list_see_also": [
+    "framework",
+    "frame of mind"
+  ],
+  "list_browse": [
+    "fragrance",
+    "fragrant",
+    "frail",
+    "frailty",
+    "frame",
+    "frame of mind",
+    "framework",
+    "franc",
+    "franchise"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428023_fdc77a5626_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428023_10f7f5e841_o.png",
+      "id_image": "frame_305719"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357177_77a3ae5d2d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357177_73279455fd_o.png",
+      "id_image": "frame_837195"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313211_6256d14a79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313211_7f8c5bb51c_o.png",
+      "id_image": "frame_964014"
+    }
+  ]
+}

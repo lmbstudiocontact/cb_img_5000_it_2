@@ -1,0 +1,145 @@
+{
+  "english": "kid",
+  "phat_am": "kid",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "trẻ em",
+          "definition": "a popular word for a child or teenager",
+          "world_new": [
+            "popular",
+            "child",
+            "teenager"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They’ve got three kids now, two boys and a girl",
+              "world_new": [
+                "girl"
+              ]
+            },
+            {
+              "ex_of_definition": "More than a hundred kids went to the disco last night",
+              "world_new": [
+                "disco",
+                "night"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) his kid brother (= younger brother).",
+              "world_new": [
+                "brother"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dê con",
+          "definition": "a young goat.",
+          "world_new": [
+            "young",
+            "goat"
+          ]
+        },
+        {
+          "mean_english": "da dê non",
+          "definition": "the leather made from its skin",
+          "world_new": [
+            "leather",
+            "its",
+            "skin"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "slippers made of kid"
+            },
+            {
+              "ex_of_definition": "(also adjective) kid gloves."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "lừa gạt",
+          "definition": "to deceive or tease, especially harmlessly",
+          "world_new": [
+            "deceive",
+            "tease",
+            "harmlessly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We were kidding him about the girl who keeps ringing him up",
+              "world_new": [
+                "girl"
+              ]
+            },
+            {
+              "ex_of_definition": "He kidded his wife into thinking he’d forgotten her birthday",
+              "world_new": [
+                "wife",
+                "birthday"
+              ]
+            },
+            {
+              "ex_of_definition": "He didn’t mean that – he was only kidding!",
+              "world_new": [
+                "mean"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They had attended high school, played sports or spent time in dance halls and in and around movie houses among kids from multiple ethnic neighborhoods.",
+    "But that does not mean that every kid who deliberately as the fittest way of saying what needs to be said.",
+    "I asked her if she remembered any of the poems she used to recite for us when we were kids.",
+    "Classical music may be dead, but as you say to kids, it's in a better place now.",
+    "To understand the next example, compare 'yaldei haxberim ba-wa'da (the kids of the committee members)' with 'yladim ha-xberim ba-wa'da (kids that are committee members)'.",
+    "There are parents raised on junk food and that's what their kids eat.",
+    "Note: no faecal culture in the untreated group of kids showed the presence of nematophagous fungi.",
+    "We spent most of a day with the kids and villagers on those archaeological sites."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "kick about/around",
+    "kick off",
+    "kick one’s heels",
+    "kick up",
+    "kid",
+    "kidnap",
+    "kidnapper",
+    "kidney",
+    "kill"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064900_7bf52a5f8e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064900_cfca37876e_o.png",
+      "id_image": "kid_3372910"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328116_6af7e0a163_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328116_d043af70e2_o.png",
+      "id_image": "kid_5233559"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328061_aa4cd0c27e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328061_dbd8b270a7_o.png",
+      "id_image": "kid_5333174"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372937_ec55b19a8c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372937_1456b08860_o.png",
+      "id_image": "kid_616027"
+    }
+  ]
+}

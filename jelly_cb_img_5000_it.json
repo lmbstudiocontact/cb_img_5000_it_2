@@ -1,0 +1,101 @@
+{
+  "english": "jelly",
+  "phat_am": "ˈdʒeli",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thạch",
+          "definition": "a transparent, smooth food, usually fruit-flavoured",
+          "world_new": [
+            "transparent",
+            "smooth",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve made raspberry jelly for the party.",
+              "world_new": [
+                "raspberry",
+                "party"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mứt",
+          "definition": "the juice of fruit boiled with sugar until it is firm, used like jam, or served with meat.",
+          "world_new": [
+            "juice",
+            "fruit",
+            "sugar",
+            "firm",
+            "jam",
+            "meat"
+          ]
+        },
+        {
+          "mean_english": "giống như thạch",
+          "definition": "any jelly-like substance",
+          "world_new": [
+            "substance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Frogs’ eggs are enclosed in a kind of jelly.",
+              "world_new": [
+                "kind"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mứt cô đặc",
+          "definition": "same as jam1."
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "If the nuclear status was unclear, the oocytes were mounted on slides that had been prepared with petroleum jelly/paraffin wax supporting droplets.",
+    "The space around the small embryos was filled with jelly-like endosperm.",
+    "Samples consisted of 4-5 primordia from a single seed, with the cut surfaces coated with petroleum jelly, and were replicated four times.",
+    "Monogeneans were counted, fixed in 70% ethanol, cleared in lactophenol, and mounted in glycerol jelly.",
+    "We then placed the animal in a stereotactic head-restraining device and anesthetized pressure points with lidocaine jelly.",
+    "For this reason, production and storage of egg jelly precursor in nereids may have been conferred upon the oocytes.",
+    "The filaments correspond in appearance to the filamentous contents of the cortical granules and thus represent the precursor molecules of the egg jelly.",
+    "The experimental results are presented using the end effector that has been operated to lift non-rigid food materials such as jelly blocks."
+  ],
+  "list_see_also": [
+    "jellyfish"
+  ],
+  "list_browse": [
+    "jeering",
+    "jeeringly",
+    "jejunal",
+    "jejunum",
+    "jelly",
+    "jellyfish",
+    "jeopardise",
+    "jeopardy",
+    "jerk"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335096_9e605a4f47_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335096_990cf958d4_o.png",
+      "id_image": "jelly_1398525"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690204_4395617076_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690204_399ac94cee_o.png",
+      "id_image": "jelly_2002748"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380082_68158b1afa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380082_ba92a55b5f_o.png",
+      "id_image": "jelly_6299706"
+    }
+  ]
+}

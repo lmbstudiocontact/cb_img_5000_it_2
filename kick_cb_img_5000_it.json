@@ -1,0 +1,159 @@
+{
+  "english": "kick",
+  "phat_am": "kik",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đá",
+          "definition": "to hit or strike out with the foot",
+          "world_new": [
+            "hit",
+            "strike",
+            "foot"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The child kicked his brother",
+              "world_new": [
+                "child",
+                "brother"
+              ]
+            },
+            {
+              "ex_of_definition": "He kicked the ball into the next garden",
+              "world_new": [
+                "ball",
+                "garden"
+              ]
+            },
+            {
+              "ex_of_definition": "He kicked at the locked door",
+              "world_new": [
+                "door"
+              ]
+            },
+            {
+              "ex_of_definition": "She kicked open the gate.",
+              "world_new": [
+                "open",
+                "gate"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giật",
+          "definition": "(of a gun) to jerk or spring back violently when fired.",
+          "world_new": [
+            "jerk",
+            "spring",
+            "violently"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cú đá",
+          "definition": "a blow with the foot",
+          "world_new": [
+            "blow",
+            "foot"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The boy gave him a kick on the ankle",
+              "world_new": [
+                "boy",
+                "ankle"
+              ]
+            },
+            {
+              "ex_of_definition": "He was injured by a kick from a horse.",
+              "world_new": [
+                "injured",
+                "horse"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự giật",
+          "definition": "the springing back of a gun after it has been fired.",
+          "world_new": [
+            "gun"
+          ]
+        },
+        {
+          "mean_english": "sự bất ngờ thú vị",
+          "definition": "a pleasant thrill",
+          "world_new": [
+            "pleasant",
+            "thrill"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She gets a kick out of entertaining people.",
+              "world_new": [
+                "entertaining",
+                "people"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Multi-dimensioned intertwined basin boundaries: basin structure of the kicked double rotor.",
+    "When sampled with a kick net, the only organisms found in significant abundance at this marine foraging site were amphipods.",
+    "The kick wheel is used, depending on the type of vessel being produced.",
+    "There is no time and no task when such dynamics cease and some other mode of processing kicks in.",
+    "For example, consider an idiom such as kick the bucket.",
+    "Similarly, genes for hypercholesterolemia will only kick in if you have a high fat diet.",
+    "The kick had landed sickeningly just below his ribs.",
+    "This is a simple principle whereby you go and kick the office boy after being bawled out by the boss."
+  ],
+  "list_see_also": [
+    "kick about/around",
+    "kick off",
+    "kick up"
+  ],
+  "list_browse": [
+    "keynote",
+    "keypad",
+    "kg",
+    "khaki",
+    "kick",
+    "kick about/around",
+    "kick off",
+    "kick one’s heels",
+    "kick up"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328241_e8725b9a39_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328241_6fea9534c3_o.png",
+      "id_image": "kicking_1505381"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328201_6f99413eb9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328201_eb1a080e75_o.png",
+      "id_image": "kicking_2333270"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373152_eb0878ae46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373152_f0155be1c8_o.png",
+      "id_image": "kick_4020306"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683474_e6f4f21bcc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683474_bc124369d1_o.png",
+      "id_image": "kick_5965812"
+    }
+  ]
+}

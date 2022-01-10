@@ -1,0 +1,103 @@
+{
+  "english": "lesson",
+  "phat_am": "ˈlesn",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "buổi học",
+          "definition": "a period of teaching",
+          "world_new": [
+            "period",
+            "teaching"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a French lesson.",
+              "world_new": [
+                "French"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bài học",
+          "definition": "something which is learned or taught",
+          "world_new": [
+            "learned"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The lesson which we learned from the experience was never to trust anyone.",
+              "world_new": [
+                "learned",
+                "experience",
+                "trust"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bài rao giảng",
+          "definition": "a part of the Bible read in church",
+          "world_new": [
+            "part",
+            "Bible",
+            "read",
+            "church"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was asked to read the lesson on Sunday morning.",
+              "world_new": [
+                "read",
+                "Sunday",
+                "morning"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "When it came to the memories of music in school, the positive memories were about teachers or lessons that the respondents enjoyed.",
+    "1958,2) - the chapter where he discusses the lessons of the quantum revolution.",
+    "The lessons drawn from this case can certainly inspire policy-makers to elaborate inclusive solutions in other contexts.",
+    "How was the episode distilled into a tragedy, and what were the lessons of that tragedy?",
+    "One of the basic principles of the project was that improvisation should be one pillar of the piano lessons.",
+    "Quantifying psychiatric comorbidity : lessons from chronic disease epidemiology.",
+    "On closer inspection, however, many of these putative lessons turn out to be hastily formulated, weakly grounded and prescriptively inadequate.",
+    "In pupil-centred lessons there are likely to be less verbal instructions from teachers but greater emphasis on practical demonstrations and focused listening."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "lesion",
+    "less",
+    "lessen",
+    "lesser",
+    "lesson",
+    "lest",
+    "let",
+    "let (someone or something) alone/be",
+    "let (something) pass"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345241_52401db400_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345241_ebe0978814_o.png",
+      "id_image": "lesson_1058510"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700449_ae982820bb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700449_10a68669aa_o.png",
+      "id_image": "lesson_207316"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700359_35b20157b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700359_98ea7f6b2f_o.png",
+      "id_image": "lesson_6258824"
+    }
+  ]
+}

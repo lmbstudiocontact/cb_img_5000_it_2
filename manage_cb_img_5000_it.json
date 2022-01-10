@@ -1,0 +1,141 @@
+{
+  "english": "manage",
+  "phat_am": "ˈmӕnidʒ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "quản lý",
+          "definition": "to be in control or charge of",
+          "world_new": [
+            "control",
+            "charge"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My lawyer manages all my legal affairs/money.",
+              "world_new": [
+                "lawyer",
+                "my",
+                "legal"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lãnh đạo",
+          "definition": "to be manager of",
+          "world_new": [
+            "manager"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "James manages the local football team.",
+              "world_new": [
+                "local",
+                "football",
+                "team"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kiểm soát",
+          "definition": "to deal with, or control",
+          "world_new": [
+            "deal",
+            "control"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s good at managing people.",
+              "world_new": [
+                "people"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giải quyết",
+          "definition": "to be able to do something; to succeed or cope",
+          "world_new": [
+            "succeed",
+            "cope"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Will you manage to repair your bicycle?",
+              "world_new": [
+                "repair",
+                "your",
+                "bicycle"
+              ]
+            },
+            {
+              "ex_of_definition": "Can you manage (to eat) some more meat?",
+              "world_new": [
+                "meat"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "To understand large modern buildings, further specialists must be drawn into the picture, along with the manner in which the construction was managed.",
+    "Between 1986 and 1996, we managed 19 cases of interrupted aortic arch, ventricular septal defect and patent arterial duct, by a one stage repair.",
+    "Consequently, managing impacts will be difficult under most circumstances.",
+    "Alternative approaches to managing beetle populations in the field necessarily depend on more detailed knowledge of the key ecological requirements of various species.",
+    "The conflicts can be managed to reconcile the design perspectives.",
+    "At all times, the land was managed by the farmer as grazed grassland.",
+    "After all, employees can choose better than employers (who don't know much about managed care anyway).",
+    "The result is that after having been efficiently managed the resource now becomes overexploited because of poorly defined rights."
+  ],
+  "list_see_also": [
+    "manageable",
+    "manageability",
+    "management",
+    "manager",
+    "managerial"
+  ],
+  "list_browse": [
+    "man-eater",
+    "man-eating",
+    "man-made",
+    "man-size",
+    "manage",
+    "manageability",
+    "manageable",
+    "management",
+    "manager"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371732_873792f688_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371732_d95af64b05_o.png",
+      "id_image": "manage_1768879"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371712_eff14b33d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371712_e2a55a5484_o.png",
+      "id_image": "manage_1768889"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442008_a147e2ca76_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442008_e4b4eeed71_o.png",
+      "id_image": "manage_1768897"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371652_b95d8df91a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371652_e4e63df6d0_o.png",
+      "id_image": "manage_4751891"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371612_5c8e89ab05_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371612_4949dff168_o.png",
+      "id_image": "manage_5132697"
+    }
+  ]
+}

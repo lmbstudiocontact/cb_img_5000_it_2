@@ -1,0 +1,50 @@
+{
+  "english": "handgun",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "súng ngắn",
+          "definition": "a small gun that you hold with one hand when you fire it",
+          "world_new": [
+            "small",
+            "gun",
+            "hold",
+            "hand",
+            "fire"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "illegal possession of a handgun.",
+              "world_new": [
+                "illegal",
+                "possession"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "handbrake",
+    "handcuff",
+    "handcuffs",
+    "handful",
+    "handgun",
+    "handicap",
+    "handicapped",
+    "handicraft",
+    "handiness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359787_b127f304a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359787_684b74b993_o.png",
+      "id_image": "handgun_1280488"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "english": "Lent",
+  "phat_am": "lent",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "Mùa chay",
+          "definition": "the time from Ash Wednesday to Easter (40 weekdays) observed as a time of fasting in commemoration of Christ’s fast in the wilderness",
+          "world_new": [
+            "time",
+            "Wednesday",
+            "Easter",
+            "time",
+            "fasting",
+            "commemoration",
+            "fast",
+            "wilderness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Catholics traditionally celebrate Lent by giving up meat on Fridays.",
+              "world_new": [
+                "traditionally",
+                "celebrate",
+                "meat"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "lenience",
+    "lenient",
+    "leniently",
+    "lens",
+    "Lent",
+    "lentil",
+    "Leo",
+    "leopard",
+    "leotard"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700599_ab97dce8b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700599_2037d2fcce_o.png",
+      "id_image": "lent_688456"
+    }
+  ]
+}

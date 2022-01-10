@@ -1,0 +1,70 @@
+{
+  "english": "inhale",
+  "phat_am": "inˈheil",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "hít vào",
+          "definition": "to breathe in",
+          "world_new": [
+            "breathe"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He inhaled deeply",
+              "world_new": [
+                "deeply"
+              ]
+            },
+            {
+              "ex_of_definition": "It is very unpleasant to have to inhale the smoke from other people’s cigarettes.",
+              "world_new": [
+                "unpleasant",
+                "smoke"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I am not accepting the dictum of the scientists that inhaling such a large quantity of dust does not eventually disable a man.",
+    "We all feel that they must be inhaling something which will affect their lungs.",
+    "The handlers will be inhaling considerable amounts if they are dipping between 500 and 1,000 sheep.",
+    "Intentional misuse by deliberately concentrating and inhaling the contents can cause death.",
+    "One microscopic fragment inhaled by an unfortunate employee can lead to death.",
+    "A tremendous amount of slate dust was inhaled by ordinary quarry workers in my early days.",
+    "If asbestos dust is inhaled the person inhaling contracts a serious and usually deadly disease.",
+    "Small particles of saliva and aerosol contaminated by streptococci, which are inhaled into the respiratory tract, expose the nasal and bronchial mucosa more easily to the pathogen."
+  ],
+  "list_see_also": [
+    "inhalation",
+    "inhaler"
+  ],
+  "list_browse": [
+    "inhabit",
+    "inhabitable",
+    "inhabitant",
+    "inhalation",
+    "inhale",
+    "inhaler",
+    "inherent",
+    "inherently",
+    "inherit"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084775_2cd2b95013_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084775_1153efb0fc_o.png",
+      "id_image": "inhale_1685868"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702189_3f6ed265b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702189_a8ae74c2bb_o.png",
+      "id_image": "inhale_4694769"
+    }
+  ]
+}

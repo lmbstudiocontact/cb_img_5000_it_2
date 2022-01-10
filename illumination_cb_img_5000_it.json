@@ -1,0 +1,94 @@
+{
+  "english": "illumination",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự chiếu sáng",
+          "definition": "the act of illuminating",
+          "world_new": [
+            "act",
+            "illuminating"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Illumination of the room is provided by fluorescent tubes.",
+              "world_new": [
+                "room",
+                "provided",
+                "fluorescent"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đèn hoa đăng",
+          "definition": "the decorative lights in a town etc",
+          "world_new": [
+            "decorative",
+            "town"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Go to Blackpool and see the illuminations.",
+              "world_new": [
+                "see"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Target length is set to prevent laser illumination into the target through its open ends.",
+    "On the other hand, we are known to misjudge reflectance properties when the illumination is unusual, or in the case of metamers.",
+    "Both crown illumination and tree size were related to liana abundance.",
+    "A challenge has been to devise a set of stimulus and viewing conditions that afford evaluation of the receptor types that mediate the color percepts under dim illuminations.",
+    "Indeed, it is plausible that this aspect of color vision is more important than seeing objects that are already visible as having the same color across differing illuminations.",
+    "The illuminations were also held in 1975, despite a national energy crisis.",
+    "Photoresponses were elicited by long-wavelength and shor t-wavelength light stimuli in the dark-adapted state and under conditions of chromatic background illumination.",
+    "We have then a study of continuity and an illumination of its changing mechanisms and faces."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "illogically",
+    "illuminate",
+    "illuminated",
+    "illuminating",
+    "illumination",
+    "illusion",
+    "illusionist",
+    "illustrate",
+    "illustrated"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059990_501f99a302_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059990_662df37a41_o.png",
+      "id_image": "illumination_1114837"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060035_5c10cfa4fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060035_e556bde00b_o.png",
+      "id_image": "illumination_121166"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323241_50447c05fa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323241_704a4b7248_o.png",
+      "id_image": "illumination_288565"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323166_d9b5154783_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323166_47a9a396b2_o.png",
+      "id_image": "illumination_3823968"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438253_c71bcb0580_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438253_ca7e63a296_o.png",
+      "id_image": "illumination_4370749"
+    }
+  ]
+}

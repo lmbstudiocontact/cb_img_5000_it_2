@@ -1,0 +1,93 @@
+{
+  "english": "initiative",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sáng kiến",
+          "definition": "a first step or move that leads the way",
+          "world_new": [
+            "step",
+            "move"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He took the initiative in organizing a search party to look for the girl.",
+              "world_new": [
+                "search",
+                "party",
+                "look",
+                "girl"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thế chủ động",
+          "definition": "the ability to lead or make decisions for oneself",
+          "world_new": [
+            "ability",
+            "lead"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is quite good at his job, but lacks initiative",
+              "world_new": [
+                "quite",
+                "job"
+              ]
+            },
+            {
+              "ex_of_definition": "My son actually went to the hairdresser’s on his own initiative!",
+              "world_new": [
+                "son",
+                "actually"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Each factor could cause an observed relationship between initiative use and efficacy to be spurious.",
+    "This can make study findings appear redundant as the health service rushes on to experiment with the next new initiative.",
+    "Works that were centrally planned and assigned, moreover, had a better chance of seeing print than did books written on personal initiative.",
+    "A health promotion coordinator can play a vital role in educating/supporting staff, driving organizational initiatives and liaising with community agencies.",
+    "This rose dramatically, to 3963 schools in 1900 and to 6032 in 1901, showing the dramatic improvement brought about by the in-service initiative.",
+    "We expect more initiatives generally to lead to greater efficacy, but we also examine whether this relationship is non-linear.",
+    "The interaction terms were used to test whether ballot initiatives have a stigmatizing effect on racial and ethnic minorities, leading to lower political efficacy.",
+    "On financial services, the policy initiative was in the hands of the corporate lobbyists who pushed for a project which was eventually implemented."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "initial",
+    "initially",
+    "initiate",
+    "initiation",
+    "initiative",
+    "inject",
+    "injection",
+    "injure",
+    "injured"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392212_0b89420d79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392212_7ccd027d71_o.png",
+      "id_image": "initiative_1055358"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702049_77d209a8f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702049_8509b326bb_o.png",
+      "id_image": "initiative_1838330"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084625_d5b11c1aa4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084625_28fe05cc8e_o.png",
+      "id_image": "initiative_3317703"
+    }
+  ]
+}

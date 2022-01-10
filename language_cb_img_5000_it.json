@@ -1,0 +1,112 @@
+{
+  "english": "language",
+  "phat_am": "ˈlӕŋɡwidʒ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ngôn ngữ",
+          "definition": "human speech",
+          "world_new": [
+            "human",
+            "speech"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the development of language in children.",
+              "world_new": [
+                "development"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tiếng nói của một đất nước",
+          "definition": "the speech of a particular nation",
+          "world_new": [
+            "speech",
+            "particular",
+            "nation"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She is very good at (learning) languages"
+            },
+            {
+              "ex_of_definition": "He found that Russian was a difficult language to master.",
+              "world_new": [
+                "found",
+                "difficult",
+                "master"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cách ăn nói",
+          "definition": "the words and way of speaking, writing etc usually connected with a particular group of people etc",
+          "world_new": [
+            "speaking",
+            "particular",
+            "group",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the language of journalists"
+            },
+            {
+              "ex_of_definition": "medical language.",
+              "world_new": [
+                "medical"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The latter include intelligent agents, natural language understanding and processing, reasoning strategies, and knowledge representations and ontologies.",
+    "Using the connection between language and reasoning to improve concept generation may assist in reducing the overall cost in the product realization cycle.",
+    "How far can the number of working languages be reduced?",
+    "In a language-learning situation with restricted availability to the target language, such a system would likely be predicted purely on the grounds of transfer.",
+    "In 2005, 89.5 per cent of pupils chose it as their first foreign language.",
+    "The insula and temporal gyrus regions are also linked to verbal and language abilities.",
+    "There are three fields of language planning - status, corpus, and, acquisition - and three types of actors: individuals, communities, and states.",
+    "English, by contrast, is a language in which argument omission is not permitted."
+  ],
+  "list_see_also": [
+    "bad language",
+    "language laboratory"
+  ],
+  "list_browse": [
+    "landslide",
+    "landslide (victory)",
+    "landslide defeat",
+    "lane",
+    "language",
+    "language laboratory",
+    "languid",
+    "languidly",
+    "languish"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675849_c4e2f85ee2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675849_34380e2d32_o.png",
+      "id_image": "language_2680952"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675819_60a37728fa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675819_f309188400_o.png",
+      "id_image": "language_2761083"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320736_645b761bfe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320736_42cb226ed6_o.png",
+      "id_image": "language_3253307"
+    }
+  ]
+}

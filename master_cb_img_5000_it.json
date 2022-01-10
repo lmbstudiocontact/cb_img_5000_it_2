@@ -1,0 +1,215 @@
+{
+  "english": "master",
+  "phat_am": "ˈmaːstə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chủ nhân",
+          "definition": "a person or thing that commands or controls",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m master in this house!",
+              "world_new": [
+                "house"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ông chủ",
+          "definition": "an owner (of a slave, dog etc)",
+          "world_new": [
+            "owner",
+            "slave",
+            "dog"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The dog ran to its master.",
+              "world_new": [
+                "dog",
+                "its"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thầy giáo",
+          "definition": "a male teacher",
+          "world_new": [
+            "male",
+            "teacher"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the Maths master."
+            }
+          ]
+        },
+        {
+          "mean_english": "thuyền trưởng",
+          "definition": "the commander of a merchant ship",
+          "world_new": [
+            "commander",
+            "merchant",
+            "ship"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the ship’s master."
+            }
+          ]
+        },
+        {
+          "mean_english": "bậc thầy",
+          "definition": "a person very skilled in an art, science etc",
+          "world_new": [
+            "person",
+            "skilled",
+            "art",
+            "science"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s a real master at painting.",
+              "world_new": [
+                "real",
+                "painting"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cậu (xưng hô)",
+          "definition": "a polite title for a boy, in writing or in speaking",
+          "world_new": [
+            "polite",
+            "title",
+            "boy",
+            "speaking"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Master John Wallace."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "tổng thể",
+          "definition": "(of a person in a job) fully qualified, skilled and experienced",
+          "world_new": [
+            "person",
+            "fully",
+            "qualified",
+            "skilled",
+            "experienced"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a master builder/mariner/plumber."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đánh bại",
+          "definition": "to overcome (an opponent, handicap etc)",
+          "world_new": [
+            "overcome",
+            "opponent",
+            "handicap"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She has mastered her fear of heights.",
+              "world_new": [
+                "fear"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thông thạo",
+          "definition": "to become skilful in",
+          "world_new": [
+            "become",
+            "skilful"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I don’t think I’ll ever master arithmetic.",
+              "world_new": [
+                "I",
+                "think",
+                "ever",
+                "arithmetic"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Chapters 7, 8, and 9 form the core chapters that a graduate student would be interested in, having mastered the earlier chapters.",
+    "So there is no escaping from it: scientific language has to be tackled and mastered if scientific thought is to be followed.",
+    "And just who had assisted the master-architect in his endeavours?",
+    "The master reaches for his pocket, ready to reward the useful lad with a gift of money.",
+    "He had tentatively agreed to become master of the rolls, and felt that the failure of that appointment reflected badly upon him.",
+    "The exchange of power between master and servant exercises the architectural setting as symbolic and actual battleground of play.",
+    "Also, the other kinds of grammatical knowledge are more likely to be mastered in the beginning stages of learning a new word.",
+    "The programs provide systematic exercises for mastering word-attack strategies."
+  ],
+  "list_see_also": [
+    "masterful",
+    "masterfully",
+    "masterfulness",
+    "masterly",
+    "masterliness",
+    "mastery",
+    "master key",
+    "mastermind",
+    "masterpiece",
+    "master’s degree",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "massively",
+    "massiveness",
+    "mast",
+    "-masted",
+    "master",
+    "master key",
+    "master of ceremonies",
+    "master stroke",
+    "master switch"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436163_f801a50c85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436163_e3f95be9ae_o.png",
+      "id_image": "master_1866061"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365832_2e194ef0c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365832_c6996af055_o.png",
+      "id_image": "master_2621768"
+    }
+  ]
+}

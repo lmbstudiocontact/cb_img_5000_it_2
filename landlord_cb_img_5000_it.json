@@ -1,0 +1,80 @@
+{
+  "english": "landlord",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chủ nhà",
+          "definition": "a person who has tenants or lodgers",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My landlady has just put up my rent.",
+              "world_new": [
+                "my",
+                "rent"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chủ quán trọ",
+          "definition": "a person who keeps a public house",
+          "world_new": [
+            "person",
+            "public",
+            "house"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The landlord of ‘The Swan’ is Mr Roberts."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Barred by landlords from the mainstream urban rental market, they lived in wretched tenements.",
+    "The same was true of forest land, access to which was supervised by the landlord's officials.",
+    "Nowhere was this link more apparent than in the attitudes displayed by landlords during the purchase and sale of particular landed properties.",
+    "Partly because the state was not being run efficiently either, the landlords did not protect cooperatives and so failure was rife.",
+    "They had the power to force landlords to pay for improvements on their estates over which they had little or no control.",
+    "After 1862 landlords could contract labourers without going through the rural magistrate, but the decision could be costly.",
+    "Fixed investment such as in liming or buildings was usually financed by landlords, although tenants had to provide the labour.",
+    "Poorer tenants are likely to live in the properties in the worst condition and their landlords are more likely to have an 'investment motive'."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "landing",
+    "landing gear",
+    "landing stage",
+    "landlocked",
+    "landlord",
+    "landmark",
+    "landmine",
+    "landowner",
+    "Landrover"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676574_601ff438f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676574_38fac4a556_o.png",
+      "id_image": "landlord_2558068"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676529_c9ce13a994_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676529_2505945b47_o.png",
+      "id_image": "landlord_4827602"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321431_fc78ec051c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321431_242ef93376_o.png",
+      "id_image": "landlord_5091753"
+    }
+  ]
+}

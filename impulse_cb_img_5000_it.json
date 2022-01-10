@@ -1,0 +1,79 @@
+{
+  "english": "impulse",
+  "phat_am": "ˈimpals",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự hấp tấp",
+          "definition": "a sudden desire to do something, without thinking about the consequences",
+          "world_new": [
+            "sudden",
+            "desire"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I bought the dress on impulse – I didn’t really need it",
+              "world_new": [
+                "I",
+                "dress",
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự thúc đẩy",
+          "definition": "a sudden force or stimulation",
+          "world_new": [
+            "sudden",
+            "force",
+            "stimulation"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an electrical impulse.",
+              "world_new": [
+                "electrical"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "All these findings indicate that the capacity for self-control is prerequisite for inhibiting angry impulses and engaging in prosocial behavior.",
+    "Moral philosophy and religious traditions with their concepts of a golden rule attempt to universalize their highly particularistic benevolent impulses.",
+    "The internal damping of the spring also absorbs the severe vibrations and impulses on the mechanism.",
+    "They block transmission of nerve impulses from sacral efferents to the detrusor muscles, inhibiting contraction.",
+    "Radical impulses did not die between 1790 and 1830, but they were expressed in different ways.",
+    "Granular noise is textured impulses, and need not be dominant in a spectromorphology.",
+    "Figure 1-b shows the process of convoluting an input with two impulses.",
+    "The positional information contained in the response would be expected to be dependent on both peak rate and the number of impulses present."
+  ],
+  "list_see_also": [
+    "impulsive",
+    "impulsively",
+    "impulsiveness"
+  ],
+  "list_browse": [
+    "imprudently",
+    "impudence",
+    "impudent",
+    "impudently",
+    "impulse",
+    "impulsive",
+    "impulsively",
+    "impulsiveness",
+    "impure"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320266_fe08a8f3f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320266_426b66f9b9_o.png",
+      "id_image": "impulse_1533981"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "english": "heroin",
+  "phat_am": "ˈherəuin",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hêrôin",
+          "definition": "a drug obtained from opium",
+          "world_new": [
+            "drug",
+            "opium"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s addicted to heroin.",
+              "world_new": [
+                "addicted"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "hero",
+    "hero-worship",
+    "heroic",
+    "heroically",
+    "heroin",
+    "heroism",
+    "heron",
+    "herring",
+    "hers"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453073_e1c0227375_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453073_139b2c106e_o.png",
+      "id_image": "heroin_1685902"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075145_d2c2f8d349_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075145_5c191e6ec1_o.png",
+      "id_image": "heroin_2358430"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693334_846e3fa3dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693334_ed538cb116_o.png",
+      "id_image": "heroin_4321678"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "english": "hair",
+  "phat_am": "heə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lông",
+          "definition": "one of the mass of thread-like objects that grow from the skin",
+          "world_new": [
+            "mass",
+            "grow",
+            "skin"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He brushed the dog’s hairs off his jacket.",
+              "world_new": [
+                "jacket"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tóc",
+          "definition": "the mass of these, especially on a person’s head",
+          "world_new": [
+            "mass",
+            "head"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s got brown hair.",
+              "world_new": [
+                "brown"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "He adjusts his clothing, he tends to his hair, with infinite loving pains.",
+    "Most of the hairs arise from little creamy white dots, some of which are enclosed in small round black or bluish grey spots.",
+    "They dyed their hair and wrote slogans on their clothes and on city walls.",
+    "He clearly found running the shrine very stressful: he lost weight and his hair started to fall out.",
+    "He was only 5 feet 3 inches tall with a dark complexion, hazel eyes, and dark hair.",
+    "A combed skein of hair forms the background to the smaller images, which explains the curious criss-crossing in the crook of the swimsuited woman's arm.",
+    "Her hair was arranged in a bun with her front hair parted in the middle.",
+    "The characteristics were : hair, facial hair, larynx, voice, figure, height, skin, hands/feet, muscularity, chin, nose, jaw, speech, and gestures/movement."
+  ],
+  "list_see_also": [
+    "-haired",
+    "hairy",
+    "hairiness",
+    "hair’s breadth",
+    "hairbrush",
+    "haircut",
+    "hair-do",
+    "hairdresser",
+    "hairdressing",
+    "hair drier",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "haggle",
+    "hail",
+    "hail from",
+    "hailstone",
+    "hair",
+    "hair drier",
+    "hair oil",
+    "hair’s breadth",
+    "hair-do"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431348_edd13d553f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431348_4636b57d0a_o.png",
+      "id_image": "hair_1202529"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316436_ff8e9009b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316436_6d70642302_o.png",
+      "id_image": "hair_3125002"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316416_585defdcc0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316416_06b96cc15d_o.png",
+      "id_image": "hair_3511936"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671024_2d65fcf7c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671024_029942b28f_o.png",
+      "id_image": "hair_3791206"
+    }
+  ]
+}

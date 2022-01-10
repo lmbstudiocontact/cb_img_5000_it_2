@@ -1,0 +1,77 @@
+{
+  "english": "loom",
+  "phat_am": "luːm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "khung cửi",
+          "definition": "a machine in which thread is woven into a fabric.",
+          "world_new": [
+            "machine",
+            "thread",
+            "fabric"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "hiện ra lờ mờ",
+          "definition": "(often with up) to appear indistinctly, often threateningly",
+          "world_new": [
+            "appear",
+            "indistinctly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A huge ship loomed (up) in the fog.",
+              "world_new": [
+                "huge",
+                "ship",
+                "fog"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Textile production was the dominant manufacturing sector, whether measured by employment at spindles and wheels and at looms, or by value of output.",
+    "At the contest, both weavers set up their looms.",
+    "Because a significant portion of the labour force was becoming redundant, pauperization loomed large.",
+    "The number of looms assigned for the purpose in 1766 was 1,644 as against 1,761 in 1767.",
+    "In other words, uncertainty looms large when sunk costs cannot be recouped.",
+    "Computation of different optical variables of looming objects in pigeon nucleus rotundus neurons.",
+    "He felt compelled to visit weavers' homes regularly to make sure his work was being done on their looms.",
+    "In the 1930s the cloth manufacturers made some attempts to increase the number of power looms per weaver above the standard four."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "-looking",
+    "looking-glass",
+    "lookout",
+    "looks",
+    "loom",
+    "loop",
+    "loophole",
+    "loose",
+    "loose-leaf"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450748_436a757217_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450748_6119c91e49_o.png",
+      "id_image": "loom_2128771"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690999_62bfe54dff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690999_7b9b229e79_o.png",
+      "id_image": "loom_5939193"
+    }
+  ]
+}

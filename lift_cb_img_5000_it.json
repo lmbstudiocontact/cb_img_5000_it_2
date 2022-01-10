@@ -1,0 +1,188 @@
+{
+  "english": "lift",
+  "phat_am": "lift",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nâng lên",
+          "definition": "to raise or bring to a higher position",
+          "world_new": [
+            "raise",
+            "bring",
+            "position"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The box was so heavy that I couldn’t lift it.",
+              "world_new": [
+                "box",
+                "heavy",
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bốc",
+          "definition": "to take and carry away",
+          "world_new": [
+            "carry"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He lifted the table through into the kitchen.",
+              "world_new": [
+                "table",
+                "kitchen"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tan; bốc lên",
+          "definition": "(of mist etc) to disappear",
+          "world_new": [
+            "mist",
+            "disappear"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "By noon, the fog was beginning to lift.",
+              "world_new": [
+                "noon",
+                "fog",
+                "beginning"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cất cánh",
+          "definition": "to rise",
+          "world_new": [
+            "rise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The aeroplane/airplane lifted into the air.",
+              "world_new": [
+                "air"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự được nâng lên",
+          "definition": "the act of lifting",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a lift of the eyebrows."
+            }
+          ]
+        },
+        {
+          "mean_english": "thang máy",
+          "definition": "a small enclosed platform etc that moves up and down between floors carrying goods or people; elevator American",
+          "world_new": [
+            "small",
+            "platform",
+            "goods"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Since she was too tired to climb the stairs, she went up in the lift.",
+              "world_new": [
+                "tired",
+                "climb"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự đi nhờ",
+          "definition": "a ride in someone’s car etc",
+          "world_new": [
+            "ride",
+            "car"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Can I give you a lift into town?",
+              "world_new": [
+                "I",
+                "town"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nâng cao tinh thần",
+          "definition": "a raising of the spirits",
+          "world_new": [
+            "spirits"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her success in the exam gave her a great lift.",
+              "world_new": [
+                "success",
+                "great"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The lift force is in a direction tending to increase e, and so in a pure liquid a vertical line of two bubbles is unstable.",
+    "With scalar-variable application defined, we can lift the application of a substitution to general types with no difficulty.",
+    "Finally, (lift-abs) allows any expression to be lifted out of the body of an abstraction provided that a translation for that expression exists.",
+    "The object is lifted, transported to the right, and released.",
+    "The idea is to have atomic actions in some monad that can be lifted into a concurrent setting.",
+    "Winds focused specifically on the underside of one's feet may, if sustained, be sufficient to lift any weight.",
+    "Actuation of the lift and tilt hydraulic cylinders is achieved by specifying a valve position for lift and tilt respectively.",
+    "These hairpins grow as they move downstream with their heads lifting away from the wall along a line inclined at 15-30 to the wall."
+  ],
+  "list_see_also": [
+    "lift off"
+  ],
+  "list_browse": [
+    "lifelong",
+    "lifespan",
+    "lifestyle",
+    "lifetime",
+    "lift",
+    "lift off",
+    "ligament",
+    "light",
+    "light up"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342786_1ff4783c08_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342786_9f52134e4c_o.png",
+      "id_image": "lift_2422737"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457578_dbb25058cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457578_78d3f77cdc_o.png",
+      "id_image": "lift_2472834"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457523_fafd83b130_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457523_698a5e5dea_o.png",
+      "id_image": "lift_5132462"
+    }
+  ]
+}

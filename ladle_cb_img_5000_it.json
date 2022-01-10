@@ -1,0 +1,95 @@
+{
+  "english": "ladle",
+  "phat_am": "ˈleidl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái muỗng",
+          "definition": "a bowl-like spoon with a long handle fixed to it at right angles, for lifting out liquid from a container",
+          "world_new": [
+            "spoon",
+            "long",
+            "handle",
+            "fixed",
+            "right",
+            "liquid",
+            "container"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a soup ladle.",
+              "world_new": [
+                "soup"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "múc bằng muỗng",
+          "definition": "to lift and deal out with a ladle",
+          "world_new": [
+            "lift",
+            "deal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He ladled soup into the bowls.",
+              "world_new": [
+                "soup",
+                "bowls"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In short, pension reform is about dishing out pain and, come election time, no one in his right mind wants to be caught holding the ladle.",
+    "She simply cannot go on ladling out millions of dollars in charity year after year.",
+    "Guests are welcomed with rice paste powder, and opo or millet seed beer which is scooped in dried gourd ladles.",
+    "Are we here simply for the purpose of ladling out money?",
+    "Besides acting as emblems of honor, feast ladles have spiritual power.",
+    "Non-image (spiked and ladle) censers are, in some senses, virtually an antithesis of hierarchy, physically, metaphorically, and cosmologically.",
+    "Another craft is ceramics, which include pots, plates, storage jars and ladles.",
+    "In the steel works there are huge ladles for carrying molten metal."
+  ],
+  "list_see_also": [
+    "ladleful"
+  ],
+  "list_browse": [
+    "lactose",
+    "lad",
+    "ladder",
+    "laden",
+    "ladle",
+    "ladleful",
+    "lady",
+    "lady’s fingers",
+    "ladybird"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367947_5914fa2aa9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367947_49952ede75_o.png",
+      "id_image": "ladle_4975117"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438218_4800f44533_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438218_a4a4862c23_o.png",
+      "id_image": "ladle_628152"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438173_03c3515cc1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438173_6f5c80067f_o.png",
+      "id_image": "ladle_904632"
+    }
+  ]
+}

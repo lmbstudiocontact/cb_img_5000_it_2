@@ -1,0 +1,652 @@
+{
+  "english": "hold",
+  "phat_am": "həuld",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cầm, nắm, giữ",
+          "definition": "to have in one’s hand(s) or between one’s hands",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was holding a knife",
+              "world_new": [
+                "knife"
+              ]
+            },
+            {
+              "ex_of_definition": "Hold that dish with both hands",
+              "world_new": [
+                "dish"
+              ]
+            },
+            {
+              "ex_of_definition": "He held the little boy’s hand",
+              "world_new": [
+                "hand"
+              ]
+            },
+            {
+              "ex_of_definition": "He held the mouse by its tail.",
+              "world_new": [
+                "mouse",
+                "its",
+                "tail"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nắm; giữ",
+          "definition": "to have in a part, or between parts, of the body, or between parts of a tool etc",
+          "world_new": [
+            "part",
+            "body",
+            "tool"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He held the pencil in his teeth",
+              "world_new": [
+                "pencil"
+              ]
+            },
+            {
+              "ex_of_definition": "She was holding a pile of books in her arms",
+              "world_new": [
+                "pile",
+                "arms"
+              ]
+            },
+            {
+              "ex_of_definition": "Hold the stamp with tweezers.",
+              "world_new": [
+                "stamp",
+                "tweezers"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giữ chắc",
+          "definition": "to support or keep from moving, running away, falling etc",
+          "world_new": [
+            "support",
+            "keep",
+            "moving",
+            "running"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What holds that shelf up?",
+              "world_new": [
+                "shelf"
+              ]
+            },
+            {
+              "ex_of_definition": "He held the door closed by leaning against it",
+              "world_new": [
+                "door",
+                "leaning"
+              ]
+            },
+            {
+              "ex_of_definition": "Hold your hands above your head",
+              "world_new": [
+                "your",
+                "your",
+                "head"
+              ]
+            },
+            {
+              "ex_of_definition": "Hold his arms so that he can’t struggle.",
+              "world_new": [
+                "arms",
+                "struggle"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giữ vững",
+          "definition": "to remain in position, fixed etc when under strain",
+          "world_new": [
+            "remain",
+            "position",
+            "fixed",
+            "strain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve tied the two pieces of string together, but I’m not sure the knot will hold",
+              "world_new": [
+                "string",
+                "sure",
+                "knot"
+              ]
+            },
+            {
+              "ex_of_definition": "Will the anchor hold in a storm?",
+              "world_new": [
+                "anchor",
+                "storm"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bắt giữ",
+          "definition": "to keep (a person) in some place or in one’s power",
+          "world_new": [
+            "keep",
+            "place",
+            "power"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The police are holding a man for questioning in connection with the murder",
+              "world_new": [
+                "police",
+                "connection",
+                "murder"
+              ]
+            },
+            {
+              "ex_of_definition": "He was held captive.",
+              "world_new": [
+                "captive"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chứa; chứa đựng",
+          "definition": "to (be able to) contain",
+          "world_new": [
+            "contain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This jug holds two pints",
+              "world_new": [
+                "jug"
+              ]
+            },
+            {
+              "ex_of_definition": "You can’t hold water in a handkerchief",
+              "world_new": [
+                "water",
+                "handkerchief"
+              ]
+            },
+            {
+              "ex_of_definition": "This drawer holds all my shirts.",
+              "world_new": [
+                "drawer",
+                "my"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "diễn ra",
+          "definition": "to cause to take place",
+          "world_new": [
+            "cause",
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The meeting will be held next week",
+              "world_new": [
+                "meeting",
+                "week"
+              ]
+            },
+            {
+              "ex_of_definition": "We’ll hold the meeting in the hall.",
+              "world_new": [
+                "meeting",
+                "hall"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giữ yên",
+          "definition": "to keep (oneself), or to be, in a particular state or condition",
+          "world_new": [
+            "keep",
+            "particular",
+            "state",
+            "condition"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’ll hold ourselves in readiness in case you send for us",
+              "world_new": [
+                "readiness",
+                "case",
+                "send"
+              ]
+            },
+            {
+              "ex_of_definition": "She holds herself very erect.",
+              "world_new": [
+                "erect"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giữ vị trí",
+          "definition": "to have or be in (a job etc)",
+          "world_new": [
+            "job"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He held the position of company secretary for five years.",
+              "world_new": [
+                "position",
+                "company",
+                "secretary"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tin rằng, cho là",
+          "definition": "to think strongly; to believe; to consider or regard",
+          "world_new": [
+            "think",
+            "consider",
+            "regard"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I hold that this was the right decision",
+              "world_new": [
+                "I",
+                "right",
+                "decision"
+              ]
+            },
+            {
+              "ex_of_definition": "He holds me (to be) responsible for everyone’s mistakes",
+              "world_new": [
+                "responsible"
+              ]
+            },
+            {
+              "ex_of_definition": "He is held in great respect",
+              "world_new": [
+                "great",
+                "respect"
+              ]
+            },
+            {
+              "ex_of_definition": "He holds certain very odd beliefs.",
+              "world_new": [
+                "certain",
+                "odd"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "có hiệu lực",
+          "definition": "to continue to be valid or apply",
+          "world_new": [
+            "continue",
+            "valid",
+            "apply"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Our offer will hold until next week",
+              "world_new": [
+                "offer",
+                "week"
+              ]
+            },
+            {
+              "ex_of_definition": "These rules hold under all circumstances."
+            }
+          ]
+        },
+        {
+          "mean_english": "giữ chắc",
+          "definition": "(with to) to force (a person) to do something he has promised to do",
+          "world_new": [
+            "force"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I intend to hold him to his promises.",
+              "world_new": [
+                "I",
+                "intend"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giữ vững",
+          "definition": "to defend",
+          "world_new": [
+            "defend"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They held the castle against the enemy.",
+              "world_new": [
+                "castle",
+                "enemy"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giữ chắc",
+          "definition": "not to be beaten by",
+          "world_new": [
+            "beaten"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The general realized that the soldiers could not hold the enemy for long.",
+              "world_new": [
+                "general",
+                "enemy",
+                "long"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thu hút",
+          "definition": "to keep (a person’s attention)",
+          "world_new": [
+            "keep"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "If you can’t hold your pupils’ attention, you can’t be a good teacher.",
+              "world_new": [
+                "your",
+                "attention",
+                "teacher"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giữ yên",
+          "definition": "to keep someone in a certain state",
+          "world_new": [
+            "keep",
+            "certain",
+            "state"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Don’t hold us in suspense, what was the final decision?",
+              "world_new": [
+                "suspense",
+                "final",
+                "decision"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tổ chức",
+          "definition": "to celebrate",
+          "world_new": [
+            "celebrate"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The festival is held on 24 June.",
+              "world_new": [
+                "festival",
+                "June"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nắm giữ",
+          "definition": "to be the owner of",
+          "world_new": [
+            "owner"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He holds shares in this company.",
+              "world_new": [
+                "company"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tiếp tục",
+          "definition": "(of good weather) to continue",
+          "world_new": [
+            "continue"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I hope the weather holds until after the school sports.",
+              "world_new": [
+                "I",
+                "hope",
+                "weather",
+                "school",
+                "sports"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giữ máy điện thoại chờ người cần gặp",
+          "definition": "(also hold the line) (of a person who is making a telephone call) to wait",
+          "world_new": [
+            "person",
+            "telephone",
+            "wait"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Mr Brown is busy at the moment – will you hold or would you like him to call you back?",
+              "world_new": [
+                "busy",
+                "moment",
+                "call"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tiếp tục hát",
+          "definition": "to continue to sing",
+          "world_new": [
+            "continue",
+            "sing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Please hold that note for four whole beats.",
+              "world_new": [
+                "note",
+                "whole"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giữ",
+          "definition": "to keep (something)",
+          "world_new": [
+            "keep"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They’ll hold your luggage at the station until you collect it.",
+              "world_new": [
+                "your",
+                "luggage",
+                "station",
+                "collect"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sẽ thế nào",
+          "definition": "(of the future) to be going to produce",
+          "world_new": [
+            "produce"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I wonder what the future holds for me?",
+              "world_new": [
+                "I",
+                "wonder",
+                "future"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự cầm nắm; sự giữ chặt",
+          "definition": "the act of holding",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He caught/got/laid/took hold of the rope and pulled",
+              "world_new": [
+                "rope"
+              ]
+            },
+            {
+              "ex_of_definition": "Keep hold of that rope.",
+              "world_new": [
+                "rope"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ảnh hưởng",
+          "definition": "power; influence",
+          "world_new": [
+            "influence"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has a strange hold over that girl.",
+              "world_new": [
+                "strange",
+                "girl"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cách nắm giữ đối thủ",
+          "definition": "(in wrestling etc) a manner of holding one’s opponent",
+          "world_new": [
+            "wrestling",
+            "manner",
+            "opponent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The wrestler invented a new hold.",
+              "world_new": [
+                "wrestler"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hầm chứa hàng",
+          "definition": "(in ships) the place, below the deck, where cargo is stored.",
+          "world_new": [
+            "place",
+            "deck",
+            "cargo"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We say that is right eresolving if the right resolving condition holds, but with the uniqueness condition replaced by existence.",
+    "Archives hold numerous complaints from provincial governors about the insufficiency of security forces under their authority and requests for additional mounted recruits.",
+    "In this paper we shall show that this conjecture holds for the branching random walk.",
+    "Viewed on a per holding basis the net present value of mean economic returns per holding come to $500/ha.",
+    "It holds that it is never permitted to pay for an object x, if x could have been obtained for free.",
+    "Yet the criss-crossing of isoglosses shows that it also holds for phonetic or morphological features.",
+    "Communist parties held a monopoly of power in communist countries.",
+    "The multiple roles that people hold within their family, community, work, and society as a whole work to define their sense of self."
+  ],
+  "list_see_also": [
+    "-holder",
+    "hold-all",
+    "get hold of",
+    "hold back",
+    "hold down",
+    "hold forth",
+    "hold good",
+    "hold it",
+    "hold off",
+    "hold on",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "hoe",
+    "hog",
+    "hogwash",
+    "hoist",
+    "hold",
+    "hold back",
+    "hold down",
+    "hold forth",
+    "hold good"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380357_a92b5df715_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380357_623bcff56a_o.png",
+      "id_image": "hold_2921750"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072195_104f4be943_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072195_a24976453b_o.png",
+      "id_image": "hold_3102614"
+    }
+  ]
+}

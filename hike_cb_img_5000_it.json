@@ -1,0 +1,75 @@
+{
+  "english": "hike",
+  "phat_am": "haik",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cuộc đi bộ",
+          "definition": "a long walk, usually in the country",
+          "world_new": [
+            "long",
+            "walk",
+            "country"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a twenty-mile hike."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đi bộ",
+          "definition": "to go on a hike or hikes",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has hiked all over Britain."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Many cannot switch to shorter leases and face tax hikes of four and 10 times the present level.",
+    "Throughout the post-war years such moderate wage hikes as the workers obtained set the patrons clamouring for higher prices; grudging price rises encouraged the workers to press for higher wages.",
+    "Hiking, at any rate in my view, is a great recreation and a very healthy recreation.",
+    "Also, hiking up the national insurance contributions of the self-employed will surely not be particularly helpful.",
+    "In recent years hiking has appealed to a growing number of young people.",
+    "I can well imagine a child, as it were, hiking down the road and eventually remaining wherever convenient.",
+    "The low long-term oil price—recent but temporary hikes notwithstanding—is also a major contributor.",
+    "Business taxation should not be hiked up separately from the council tax, but there might be some flexibility between the two."
+  ],
+  "list_see_also": [
+    "hiker"
+  ],
+  "list_browse": [
+    "Highway Code",
+    "highwayman",
+    "hijack",
+    "hijacker",
+    "hike",
+    "hiker",
+    "hilarious",
+    "hilariously",
+    "hilarity"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074325_02f01e299d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074325_bac16dab0d_o.png",
+      "id_image": "hike_1855456"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382262_dd00a16b6b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382262_c6f3d56f03_o.png",
+      "id_image": "hike_3729796"
+    }
+  ]
+}

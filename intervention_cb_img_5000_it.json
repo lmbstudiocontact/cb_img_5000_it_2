@@ -1,0 +1,67 @@
+{
+  "english": "intervention",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự can thiệp",
+          "definition": "(an) act of intervening (in a quarrel etc)",
+          "world_new": [
+            "act",
+            "quarrel"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "military intervention",
+              "world_new": [
+                "military"
+              ]
+            },
+            {
+              "ex_of_definition": "government intervention.",
+              "world_new": [
+                "government"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "He found that serious injury was rare following an incident as either intervention or luck tended to prevent significant harm in the majority of cases.",
+    "Detecting and describing preventive intervention effects in a universal school-based randomized trial targeting delinquent and violent behavior.",
+    "In our initial analyses we will determine if the interventions were successful in changing behaviors that were targeted by the interventions.",
+    "Studies that examine the interactions of genetic, neurobiological, and environmental factors should be helpful in specifying these intervention targets.",
+    "Patients diagnosed with depression, or mixed anxiety and depression, for whom a brief psychological intervention was indicated.",
+    "As such, a goal of reducing subsequent pregnancies is unlikely to follow directly from work-related interventions.",
+    "Practitioners are trained to recognize these differences and apply them to developmental interventions.",
+    "Alternatively, higher early depression scores in the intervention group could reflect a failure of randomization or simple random fluctuation."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "intersection",
+    "interstate",
+    "interval",
+    "intervene",
+    "intervention",
+    "interview",
+    "interviewer",
+    "intestinal",
+    "intestine"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385872_582c2fd407_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385872_46f26b46c6_o.png",
+      "id_image": "intervention_4144455"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455708_65419983d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455708_7a671ae0be_o.png",
+      "id_image": "intervention_5605851"
+    }
+  ]
+}

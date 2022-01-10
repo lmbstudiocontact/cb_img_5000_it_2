@@ -1,0 +1,67 @@
+{
+  "english": "lover",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người yêu",
+          "definition": "a person who enjoys or admires or has a special affection for something",
+          "world_new": [
+            "person",
+            "special",
+            "affection"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an art lover",
+              "world_new": [
+                "art"
+              ]
+            },
+            {
+              "ex_of_definition": "an animal lover.",
+              "world_new": [
+                "animal"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tình nhân",
+          "definition": "a person who is having a love affair with another",
+          "world_new": [
+            "person",
+            "love",
+            "affair"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The two lovers embraced each other passionately."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "love affair",
+    "love letter",
+    "loveliness",
+    "lovely",
+    "lover",
+    "lovesick",
+    "loving",
+    "lovingly",
+    "low"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334011_087e85fa92_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334011_34162f8c07_o.png",
+      "id_image": "lover_6385411"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "english": "gnome",
+  "phat_am": "noum",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thần lùn giữ cửa",
+          "definition": "an imaginary little old man in children’s stories who has a pointed hat, lives under the ground, and guards buried treasure.",
+          "world_new": [
+            "imaginary",
+            "old",
+            "pointed",
+            "hat",
+            "ground",
+            "treasure"
+          ]
+        },
+        {
+          "mean_english": "hình thần lùn giữ cửa",
+          "definition": "a plastic or stone figure of a gnome that is used in a garden as a decoration",
+          "world_new": [
+            "plastic",
+            "stone",
+            "figure",
+            "garden",
+            "decoration"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a garden gnome.",
+              "world_new": [
+                "garden"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This nice touch that some gnome in some department thought up, \"a reproduction silver inkstand\", was very interesting.",
+    "It is important that the needs of everybody in the industry should be met, whether they are supplying garden gnomes or other products.",
+    "Whatever arguments are advanced in the debate, surely we need not go into whether garden gnomes or seeds come within the term.",
+    "For mulaelig there are, and formulaic verses, but no repeated gnomes.",
+    "For example, people might read their favourite newspaper and scan it for readers' offers to find the garden gnome of their dreams.",
+    "If someone orders, for example, a set of garden gnomes—a whole family—the price is related to weight, not to where the person lives.",
+    "That is what it is all about and it has nothing to do with gnomes or speculators or anything else.",
+    "Such a person might send away for the garden gnome to complete a collection, and my constituent might handle that business."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "gnash",
+    "gnat",
+    "gnaw",
+    "gnawing",
+    "gnome",
+    "GNP",
+    "gnu",
+    "go",
+    "go (all) to pieces"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685549_bd993426fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685549_2545c325bc_o.png",
+      "id_image": "gnome_1680375"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330441_8e502656a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330441_e241e5a344_o.png",
+      "id_image": "gnome_3530120"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445403_4d81f0f9b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445403_30d0caba2b_o.png",
+      "id_image": "gnome_3831684"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330366_3fb188322d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330366_244c834625_o.png",
+      "id_image": "gnome_6240469"
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "english": "hook",
+  "phat_am": "huk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lưỡi câu",
+          "definition": "a small piece of metal shaped like a J fixed at the end of a fishing-line used for catching fish etc",
+          "world_new": [
+            "small",
+            "piece",
+            "metal",
+            "shaped",
+            "J",
+            "fixed",
+            "catching",
+            "fish"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a fish-hook."
+            }
+          ]
+        },
+        {
+          "mean_english": "cái móc; cái mắc",
+          "definition": "a bent piece of metal etc used for hanging coats, cups etc on, or a smaller one sewn on to a garment, for fastening it",
+          "world_new": [
+            "bent",
+            "piece",
+            "metal",
+            "hanging",
+            "garment",
+            "fastening"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Hang your jacket on that hook behind the door",
+              "world_new": [
+                "your",
+                "jacket",
+                "door"
+              ]
+            },
+            {
+              "ex_of_definition": "hooks and eyes."
+            }
+          ]
+        },
+        {
+          "mean_english": "cú đấm móc",
+          "definition": "in boxing, a kind of punch with the elbow bent",
+          "world_new": [
+            "boxing",
+            "kind",
+            "punch",
+            "elbow",
+            "bent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a left hook.",
+              "world_new": [
+                "left"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bắt (cái gì) bằng móc",
+          "definition": "to catch (a fish etc) with a hook",
+          "world_new": [
+            "catch",
+            "fish"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He hooked a large salmon.",
+              "world_new": [
+                "hooked",
+                "large",
+                "salmon"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mắc, móc vào",
+          "definition": "to fasten or to be fastened by a hook or hooks",
+          "world_new": [
+            "fasten"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He hooked the ladder on (to the branch)",
+              "world_new": [
+                "hooked",
+                "ladder"
+              ]
+            },
+            {
+              "ex_of_definition": "This bit hooks on to that bit",
+              "world_new": [
+                "bit",
+                "bit"
+              ]
+            },
+            {
+              "ex_of_definition": "Could you hook my dress up down the back?",
+              "world_new": [
+                "my",
+                "dress"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "móc quả bóng",
+          "definition": "in golf, to hit (the ball) far to the left of where it should be (or to the right if one is left-handed).",
+          "world_new": [
+            "golf",
+            "hit",
+            "far",
+            "left",
+            "right"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "hooked",
+    "hooker",
+    "by hook or by crook",
+    "off the hook"
+  ],
+  "list_browse": [
+    "hoodie",
+    "hoodlum",
+    "hoodwink",
+    "hoof",
+    "hook",
+    "hooked",
+    "hooker",
+    "hooligan",
+    "hooliganism"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448023_0ec66057a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448023_a388ca0ea4_o.png",
+      "id_image": "hook_2642147"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447988_8544e5c5ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447988_c6d35db59e_o.png",
+      "id_image": "hook_2825528"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069685_36147ba99e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069685_6210dfb0ce_o.png",
+      "id_image": "hook_2836730"
+    }
+  ]
+}

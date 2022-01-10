@@ -1,0 +1,62 @@
+{
+  "english": "ignore",
+  "phat_am": "iɡˈnoː",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "không để ý",
+          "definition": "to take no notice of; to pay no attention to",
+          "world_new": [
+            "notice",
+            "pay",
+            "attention"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He ignored all my warnings.",
+              "world_new": [
+                "my"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In the past, the concepts and practices of wild-living-resource conservation proceeded as if the human population problem can be ignored in day-to-day planning and actions.",
+    "This is a situation that we really can't ignore at all, even if we would wish to.",
+    "External benefits and costs that may be related to such investments are ignored since rational farmers are unlikely to be concerned about off-site effects.",
+    "Unfortunately, many cognitive scientists have opted for a preferred cognitive paradigm while ignoring or misinterpreting critical technical issues.",
+    "They follow indigenous rice agronomy, ignoring the use of fertilizers, pesticides and even supplementary feed for the fish reared in the system.",
+    "Although she repeated this several times, the teacher and the other students ignored her.",
+    "Using only the most rigorous design, on the other hand, ignores the probative importance of replication and corroboration that multiple studies afford.",
+    "The problem is that in focusing on an inherited internal mechanism, the role of learning over an organism's lifetime tends to get ignored."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "ignobly",
+    "ignorance",
+    "ignorant",
+    "ignorantly",
+    "ignore",
+    "iguana",
+    "ill",
+    "ill-at-ease",
+    "ill-fated"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323586_acfbe21922_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323586_0100062909_o.png",
+      "id_image": "ignore_2419645"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678809_db6059791b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678809_8d8334e31f_o.png",
+      "id_image": "ignore_5772623"
+    }
+  ]
+}

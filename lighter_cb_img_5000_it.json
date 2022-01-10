@@ -1,0 +1,51 @@
+{
+  "english": "lighter",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái bật lửa",
+          "definition": "something used for lighting (a cigarette etc)",
+          "world_new": [
+            "lighting",
+            "cigarette"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a disposable lighter.",
+              "world_new": [
+                "disposable"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "light-hearted",
+    "light-year",
+    "lightbulb",
+    "lighten",
+    "lighter",
+    "lighthouse",
+    "lighting",
+    "lightly",
+    "lightness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079835_316d2d43d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079835_a17379c991_o.png",
+      "id_image": "lighter_1020546"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697649_43079d5d90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697649_8a9c16995c_o.png",
+      "id_image": "lighter_356996"
+    }
+  ]
+}

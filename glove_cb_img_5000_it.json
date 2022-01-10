@@ -1,0 +1,74 @@
+{
+  "english": "glove",
+  "phat_am": "ɡlav",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "găng tay",
+          "definition": "a covering for the hand",
+          "world_new": [
+            "covering",
+            "hand"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a pair of gloves.",
+              "world_new": [
+                "pair"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Besides, the mere existence of protective gear would contradict this hypothesis, because gloves and protective kneepads would fit better with a game ritual than with plain fighting.",
+    "Prophylactic measures such as the protection of hands using rubber gloves and liberal emollients can be effective.",
+    "In the orange areas, protective caps, 12-layer gauze masks, gloves and 1-layer gowns were required.",
+    "In order to avoid manual transfer of electrolytes, rubber surgical gloves that were previously rinsed in distilled water were used for handling the kernels.",
+    "A protective cap, a 12-layer gauze mask, protective glasses, gloves and a 2-layer gown, and occasional protective boots, were required for people working in the red areas.",
+    "I say no more now; but some other day, if he makes a similar speech, we will take the gloves off.",
+    "We also have infection risk, as staff must wear the same gloves while going from donor to donor.",
+    "No one was allowed to approach the patients; nurses had to work through large plastic hands and gloves."
+  ],
+  "list_see_also": [
+    "glove compartment",
+    "fit like a glove"
+  ],
+  "list_browse": [
+    "gloss over",
+    "glossary",
+    "glossiness",
+    "glossy",
+    "glove",
+    "glove compartment",
+    "glow",
+    "glow-worm",
+    "glower"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686079_0e58e0aeb4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686079_69f28c8a02_o.png",
+      "id_image": "glove_1027085"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686009_e85979cb35_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686009_a3ebfd9edf_o.png",
+      "id_image": "glove_1348639"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331011_e24d192b90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331011_d9bd992a9a_o.png",
+      "id_image": "glove_1403909"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067745_ecd10400fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067745_f94ef26b57_o.png",
+      "id_image": "glove_1947546"
+    }
+  ]
+}

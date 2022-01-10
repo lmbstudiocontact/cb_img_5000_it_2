@@ -1,0 +1,89 @@
+{
+  "english": "leverage",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ảnh hưởng",
+          "definition": "power that can be used to influence someone’s actions or decisions",
+          "world_new": [
+            "power",
+            "influence"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The public has some leverage with their representatives in the Senate.",
+              "world_new": [
+                "public",
+                "their"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sức mạnh của đòn bẩy",
+          "definition": "the power gained by the use of a lever",
+          "world_new": [
+            "power",
+            "lever"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This tool gives better leverage.",
+              "world_new": [
+                "tool",
+                "better"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "For systems style work in an advanced programming language, the challenge is often to leverage the advantages of the language.",
+    "Finally, weavers exerted a great deal of leverage in the recruitment process.",
+    "This structure gave the non-profit partner considerable negotiating leverage but not exclusive control.",
+    "Undervaluation of the capital base may significantly increase the leverage of investment restrictions.",
+    "Brief examination of an additional comparative case provides even greater leverage on the issue.",
+    "The lessening of weight fluctuations and the containment of chronic thinness, as compared with the 1960s, gave further leverage for cushioning seasonal hunger.",
+    "Any foreign company that was dominant in domestically manufactured edible oils and industrial fats might hope to exercise some leverage.",
+    "However, today this second category of players has much less economic, political and military leverage."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "level out",
+    "level-headed",
+    "levelness",
+    "lever",
+    "leverage",
+    "levy",
+    "lexicon",
+    "liability",
+    "liable"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459143_b7697afd5a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459143_9b7e40ea6e_o.png",
+      "id_image": "leverage_2654593"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344331_c3b0dcffc9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344331_f8859419ca_o.png",
+      "id_image": "leverage_3449213"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459083_f0ccb8c08c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459083_602a585cfd_o.png",
+      "id_image": "leverage_4335848"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459028_98d216639b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459028_20e04a0223_o.png",
+      "id_image": "leverage_4695221"
+    }
+  ]
+}

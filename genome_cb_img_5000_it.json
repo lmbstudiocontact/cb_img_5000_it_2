@@ -1,0 +1,73 @@
+{
+  "english": "genome",
+  "phat_am": "ˈdʒiˈnoum",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hệ gen",
+          "definition": "the complete set of genetic information in the chromosomes of an organism",
+          "world_new": [
+            "complete",
+            "genetic",
+            "information",
+            "organism"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the human genome.",
+              "world_new": [
+                "human"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A genetic constraint should be understood as a selective tradeoff between the new mutation and the existing genome.",
+    "Although the copy numbers of the vector genome were reduced, our data did not rule out promoter shut-off completely.",
+    "Hatched segments are those that are possibly recombinant regions containing genome of both species.",
+    "As a consequence, viral populations are heterogeneous and dynamic structures composed by ensembles of different genomes evolving in response to environmental alterations.",
+    "As such it was done without chromosomal replication : two haploids recombined their genomes and then separated as haploids again.",
+    "Evidently, even the highest-affinity sequences in natural eukaryotic genomes are not evolved for highest possible affinity.",
+    "Studies in sheep have provided valuable data on the endocrine pathways by which the fetal genome regulates the onset of labour.",
+    "The algorithm initially creates a population of m individuals by assigning random values to the elements of the genomes."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "genitals",
+    "genitive",
+    "genius",
+    "genocide",
+    "genome",
+    "genotype",
+    "genre",
+    "genre-based instruction",
+    "genteel"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072500_9cd4b277f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072500_5b5420afe2_o.png",
+      "id_image": "genome_1087552"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072465_3df2e87907_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072465_546c4a0721_o.png",
+      "id_image": "genome_4072397"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690749_a9c3b0803d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690749_cc3459e9fe_o.png",
+      "id_image": "genome_4149553"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380582_9b19143c1b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380582_738777d0f9_o.png",
+      "id_image": "genome_4507159"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "english": "leadership",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự lãnh đạo",
+          "definition": "the state of being a leader",
+          "world_new": [
+            "state",
+            "leader"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He took over the leadership of the Labour party two years later.",
+              "world_new": [
+                "party"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khả năng lãnh đạo",
+          "definition": "the quality of being able to lead others; leadership ability",
+          "world_new": [
+            "quality",
+            "lead",
+            "ability"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The post requires a person who combines leadership and energy",
+              "world_new": [
+                "person",
+                "energy"
+              ]
+            },
+            {
+              "ex_of_definition": "She’s got leadership potential",
+              "world_new": [
+                "potential"
+              ]
+            },
+            {
+              "ex_of_definition": "Does he have any leadership qualities?."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The first is a limited operation, with the speakers selected by the party leaderships.",
+    "Anyone would think that those most keen on disciplinary action are union leaderships.",
+    "I believe that the leaderships are working in that direction, but that work must go on.",
+    "We are unable to do so because of the binding down and the consensus of opinion between the leaderships of parties.",
+    "Let the leaderships bury the bird or the bird will bury the leaderships.",
+    "In most liberal democracies, however, political finance is important chiefly in the final stage of national elections, where voters are choosing between party leaderships.",
+    "A larger number of conflict areas is the result of civil wars, destabilising minorities or internal political strife among leaderships.",
+    "If populist leaderships, local technocrats, and foreign supporters will not suffice, can democratisation spur the needed reforms ?"
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "lead up the garden path",
+    "lead up to",
+    "leaden",
+    "leader",
+    "leadership",
+    "leaf",
+    "leaflet",
+    "leafy",
+    "league"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362007_4ab046313c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362007_42061c2fec_o.png",
+      "id_image": "leadership_166910"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432783_c016b776bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432783_fff8d7603d_o.png",
+      "id_image": "leadership_3310143"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361977_579d17d4aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361977_6b0412bf38_o.png",
+      "id_image": "leadership_3449352"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054135_f14cd3761a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054135_6c6e48b318_o.png",
+      "id_image": "leadership_3449356"
+    }
+  ]
+}

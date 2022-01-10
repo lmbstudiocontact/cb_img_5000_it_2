@@ -1,0 +1,77 @@
+{
+  "english": "lend",
+  "phat_am": "lend",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cho mượn",
+          "definition": "to give (someone) the use of for a time",
+          "world_new": [
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She had forgotten her umbrella so I lent her mine to go home with.",
+              "world_new": [
+                "umbrella",
+                "I",
+                "lent",
+                "home"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thêm vào",
+          "definition": "to give or add (a quality) to",
+          "world_new": [
+            "add"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Desperation lent him strength.",
+              "world_new": [
+                "lent",
+                "strength"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Students also continue throughout the semester to participate in one or two activities from their first rotation, lending some continuity to the practicum experience.",
+    "Obviously, the design also lends itself to evaluating the effects of various mediators and moderators of outcome.",
+    "The method lends itself to more widespread use and could be incorporated into large scale outcome studies.",
+    "A prestigious roster of international architects lends status to the project and client commissioning the work, and enhances the media appeal of the undertaking.",
+    "The thing to be contradicted has to be strong, so that it lends its weight to the subversion of it.",
+    "Metal collectors pride themselves with such items, it lends status within the scene and amongst other collectors.",
+    "Furthermore, demonstrating that my model is capable of producing results similar to game theoretic models lends validity to my approach to the problem.",
+    "Neither the one nor the other lends itself to transparent deductive or narrative presentation."
+  ],
+  "list_see_also": [
+    "lend itself to",
+    "borrow"
+  ],
+  "list_browse": [
+    "leisurely",
+    "lemon",
+    "lemon grass",
+    "lemonade",
+    "lend",
+    "lend itself to",
+    "length",
+    "lengthen",
+    "lengthways/lengthwise"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460493_8f6651f9f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460493_ed8603e1ba_o.png",
+      "id_image": "lend_2781121"
+    }
+  ]
+}

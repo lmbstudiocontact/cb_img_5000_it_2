@@ -1,0 +1,133 @@
+{
+  "english": "grace",
+  "phat_am": "ɡreis",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vẻ duyên dáng",
+          "definition": "beauty of form or movement",
+          "world_new": [
+            "beauty",
+            "form",
+            "movement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The dancer’s movements were full of grace.",
+              "world_new": [
+                "full"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thái độ",
+          "definition": "a sense of what is right",
+          "world_new": [
+            "sense",
+            "right"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "At least he had the grace to leave after his dreadful behaviour/behavior.",
+              "world_new": [
+                "leave",
+                "dreadful"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lời cầu nguyện trước hoặc sau bữa ăn",
+          "definition": "a short prayer of thanks for a meal",
+          "world_new": [
+            "short",
+            "prayer",
+            "thanks",
+            "meal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Father used to say grace at the beginning of each meal.",
+              "world_new": [
+                "beginning",
+                "meal"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự gia hạn",
+          "definition": "a delay allowed as a favour/favor",
+          "world_new": [
+            "delay"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You should have paid me today, but I’ll give you a day’s grace."
+            }
+          ]
+        },
+        {
+          "mean_english": "Ngài",
+          "definition": "the title of a duke, duchess or archbishop",
+          "world_new": [
+            "title",
+            "duke",
+            "duchess",
+            "archbishop"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Your/His Grace."
+            }
+          ]
+        },
+        {
+          "mean_english": "lòng thương và ân huệ của Chúa",
+          "definition": "mercy",
+          "world_new": [
+            "mercy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "by the grace of God.",
+              "world_new": [
+                "God"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "graceful",
+    "gracefully",
+    "gracefulness",
+    "gracious",
+    "graciously",
+    "graciousness",
+    "with (a) good/bad grace"
+  ],
+  "list_browse": [
+    "GPS",
+    "gr",
+    "grab",
+    "grab at",
+    "grace",
+    "graceful",
+    "gracefully",
+    "gracefulness",
+    "gracious"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682329_74e1806fdc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682329_965078796a_o.png",
+      "id_image": "grace_340048"
+    }
+  ]
+}

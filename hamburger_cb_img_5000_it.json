@@ -1,0 +1,70 @@
+{
+  "english": "hamburger",
+  "phat_am": "ˈhӕmbəːɡə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bánh kẹp thịt bò",
+          "definition": "a round cake of minced/ground beef, usually fried.",
+          "world_new": [
+            "cake",
+            "beef",
+            "fried"
+          ]
+        },
+        {
+          "mean_english": "bánh hamburge cuộn",
+          "definition": "a bread roll containing one of these",
+          "world_new": [
+            "bread",
+            "roll"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She ordered a hamburger and fries.",
+              "world_new": [
+                "fries"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The menu began as a blue plate special, but over the years has been changed to focus on hotdogs and hamburgers.",
+    "Hamburgers, hot dogs and chestnuts are all sold in our royal parks.",
+    "I did not agree with him when he was stuffing hamburgers down that little kid's throat, but that was a judgment.",
+    "He rates hamburgers based upon appearance, condiments, texture, and novelty.",
+    "The hot dogs, the hamburgers and the onions were on the griddle.",
+    "They were then knocking the kangaroos on the head and carting them into town and selling them as hamburgers.",
+    "At franchise locations, the company also offers a variety of foods, including hamburgers, chicken strips, and fish.",
+    "The term primarily refers to small hamburgers, but can also cover any small sandwich served on a slider roll."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "halter",
+    "halve",
+    "ham",
+    "ham-fisted",
+    "hamburger",
+    "hammer",
+    "hammer home",
+    "hammer out",
+    "hammock"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670564_38b85c1be2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670564_3819a36184_o.png",
+      "id_image": "hamburger_1811974"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430778_96a7140a4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430778_c1151b22e5_o.png",
+      "id_image": "hamburger_816180"
+    }
+  ]
+}

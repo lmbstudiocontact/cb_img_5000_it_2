@@ -1,0 +1,69 @@
+{
+  "english": "jumper",
+  "phat_am": "ˈdʒampə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "áo ngoài mặc chui đầu",
+          "definition": "a sweater or jersey",
+          "world_new": [
+            "sweater",
+            "jersey"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a woolly jumper.",
+              "world_new": [
+                "woolly"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "áo không tay",
+          "definition": "a pinafore dress.",
+          "world_new": [
+            "pinafore",
+            "dress"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The square rig has been modified, having a zip fastener down the front of the jumper and the trousers, and side pockets in the trousers.",
+    "My answer covered knitted clothing and hosiery—knitted jumpers, pullovers, cardigans and things like that.",
+    "Another is knitting a jumper.",
+    "One of the jumpers suffers detached retinas; the other is unscathed.",
+    "Trading futures and derivatives, it could have been a jungle of aggressive queue jumpers, seeking to trample their fellow traders under foot.",
+    "So the flower bud is valued because it will flower and the wool because it can become a jumper.",
+    "Bellbottoms with the jumper and collar and the rest are looked upon with disfavour.",
+    "It is given in detail: jumpers, nightdresses, pantie-girdles, petticoats, pyjamas, raincoats, shoes, and so on and so forth."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "jump the gun",
+    "jump the queue",
+    "jump to conclusions / jump to the conclusion that",
+    "jump to it",
+    "jumper",
+    "jumpy",
+    "Jun",
+    "junction",
+    "juncture"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375517_b77b9b1095_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375517_ec9eb14aed_o.png",
+      "id_image": "jumper_1857561"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330831_392327923f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330831_769ca51aed_o.png",
+      "id_image": "jumper_3761416"
+    }
+  ]
+}

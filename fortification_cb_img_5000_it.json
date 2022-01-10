@@ -1,0 +1,66 @@
+{
+  "english": "fortification",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "xây công sự",
+          "definition": "walls etc built to strengthen an army, city, nation etc against attack",
+          "world_new": [
+            "strengthen",
+            "army",
+            "city",
+            "nation",
+            "attack"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Fortifications surrounded the city.",
+              "world_new": [
+                "city"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "việc xây công sự",
+          "definition": "the act of fortifying.",
+          "world_new": [
+            "act"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They were fortifications not against humans but against what the islanders described as the \"fury of nature's wrath\".",
+    "Cannot the whole system of these fortifications, walls, intervening spaces, milestones and vallums, be scheduled at once as ancient monuments?",
+    "The small area of the bailey indicated that they were personal rather than communal fortifications and therefore were incompatible with a tribal state.",
+    "Do not let us get the idea that this war must necessarily end in fortifications.",
+    "There is conscription, and there are questions of fortifications which do not arise with us.",
+    "There is a line of fortifications left in a perfectly defenceless condition.",
+    "They do not reveal the sums spent on armament factories, the building of fortifications, military research, or naval and air construction.",
+    "Besides, most of our mercantile ports have some slight fortifications to protect their entrances."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "forthcoming",
+    "forthright",
+    "forties",
+    "fortieth",
+    "fortification",
+    "fortify",
+    "fortitude",
+    "fortnight",
+    "fortnightly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429368_64b1a75c2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429368_3256865fd2_o.png",
+      "id_image": "fortification_353321"
+    }
+  ]
+}

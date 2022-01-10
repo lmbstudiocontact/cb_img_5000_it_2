@@ -1,0 +1,133 @@
+{
+  "english": "machine",
+  "phat_am": "məˈʃiːn",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cỗ máy",
+          "definition": "a working arrangement of wheels, levers or other parts, driven eg by human power, electricity etc, or operating electronically, producing power and/or motion for a particular purpose",
+          "world_new": [
+            "arrangement",
+            "human",
+            "power",
+            "electricity",
+            "power",
+            "motion",
+            "particular",
+            "purpose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a sewing-machine."
+            }
+          ]
+        },
+        {
+          "mean_english": "phương tiện đi lại",
+          "definition": "a vehicle, especially a motorbike",
+          "world_new": [
+            "vehicle",
+            "motorbike"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That’s a fine machine you have!",
+              "world_new": [
+                "fine"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "gia công trên máy",
+          "definition": "to shape, make or finish with a power-driven tool",
+          "world_new": [
+            "shape",
+            "finish",
+            "power-driven",
+            "tool"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The surface of the wood is then machined to a smooth finish.",
+              "world_new": [
+                "surface",
+                "wood",
+                "smooth",
+                "finish"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "may",
+          "definition": "to sew with a sewing-machine",
+          "world_new": [
+            "sew"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You should machine the seams."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The simplest bipedal machines are passive dynamic9,12,13,17,18 and ballistic11,15,19 walking models that have only few degrees of freedom.",
+    "He analyzed blue money and red money, blue machines and red machines, and blue land and red land.",
+    "In those days syntax-directed compilers were studied at the research level, but were considered inefficient for implementation in the available machines.",
+    "The use of novel sensing technologies such as ground penetrating radar and inertial sensors to guide underground coal mining machines is described in detail.",
+    "When considered as particulars, chickens are perceived as machines or some other production units to be manipulated for maximum efficiency of production.",
+    "Today, the sound behaviour of machines more and more closely resembles the acoustic instruments and integrates the possibilities of control and interaction.",
+    "The machines were therefore usually underutilised, and processing time was wasted.",
+    "The proposed manipulator has a wide application in the fields of industrial robots, simulators, micro-motion manipulators, and parallel kinematics machines."
+  ],
+  "list_see_also": [
+    "machinery",
+    "machinist",
+    "machine-gun",
+    "machine tool"
+  ],
+  "list_browse": [
+    "macaroni",
+    "macaw",
+    "mace",
+    "Mach",
+    "machine",
+    "machine tool",
+    "machine-gun",
+    "machinery",
+    "machinist"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446293_01413e4d66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446293_33ec321903_o.png",
+      "id_image": "machine_297355"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067990_1c7172af85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067990_6742e29b1b_o.png",
+      "id_image": "machine_416209"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067955_891114f3d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067955_a6affbd5b9_o.png",
+      "id_image": "machine_416232"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331216_5cb32b0687_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331216_30d33fd993_o.png",
+      "id_image": "machine_830018"
+    }
+  ]
+}

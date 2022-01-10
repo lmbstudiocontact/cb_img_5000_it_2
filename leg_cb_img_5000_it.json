@@ -1,0 +1,138 @@
+{
+  "english": "leg",
+  "phat_am": "leɡ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chân",
+          "definition": "one of the limbs by which animals and man walk",
+          "world_new": [
+            "walk"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The horse injured a front leg",
+              "world_new": [
+                "horse",
+                "injured",
+                "front"
+              ]
+            },
+            {
+              "ex_of_definition": "She stood on one leg."
+            }
+          ]
+        },
+        {
+          "mean_english": "ống quần",
+          "definition": "the part of an article of clothing that covers one of these limbs closely",
+          "world_new": [
+            "part",
+            "article",
+            "clothing",
+            "closely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has torn the leg of his trousers.",
+              "world_new": [
+                "trousers"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chân bàn",
+          "definition": "a long, narrow support of a table etc",
+          "world_new": [
+            "long",
+            "narrow",
+            "support",
+            "table"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "One of the legs of the chair was broken.",
+              "world_new": [
+                "chair",
+                "broken"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chặng",
+          "definition": "one stage in a journey, competition etc",
+          "world_new": [
+            "stage",
+            "journey",
+            "competition"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the last leg of the trip",
+              "world_new": [
+                "trip"
+              ]
+            },
+            {
+              "ex_of_definition": "the second leg of the contest.",
+              "world_new": [
+                "contest"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This dynamic model is a system of seven equations and six unknowns: four torques and two components for the stance leg reaction force.",
+    "The swing leg strategy adopted has several parameters that need to be set.",
+    "Note that this is just one of the strategies that could be adopted for the swing leg.",
+    "Subsystem 2 represents the elastic footpad of the biped's leg.",
+    "Since there is no parallelogram in the third leg, the architecture of the new manipulator is simpler.",
+    "Undoubtedly, if they had wanted to they could have produced naturalistic clay animals, with heads and legs, for example.",
+    "Then the chair leg is no longer visible.",
+    "Currently, the rubber cylindrical feet are affixed to the legs."
+  ],
+  "list_see_also": [
+    "-legged",
+    "pull someone’s leg"
+  ],
+  "list_browse": [
+    "left-handed",
+    "left-handedness",
+    "left-wing",
+    "leftover",
+    "leg",
+    "legacy",
+    "legal",
+    "legality",
+    "legalize"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346781_299d0664c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346781_b89b899588_o.png",
+      "id_image": "leg_3824897"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701599_e988f6d4ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701599_6c46fe46bf_o.png",
+      "id_image": "leg_4760725"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701569_f8433f74ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701569_a0eee1c65f_o.png",
+      "id_image": "leg_5793590"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346686_d53ccd781d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346686_2beede5bfb_o.png",
+      "id_image": "leg_6147262"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "english": "look",
+  "phat_am": "luk",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nhìn",
+          "definition": "to turn the eyes in a certain direction so as to see, to find, to express etc",
+          "world_new": [
+            "turn",
+            "certain",
+            "direction",
+            "see",
+            "find",
+            "express"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He looked out of the window",
+              "world_new": [
+                "window"
+              ]
+            },
+            {
+              "ex_of_definition": "I’ve looked everywhere, but I can’t find him",
+              "world_new": [
+                "everywhere",
+                "I",
+                "find"
+              ]
+            },
+            {
+              "ex_of_definition": "He looked at me (angrily)."
+            }
+          ]
+        },
+        {
+          "mean_english": "dường như",
+          "definition": "to seem",
+          "world_new": [
+            "seem"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It looks as if it’s going to rain",
+              "world_new": [
+                "looks",
+                "rain"
+              ]
+            },
+            {
+              "ex_of_definition": "She looks sad.",
+              "world_new": [
+                "looks",
+                "sad"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hướng về",
+          "definition": "to face",
+          "world_new": [
+            "face"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The house looks west.",
+              "world_new": [
+                "house",
+                "looks",
+                "west"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cách nhìn",
+          "definition": "the act of looking or seeing",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Let me have a look!"
+            }
+          ]
+        },
+        {
+          "mean_english": "liếc nhìn",
+          "definition": "a glance",
+          "world_new": [
+            "glance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There was a look of surprise on her face.",
+              "world_new": [
+                "surprise",
+                "face"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vẻ bề ngoài",
+          "definition": "appearance",
+          "world_new": [
+            "appearance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The house had a look of neglect.",
+              "world_new": [
+                "house",
+                "neglect"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Looking time is recorded, and longer looking at the novel stimulus permits the inference that the infant has discriminated the two emotions.",
+    "Still, a public economist would remind us that looking at whether environmental tax swaps increase employment or not tells us nothing about social welfare.",
+    "It is not structural honesty, which was looked for.",
+    "He then lifted him onto his own mount and took him to an inn and looked after him.",
+    "If you look in the archives you will find that there have been other suggestions, but joey is the best documented.",
+    "In the current investigation, being of the second type, things look a bit different.",
+    "For each primary, the nonlinear relationship between voltage output and luminance was linearized by color look-up tables.",
+    "What makes students tick: working memory and look-up behaviour."
+  ],
+  "list_see_also": [
+    "look-alike",
+    "-looking",
+    "looks",
+    "looker-on",
+    "looking-glass",
+    "lookout",
+    "by the look(s) of",
+    "look after",
+    "look ahead",
+    "look down one’s nose at",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "longitudinal",
+    "longitudinally",
+    "longways",
+    "loo",
+    "look",
+    "look after",
+    "look ahead",
+    "look at / see through rose-coloured/-colored spectacles/glasses",
+    "look down on"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072845_0f2f540f3f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072845_898a4a9d6a_o.png",
+      "id_image": "look_6401059"
+    }
+  ]
+}

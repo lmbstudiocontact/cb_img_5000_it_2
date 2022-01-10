@@ -1,0 +1,80 @@
+{
+  "english": "inventory",
+  "phat_am": "ˈinvəntri",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bản kiểm kê",
+          "definition": "a formal and detailed list of goods eg house furniture",
+          "world_new": [
+            "formal",
+            "detailed",
+            "list",
+            "goods",
+            "house",
+            "furniture"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’ll have to check everything against the inventory.",
+              "world_new": [
+                "check"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The predicted correlation between segment neutrality and the obligatory consonants of inventories is summarised in (47), with the obligatory types indicated in boldface.",
+    "Previous studies have suggested that liquids are rare in the phonetic inventories of infants at the onset of first words.",
+    "They include registers of births, marriages and burials, and probate inventories.",
+    "If both agree to trade, they swap inventories one-for-one (because the goods are indivisible); otherwise, they part company and wait for the next period.",
+    "In some languages, the segmental inventories sponsored by the two contexts are either identical or nearly so.",
+    "Many sense inventories have been taken from traditional paper-based (and from machine-readable) dictionaries.",
+    "The bulk of the evidence comes from cross-linguistic contrasts and gaps in inventories.",
+    "The personal estates of tradesmen therefore span the whole range of values of farmers' inventories - and dip well below that range as well."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "invention",
+    "inventive",
+    "inventiveness",
+    "inventor",
+    "inventory",
+    "inversion",
+    "invert",
+    "invertebrate",
+    "inverted commas"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076845_4be843de49_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076845_07f3c28af7_o.png",
+      "id_image": "inventory_1410024"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454528_df7eb4f4d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454528_c8ac9b6202_o.png",
+      "id_image": "inventory_1580239"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694804_ab4ecce529_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694804_4ff3d4b991_o.png",
+      "id_image": "inventory_2361687"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384462_86e53aec06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384462_7f12069d79_o.png",
+      "id_image": "inventory_3985186"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454423_680c1f6c24_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454423_df3c5aa690_o.png",
+      "id_image": "inventory_5434458"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "english": "medical",
+  "phat_am": "ˈmedikəl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc y học",
+          "definition": "of healing, medicine or doctors",
+          "world_new": [
+            "medicine"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "medical care",
+              "world_new": [
+                "care"
+              ]
+            },
+            {
+              "ex_of_definition": "medical insurance.",
+              "world_new": [
+                "insurance"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự khám sức khỏe",
+          "definition": "a medical examination",
+          "world_new": [
+            "examination"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You have to pass a medical before you can join the army.",
+              "world_new": [
+                "pass",
+                "join",
+                "army"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There were a total of 100 transfers to academic medical centers.",
+    "When such inhibition is a reaction to the injury by a mental protective state, he recommends combining the medical treatment with psychological therapy.",
+    "There were no medical or technical complications during transport.",
+    "Costs were based on frequencies of inpatient and outpatient visits, diagnostic and laboratory testing, medication, and medical procedures associated with the specific health states.",
+    "Perhaps, certain cultural (medical) practices elaborate on masculine, or respectively, feminine, themes.",
+    "These tables are commonly used to summarize medical literature, but they can also be applied to other sources of information.",
+    "By the end of the century, however, a few women had managed to break the ranks of male professionalism and attain medical degrees.",
+    "At the same time, this new technology replaced other medical devices and could thereby create savings, at least in theory."
+  ],
+  "list_see_also": [
+    "medically"
+  ],
+  "list_browse": [
+    "mediate",
+    "mediation",
+    "mediator",
+    "medic",
+    "medical",
+    "medically",
+    "medicated",
+    "medication",
+    "medicinal"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362672_4b46dcfd11_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362672_52dec55e8f_o.png",
+      "id_image": "medical_1969917"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433353_c85e743c79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433353_6bb94b4a01_o.png",
+      "id_image": "medical_3023806"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672989_8ef6a008a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672989_815cb477d5_o.png",
+      "id_image": "medical_412618"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054730_503b03c7da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054730_dff19ac33b_o.png",
+      "id_image": "medical_4246617"
+    }
+  ]
+}

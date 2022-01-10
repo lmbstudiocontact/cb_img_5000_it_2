@@ -1,0 +1,80 @@
+{
+  "english": "joker",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quân hề",
+          "definition": "in a pack of playing-cards, an extra card (usually having a picture of a jester) used in some games",
+          "world_new": [
+            "pack",
+            "extra",
+            "card",
+            "picture",
+            "games"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There are special rules governing how the joker is used.",
+              "world_new": [
+                "special"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người thích đùa",
+          "definition": "a person who enjoys telling jokes, playing tricks etc",
+          "world_new": [
+            "person",
+            "telling"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Vinnie was always the class joker.",
+              "world_new": [
+                "class"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "joint",
+    "jointed",
+    "jointly",
+    "joke",
+    "joker",
+    "joking apart/aside",
+    "jokingly",
+    "jolliness",
+    "jolly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332651_ab654b6519_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332651_d64efb2835_o.png",
+      "id_image": "joker_506937"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069400_65055a2704_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069400_03b1b9fa94_o.png",
+      "id_image": "joker_5252941"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069345_4992222e99_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069345_8c9eb2f45f_o.png",
+      "id_image": "joker_5427003"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377417_e8fa80b46d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377417_16cbbbe46e_o.png",
+      "id_image": "joker_594660"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "english": "grinder",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cối xay, máy nghiền",
+          "definition": "a person or machine that grinds",
+          "world_new": [
+            "person",
+            "machine"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a coffee grinder.",
+              "world_new": [
+                "coffee"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In 1842, they added production of coffee, pepper, and salt grinders.",
+    "His legislation against organ grinders on the grounds that they were street nuisances was less successful.",
+    "Indents were made a year ago last month for machine tools, lathes, surface grinders and so on.",
+    "If there are more miners than grinders and preparers, the total number will rank for refund.",
+    "Apart from general broad definitions, such as turners, fitters, grinders and milling machine operatives, there were others, because new machinery had been introduced, bringing new methods.",
+    "Traditionally, two or more skilled tradesmen—millers, grinders, capstan operators or setters—may decide to break away from their company and to have a go on their own.",
+    "Manual devices include barrel-shaped presses, hand-operated grinders, and inverted cones upon which fruit is mashed and twisted.",
+    "Common foods served are sandwich grinders, pizza, and chef salads."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "grin and bear it",
+    "grind",
+    "grind down",
+    "grind up",
+    "grinder",
+    "grinding",
+    "grindstone",
+    "grip",
+    "gripping"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366207_a1664847a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366207_9a979eae56_o.png",
+      "id_image": "grinder_1111097"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436523_01aa5a3593_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436523_ca95f03d4f_o.png",
+      "id_image": "grinder_2670368"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057960_fa0e2f830a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057960_faa328fa63_o.png",
+      "id_image": "grinder_5181748"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436598_66e0f5b4da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436598_8c1128929c_o.png",
+      "id_image": "grinder_808746"
+    }
+  ]
+}

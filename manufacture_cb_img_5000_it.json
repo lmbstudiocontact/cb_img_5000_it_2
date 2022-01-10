@@ -1,0 +1,114 @@
+{
+  "english": "manufacture",
+  "phat_am": "mӕnjuˈfӕktʃə",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "sản xuất",
+          "definition": "to make, originally by hand but now usually by machinery and in large quantities",
+          "world_new": [
+            "hand",
+            "machinery",
+            "large"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This firm manufactures cars at the rate of two hundred per day.",
+              "world_new": [
+                "firm",
+                "rate",
+                "per",
+                "day"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bịa đặt",
+          "definition": "to invent (something false)",
+          "world_new": [
+            "invent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He manufactured an excuse for being late.",
+              "world_new": [
+                "excuse"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự sản xuất",
+          "definition": "the process of manufacturing",
+          "world_new": [
+            "process",
+            "manufacturing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the manufacture of glass.",
+              "world_new": [
+                "glass"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "With each application of a shape grammar rule, an understanding of the overall cost of manufacturing the product is incrementally improved.",
+    "Again, bricks are divided in price and prestige between locally-made country bricks and industrially manufactured ones.",
+    "The report also identifies ten essential elements of manufacturing enterprise leadership and discusses the importance of strategic alignment for successful long-term competitiveness and business viability.",
+    "In reverse engineering studies, most geometry has nonunique functionality; a shape can often be attributed both to end-user function and to assembly or manufacturing function.",
+    "On the other hand, industry continues to introduce more sophisticated control systems for robotic machines whose applications range from manufacturing factories to medical assistance.",
+    "The inspection devices are specially designed and manufactured so that they are small enough to act freely in the narrow space between the tubes.",
+    "The additional curves came from psychology (9;10;12;15), manufacturing (2;5), and aviation (19).",
+    "In short, much of the trading system reduces to two components : manufactures and sugar."
+  ],
+  "list_see_also": [
+    "manufacturer",
+    "manufacturing"
+  ],
+  "list_browse": [
+    "mantelpiece",
+    "mantle",
+    "manual",
+    "manually",
+    "manufacture",
+    "manufacturer",
+    "manufacturing",
+    "manure",
+    "manuscript"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369862_5b2ab17aa9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369862_0f76237f10_o.png",
+      "id_image": "manufacture_1600147"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369802_43b0a7df29_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369802_35fe0614aa_o.png",
+      "id_image": "manufacture_1857110"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369737_450a34406d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369737_a91aa45f2d_o.png",
+      "id_image": "manufacture_4072835"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439938_578b0bde49_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439938_676fd38038_o.png",
+      "id_image": "manufacture_6041273"
+    }
+  ]
+}

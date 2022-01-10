@@ -1,0 +1,74 @@
+{
+  "english": "lower",
+  "phat_am": "ˈlauə",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "hạ thấp",
+          "definition": "to make or become less high",
+          "world_new": [
+            "become"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She lowered her voice.",
+              "world_new": [
+                "voice"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hạ xuống",
+          "definition": "to let down",
+          "world_new": [
+            "let"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He lowered the blinds."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "hạ thấp",
+          "definition": "(of the sky etc) to become dark or threatening.",
+          "world_new": [
+            "sky",
+            "become",
+            "dark"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "lowering",
+    "lower"
+  ],
+  "list_browse": [
+    "low tide/water",
+    "low-down",
+    "low-lying",
+    "low-tech",
+    "lower",
+    "lowering",
+    "lowland",
+    "lowlander",
+    "lowlands"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378587_700a33041a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378587_27251e527d_o.png",
+      "id_image": "lower_1617773"
+    }
+  ]
+}

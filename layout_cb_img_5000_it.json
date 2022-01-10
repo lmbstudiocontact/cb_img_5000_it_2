@@ -1,0 +1,66 @@
+{
+  "english": "layout",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sắp đặt",
+          "definition": "the manner in which something is displayed or laid out",
+          "world_new": [
+            "manner"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It took me a while to familiarize myself with the layout of the building.",
+              "world_new": [
+                "familiarize",
+                "building"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Using shape annealing for pattern generation, spatial layouts that reflect desired styles as well as meet structural purpose can be generated.",
+    "As a result, more attention should be paid to the general layout of the configuration than to the position of individual artists.",
+    "Layout and practical suggestions for navigation of these sites are described in detail.",
+    "The odour map shows the spatial layout of the environment, the presence of multiple gases and how these gases are distributed.",
+    "This consideration of an interaction between the design of the houses and the urban layout and a third grammar was proposed as a result.",
+    "Using this early conceptual framework, numerous layouts were planned and costed.",
+    "As tariffs decline, product cycle times decrease and expectations for high quality diffuse, companies are seeking to standardize the layout and operations of their factories.",
+    "We explain the modifications needed for backtracking, trailing, variable binding and tidy trail in this new layout."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "lay/set the table",
+    "layabout",
+    "layer",
+    "layman",
+    "layout",
+    "lazily",
+    "laziness",
+    "lazy",
+    "lazybones"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433013_f366880e30_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433013_bc5de71cb7_o.png",
+      "id_image": "layout_1589569"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432983_fb4e51a7c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432983_4c12156e3e_o.png",
+      "id_image": "layout_4356317"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672569_df43ca71fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672569_7de8e06389_o.png",
+      "id_image": "layout_4507786"
+    }
+  ]
+}

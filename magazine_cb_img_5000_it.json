@@ -1,0 +1,83 @@
+{
+  "english": "magazine",
+  "phat_am": "mӕɡəˈziːn",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tạp chí",
+          "definition": "(abbreviation magmӕg) a publication issued regularly containing articles, stories etc by various writers",
+          "world_new": [
+            "publication",
+            "regularly",
+            "various"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "women’s magazines"
+            },
+            {
+              "ex_of_definition": "(also adjective) a magazine article.",
+              "world_new": [
+                "article"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "băng đạn",
+          "definition": "a compartment in or on a gun that holds cartridges",
+          "world_new": [
+            "compartment",
+            "gun"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Is the magazine loaded?",
+              "world_new": [
+                "loaded"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kho vũ khí",
+          "definition": "a storeroom for ammunition, explosives etc.",
+          "world_new": [
+            "ammunition"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "Madonna",
+    "madrigal",
+    "maestro",
+    "mafia",
+    "magazine",
+    "magenta",
+    "maggot",
+    "magic",
+    "magical"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330296_ec009e75a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330296_568f279870_o.png",
+      "id_image": "magazine_2620913"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374952_8d0171093b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374952_0773ea7939_o.png",
+      "id_image": "magazine_2621257"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067090_a76fd997c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067090_7f1516737d_o.png",
+      "id_image": "magazine_5318943"
+    }
+  ]
+}

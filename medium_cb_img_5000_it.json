@@ -1,0 +1,134 @@
+{
+  "english": "medium",
+  "phat_am": "ˈmiːdiəm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "môi trường",
+          "definition": "something by or through which an effect is produced",
+          "world_new": [
+            "effect"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Air is the medium through which sound is carried.",
+              "world_new": [
+                "sound"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phương tiện truyền thanh",
+          "definition": "a means (especially radio, television and newspapers) by which news etc is made known",
+          "world_new": [
+            "means",
+            "radio",
+            "television",
+            "news"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the news media.",
+              "world_new": [
+                "news",
+                "media"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đồng cốt",
+          "definition": "a person through whom spirits of dead people are said to speak",
+          "world_new": [
+            "person",
+            "spirits",
+            "dead",
+            "people",
+            "speak"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I know a medium who says she can communicate with Napoleon.",
+              "world_new": [
+                "I",
+                "know",
+                "communicate"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "môi trường",
+          "definition": "a substance in which specimens are preserved, bacteria grown etc.",
+          "world_new": [
+            "substance",
+            "bacteria",
+            "grown"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "trung bình",
+          "definition": "middle or average in size, quality etc",
+          "world_new": [
+            "middle",
+            "average",
+            "size",
+            "quality"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Would you like the small, medium or large packet?",
+              "world_new": [
+                "small",
+                "large",
+                "packet"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Each of these media has an architectonics - a series of procedures for material and spatial organisation, structure and construction.",
+    "Perceptions of older people as a ' vulnerable group' were of course common in early thinking on ageing and persist in certain stereotypical media portrayals.",
+    "The model of energy transpor t process in such media is developed.",
+    "He describes a kind of independent 'hereand-now' (which is interesting for an aesthetic approach to media art).",
+    "Other issues such as migration, urbanization, and the media are also discussed.",
+    "What those of us in bioethics found, when increasingly called on by the media, was that they did not want even-handed analysis either.",
+    "Interestingly, the media were the main source of information for most people.",
+    "Such low-density media seem to be very helpful for some other research programs of great impor tance."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "meditation",
+    "meditative",
+    "meditatively",
+    "Mediterranean",
+    "medium",
+    "medley",
+    "meek",
+    "meekly",
+    "meekness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463478_04bfcf1d6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463478_1bf42a274b_o.png",
+      "id_image": "medium_1455330"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085935_93382716f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085935_c5b9c55f49_o.png",
+      "id_image": "medium_3103560"
+    }
+  ]
+}

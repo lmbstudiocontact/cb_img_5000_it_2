@@ -1,0 +1,60 @@
+{
+  "english": "meadow",
+  "phat_am": "ˈmedəu",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đồng cỏ",
+          "definition": "a field of grass, usually on low ground",
+          "world_new": [
+            "field",
+            "grass",
+            "low",
+            "ground"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There were cows in the meadow."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Once the drained meadow is created, it is a good that is not incrementally increased in either quality or quantity by further efforts.",
+    "This former self, we learn, stood before two paths, one leading to a hill, the other to a meadow.",
+    "Detailed examination of the data showed that the farms with cattle had a considerably larger area of meadow\\ewe than the other farms.",
+    "It is relatively well supplied with good meadow land, and its name means 'the narrow cultivated land'.",
+    "However, a larger area of cultured meadow\\ewe was found in case herds.",
+    "Zones of medieval land-use (open fields, woods and meadow land) are often readily identifiable.",
+    "All stands were growing on relatively wet soils along ditches, wet meadows or damp forest areas.",
+    "In this study, hay, dung and manure samples taken from farms with botanically rich meadows contained very limited quantities of seeds of desirable species."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "MB",
+    "MBA",
+    "MD",
+    "me",
+    "meadow",
+    "meagre",
+    "meagrely",
+    "meagreness",
+    "meal"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318991_8353d07618_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318991_f3c4662772_o.png",
+      "id_image": "meadow_327417"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673849_c363615762_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673849_8cdd57694e_o.png",
+      "id_image": "meadow_3722750"
+    }
+  ]
+}

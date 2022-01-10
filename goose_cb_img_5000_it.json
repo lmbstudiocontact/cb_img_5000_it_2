@@ -1,0 +1,60 @@
+{
+  "english": "goose",
+  "phat_am": "ɡuːs",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ngỗng",
+          "definition": "a web-footed animal like a duck, but larger",
+          "world_new": [
+            "web-footed",
+            "animal",
+            "duck"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The farmer’s wife keeps geese.",
+              "world_new": [
+                "wife"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "goose-flesh",
+    "he etc wouldn’t say boo to a goose"
+  ],
+  "list_browse": [
+    "goodness gracious",
+    "goods",
+    "goodwill",
+    "goody",
+    "goose",
+    "goose-flesh",
+    "gooseberry",
+    "gore",
+    "gorge"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373142_0af5912b66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373142_889f83ca52_o.png",
+      "id_image": "goose_1682263"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328371_661d573dbc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328371_7c0fab1e22_o.png",
+      "id_image": "goose_2683051"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373092_fc8cca6da5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373092_61d0d865c0_o.png",
+      "id_image": "goose_3056910"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "english": "gift",
+  "phat_am": "ɡift",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quà tặng",
+          "definition": "something given willingly, eg as a present",
+          "world_new": [
+            "willingly",
+            "present"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a birthday gift.",
+              "world_new": [
+                "birthday"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "năng khiếu",
+          "definition": "a natural ability",
+          "world_new": [
+            "natural",
+            "ability"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She has a gift for music.",
+              "world_new": [
+                "music"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tặng quà",
+          "definition": "to give or present as a gift",
+          "world_new": [
+            "present"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This painting was gifted by our former chairman.",
+              "world_new": [
+                "painting",
+                "gifted",
+                "our",
+                "former",
+                "chairman"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In addition to postcards, manufacturers distributed small gifts to customers.",
+    "People's livelihoods are divine gifts that require effort, not idle submission to nature.",
+    "Paying a dowry for marriage does not lead to a complete commodification of women, but it differs significantly from giving mere ritual gifts.",
+    "We swap small gifts, we go out together.",
+    "The supernatural was also used to explain or rationalize the extremely gifted.",
+    "In contrast, one-off financial gifts to grandchildren were common and by far the most frequent type of private financial transfer.",
+    "The share given to the landlord was also nominal in the form of gifts and so on.",
+    "Needless to say, the schools may find proscription of gifts and meals difficult to justify if their faculty are heavily involved with industry themselves."
+  ],
+  "list_see_also": [
+    "gifted",
+    "gift of the gab"
+  ],
+  "list_browse": [
+    "giblets",
+    "giddily",
+    "giddiness",
+    "giddy",
+    "gift",
+    "gift of the gab",
+    "gifted",
+    "gig",
+    "gigabyte"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448533_d26bd110ce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448533_2015b222c5_o.png",
+      "id_image": "gift_144894"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688429_3b5ac87534_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688429_15117be698_o.png",
+      "id_image": "gift_311050"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448448_593fb8f3a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448448_bf4c70d25f_o.png",
+      "id_image": "gift_388377"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688384_69927a3498_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688384_28ee119c15_o.png",
+      "id_image": "gift_534701"
+    }
+  ]
+}

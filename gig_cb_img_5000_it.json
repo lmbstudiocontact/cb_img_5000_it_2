@@ -1,0 +1,86 @@
+{
+  "english": "gig",
+  "phat_am": "ɡiɡ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "buổi biểu diễn",
+          "definition": "a public performance by pop, rock, or jazz musicians or by a comedian",
+          "world_new": [
+            "public",
+            "performance",
+            "pop",
+            "rock",
+            "jazz",
+            "comedian"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He recorded a live gig by the Rolling Stones.",
+              "world_new": [
+                "live"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "công việc tạm thời",
+          "definition": "a job, especially a temporary one",
+          "world_new": [
+            "job",
+            "especially",
+            "temporary"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He landed a gig as a gardener for some rich family.",
+              "world_new": [
+                "gardener",
+                "rich",
+                "family"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gigabyte",
+          "definition": "a gigabyte",
+          "world_new": [
+            "gigabyte"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I decided in most cases not to take loudspeakers to the gig.",
+    "That's always the reason used to marginalise us from gigs, that our music is so heavy that surely it will incite a riot.",
+    "The two social worlds of the fanzine and the gig sustain each other and the relationships between fans.",
+    "They'd go to a gig with a library of prefabricated and tested code.",
+    "The notion of the pick-up gig will take on a new form.",
+    "This was not a computer gig, but my voice sure sounded like a synthesizer!",
+    "Such communication differences between men and women can help explain why women are more often excluded when men arrange gigs.",
+    "Letters before venue, audience, etc. types are abbreviations used in the upcoming listing of gigs."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "giddy",
+    "gift",
+    "gift of the gab",
+    "gifted",
+    "gig",
+    "gigabyte",
+    "gigantic",
+    "giggle",
+    "giggler"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378007_57f30e7c32_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378007_135bdecf03_o.png",
+      "id_image": "gig_6213657"
+    }
+  ]
+}

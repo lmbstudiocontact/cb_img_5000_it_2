@@ -1,0 +1,87 @@
+{
+  "english": "introduction",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự ra mắt",
+          "definition": "the act of introducing, or the process of being introduced",
+          "world_new": [
+            "act",
+            "process"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the introduction of new methods."
+            }
+          ]
+        },
+        {
+          "mean_english": "sự giới thiệu",
+          "definition": "an act of introducing one person to another",
+          "world_new": [
+            "act",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The hostess made the introductions and everyone shook hands."
+            }
+          ]
+        },
+        {
+          "mean_english": "lời mở đầu",
+          "definition": "something written at the beginning of a book explaining the contents, or said at the beginning of a speech etc.",
+          "world_new": [
+            "beginning",
+            "book",
+            "contents",
+            "beginning",
+            "speech"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This difference reflects the purposeful selection of producers by the organic contracting company, especially during the introduction of organic agriculture to the region.",
+    "The left introduction rules plus weakening and cut are used to compute the logical consequences of a given formula.",
+    "The monograph is presented in four sections plus an introduction and conclusion.",
+    "High bruchid populations in treatments with parasitoid introduction were reduced by 50-75% compared to the control treatments without parasitoids.",
+    "In addition, with the introduction of robotic assembly, substantial changes are required in the assembly methods, assembly tools, assembly system designs and product design.",
+    "This was all worked out prior to the synthesis to provide a musically coherent structure - one with an introduction, development, climax and recapitulation.",
+    "The working time for the pollution reports has decreased since its introduction.",
+    "As discussed in the introduction, the ability to generate symbolic play requires the ability to produce actions outside the context in which they typically occur."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "intricately",
+    "intrigue",
+    "intriguing",
+    "introduce",
+    "introduction",
+    "introductory",
+    "introspective",
+    "introvert",
+    "intrude"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385022_13ab03c1a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385022_e3eaa614c4_o.png",
+      "id_image": "introduction_4223094"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695359_3b8ca8a992_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695359_5f5ebb2d85_o.png",
+      "id_image": "introduction_4784973"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340051_57ee271617_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340051_d8b30d9b36_o.png",
+      "id_image": "introduction_4797119"
+    }
+  ]
+}

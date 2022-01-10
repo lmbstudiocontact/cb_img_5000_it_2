@@ -1,0 +1,136 @@
+{
+  "english": "image",
+  "phat_am": "ˈimidʒ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tượng",
+          "definition": "a likeness or copy of a person etc made of wood, stone etc",
+          "world_new": [
+            "likeness",
+            "copy",
+            "person",
+            "wood",
+            "stone"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Images of the saints adorned the walls."
+            }
+          ]
+        },
+        {
+          "mean_english": "giống",
+          "definition": "a close likeness",
+          "world_new": [
+            "close",
+            "likeness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s the very image of her sister.",
+              "world_new": [
+                "sister"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hình ảnh",
+          "definition": "reflection",
+          "world_new": [
+            "reflection"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She looked at her image in the mirror.",
+              "world_new": [
+                "mirror"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hình tượng",
+          "definition": "mental picture",
+          "world_new": [
+            "mental",
+            "picture"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I have an image of the place in my mind.",
+              "world_new": [
+                "I",
+                "place",
+                "my",
+                "mind"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quan điểm",
+          "definition": "the general opinion that people have about a person, company etc",
+          "world_new": [
+            "general",
+            "opinion",
+            "people",
+            "person",
+            "company"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A scandal like this is damaging to the company’s public image.",
+              "world_new": [
+                "scandal",
+                "public"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "People breathe life into the world and into art's images of it.",
+    "Under patriarchy, men have held the power to propagate images and attributions which are favourable to the continuance of their control.",
+    "The notion of blossoming is analogous to the process of 'fusing' the two flat images of a stereoscopic pair into a virtual three-dimensional volume.",
+    "How do images mediate individual and collective recall so as to guarantee an unambiguous and predicatable account of emplacement?",
+    "The segmentation of medical images by level set methods has been investigated by several authors [50, 75, 94, 111, 139].",
+    "Three patients were excluded due to inadequate echocardiographic images.",
+    "Advertising posters linked striking images with brand names.",
+    "The present results from the dichotic listening task also align well with the findings from imaging studies."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "illustrator",
+    "illustrious",
+    "illustriousness",
+    "im-",
+    "image",
+    "imaginable",
+    "imaginary",
+    "imagination",
+    "imaginative"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367752_d0012bea06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367752_59cabb748a_o.png",
+      "id_image": "image_222132"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437983_caa8b4bed3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437983_f60769e577_o.png",
+      "id_image": "image_506870"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322726_ff92a59d2d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322726_644c53046a_o.png",
+      "id_image": "image_627535"
+    }
+  ]
+}

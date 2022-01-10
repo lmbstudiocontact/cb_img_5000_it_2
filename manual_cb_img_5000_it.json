@@ -1,0 +1,128 @@
+{
+  "english": "manual",
+  "phat_am": "ˈmӕnjuəl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thủ công",
+          "definition": "of the hand or hands",
+          "world_new": [
+            "hand"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "manual skills."
+            }
+          ]
+        },
+        {
+          "mean_english": "bằng tay",
+          "definition": "working with the hands",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a manual worker.",
+              "world_new": [
+                "worker"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "điều khiển bằng tay",
+          "definition": "worked or operated by the hand",
+          "world_new": [
+            "hand"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a car with a manual gearbox.",
+              "world_new": [
+                "car",
+                "gearbox"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sách hướng dẫn",
+          "definition": "a handbook eg of technical information about a machine etc",
+          "world_new": [
+            "handbook",
+            "technical",
+            "information",
+            "machine"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an instruction manual.",
+              "world_new": [
+                "instruction"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phím đàn",
+          "definition": "a keyboard of an organ etc.",
+          "world_new": [
+            "keyboard",
+            "organ"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In general the data displayed in table format are very useful and collectively they should save much searching through manufacturers' instruction manuals or catalogues.",
+    "The target text for translation is technical manuals.",
+    "The corpora selected consisted of selections from three software manuals.",
+    "Newswriting manuals state that direct quotation serves two main functions in news stories.",
+    "Conduct manuals and housekeeping guides offer women quantities of advice on how to decorate a drawing-room economically and tastefully.",
+    "As with the self-help manuals of consumer culture, techniques of body modification are grounded in a nostalgic view of the body.",
+    "Conduct manuals explained at length the degrees of reserve and dissimulation that were appropriate in different circumstances.",
+    "They tell the reader what he or she ought to do in any given situation, an approach typical of most theatre manuals."
+  ],
+  "list_see_also": [
+    "manually"
+  ],
+  "list_browse": [
+    "mansion",
+    "manslaughter",
+    "mantelpiece",
+    "mantle",
+    "manual",
+    "manually",
+    "manufacture",
+    "manufacturer",
+    "manufacturing"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369962_6308147316_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369962_3fd6e47539_o.png",
+      "id_image": "manual_4275458"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369917_dd91270cec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369917_30227c674c_o.png",
+      "id_image": "manual_5982684"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061985_249514ca53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061985_434f1e5302_o.png",
+      "id_image": "manual_947672"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680249_c85f9be867_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680249_89161ca674_o.png",
+      "id_image": "manual_977646"
+    }
+  ]
+}

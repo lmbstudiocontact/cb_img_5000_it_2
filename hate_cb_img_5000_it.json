@@ -1,0 +1,111 @@
+{
+  "english": "hate",
+  "phat_am": "heit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ghét",
+          "definition": "to dislike very much",
+          "world_new": [
+            "dislike"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I hate them for their cruelty to my father",
+              "world_new": [
+                "I",
+                "their",
+                "cruelty",
+                "my",
+                "father"
+              ]
+            },
+            {
+              "ex_of_definition": "I hate getting up in the morning.",
+              "world_new": [
+                "I",
+                "morning"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự căm thù",
+          "definition": "great dislike",
+          "world_new": [
+            "great",
+            "dislike"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a look of hate.",
+              "world_new": [
+                "look"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người hoặc vật bị ghét",
+          "definition": "something disliked",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Getting up in the morning is one of my pet (= particular) hates.",
+              "world_new": [
+                "morning",
+                "my",
+                "pet"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "No wonder that the landowners hated to be counted and that so far they have managed to defeat all proposals to bring the records up-to-date.",
+    "The poll tax was, and is, hated by the majority of people.",
+    "They have worked hard week after week right throughout the war, and one hates to hear them being attacked, because it is not good policy.",
+    "The other factor that bedevils any system, and which has become one of my pet hates over the years, is jargon.",
+    "There is nothing the country hates so much, whatever be the reason for it internally, as closure of debate, especially on finance.",
+    "Far from hating the advertisements, as had been suggested, people liked them.",
+    "We well remember how more than half of that party hated it from the very beginning.",
+    "One hates to feel that anything one may ask might savour of ingratitude, but it is a question that must be asked."
+  ],
+  "list_see_also": [
+    "hateful",
+    "hatefully",
+    "hatefulness",
+    "hatred"
+  ],
+  "list_browse": [
+    "hat trick",
+    "hatch",
+    "hatchet",
+    "hatchway",
+    "hate",
+    "hateful",
+    "hatefully",
+    "hatefulness",
+    "hatred"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343356_ffef6fb612_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343356_dc1942b9cf_o.png",
+      "id_image": "hate_6433521"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698614_da50ff31da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698614_453a24efd9_o.png",
+      "id_image": "hate_708631"
+    }
+  ]
+}

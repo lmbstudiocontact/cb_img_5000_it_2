@@ -1,0 +1,75 @@
+{
+  "english": "geothermal",
+  "phat_am": "(British) ˌdʒiːouˈθəːməl; (American) ˌdʒiːouˈθəːrməl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc địa nhiệt",
+          "definition": "relating to the heat at the centre/center of the Earth",
+          "world_new": [
+            "heat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "geothermal energy.",
+              "world_new": [
+                "energy"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Tests on the subsurface would require locating geothermal regions associated with ground ice and sampling the ice for geochemical analysis.",
+    "The rather high geothermal gradients suggested by this calculation may well result from regional magmatism, as discussed above.",
+    "A non-volcanic, topographydriven geothermal system, harboring a microbiological community, operates in an extremely cold environment and discharges through solid ice.",
+    "Nearisothermal decompression and partial melting indicate a high geothermal gradient.",
+    "Monitoring is also important in the case of reinjection of cooled geothermal water, which is much preferable to surface disposal on environmental grounds.",
+    "It decided to keep the shaft open until it would be possible to organise regular geothermal observations within it.",
+    "Often permafrost has disappeared because the geothermal heat flux is slightly greater than elsewhere.",
+    "This section presents some indirect and direct evidence of hydrogen production in the seafloor and in continental geothermal systems."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "geometry",
+    "geophysical",
+    "geophysicist",
+    "geophysics",
+    "geothermal",
+    "geotropism",
+    "geranium",
+    "geriatric",
+    "geriatrics"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071765_2759e52da5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071765_447dec98fa_o.png",
+      "id_image": "geothermal_1208494"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071725_37e26ee70c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071725_6fff8887d2_o.png",
+      "id_image": "geothermal_2910037"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449763_32588bfa59_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449763_9d8d2e9554_o.png",
+      "id_image": "geothermal_4148588"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334691_8f94a8a764_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334691_297e45f5fa_o.png",
+      "id_image": "geothermal_4455464"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449653_d9d7d5eb3c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449653_2da7a61360_o.png",
+      "id_image": "geothermal_4963141"
+    }
+  ]
+}

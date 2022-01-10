@@ -1,0 +1,66 @@
+{
+  "english": "gorilla",
+  "phat_am": "ɡəˈrilə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "khỉ gôrila",
+          "definition": "the largest type of ape",
+          "world_new": [
+            "type",
+            "ape"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Two gorillas have escaped from the zoo.",
+              "world_new": [
+                "zoo"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Finally, an adult dressed in a gorilla costume entered and invited the children to approach.",
+    "Decaying wood is a sodium source for mountain gorillas.",
+    "Instead, 'they' would be understood as referring to the children who did see the gorilla, the set that is explicitly referenced in the sentence.",
+    "The proportion of seeds handled by monkeys that were dropped was considerably larger than it was for gorillas.",
+    "Our study suggests that gorillas might be good dispersers in these cases.",
+    "Despite their low densities, gorillas accounted for nearly a third of the primate biomass.",
+    "Our results demonstrate that gorillas consume diets that differ by plant species and part, but contain similar concentrations of nutrients.",
+    "Modelling the impact of large herbivores on the food supply of mountain gorillas and implications for management."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "gooseberry",
+    "gore",
+    "gorge",
+    "gorgeous",
+    "gorilla",
+    "gory",
+    "gosh",
+    "gosling",
+    "gospel"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065095_fc3b1a54f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065095_c06079fc06_o.png",
+      "id_image": "gorilla_292656"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373007_f74563f0f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373007_c33e832f79_o.png",
+      "id_image": "gorilla_3195961"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064990_70f1612032_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064990_78cf0fcf5d_o.png",
+      "id_image": "gorilla_4497947"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "english": "fortune",
+  "phat_am": "ˈfoːtʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vận may, rủi)",
+          "definition": "whatever happens by chance or (good or bad) luck",
+          "world_new": [
+            "chance",
+            "luck"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Who knows what fortune may bring?",
+              "world_new": [
+                "bring"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tài sản; gia tài",
+          "definition": "a large amount of money",
+          "world_new": [
+            "large",
+            "amount",
+            "money"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That ring must be worth a fortune!",
+              "world_new": [
+                "ring",
+                "worth"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "With the exception of some posts in the judiciary, public office in the nineteenth century did not provide the occupants with notable fortunes.",
+    "They were children and played together, but his change of fortunes has taken him out of her social sphere.",
+    "They care more about the party than any individual in it, and will vote to maximize the party's fortunes.",
+    "Rathmines was one such suburb, whose standing rose through the century as the centre's fortunes declined.",
+    "Even as the political fortunes of the ruling authorities varied, trade and commerce continued with vigour.",
+    "The family, in spite of declining fortunes, retained some political influence in the locality.",
+    "The fortunes of the undowried were far more precarious.",
+    "More detailed information on the types and magnitudes of changes in families' economic fortunes, including the sources of income (wages versus welfare), is needed."
+  ],
+  "list_see_also": [
+    "fortunate",
+    "fortunately",
+    "fortune-teller",
+    "tell (someone’s) fortune"
+  ],
+  "list_browse": [
+    "fortnightly",
+    "fortress",
+    "fortunate",
+    "fortunately",
+    "fortune",
+    "fortune-teller",
+    "forty",
+    "forty winks",
+    "forty-year-old"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314216_ebd93684cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314216_4f6f227825_o.png",
+      "id_image": "fortune_1787440"
+    }
+  ]
+}

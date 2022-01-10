@@ -1,0 +1,78 @@
+{
+  "english": "fossil",
+  "phat_am": "ˈfosl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vật hoá đá; hoá thạch",
+          "definition": "the hardened remains of an animal or vegetable found in rock",
+          "world_new": [
+            "remains",
+            "animal",
+            "vegetable",
+            "found",
+            "rock"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Fossils have been found here which may be a million years old.",
+              "world_new": [
+                "found",
+                "old"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, this technique only provides an external morphological description of putative fossilized cells and is incapable of distinguishing between abiotic fossils of similar morphologies.",
+    "Catalogue of the type, figured and cited fossils.",
+    "Palynologically, the samples with the best-preserved fossils generally came from the black shales or layers directly sub-/superjacent.",
+    "The absence of fossils, for whatever reasons, is therefore problematic.",
+    "Such very old bio-sedimentations as stromatolites or microbialites are known among the oldest terrestrial fossils and testify to the earliest terrestrial bioactivity.",
+    "In this particular locality, trace fossils occur commonly in the same horizon as gogiid faunas.",
+    "Ichnological analysis was focused on ichnotaxonomy, vertical distribution of trace fossils, and cross-cutting relationships.",
+    "He also trained in the observation of fossils, prehistoric remains, and geological strata."
+  ],
+  "list_see_also": [
+    "fossilize",
+    "fossil fuel"
+  ],
+  "list_browse": [
+    "forty winks",
+    "forty-year-old",
+    "forum",
+    "forward",
+    "fossil",
+    "fossil fuel",
+    "fossilize",
+    "foster",
+    "foster brother"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358167_c768cbf946_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358167_067eaeb766_o.png",
+      "id_image": "fossil_1373373"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358127_f1379ce1d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358127_82b974c120_o.png",
+      "id_image": "fossil_1373374"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668649_b013669152_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668649_faa7bf4217_o.png",
+      "id_image": "fossil_1373375"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050475_4383bd9fcb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050475_055739ac3c_o.png",
+      "id_image": "fossil_1674561"
+    }
+  ]
+}

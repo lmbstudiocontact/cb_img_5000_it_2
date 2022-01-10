@@ -1,0 +1,88 @@
+{
+  "english": "loaf",
+  "phat_am": "ləuf",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ổ bánh",
+          "definition": "a shaped mass of bread",
+          "world_new": [
+            "shaped",
+            "mass",
+            "bread"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a sliced loaf.",
+              "world_new": [
+                "sliced"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "lười nhác",
+          "definition": "(with aboutor around) to pass time without doing anything in particular",
+          "world_new": [
+            "pass",
+            "time",
+            "particular"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They were loafing about (the street)."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The utilitarian may argue that everything is imperfect and that half a loaf is better than no bread.",
+    "They may reduce supervision costs by instituting group self-monitoring, with employees engaging in 'mutual monitoring' to minimise 'social loafing'.",
+    "The recognised average consumption of bread is two loaves per person per week.",
+    "I feel that soldiers are much better engaged in using their brains in a political discussion than, possibly, loafing about in a drinking club.",
+    "One pair of rats can eat the equivalent of 160 two-pound loaves.",
+    "Would it not be nice if there were equal loaves and fishes for people who have suffered longer than others?",
+    "Refers to baked loaves which were mass manufactured in the 70s.",
+    "All sorts of things are thrown—loaves of bread, food, mattresses, old prams—not merely hideous and disfiguring, but actually a menace to health."
+  ],
+  "list_see_also": [
+    "loafer"
+  ],
+  "list_browse": [
+    "llama",
+    "lo",
+    "load",
+    "loaded",
+    "loaf",
+    "loafer",
+    "loan",
+    "loan shark",
+    "loathe"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693714_3fd0d11458_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693714_082a803e87_o.png",
+      "id_image": "loaf_1725727"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338496_607bce89b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338496_f2fa0c3ec2_o.png",
+      "id_image": "loaf_1919096"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338461_6e03917247_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338461_0a703255c0_o.png",
+      "id_image": "loaf_3280310"
+    }
+  ]
+}

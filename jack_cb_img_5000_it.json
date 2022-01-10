@@ -1,0 +1,94 @@
+{
+  "english": "jack",
+  "phat_am": "dʒӕk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bệ đỡ",
+          "definition": "an instrument for lifting up a motor car or other heavy weight",
+          "world_new": [
+            "instrument",
+            "motor",
+            "car",
+            "heavy",
+            "weight"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You should always keep a jack in the car in case you need to change a wheel.",
+              "world_new": [
+                "keep",
+                "car",
+                "case",
+                "change",
+                "wheel"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quân J",
+          "definition": "the playing card between the ten and queen, sometimes called the knave",
+          "world_new": [
+            "card",
+            "queen"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The jack, queen, and king are the three face cards.",
+              "world_new": [
+                "queen",
+                "king",
+                "face",
+                "cards"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "jack up"
+  ],
+  "list_browse": [
+    "ivy",
+    "J",
+    "jab",
+    "jabber",
+    "jack",
+    "jack up",
+    "jack-in-the-box",
+    "jack-knife",
+    "jackal"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451498_2cc54368c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451498_0415f387a9_o.png",
+      "id_image": "jack_217131"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451468_6c059fc769_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451468_fabe306d23_o.png",
+      "id_image": "jack_287392"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336491_4a0667a6b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336491_75c848bcc2_o.png",
+      "id_image": "jack_2906191"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451378_76b8e10020_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451378_3daff8f0f6_o.png",
+      "id_image": "jack_3348007"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381437_d2a62b2a15_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381437_0d371c418e_o.png",
+      "id_image": "jack_4284074"
+    }
+  ]
+}

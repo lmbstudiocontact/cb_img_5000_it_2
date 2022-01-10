@@ -1,0 +1,97 @@
+{
+  "english": "implant",
+  "phat_am": "imˈplaːnt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ghi khắc",
+          "definition": "to put (ideas etc) into a person’s mind",
+          "world_new": [
+            "mind"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "These principles were implanted in his mind from a very early age.",
+              "world_new": [
+                "principles",
+                "mind",
+                "age"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cấy",
+          "definition": "to put (eg human tissue, a device etc) permanently into a part of the body",
+          "world_new": [
+            "human",
+            "tissue",
+            "device",
+            "permanently",
+            "part",
+            "body"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The operation to implant a new kidney in her body had been a success.",
+              "world_new": [
+                "operation",
+                "kidney",
+                "body",
+                "success"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Safety of the implant procedure appears to be good, with some potential risks capable of being minimized as further experience is gained (1;3;11).",
+    "In general, pharmaceuticals have the slowest rate of evolution, while nonimplantable devices have the fastest rate, and implants fall somewhere between.",
+    "The radiological investigation revealed interruption of the pacemaker electrode, so a temporary pacemaker was implanted.",
+    "One other important method for examining cellular immune specificity in vivo has been to investigate the response to grafts or implants.",
+    "However, delaying reconstruction with an implant until after radiation therapy is completed may be impossible, or at least more difficult.",
+    "Thus, a permanent implant is often placed beneath the flap to provide adequate volume.",
+    "In the meantime we recommend appropriate antibiotic cover for dental and other procedures, where there is a risk of bacteriaemia, for 6 months following implant.",
+    "Postoperatively, complete atrioventricular block was present and a pacemaker had to be implanted."
+  ],
+  "list_see_also": [
+    "implantation"
+  ],
+  "list_browse": [
+    "impetus",
+    "impish",
+    "implacable",
+    "implacably",
+    "implant",
+    "implantation",
+    "implement",
+    "implementation",
+    "implicate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436593_ab17cb9d48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436593_c34e198109_o.png",
+      "id_image": "implant_1328992"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058075_faff872aae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058075_702933695c_o.png",
+      "id_image": "implant_2905880"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436518_b9481b7942_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436518_63c0887ddd_o.png",
+      "id_image": "implant_4529992"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057965_a60959262b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057965_fb562a20f3_o.png",
+      "id_image": "implant_6408821"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "english": "internal",
+  "phat_am": "inˈtəːnl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "nội tạng",
+          "definition": "of, on or in the inside of something (eg a person’s body)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The man suffered internal injuries in the accident.",
+              "world_new": [
+                "accident"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nội bộ",
+          "definition": "concerning what happens within a country etc, rather than its relationship with other countries etc",
+          "world_new": [
+            "concerning",
+            "country",
+            "rather",
+            "its",
+            "relationship"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "No country should interfere in another country’s internal affairs.",
+              "world_new": [
+                "country",
+                "interfere"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Effects were found with two substantially different lists of words, each with good internal consistency.",
+    "When evaluating speech recognition components, we first need to consider whether we have access to the internal functionality of the recognizer.",
+    "The three examples considered internal factors, demonstrating how commitment to a thesis constrains interpretation of the evidence.",
+    "Organic systems assimilate information about the world mediated by their internal structure.",
+    "Such an analysis was more subversive in thinkers who ventured to apply it to the internal structure of the state.",
+    "It is too bad that this purely internal data structure must be 'mentioned' in the interface.",
+    "They typically do not refer to internal properties of a program.",
+    "The properties the former exemplifies are the visible evidence for the presence of internal structural complexity."
+  ],
+  "list_see_also": [
+    "internally",
+    "internal combustion"
+  ],
+  "list_browse": [
+    "intermission",
+    "intermittent",
+    "intermittently",
+    "intern",
+    "internal",
+    "internal combustion",
+    "internally",
+    "international",
+    "internationally"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341631_61809b2035_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341631_cf04171d35_o.png",
+      "id_image": "internal_2712160"
+    }
+  ]
+}

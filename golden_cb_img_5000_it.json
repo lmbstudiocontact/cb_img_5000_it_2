@@ -1,0 +1,92 @@
+{
+  "english": "golden",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "bằng vàng",
+          "definition": "of gold or the colour/color of gold",
+          "world_new": [
+            "gold",
+            "gold"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "golden hair.",
+              "world_new": [
+                "hair"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đám cưới vàng",
+          "definition": "(of a wedding anniversary, jubilee etc) fiftieth",
+          "world_new": [
+            "wedding",
+            "anniversary",
+            "jubilee",
+            "fiftieth"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They will celebrate their golden wedding (anniversary) next month.",
+              "world_new": [
+                "celebrate",
+                "their",
+                "wedding",
+                "month"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The government can choose the value of the contribution rate such that the golden rule is attained.",
+    "They sought the golden age, but never knew where it might be found.",
+    "E-cadherin in the golden hamster embryo the differential elimination of regulatory proteins from polarized domains.",
+    "She eats the baby, but its siblings narrowly escape by climbing up a golden chain sent from heaven.",
+    "We examine the relationship between the golden ratio and aesthetics of jewelry forms through the popular logos and symbols and the survey.",
+    "At this point it would be easy to get distracted, as so many commentators have been, by the golden idol of veracity.",
+    "The medieval chapters make it clear that this was no golden age for single women.",
+    "Golden's investment approach is based on challenging conventionality."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "gold",
+    "gold medal",
+    "gold rush",
+    "gold-leaf",
+    "golden",
+    "golden opportunity",
+    "goldfish",
+    "goldmine",
+    "goldsmith"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374027_dc283b93c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374027_1dfb8776c2_o.png",
+      "id_image": "golden_1354770"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444288_f7088fa289_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444288_4a244317c0_o.png",
+      "id_image": "golden_2298992"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444243_6b1b59254b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444243_8a0ebb4430_o.png",
+      "id_image": "golden_2298995"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444188_79ea638147_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444188_476bc0bccc_o.png",
+      "id_image": "golden_4033731"
+    }
+  ]
+}

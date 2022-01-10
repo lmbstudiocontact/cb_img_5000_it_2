@@ -1,0 +1,74 @@
+{
+  "english": "lettuce",
+  "phat_am": "ˈletis",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cây rau diếp",
+          "definition": "a type of green plant with large leaves used as a salad",
+          "world_new": [
+            "type",
+            "green",
+            "plant",
+            "large",
+            "salad"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Shred the lettuce with a grater.",
+              "world_new": [
+                "grater"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, age was included in the multivariable analysis, which showed that, independent of age, consumption of lettuce prepared away from home was associated with illness.",
+    "No food remained to be sampled, however, carrots and lettuce from the wholesalers who had supplied the vegetables for the party were analysed.",
+    "In addition to lettuce, we found crowding to increase the risk of typhoid fever.",
+    "Stomatal conductance of lettuce grown under or exposed to different light qualities.",
+    "Snails were fed on lettuce immersed in spring water for 5 days.",
+    "Effect of nitrogen nutrition and global radiation on yield and nitrate content of lettuce grown under glass.",
+    "Grated carrots and lettuce remained as the potential source of the outbreak.",
+    "The third was a still life with a green drape, and green lettuce, pepper and apples."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "letter",
+    "letterbox",
+    "letterhead",
+    "lettering",
+    "lettuce",
+    "leucocyte",
+    "leukemia",
+    "level",
+    "level crossing"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699964_165db807af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699964_2f8f22b42f_o.png",
+      "id_image": "lettuce_2358665"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344911_fe565bfd12_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344911_40a0724421_o.png",
+      "id_image": "lettuce_424268"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389752_2105681280_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389752_684768b701_o.png",
+      "id_image": "lettuce_4328934"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389797_d9fcdfd70d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389797_8372e47892_o.png",
+      "id_image": "lettuce_433711"
+    }
+  ]
+}

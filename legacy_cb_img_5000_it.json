@@ -1,0 +1,62 @@
+{
+  "english": "legacy",
+  "phat_am": "ˈleɡəsi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tài sản thừa kế",
+          "definition": "something left in a will by someone who has died",
+          "world_new": [
+            "left"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was left a legacy by his great aunt.",
+              "world_new": [
+                "left",
+                "great",
+                "aunt"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Lastly, using the wrapper technique where the legacy program is augmented with code that enables it to communicate using the inter-agent language.",
+    "This includes issues of their gossip- and media-driven legacy that have led to their current position, often dangerously vulnerable, in the global marketplace.",
+    "This context was influenced by the policy legacy, political factors and economic conditions.",
+    "In this way, functoids can be used with such legacy libraries.",
+    "Ultimately, the destructor proved inefficient and, as its name implies, it left a strong legacy of disposal.",
+    "Indeed, archaeology also proceeds from another legacy: the naturalist approach.",
+    "Such lessons from experience may yet prove our most important legacy to the medical ethicists who succeed us.",
+    "The \"necessary evils\" of social purity and censorship must be credited in part for our perception of individual writers and their literary legacy."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "left-handedness",
+    "left-wing",
+    "leftover",
+    "leg",
+    "legacy",
+    "legal",
+    "legality",
+    "legalize",
+    "legally"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346671_85cd1770aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346671_17d118d5e3_o.png",
+      "id_image": "legacy_5625679"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391612_22aa743a1b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391612_aa17529433_o.png",
+      "id_image": "legacy_5632349"
+    }
+  ]
+}

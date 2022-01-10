@@ -1,0 +1,88 @@
+{
+  "english": "ink",
+  "phat_am": "iŋk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mực viết",
+          "definition": "a black or coloured/colored liquid used in writing, printing etc",
+          "world_new": [
+            "black",
+            "liquid",
+            "printing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Please sign your name in ink rather than pencil",
+              "world_new": [
+                "sign",
+                "your",
+                "name",
+                "rather",
+                "pencil"
+              ]
+            },
+            {
+              "ex_of_definition": "I spilt red ink all over my dress.",
+              "world_new": [
+                "I",
+                "red",
+                "my",
+                "dress"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Two such ink differences could be identified on folio 107.",
+    "And where would we place fire and smoke, not to mention liquids of all kinds from ink to volcanic lava?",
+    "They are also literally black, these arts, because they reduce everything to the black lines of ink which make up the reproduced image.",
+    "Intermediate ink colors were proportional color mixtures between pairs of focal colors.",
+    "It is assumed that an approximately equal amount of ink was marked on each paper, therefore this should not affect the results.",
+    "At present, prescriptions must be signed in ink, which prevents electronic transmission.",
+    "A stamp would have had to be bought, an envelope, pen, ink, paper found, and a postal order obtained.",
+    "The ink-craving was upon her, and her fingers involuntarily crooked themselves round an imaginary pen."
+  ],
+  "list_see_also": [
+    "inky",
+    "inkpot"
+  ],
+  "list_browse": [
+    "injured",
+    "injurious",
+    "injury",
+    "injustice",
+    "ink",
+    "inkling",
+    "inkpot",
+    "inky",
+    "inlaid"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461343_da2b38fb42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461343_fcd8994609_o.png",
+      "id_image": "ink_1686239"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084015_143fd99c86_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084015_2c8685b176_o.png",
+      "id_image": "ink_420280"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701449_bfe29f5854_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701449_e3b72dcc09_o.png",
+      "id_image": "ink_420281"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701399_5c221d8388_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701399_d066620c85_o.png",
+      "id_image": "ink_6396327"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "english": "guidance",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự hướng dẫn",
+          "definition": "advice towards doing something",
+          "world_new": [
+            "advice"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a project prepared under the guidance of the professor.",
+              "world_new": [
+                "project",
+                "prepared",
+                "professor"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The guidances clearly impose burdensome costs on industry.",
+    "The guidelines that recommend including productivity effects do not provide guidance about how to value lost or gained time.",
+    "Guidance for assessment has been provided in frameworks formulated by a number of authors (8;11;13;14;16;19).",
+    "One problem, perhaps major, is that there is very little guidance on applicability of particular methodologies.",
+    "In addition, collaboration is needed in the sharing of experience of methods of dissemination and implementation of guidance and communication with the end users.",
+    "Without the guidance of the law, it is unsurprising that local officials developed their own practices, recording, accounting and payment mechanisms.",
+    "The degree of design iteration generally carried out in a trialand-error manner under the guidance of domain exper ts consumes many person-hours.",
+    "There is a common tendency for government to look to experts for guidance about specialized matters."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "guesswork",
+    "guest",
+    "guesthouse",
+    "guffaw",
+    "guidance",
+    "guide",
+    "guide dog",
+    "guided missile",
+    "guideline"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433568_c5abce7cea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433568_38889e149c_o.png",
+      "id_image": "guidance_2773066"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673149_2eb4f93430_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673149_4fe293abf8_o.png",
+      "id_image": "guidance_4729476"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433508_ebeffdb42d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433508_d7450e15fb_o.png",
+      "id_image": "guidance_4834030"
+    }
+  ]
+}

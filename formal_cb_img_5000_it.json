@@ -1,0 +1,146 @@
+{
+  "english": "formal",
+  "phat_am": "ˈfoːməl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "trang trọng; theo nghi thức",
+          "definition": "done etc according to a fixed and accepted way",
+          "world_new": [
+            "fixed",
+            "accepted"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a formal letter.",
+              "world_new": [
+                "letter"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trang trọng",
+          "definition": "suitable or correct for occasions when things are done according to a fixed and accepted way",
+          "world_new": [
+            "suitable",
+            "correct",
+            "fixed",
+            "accepted"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You must wear formal dress.",
+              "world_new": [
+                "wear",
+                "dress"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trang trọng",
+          "definition": "(of behaviour, attitude etc) not relaxed and friendly",
+          "world_new": [
+            "behaviour",
+            "attitude",
+            "relaxed",
+            "friendly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "formal behaviour/behavior."
+            }
+          ]
+        },
+        {
+          "mean_english": "chính thức; chính thống",
+          "definition": "(of language) exactly correct by grammatical etc rules but not conversational",
+          "world_new": [
+            "exactly",
+            "correct",
+            "grammatical",
+            "conversational"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Legal documents are written in very formal English.",
+              "world_new": [
+                "English"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đối xứng",
+          "definition": "(of designs etc) precise and following a fixed pattern rather than occurring naturally",
+          "world_new": [
+            "precise",
+            "following",
+            "fixed",
+            "pattern",
+            "rather",
+            "naturally"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "formal gardens.",
+              "world_new": [
+                "gardens"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Your book contains only a couple of diagrams and no formal mathematical analysis.",
+    "After that, we detail the formal steps which lead to the design specification.",
+    "The procedure that we described above can be used repeatedly, until all formals have been eliminated from all functions in the program.",
+    "There are, however, formal differences of which to be aware.",
+    "An alternative approach is to examine the properties of the data with formal tests.",
+    "We interpret now the formal equivalence of kinds and types as the equality in the model.",
+    "The formal mental health care burden among recently deinstitutionalized patients.",
+    "Furthermore, these banks are organized in formal associations, established around the mid-19th century."
+  ],
+  "list_see_also": [
+    "formally",
+    "formality"
+  ],
+  "list_browse": [
+    "forked",
+    "forlorn",
+    "forlornly",
+    "form",
+    "formal",
+    "formality",
+    "formally",
+    "format",
+    "formation"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314916_71fd62383a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314916_3cb4d54670_o.png",
+      "id_image": "formal_2488440"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051420_af4840237d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051420_83f9b4eea6_o.png",
+      "id_image": "formal_2488484"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358977_385814f6cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358977_d41a92f361_o.png",
+      "id_image": "formal_6032223"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314856_0a3b55b80f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314856_7596d3d42b_o.png",
+      "id_image": "formal_6032236"
+    }
+  ]
+}

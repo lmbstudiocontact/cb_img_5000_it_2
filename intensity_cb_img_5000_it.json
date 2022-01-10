@@ -1,0 +1,62 @@
+{
+  "english": "intensity",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cường độ",
+          "definition": "the quality of being intense",
+          "world_new": [
+            "quality",
+            "intense"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the intensity of the heat from the fire.",
+              "world_new": [
+                "heat",
+                "fire"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "No other combination of years had significantly different mean intensities.",
+    "In contrast, estimates of canopy openness with a spherical densiometer showed only a weak relation to light intensities in the understorey.",
+    "Second, the experimental infection procedures used in many studies result in intensities of infection much higher than those normally observed in nature.",
+    "Figure 1 shows photoelectron momentum images representative for ionization of molecular hydrogen at 389 nm at various intensities.",
+    "At lower laser intensities, the regime under consideration is lost.",
+    "The predicted turbulence intensities are shown in figures 5(b)-5(e).",
+    "The purpose of our analysis is to evaluate the feasibility of experiments directed to nuclear studies at subrelativistic intensities.",
+    "Similar spectral intensities were also computed at shorter laser wavelengths of 0.35 mm for the same laser irradiance."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "intensely",
+    "intenseness",
+    "intensification",
+    "intensify",
+    "intensity",
+    "intensive",
+    "intensively",
+    "intensiveness",
+    "intent"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697849_a30527f7ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697849_0342234e06_o.png",
+      "id_image": "intensity_4275882"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080075_e2a155f80e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080075_6bbab467ce_o.png",
+      "id_image": "intensity_5089575"
+    }
+  ]
+}

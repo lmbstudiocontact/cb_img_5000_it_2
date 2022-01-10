@@ -1,0 +1,78 @@
+{
+  "english": "laser",
+  "phat_am": "ˈleizə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "la-de",
+          "definition": "(an instrument that produces) a narrow and very intense beam of light",
+          "world_new": [
+            "instrument",
+            "narrow",
+            "intense",
+            "beam",
+            "light"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The men were cutting the sheets of metal with a laser",
+              "world_new": [
+                "cutting",
+                "metal"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a laser beam.",
+              "world_new": [
+                "beam"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Figure 6 shows the temporal behavior of the radiation temperature and the laser pulse shape.",
+    "Both experimental and calculated dependencies of burnthrough time versus foil thickness compared with laser pulse-form.",
+    "Nonlinear confining and deconfining forces associated with interaction of laser radiation with plasma.",
+    "On the interaction of femtosecond laser pulses with cluster targets.",
+    "Supersonic ionization wave driven by radiation transport in a short-pulse laser-produced plasma.",
+    "The entrapment of radiation will make a photon be emitted and resonance-reabsorbed many times inside the laser material.",
+    "Fine structure of parvocellular receptive fields in the primate fovea revealed by laser interferometry.",
+    "After the recording and the developing, the hologram was returned to the second holder and moved into the laser beam line."
+  ],
+  "list_see_also": [
+    "laser printer"
+  ],
+  "list_browse": [
+    "larva",
+    "larval",
+    "larynx",
+    "lasagne",
+    "laser",
+    "laser printer",
+    "lash",
+    "lash out",
+    "lass"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435383_a21f545801_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435383_9e1b810ee9_o.png",
+      "id_image": "laser_2636224"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365092_cffa1127ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365092_ef60dc26dc_o.png",
+      "id_image": "laser_4657753"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056870_0825885cab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056870_c766d77dfb_o.png",
+      "id_image": "laser_5221402"
+    }
+  ]
+}

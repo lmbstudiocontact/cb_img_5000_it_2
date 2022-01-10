@@ -1,0 +1,65 @@
+{
+  "english": "gastric",
+  "phat_am": "ˈɡӕstrik",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "(thuộc) dạ dày",
+          "definition": "of the stomach",
+          "world_new": [
+            "stomach"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a gastric ulcer.",
+              "world_new": [
+                "ulcer"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Patients suffering from obesity were recruited at an out-patient obesity gastric surgery clinic, at time of assessment.",
+    "The molecular changes differ between the two major types of gastric cancer: intestinal- and diffuse-type tumours.",
+    "Only a limited number of biomarkers are available for detection and prognostic evaluation of gastric cancer.",
+    "To advance our knowledge and discover new biomarkers for gastric cancers, utilisation of the genomic database is essential.",
+    "As the majority with gastric cancer present with advanced disease, the prognosis is generally poor.",
+    "In undiagnosed gastric cancer patients, it was assumed that all patients were symptomatic within twelve months.",
+    "If emergency operative delivery is anticipated, it is important to administer antacid prophylaxis to neutralise the acidity of gastric contents.",
+    "The infective metacercariae were harvested from the fishes and fed to each hamster by gastric intubation."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "gasoline",
+    "gasp",
+    "gassiness",
+    "gassy",
+    "gastric",
+    "gastronomic",
+    "gastropod",
+    "gasworks",
+    "gate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383152_45cc1dc440_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383152_8e98503ab4_o.png",
+      "id_image": "gastric_2451297"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338146_1e8bcc629d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338146_5f6bc4b285_o.png",
+      "id_image": "gastric_4201754"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453053_f734274ccb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453053_6b62bf5b74_o.png",
+      "id_image": "gastric_4694737"
+    }
+  ]
+}

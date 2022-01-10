@@ -1,0 +1,88 @@
+{
+  "english": "manuscript",
+  "phat_am": "ˈmӕnjuskript",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bản thảo",
+          "definition": "the handwritten or typed material for a book etc, usually prepared for printing",
+          "world_new": [
+            "handwritten",
+            "material",
+            "book",
+            "prepared",
+            "printing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The publishers have lost the manuscript of my book.",
+              "world_new": [
+                "lost",
+                "my",
+                "book"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bản viết tay",
+          "definition": "a book or document written by hand",
+          "world_new": [
+            "book",
+            "document",
+            "hand"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a collection of manuscripts and printed books.",
+              "world_new": [
+                "collection"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The manuscripts have been collected from different sources and are catalogued accordingly.",
+    "The quantity of manuscripts and the quality of some of the compositions bear out a theme of the main part of the book.",
+    "A striking example of auxiliary do occurs in a fourteenth-century text surviving in several manuscripts.",
+    "Their broad knowledge and excellent judgement have been invaluable in evaluating and editing manuscripts for the journal over many, many years.",
+    "Not all the manuscripts contain the commentary, and he may have added it later.",
+    "Gjerdingen has also compiled a large online database of partimento manuscripts (including many with realization).",
+    "In common with a previous study (23), manuscripts are most frequently submitted to journals on the basis of prestige.",
+    "A small number of manuscripts, though, did circulate unpublished among a small group of admirers."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "manufacture",
+    "manufacturer",
+    "manufacturing",
+    "manure",
+    "manuscript",
+    "many",
+    "many a",
+    "many happy returns (of the day)",
+    "Maori"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369147_59b9452352_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369147_b3f921b33f_o.png",
+      "id_image": "manuscript_1017975"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679504_6f0325a0ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679504_96d92578ee_o.png",
+      "id_image": "manuscript_349014"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439323_b90fbc13ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439323_7f6cf163e2_o.png",
+      "id_image": "manuscript_5146366"
+    }
+  ]
+}

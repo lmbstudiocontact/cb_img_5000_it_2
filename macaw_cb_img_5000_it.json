@@ -1,0 +1,68 @@
+{
+  "english": "macaw",
+  "phat_am": "məˈkoː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vẹt đuôi dài",
+          "definition": "a South American bird in the parrot family, with bright feathers and a long tail",
+          "world_new": [
+            "American",
+            "bird",
+            "parrot",
+            "family",
+            "bright",
+            "long",
+            "tail"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Macaws are the largest of all parrots."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They typically live at elevations of 600 to 2600 m, higher in the mountains than most macaws ever range.",
+    "Of those, there are critically endangered species present such as the ornate hawk-eagle, keel-billed motmot, and the scarlet macaw.",
+    "Some of the country's most notable avian species include the resplendent quetzal, scarlet macaw, three-wattled bellbird, bare-necked umbrellabird, and the keel-billed toucan.",
+    "The greatest problems threatening the macaw population are the rapid rate of deforestation and the illegal trapping for the bird trade.",
+    "Furthermore, only the oldest residents of the region had knowledge of the macaw, with the species last recorded in the 1870s.",
+    "This macaw is rare with a highly restricted range.",
+    "Along the walls were glass cages holding live cockatoos, macaws, seagulls, pigeons, and parrots.",
+    "However, these macaws may seasonally fly down to lowlands, where they are likely in humid forests and thorny woodlands."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "MA",
+    "mac",
+    "macabre",
+    "macaroni",
+    "macaw",
+    "mace",
+    "Mach",
+    "machine",
+    "machine tool"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686544_2da6b5042c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686544_e2ef22fec2_o.png",
+      "id_image": "macaw_194960"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068225_42055d60ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068225_8770f3a6e3_o.png",
+      "id_image": "macaw_375130"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446493_d2b4e7eae9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446493_71146e24b9_o.png",
+      "id_image": "macaw_4215206"
+    }
+  ]
+}

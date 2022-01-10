@@ -1,0 +1,239 @@
+{
+  "english": "half",
+  "phat_am": "haːf",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "một nửa",
+          "definition": "one of two equal parts of anything",
+          "world_new": [
+            "equal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He tried to stick the two halves together again",
+              "world_new": [
+                "stick"
+              ]
+            },
+            {
+              "ex_of_definition": "half a kilo of sugar",
+              "world_new": [
+                "sugar"
+              ]
+            },
+            {
+              "ex_of_definition": "a kilo and a half of sugar",
+              "world_new": [
+                "sugar"
+              ]
+            },
+            {
+              "ex_of_definition": "one and a half kilos of sugar.",
+              "world_new": [
+                "sugar"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hiệp",
+          "definition": "one of two equal parts of a game (eg in football, hockey) usually with a break between them",
+          "world_new": [
+            "equal",
+            "game",
+            "football",
+            "break"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Rangers scored three goals in the first half."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "một nửa",
+          "definition": "being (equal to) one of two equal parts (of something)",
+          "world_new": [
+            "equal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a half bottle of wine.",
+              "world_new": [
+                "bottle",
+                "wine"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tạo thành từ hai nửa",
+          "definition": "being made up of two things in equal parts",
+          "world_new": [
+            "equal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A centaur is a mythical creature, half man and half horse.",
+              "world_new": [
+                "mythical",
+                "creature",
+                "horse"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chưa đủ; chưa hoàn chỉnh",
+          "definition": "not full or complete",
+          "world_new": [
+            "full",
+            "complete"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a half smile.",
+              "world_new": [
+                "smile"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "tới một nửa",
+          "definition": "to the extent of one half",
+          "world_new": [
+            "extent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This cup is only half full",
+              "world_new": [
+                "cup",
+                "full"
+              ]
+            },
+            {
+              "ex_of_definition": "It’s half empty.",
+              "world_new": [
+                "empty"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "một phần",
+          "definition": "almost; partly",
+          "world_new": [
+            "partly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m half hoping he won’t come"
+            },
+            {
+              "ex_of_definition": "He was half dead from hunger.",
+              "world_new": [
+                "dead",
+                "hunger"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "prefix",
+      "list_definition": [
+        {
+          "mean_english": "một nửa",
+          "world_new": [],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a half-dozen"
+            },
+            {
+              "ex_of_definition": "a half-kilo of tea.",
+              "world_new": [
+                "tea"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "If timber price were to fall by a third, then benefits are still comparable to half the proceeds of logging being invested.",
+    "Effect of various procedures on the viability of mouse embryos containing half of the normal number of blastomeres.",
+    "By then, over half the former division members were dead, and the average age of the 117 surviving members was seventy-three years.",
+    "Half-tone illustrations, requiring art paper plates, will be accepted in special circumstances.",
+    "Their response to visual traps alone also was significantly lower than that of mature flies, about half the percentage.",
+    "Treatment can be a single or repeated sleep deprivation, total (all night) or partial (second half of the night).",
+    "For the standard method, half the value of the minimal screening dilution used was assumed to be an exact value.",
+    "A year and a half after the constitution came into being, more than fifty political parties had emerged."
+  ],
+  "list_see_also": [
+    "half-",
+    "halve",
+    "half-and-half",
+    "halfback",
+    "half board",
+    "half-brother",
+    "half-caste",
+    "half-hearted",
+    "half-heartedly",
+    "half-heartedness",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "hairpin",
+    "hairstyle",
+    "hairy",
+    "halal",
+    "half",
+    "half board",
+    "half past three/four/seven etc",
+    "half-and-half",
+    "half-brother"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360227_e85190b012_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360227_72ba093439_o.png",
+      "id_image": "half_1722026"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430893_d6008a80a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430893_c4d7914323_o.png",
+      "id_image": "half_5331557"
+    }
+  ]
+}

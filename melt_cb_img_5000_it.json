@@ -1,0 +1,79 @@
+{
+  "english": "melt",
+  "phat_am": "melt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tan chảy",
+          "definition": "to (cause to) become soft or liquid, or to lose shape, usually by heating / being heated",
+          "world_new": [
+            "become",
+            "soft",
+            "liquid",
+            "lose",
+            "shape",
+            "heating",
+            "heated"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The ice has melted",
+              "world_new": [
+                "ice"
+              ]
+            },
+            {
+              "ex_of_definition": "My heart melted when I saw how sorry he was.",
+              "world_new": [
+                "heart",
+                "I",
+                "saw",
+                "sorry"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Analysis of melting curves allowed optimization of annealing temperatures for each amplification product.",
+    "In the last three photographs molten metal will have escaped via the bottom exit.",
+    "In larger proteins, the inside and outside behave as polymer melts with constraints on the interface, and there is a significant amount of entropy left.",
+    "We arque that melting from the sides is likely to exceed that from either the top or the bottom.",
+    "The propagation of a molten blob of aluminium at melting point were then simulated using both codes.",
+    "The perception of the audio-author changes the soundscape - which is a net of finely tuned vibrations melting into life experience.",
+    "The observed structural change is much too fast to be explained by an ordinary thermal melting process, even if strongly superheated conditions were assumed.",
+    "The second model involves derivation of the melts from a depleted lithospheric mantle source which was contaminated by subduction components."
+  ],
+  "list_see_also": [
+    "meltdown",
+    "melting-point",
+    "melting pot"
+  ],
+  "list_browse": [
+    "melodramatic",
+    "melodramatically",
+    "melody",
+    "melon",
+    "melt",
+    "meltdown",
+    "melting pot",
+    "melting-point",
+    "member"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702904_f8ac25fa7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702904_3fba9beb7b_o.png",
+      "id_image": "melt_1999845"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702859_d9b7526105_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702859_ee2cda7391_o.png",
+      "id_image": "melt_3690282"
+    }
+  ]
+}

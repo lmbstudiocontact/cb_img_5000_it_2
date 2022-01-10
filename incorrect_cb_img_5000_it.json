@@ -1,0 +1,82 @@
+{
+  "english": "incorrect",
+  "phat_am": "inkəˈrekt",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "sai",
+          "definition": "not accurate or correct; wrong",
+          "world_new": [
+            "accurate",
+            "wrong"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an incorrect assumption",
+              "world_new": [
+                "assumption"
+              ]
+            },
+            {
+              "ex_of_definition": "an incorrect translation of a word.",
+              "world_new": [
+                "translation"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "không chấp nhận được",
+          "definition": "(of behaviour/behavior etc) not acceptable; wrong",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an incorrect way of behaving in polite company.",
+              "world_new": [
+                "polite",
+                "company"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The statement that the work lasts 17 minutes is incorrect: the actual duration is about 80 minutes.",
+    "If incorrect interpretations had required more time, one could argue that the children were considering the conflict between meanings.",
+    "Such a sentence is incorrect, because the grammatical subject cannot be inferred from the linguistic or conversational context.",
+    "In addition, it shows that infants actively direct others' attention, and even redirect others' attention when they are mistakenly referring to an incorrect referent.",
+    "First-born children typically show systematic errors in comprehension at earlier stages, indicating that they initially learn incorrect, reversal rules.",
+    "If the answer is that the result is incorrect, then there must be a bug in the applied function.",
+    "There are two factors which suggest such a notion to be incorrect.",
+    "Thus, even if it should turn out that this one prediction is incorrect, the other results of this model would not be affected."
+  ],
+  "list_see_also": [
+    "incorrectness"
+  ],
+  "list_browse": [
+    "inconvenience",
+    "inconvenient",
+    "incorporate",
+    "incorporated",
+    "incorrect",
+    "incorrectness",
+    "incorrigible",
+    "incorruptibility",
+    "incorruptible"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433973_a146067b42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433973_f13d265a3d_o.png",
+      "id_image": "incorrect_1440367"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055320_8be24978b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055320_9f5ddd4762_o.png",
+      "id_image": "incorrect_5387420"
+    }
+  ]
+}

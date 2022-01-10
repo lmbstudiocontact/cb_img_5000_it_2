@@ -1,0 +1,107 @@
+{
+  "english": "guess",
+  "phat_am": "ɡes",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "phỏng đoán",
+          "definition": "to say what is likely to be the case",
+          "world_new": [
+            "likely",
+            "case"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m trying to guess the height of this building",
+              "world_new": [
+                "trying",
+                "height",
+                "building"
+              ]
+            },
+            {
+              "ex_of_definition": "If you don’t know the answer, just guess.",
+              "world_new": [
+                "know",
+                "answer"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giả dụ",
+          "definition": "to suppose",
+          "world_new": [
+            "suppose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I guess I’ll have to leave now.",
+              "world_new": [
+                "I",
+                "leave"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "dự đoán",
+          "definition": "an opinion, answer etc got by guessing",
+          "world_new": [
+            "opinion",
+            "answer"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My guess is that he’s not coming."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The forms in column 2 represent our informed guesses as to the import of the various spellings (see map 3).",
+    "Without the callee's par ticipation and ratification, invited guessing cannot achieve its intended effect.",
+    "On a vir tual servo-mechanism for guessing bad news.",
+    "By the definition of and its properties, the second clause of f always guesses correctly.",
+    "Post-hoc tests showed that the six- to seven-year-olds guessed fewer correct phonemes than all other groups.",
+    "However, guessing is not so simple for large programs where higher-order functions (such as map) are called repeatedly with different higher-order arguments each time.",
+    "Using scientific guesses about the processes in a musician's mind, one can create algorithms that produce expression.",
+    "Abnormal neural response to feedback on planning and guessing tasks in patients with unipolar depression."
+  ],
+  "list_see_also": [
+    "guesswork",
+    "anybody’s guess"
+  ],
+  "list_browse": [
+    "guardian",
+    "guardianship",
+    "guava",
+    "guerrilla",
+    "guess",
+    "guesswork",
+    "guest",
+    "guesthouse",
+    "guffaw"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055240_14cc391f4a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055240_b17e889c4c_o.png",
+      "id_image": "guess_2598691"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673414_999ea84689_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673414_3fb75baf36_o.png",
+      "id_image": "guess_4456781"
+    }
+  ]
+}

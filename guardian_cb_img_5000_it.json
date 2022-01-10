@@ -1,0 +1,79 @@
+{
+  "english": "guardian",
+  "phat_am": "ˈɡaːdiən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người giám hộ",
+          "definition": "a person who has the legal right to take care of a child (usually an orphan)",
+          "world_new": [
+            "person",
+            "legal",
+            "right",
+            "care",
+            "child"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He became the child’s guardian when her parents died."
+            }
+          ]
+        },
+        {
+          "mean_english": "người canh gác",
+          "definition": "a person who looks after something",
+          "world_new": [
+            "person",
+            "looks"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the guardian of the castle.",
+              "world_new": [
+                "castle"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "At the end of the day, our hospital president stops into our large waiting room to chat with the parents and guardians as they pick up their children.",
+    "All the leftovers, packed in disposable containers, are given to the guardians who come to pick up the campers and take them home.",
+    "Given the relatively weak position of expenditure guardians, this structural set-up represents a third variant.",
+    "Case-patients o12 years of age were interviewed directly while parents or guardians of case-patients <12 years of age were interviewed as a proxy.",
+    "One of the morality guardians got out of the car and asked what this man's relation was to me.",
+    "As the guardians and spokespersons for their communities, the chiefs for 'religious' and socio-political reasons intensified certain practices like the offering of sacrifices - ' ebo ' (to appease) or 'etutu ' (to ' soften ').",
+    "Marriage is only a contract between two people or, if they are not of age, between two families or guardians.",
+    "Fundamental goals of this training are the provision of the best possible care for each patient, and a compassionate attitude to the patients and their parents or guardians."
+  ],
+  "list_see_also": [
+    "guardianship"
+  ],
+  "list_browse": [
+    "guard",
+    "guard of honour",
+    "guarded",
+    "guardedly",
+    "guardian",
+    "guardianship",
+    "guava",
+    "guerrilla",
+    "guess"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055295_bc94e8b0ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055295_8d70d46cdd_o.png",
+      "id_image": "guardian_2451190"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055315_51e0f8462d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055315_0869e4d615_o.png",
+      "id_image": "guardian_490517"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "english": "mechanism",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cơ cấu",
+          "definition": "a (usually small) piece of machinery",
+          "world_new": [
+            "piece",
+            "machinery"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a watch mechanism.",
+              "world_new": [
+                "watch"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, a great deal of intervention has also been applied through extra-budgetary mechanisms.",
+    "An agoric system is a computer based software system that encapsulates market based mechanisms such as those from economic theory.",
+    "Available evidence does not indicate involvement of cytosolic oxidoreductases in mechanisms of aerobic metronidazole resistance.",
+    "The mechanisms underlying the relationships observed here cannot be determined from these data.",
+    "However, questions remain about the nature of the noise effects and the underlying causal mechanisms.",
+    "To this end, their chief concern was to safeguard access both to the mechanisms of traditional solidarity and to the means and factors of production.",
+    "To support this simple idea, programming languages should provide mechanisms to link and specialise components.",
+    "The known generation mechanisms for the field are mainly thermal, radiative and dynamo."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "mechanic",
+    "mechanical",
+    "mechanically",
+    "mechanics",
+    "mechanism",
+    "mechanization",
+    "mechanize",
+    "medal",
+    "medallion"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318436_99f7dbdebf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318436_0925064952_o.png",
+      "id_image": "mechanism_1610493"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433633_7197cc3610_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433633_a324289a8f_o.png",
+      "id_image": "mechanism_2259701"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433648_131deae017_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433648_8116e35721_o.png",
+      "id_image": "mechanism_416214"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673219_bff1c1c6a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673219_a1d1e9dc8e_o.png",
+      "id_image": "mechanism_5541887"
+    }
+  ]
+}

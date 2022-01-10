@@ -1,0 +1,76 @@
+{
+  "english": "insight",
+  "phat_am": "ˈinsait",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự thấu hiểu",
+          "definition": "(the quality of having) an understanding of something",
+          "world_new": [
+            "quality",
+            "understanding"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He shows remarkable insight (into children’s problems).",
+              "world_new": [
+                "remarkable"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Our findings offer insights into whether and how the major structural changes during recent decades have affected older adults.",
+    "The study of such a model provides insights at the queue length (and thus the congestion of a junction) under a heavy load.",
+    "Nevertheless, we consider them here for their insight into systems that acquire representations appropriate for a cognitive domain through a learning process.",
+    "A second, perhaps more important reason, is that qualitative insights can be obtained.",
+    "The aim is to provide insight into the more rigorous formalization that will be provided in the following sections.",
+    "The collection would have benefited from a synthesis of the many insights and contrasting patterns to be found in the country-specific chapters.",
+    "It gives insight into the format of experts' knowledge structures; experts turn out to use mainly frame representations.",
+    "It draws on important insights associated with other theodicies, but attempts to get past their alleged shortcomings."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "inset",
+    "inshore",
+    "inside",
+    "inside out",
+    "insight",
+    "insignia",
+    "insignificance",
+    "insignificant",
+    "insincere"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460068_43bf8c9d0a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460068_3cfd431736_o.png",
+      "id_image": "insight_2620417"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390227_4c2dfed400_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390227_7e9a9ac383_o.png",
+      "id_image": "insight_295504"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390167_c143b0cf6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390167_63ba469ee1_o.png",
+      "id_image": "insight_4031433"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082660_02d0abec1c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082660_a9aed491bc_o.png",
+      "id_image": "insight_4149681"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390107_598da8d194_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390107_8af1fa22f8_o.png",
+      "id_image": "insight_4149696"
+    }
+  ]
+}

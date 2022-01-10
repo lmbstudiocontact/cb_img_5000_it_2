@@ -1,0 +1,113 @@
+{
+  "english": "limit",
+  "phat_am": "ˈlimit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ranh giới",
+          "definition": "the farthest point or place; the boundary",
+          "world_new": [
+            "point",
+            "boundary"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There was no limit to his ambition.",
+              "world_new": [
+                "ambition"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giới hạn",
+          "definition": "a restriction",
+          "world_new": [
+            "restriction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We must put a limit on our spending.",
+              "world_new": [
+                "our"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "hạn chế",
+          "definition": "to set a restriction on",
+          "world_new": [
+            "restriction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We must limit the amount of time we spend on this work.",
+              "world_new": [
+                "amount",
+                "time",
+                "spend",
+                "work"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The analysis in this paper has been limited to cases where the secondary mode perturbation remains small.",
+    "Burials, for instance, are underneath platforms, within the limits of the dwellings.",
+    "Furthermore, the claim that limited exposure duration during training further promotes fluency was examined.",
+    "However, this does not warrant totally abandoning the notion of separate senses, particularly in light of evidence of limits in cross-modal representations.",
+    "These trajectories take into account the relative target motion and thruster/actuator saturation limits.",
+    "It is based on physical principles, but the mathematics is limited so that interested undergraduate students will be able to follow.",
+    "Various approaches to limit the number generated variants, explored in other work, apply to this work as well.",
+    "The purpose is to prove a distributional limit theorem for the number of visits to neighbourhoods of these points."
+  ],
+  "list_see_also": [
+    "limitation",
+    "limited",
+    "limitless"
+  ],
+  "list_browse": [
+    "limekiln",
+    "limelight: in the limelight",
+    "limerick",
+    "limestone",
+    "limit",
+    "limitation",
+    "limited",
+    "limitless",
+    "limousine"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386712_88cb5bab88_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386712_1f43695198_o.png",
+      "id_image": "limit_2867806"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079035_d91f8f32dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079035_789cfc601f_o.png",
+      "id_image": "limit_3590347"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078995_265c92fb84_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078995_25519d8ca8_o.png",
+      "id_image": "limit_3898120"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696764_32f56ee697_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696764_434cd0136b_o.png",
+      "id_image": "limit_6306394"
+    }
+  ]
+}

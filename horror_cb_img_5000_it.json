@@ -1,0 +1,87 @@
+{
+  "english": "horror",
+  "phat_am": "ˈhorə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự ghê sợ",
+          "definition": "great fear or dislike",
+          "world_new": [
+            "great",
+            "fear",
+            "dislike"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She has a horror of spiders"
+            },
+            {
+              "ex_of_definition": "She looked at me in horror."
+            }
+          ]
+        },
+        {
+          "mean_english": "kẻ tinh quái",
+          "definition": "a disagreeable person or thing",
+          "world_new": [
+            "disagreeable",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her little boy is an absolute horror.",
+              "world_new": [
+                "boy",
+                "absolute"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "horrible",
+    "horribleness",
+    "horribly",
+    "horrid",
+    "horrific",
+    "horrify",
+    "horrifying"
+  ],
+  "list_browse": [
+    "horrid",
+    "horrific",
+    "horrify",
+    "horrifying",
+    "horror",
+    "hors d’oeuvre",
+    "horse",
+    "horse chestnut",
+    "horse-box"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331641_ef14440d5f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331641_b205bab3ac_o.png",
+      "id_image": "horror_2040686"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331596_5b48e55581_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331596_b8f30205e8_o.png",
+      "id_image": "horror_2123879"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376252_77d43cbf55_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376252_d1ba83ff73_o.png",
+      "id_image": "horror_2446915"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331516_32d03eb2f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331516_ac250c712e_o.png",
+      "id_image": "horror_6150434"
+    }
+  ]
+}

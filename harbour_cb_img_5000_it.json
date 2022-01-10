@@ -1,0 +1,99 @@
+{
+  "english": "harbour",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cảng",
+          "definition": "a place of shelter for ships",
+          "world_new": [
+            "place",
+            "shelter"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "All the ships stayed in (the) harbour/harbor during the storm.",
+              "world_new": [
+                "storm"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chứa chấp",
+          "definition": "to give shelter or refuge to (a person)",
+          "world_new": [
+            "shelter",
+            "refuge"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It is against the law to harbour/harbor criminals.",
+              "world_new": [
+                "law"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nuôi dưỡng (ý nghĩ xấu…)",
+          "definition": "to have (usually bad) thoughts in one’s head",
+          "world_new": [
+            "head"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He harbours/harbors a grudge against me.",
+              "world_new": [
+                "grudge"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "harbour master"
+  ],
+  "list_browse": [
+    "harangue",
+    "harass",
+    "harassed",
+    "harassment",
+    "harbour",
+    "harbour master",
+    "hard",
+    "hard at it",
+    "hard disk"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082140_4369e721f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082140_0e2acdd7dd_o.png",
+      "id_image": "harbour_2374138"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459423_259449a03c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459423_28c501ce3a_o.png",
+      "id_image": "harbour_2485263"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389527_7c839ba002_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389527_21eb001a50_o.png",
+      "id_image": "harbour_2598138"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699659_d4c3b3fc6c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699659_7ea9d6de6c_o.png",
+      "id_image": "harbour_5626926"
+    }
+  ]
+}

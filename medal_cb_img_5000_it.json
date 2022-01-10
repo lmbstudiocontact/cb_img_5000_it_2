@@ -1,0 +1,79 @@
+{
+  "english": "medal",
+  "phat_am": "ˈmedl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "huân chương",
+          "definition": "a piece of metal with a design, inscription etc stamped on it, given as a reward for bravery, long service, excellence etc, or made to celebrate a special occasion",
+          "world_new": [
+            "piece",
+            "metal",
+            "design",
+            "inscription",
+            "reward",
+            "bravery",
+            "long",
+            "service",
+            "excellence",
+            "celebrate",
+            "special",
+            "occasion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bronze/silver/gold medal"
+            },
+            {
+              "ex_of_definition": "He won a medal in the War."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Available statistics do not show how many of these officers and other ranks are entitled to medals and campaign stars.",
+    "There has, however, been little delay in issuing medals once an individual's entitlement has been confirmed.",
+    "Officers are eligible to receive crosses or equivalent decorations but non-commissioned ranks are eligible only for medals.",
+    "We have been carrying out a comprehensive review of all the monetary benefits that are payable in connection with the award of various medals.",
+    "As to the precedent of the last war, these medals were issued only to those who served overseas, with one exception.",
+    "Many of them wear three or four medals on their chests in honour of the service that they have given the nation.",
+    "I do not think that it is appropriate to draw a comparison between the two medals.",
+    "Unlike the first world war, when medals were automatically issued to enlisted service men, following world war two, all ranks had to apply."
+  ],
+  "list_see_also": [
+    "medallion",
+    "medallist"
+  ],
+  "list_browse": [
+    "mechanics",
+    "mechanism",
+    "mechanization",
+    "mechanize",
+    "medal",
+    "medallion",
+    "medallist",
+    "meddle",
+    "meddler"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362932_4c3d8094a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362932_98648a7792_o.png",
+      "id_image": "medal_224759"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362922_3c56128917_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362922_1acc87bac7_o.png",
+      "id_image": "medal_250603"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318366_f78c72cda3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318366_58105cc722_o.png",
+      "id_image": "medal_702307"
+    }
+  ]
+}

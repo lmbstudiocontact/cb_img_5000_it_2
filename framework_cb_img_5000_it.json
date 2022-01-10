@@ -1,0 +1,74 @@
+{
+  "english": "framework",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sườn; khung",
+          "definition": "the basic supporting structure of anything",
+          "world_new": [
+            "basic",
+            "supporting",
+            "structure"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The building will be made of concrete supported by a steel framework.",
+              "world_new": [
+                "building",
+                "concrete",
+                "steel"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The rules for organizing frameworks and assigning surfaces to them are complex and not fully-understood.",
+    "This provides a framework (via a set of tasks) for school-based information-gathering prior to teaching practice.",
+    "While labour demand is modelled, labour supply is supposed to follow the demand within the framework of constant nominal wage rates.",
+    "Unit 1 outlines the theoretical framework for the authors' investigation.",
+    "Psychologists typically do not rely on a similarly unified theoretical framework that can be easily translated into experimental design.",
+    "The proposed framework offers challenging discussions for students and researchers in various areas of linguistics.",
+    "The purpose of this paper is to provide a theoretical framework for adequate assessment procedures to testing foreign language vocabulary.",
+    "In such a framework, there would seem to be no reason not to include social meaning along with 'ordinary' semantics and pragmatics."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "frail",
+    "frailty",
+    "frame",
+    "frame of mind",
+    "framework",
+    "franc",
+    "franchise",
+    "Franco-",
+    "frank"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313176_f90e93d95a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313176_c4876abc9e_o.png",
+      "id_image": "framework_2519420"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427978_ffc7cfa436_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427978_75b850f7ce_o.png",
+      "id_image": "framework_2535512"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313146_4f058c7a4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313146_ac28091867_o.png",
+      "id_image": "framework_2621174"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313136_c775a42dde_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313136_88bb8f8a3a_o.png",
+      "id_image": "framework_3097919"
+    }
+  ]
+}

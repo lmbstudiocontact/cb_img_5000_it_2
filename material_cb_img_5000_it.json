@@ -1,0 +1,141 @@
+{
+  "english": "material",
+  "phat_am": "məˈtiəriəl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nguyên vật liệu",
+          "definition": "anything out of which something is, or may be, made",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Tables are usually made from solid material such as wood.",
+              "world_new": [
+                "solid",
+                "wood"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vải",
+          "definition": "cloth",
+          "world_new": [
+            "cloth"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’d like three metres of blue woollen/woolen material.",
+              "world_new": [
+                "blue"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "vật chất",
+          "definition": "consisting of solid(s), liquid(s), gas(es) or any combination of these",
+          "world_new": [
+            "combination"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the material world.",
+              "world_new": [
+                "world"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hữu hình",
+          "definition": "belonging to the world; not spiritual",
+          "world_new": [
+            "spiritual"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He wanted material things like money, possessions, and power.",
+              "world_new": [
+                "wanted",
+                "money",
+                "power"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự cần thiết",
+          "definition": "essential or important",
+          "world_new": [
+            "essential",
+            "important"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "evidence that is material to his defence.",
+              "world_new": [
+                "evidence",
+                "defence"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The decontextualized nature of the stimulus materials may also explain the finding.",
+    "Since that time, the idea of the didactic interval song has permeated music education approaches and materials designed for use in schoolrooms.",
+    "Scanning electron micrographs show progressive accumulation of platelets attached to syndietic materials.",
+    "Also, there is a need for teachers to adopt a broader and more interculturalist stance if the materials are to have a more extensive applicability.",
+    "The aim, objectives and materials of the project were discussed across a period of about three weeks.",
+    "From the results of biofilm samples, it was found that the biofilm consisted of water, organic and non-organic materials.",
+    "Second, did all of the materials that contained sak lu'um contain palygorskite?",
+    "A full list of materials may be obtained from the authors."
+  ],
+  "list_see_also": [
+    "materially",
+    "materialize",
+    "materialization"
+  ],
+  "list_browse": [
+    "matching",
+    "matchless",
+    "matchmaker",
+    "mate",
+    "material",
+    "materialization",
+    "materialize",
+    "materially",
+    "maternal"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365212_f89425192a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365212_859b2fab3b_o.png",
+      "id_image": "material_1556235"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365167_643e3976c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365167_c8c29b2478_o.png",
+      "id_image": "material_2137379"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320271_a691b754b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320271_521f79bab9_o.png",
+      "id_image": "material_2137542"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675324_19c4e6a3f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675324_497892d56c_o.png",
+      "id_image": "material_416213"
+    }
+  ]
+}

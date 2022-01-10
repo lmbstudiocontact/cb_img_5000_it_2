@@ -1,0 +1,81 @@
+{
+  "english": "interactive",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "có sự tương tác",
+          "definition": "allowing a continuous exchange of information between a computer and the person using it, so that the computer can respond immediately to the user’s instructions or questions",
+          "world_new": [
+            "continuous",
+            "exchange",
+            "information",
+            "computer",
+            "person",
+            "computer",
+            "respond",
+            "immediately"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an interactive system/program"
+            },
+            {
+              "ex_of_definition": "interactive video games.",
+              "world_new": [
+                "video",
+                "games"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Interactive generative systems vious version of the design that the designer is working from.",
+    "More generally, because the developing brain is a highly interactive system, it is highly unlikely that an initially local change would remain local.",
+    "Moreover, this ability is impor tant in any system suppor ting an interactive configuration.",
+    "She concludes that its preponderance in transcripts of trials suggests it is at least a feature of interactive discourse.",
+    "Thus, the oral journal was much more interactive and the student appears to have acquired more words from the oral journal.",
+    "The configurations of significant interactive effects, however, were complex and require closer examination to interpret their meaning for child outcomes.",
+    "However, the boundaries between social and ethical, ethical and legal, or legal and political aspects are not always clear, and interactive effects can occur.",
+    "The collection is united by a focus on the interactive nature of narrative in context."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "intently",
+    "inter",
+    "interact",
+    "interaction",
+    "interactive",
+    "interactive whiteboard",
+    "intercede",
+    "intercept",
+    "interception"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079770_2cf86a0cea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079770_9695fe7dee_o.png",
+      "id_image": "interactive_2620912"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457158_29ba8fb9f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457158_2338c0ae8b_o.png",
+      "id_image": "interactive_3879840"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342271_dc4e24c490_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342271_e98049c666_o.png",
+      "id_image": "interactive_5496793"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697614_15722d4583_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697614_008851fa2b_o.png",
+      "id_image": "interactive_897069"
+    }
+  ]
+}

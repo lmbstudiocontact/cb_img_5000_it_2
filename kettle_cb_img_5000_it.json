@@ -1,0 +1,76 @@
+{
+  "english": "kettle",
+  "phat_am": "ˈketl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ấm đun nước",
+          "definition": "a metal pot, usually with a special part for pouring and a lid, for heating liquids",
+          "world_new": [
+            "metal",
+            "pot",
+            "special",
+            "part",
+            "lid",
+            "heating"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The kettle is boiling."
+            },
+            {
+              "ex_of_definition": "a kettle full of boiling water.",
+              "world_new": [
+                "full",
+                "water"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I believe the analogy of pots and kettles is rather better.",
+    "Is anyone seriously suggesting that to get rid of dampness or condensation council house tenants should stop boiling kettles, stop using paraffin heaters and even stop breathing?",
+    "Leonards of aluminium ware, such as kettles and saucepans.",
+    "Another case was brought against an official who had accepted a couple of electric kettles and a toaster.",
+    "Unprotected fires, and kettles and gas rings on the floor, cause burns and scalds.",
+    "However, the difference is that nearly all agricultural products are paid for, which is not so with kettles, wheels, cars, and so on.",
+    "The alternative would be to boil pans and kettles in order to get hot water.",
+    "If anyone is trying to make education a party political issue—as he says, stirring up a religious war—he should recall the phrase about pots and kettles."
+  ],
+  "list_see_also": [
+    "kettledrum"
+  ],
+  "list_browse": [
+    "kerbstone",
+    "kernel",
+    "kerosene",
+    "ketchup",
+    "kettle",
+    "kettledrum",
+    "key",
+    "keyboard",
+    "keyed up"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065840_361756c387_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065840_b01b936e7f_o.png",
+      "id_image": "kettle_307443"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373692_d0db67194e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373692_ace2d89cec_o.png",
+      "id_image": "kettle_447173"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065760_fc959115ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065760_c9d8cfe333_o.png",
+      "id_image": "kettle_447215"
+    }
+  ]
+}

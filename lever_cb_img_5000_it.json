@@ -1,0 +1,128 @@
+{
+  "english": "lever",
+  "phat_am": "ˈliːvə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đòn bảy",
+          "definition": "a bar of wood, metal etc used to lift heavy weights",
+          "world_new": [
+            "bar",
+            "wood",
+            "metal",
+            "lift",
+            "heavy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A crowbar is a kind of lever",
+              "world_new": [
+                "crowbar",
+                "kind"
+              ]
+            },
+            {
+              "ex_of_definition": "You must use a coin as a lever to get the lid of that tin off.",
+              "world_new": [
+                "coin",
+                "lid",
+                "tin"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thanh điều khiển",
+          "definition": "a bar or handle for operating a machine etc",
+          "world_new": [
+            "bar",
+            "handle",
+            "machine"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This is the lever that switches on the power.",
+              "world_new": [
+                "power"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bẩy lên",
+          "definition": "to move with or as if with a lever",
+          "world_new": [
+            "move"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He levered the lid off with a coin.",
+              "world_new": [
+                "lid",
+                "coin"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The time from light onset to lever press (causing light offset) was documented by computer and taken to be the stimulus duration.",
+    "As we select for more forceful presses, the presses continue to vary in force, but the average lever press becomes more forceful.",
+    "Clearly, the extent and quality of forest cover is a potential policy lever, and we present details on this measure.",
+    "This restoration happens because of the excess weight of the lever to the right of the point of support.",
+    "The animal had easy access to the lever and food plate.",
+    "Even a hungry rat rewarded by food for pressing a lever is to an extent controlling itself.",
+    "This program also began in 1993 with the aim of identifying barriers and highlighting potential levers to the process of getting research into practice.",
+    "Is there a genuine pattern of descent so that one lever press gives rise to a later lever press?"
+  ],
+  "list_see_also": [
+    "leverage"
+  ],
+  "list_browse": [
+    "level off",
+    "level out",
+    "level-headed",
+    "levelness",
+    "lever",
+    "leverage",
+    "levy",
+    "lexicon",
+    "liability"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699609_04ca3fd7d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699609_e2b855df32_o.png",
+      "id_image": "lever_1580105"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699574_13ffc5680e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699574_bc75ca0782_o.png",
+      "id_image": "lever_1857112"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389392_b1f49a7a9b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389392_2bfe114c5d_o.png",
+      "id_image": "lever_2825520"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389362_d16e5b29b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389362_24c6cecaae_o.png",
+      "id_image": "lever_5760118"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389432_f6071564a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389432_5fdf158848_o.png",
+      "id_image": "lever_876983"
+    }
+  ]
+}

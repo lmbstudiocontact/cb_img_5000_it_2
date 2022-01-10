@@ -1,0 +1,106 @@
+{
+  "english": "follow",
+  "phat_am": "ˈfoləu",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "theo sau",
+          "definition": "to go or come after",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I will follow (you).",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dọc theo một con đường, lối nhỏ…",
+          "definition": "to go along (a road, river etc)",
+          "world_new": [
+            "road",
+            "river"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Follow this road.",
+              "world_new": [
+                "road"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hiểu",
+          "definition": "to understand",
+          "world_new": [
+            "understand"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Do you follow (my argument)?"
+            }
+          ]
+        },
+        {
+          "mean_english": "hành động theo",
+          "definition": "to act according to",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I followed his advice.",
+              "world_new": [
+                "I",
+                "advice"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The dynamics of the system were as follows.",
+    "The outline of the article is as follows.",
+    "The rest of the paper is organized as follows.",
+    "The remainder of the paper is organized as follows.",
+    "The structure of the paper is as follows.",
+    "The organization of the paper is as follows.",
+    "The organisation of the paper is as follows.",
+    "We see that this is true as follows."
+  ],
+  "list_see_also": [
+    "follower",
+    "following",
+    "follow-up",
+    "follow up"
+  ],
+  "list_browse": [
+    "folio",
+    "folk",
+    "folklore",
+    "folks",
+    "follow",
+    "follow in someone’s footsteps",
+    "follow one’s nose",
+    "follow suit",
+    "follow-up"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361992_ce22f99866_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361992_b8595bbe1b_o.png",
+      "id_image": "follow_3057912"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672414_9015358a6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672414_0e6620e8ce_o.png",
+      "id_image": "follow_874672"
+    }
+  ]
+}

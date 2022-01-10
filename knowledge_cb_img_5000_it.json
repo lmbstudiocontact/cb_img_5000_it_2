@@ -1,0 +1,120 @@
+{
+  "english": "knowledge",
+  "phat_am": "ˈnolidʒ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự hiểu biết",
+          "definition": "the fact of knowing",
+          "world_new": [
+            "fact",
+            "knowing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was greatly encouraged by the knowledge that she had won first prize in the competition.",
+              "world_new": [
+                "greatly",
+                "prize",
+                "competition"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kiến thức",
+          "definition": "information or what is known",
+          "world_new": [
+            "information"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He had a vast amount of knowledge about boats.",
+              "world_new": [
+                "vast",
+                "amount"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tri thức",
+          "definition": "the whole of what can be learned or found out",
+          "world_new": [
+            "whole",
+            "learned",
+            "found"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This research advances the sum of human knowledge.",
+              "world_new": [
+                "research",
+                "sum",
+                "human"
+              ]
+            },
+            {
+              "ex_of_definition": "Science is a branch of knowledge about which I am rather ignorant.",
+              "world_new": [
+                "branch",
+                "I",
+                "rather",
+                "ignorant"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Such situations require fundamental knowledge of these interactions as a possible cause of anomalous transport phenomena in magnetized plasmas.",
+    "All of this is ordinary in the realm of current knowledge-based system theory and can be found, in many variations, in the literature.",
+    "If a player's type can be made common knowledge, rational egoists would not survive.",
+    "This postulate permitted exchange and transfer of knowledge.",
+    "It gives insight into the format of experts' knowledge structures; experts turn out to use mainly frame representations.",
+    "They distinguish a lexical network in which word form information is stored from a semantic network in which perceptual knowledge and conceptual knowledge are represented.",
+    "Older knowledge, perhaps because it has been relocated to regions that are damaged by the disease process, does not fare as well.",
+    "They conclude that self-management strategies contribute to an increase in learners' self- and contextual knowledge which can assist in reducing anxiety."
+  ],
+  "list_see_also": [
+    "knowledgeable",
+    "general knowledge"
+  ],
+  "list_browse": [
+    "know-all",
+    "know-how",
+    "knowing",
+    "knowingly",
+    "knowledge",
+    "knowledgeable",
+    "knuckle",
+    "koala",
+    "Koran"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324876_80fc7cbb58_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324876_8837453f77_o.png",
+      "id_image": "knowledge_2070946"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324916_52938335a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324916_bce306c63f_o.png",
+      "id_image": "knowledge_207314"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680004_c7c6a8a95d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680004_04260dcb1d_o.png",
+      "id_image": "knowledge_2861728"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324781_37206170ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324781_d3eef7b227_o.png",
+      "id_image": "knowledge_3930428"
+    }
+  ]
+}

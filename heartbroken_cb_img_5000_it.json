@@ -1,0 +1,74 @@
+{
+  "english": "heartbroken",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "rất đau khổ",
+          "definition": "feeling very great sorrow",
+          "world_new": [
+            "feeling",
+            "great",
+            "sorrow"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was heartbroken after her husband left her for another woman.",
+              "world_new": [
+                "husband",
+                "left"
+              ]
+            },
+            {
+              "ex_of_definition": "a heartbroken widow.",
+              "world_new": [
+                "widow"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I could not accept the suggestion that parents of men have been heartbroken.",
+    "He is heartbroken at the distress around him and his inability to help.",
+    "There are many heartbroken parents in this country.",
+    "One lady wrote to me saying that she was heartbroken visiting a relative in hospital because the hospital was \"so desperately short of staff\".",
+    "I have at meetings spoken to a number of these men, who have been heartbroken.",
+    "Parents were heartbroken at the death of a child, but mourned an older child more than a young infant.",
+    "I should be heartbroken if we did not get that promise.",
+    "Parents whose children are set on a legal career, but whom they must deny that opportunity, are heartbroken and demoralised."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "heart-warming",
+    "heartache",
+    "heartbeat",
+    "heartbreak",
+    "heartbroken",
+    "heartburn",
+    "-hearted",
+    "hearten",
+    "heartfelt"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077760_1ff469d8d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077760_cbf0a12043_o.png",
+      "id_image": "heartbroken_2904986"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385402_dd2f1dc939_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385402_a37e246faa_o.png",
+      "id_image": "heartbroken_3481093"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455313_f9674f1368_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455313_0fdfbbea23_o.png",
+      "id_image": "heartbroken_5046959"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "english": "junior",
+  "phat_am": "ˈdʒuːnjə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thấp hơn",
+          "definition": "(a person who is) younger in years or lower in rank or authority",
+          "world_new": [
+            "person",
+            "lower",
+            "rank",
+            "authority"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is two years my junior",
+              "world_new": [
+                "my"
+              ]
+            },
+            {
+              "ex_of_definition": "The school sent two juniors and one senior to take part",
+              "world_new": [
+                "school",
+                "senior",
+                "part"
+              ]
+            },
+            {
+              "ex_of_definition": "junior pupils"
+            },
+            {
+              "ex_of_definition": "He is junior to me in the firm",
+              "world_new": [
+                "firm"
+              ]
+            },
+            {
+              "ex_of_definition": "the junior school.",
+              "world_new": [
+                "school"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "dùng để nói về người trẻ hơn có cùng tên",
+          "definition": "(often abbreviated to Jnr, Jr or Jun. when written) used to indicate the son of a person who is still alive and who has the same name",
+          "world_new": [
+            "indicate",
+            "son",
+            "person",
+            "alive",
+            "name"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "John Jones Junior."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tên trẻ con trong gia đình",
+          "definition": "a name for the child (usually a son) of a family",
+          "world_new": [
+            "name",
+            "child",
+            "family"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Do bring Junior!",
+              "world_new": [
+                "bring"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Do urban adolescents \"bounce back\" from the negative impact of the transition into junior high school?",
+    "At the most junior end of the curriculum, the topics might be quite basic - such as understanding how to give or interpret successful instructions.",
+    "In fact, one commentator stated that originally guidelines were intended to inform junior doctors and physician assistants of \"the right thing to do\" (15).",
+    "The most recent course of 120 students had about 50% freshman, 25% sophmores, 12% juniors, and 12% seniors.",
+    "The participants belonged to a class of about 100 student teachers who did their internships at local junior and senior high schools.",
+    "We define junior members as those elected fewer than four times and senior members are those elected four or more times.",
+    "The mean age of participants was 64 years, 88% were married, 66% had junior high school or lower education.",
+    "The caring responsibilities within families with elderly parents are not necessarily unidirectional, from the junior to the senior generation."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "junction",
+    "juncture",
+    "June",
+    "jungle",
+    "junior",
+    "juniper",
+    "junk",
+    "junk food",
+    "junket"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685454_37faf175db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685454_42dcff1346_o.png",
+      "id_image": "junior_6413819"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328061_aa4cd0c27e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328061_dbd8b270a7_o.png",
+      "id_image": "kid_5333174"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372937_ec55b19a8c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372937_1456b08860_o.png",
+      "id_image": "kid_616027"
+    }
+  ]
+}

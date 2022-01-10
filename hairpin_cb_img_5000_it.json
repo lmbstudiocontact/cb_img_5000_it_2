@@ -1,0 +1,95 @@
+{
+  "english": "hairpin",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái kẹp tóc",
+          "definition": "a bent wire for keeping a woman’s hair in place.",
+          "world_new": [
+            "bent",
+            "wire",
+            "keeping",
+            "hair",
+            "place"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "chỗ cua gấp trên đường",
+          "definition": "(of a bend in a road) sharp and U-shaped, especially on a mountain or a hill",
+          "world_new": [
+            "bend",
+            "sharp",
+            "mountain",
+            "hill"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a dangerous hairpin bend.",
+              "world_new": [
+                "dangerous",
+                "bend"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Their results support the experimental observations regarding spikes, high-shear layer and hairpin vortices.",
+    "The induced momentum is not uniform, because back induction varies as hairpins grow, and since the growth angle is small, the momentum is slowly varying.",
+    "However, the data are sufficient to reveal the patterns of entire hairpin packets and to use the vorticity field for qualitative flow visualization.",
+    "Beyond the existence of hairpin vortices, the data also show individual hairpins commonly aligned behind each other in the x-direction to form a group.",
+    "The spawned hairpins grew and spawned further hairpins in like fashion.",
+    "The content of conserved hydrophobic residues in this hairpin is unusually high, and this suggests that the hairpin may interact with a hydrophobic partner.",
+    "The transverse phase variation is responsible for the formation of hairpin vortices.",
+    "The full range of hairpin and hairpin packet interactions can only be speculated."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "-haired",
+    "hairgrip",
+    "hairiness",
+    "hairline",
+    "hairpin",
+    "hairstyle",
+    "hairy",
+    "halal",
+    "half"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052580_e47d5f7d02_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052580_c51b3854e5_o.png",
+      "id_image": "hairpin_1053015"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431013_c09ab71a79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431013_6587888198_o.png",
+      "id_image": "hairpin_1053047"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670769_f0dd1c6228_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670769_a6c705f4d8_o.png",
+      "id_image": "hairpin_2204544"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430983_95243e311e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430983_b5fdb495b2_o.png",
+      "id_image": "hairpin_4011835"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360307_354986b3e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360307_84e8b895f6_o.png",
+      "id_image": "hairpin_5362053"
+    }
+  ]
+}

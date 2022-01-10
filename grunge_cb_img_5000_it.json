@@ -1,0 +1,107 @@
+{
+  "english": "grunge",
+  "phat_am": "ɡrandʒ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vết bẩn",
+          "definition": "(informal) unpleasant dirt; filth",
+          "world_new": [
+            "unpleasant"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Pressure washing is a great way to clean the grunge from concrete pathways.",
+              "world_new": [
+                "washing",
+                "great",
+                "clean",
+                "concrete"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thể loại nhạc Grunge",
+          "definition": "a type of loud aggressive rock music popular in the 1990s that was influenced by punk and heavy metal.",
+          "world_new": [
+            "type",
+            "loud",
+            "aggressive",
+            "rock",
+            "music",
+            "popular",
+            "punk",
+            "heavy",
+            "metal"
+          ]
+        },
+        {
+          "mean_english": "phong cách Grunge",
+          "definition": "a style of fashion worn by people who like grunge music, characterized by dirty and untidy clothing.",
+          "world_new": [
+            "style",
+            "fashion",
+            "worn",
+            "people",
+            "music",
+            "dirty",
+            "untidy",
+            "clothing"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The channel aired a variety of genres, including punk, metal, and grunge.",
+    "The band's trademark sound was created by blending 1970s hard rock with 1990s grunge.",
+    "It careens from blues to goth to grunge, often in the space of a single song.",
+    "The words themselves never caught on as actual slang within the grunge scene (though score and dish are in use elsewhere).",
+    "Although associated with hard rock, the band's sound incorporated some elements of grunge music.",
+    "After the early 1990s they fell out of the mainstream with the birth of grunge rock and baggy jeans.",
+    "The album mainly seems to be a fusion of new wave and grunge, but also has cultural influences.",
+    "The venue features a variety of musical acts in the rap, electronic, heavy metal, rock, and grunge genres."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "grumble",
+    "grumpily",
+    "grumpiness",
+    "grumpy",
+    "grunge",
+    "grunt",
+    "guarantee",
+    "guard",
+    "guard of honour"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674034_78f43b7474_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674034_142d1eeb71_o.png",
+      "id_image": "grunge_122831"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363762_0604e8a5c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363762_d0f8d20ab4_o.png",
+      "id_image": "grunge_1343025"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363722_1155c11095_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363722_c22239f862_o.png",
+      "id_image": "grunge_1343050"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319061_e1fe55340b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319061_8fab43ea5a_o.png",
+      "id_image": "grunge_1881087"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434238_2aeb0a97f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434238_0505384bf7_o.png",
+      "id_image": "grunge_1881088"
+    }
+  ]
+}

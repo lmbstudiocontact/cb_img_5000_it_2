@@ -1,0 +1,133 @@
+{
+  "english": "hurry",
+  "phat_am": "ˈhari",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thúc giục",
+          "definition": "to (cause to) move or act quickly, often too quickly",
+          "world_new": [
+            "move",
+            "act",
+            "quickly",
+            "quickly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You’d better hurry if you want to catch that bus",
+              "world_new": [
+                "better",
+                "want",
+                "catch",
+                "bus"
+              ]
+            },
+            {
+              "ex_of_definition": "If you hurry me, I’ll make mistakes."
+            }
+          ]
+        },
+        {
+          "mean_english": "vội vã",
+          "definition": "to convey quickly",
+          "world_new": [
+            "convey",
+            "quickly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "After the accident, the injured man was hurried to the hospital.",
+              "world_new": [
+                "accident",
+                "injured",
+                "hurried",
+                "hospital"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự vội vàng",
+          "definition": "the act of doing something quickly, often too quickly",
+          "world_new": [
+            "act",
+            "quickly",
+            "quickly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "In his hurry to leave, he fell and broke his arm.",
+              "world_new": [
+                "leave",
+                "fell",
+                "broke",
+                "arm"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hối hả",
+          "definition": "the need to do something quickly",
+          "world_new": [
+            "quickly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Is there any hurry for this job?",
+              "world_new": [
+                "job"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Final arrangements have not yet been made, but these are being hurried on with all the rapidity that is possible.",
+    "They hurried off to the railway station, where they found a bottle of whisky.",
+    "Several hurried meetings ensued, but it was now far too late to improvise ; there were too few men, no horses, and no arms.",
+    "The 50,000 involved are honourable people, who have been treated in a disgraceful, hurried and populist way.",
+    "They do not mean a disorderly and hurried sale; they do not mean an unnecessary delay.",
+    "Secondly the present recovery is hurried and heated.",
+    "People travel long distances and sit for hours on hard benches waiting for hurried treatment by overworked doctors.",
+    "Only in the final pages, where parallels between film distribution and touring theatre in the first decades of the twentieth century seem hurried through, is such detail lacking."
+  ],
+  "list_see_also": [
+    "hurried",
+    "hurriedly",
+    "in a hurry",
+    "hurry up"
+  ],
+  "list_browse": [
+    "hurrah",
+    "hurricane",
+    "hurried",
+    "hurriedly",
+    "hurry",
+    "hurry up",
+    "hurt",
+    "hurtful",
+    "hurtfully"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063690_781ac50cb4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063690_19dec984e8_o.png",
+      "id_image": "hurry_392768"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681819_d8e55fd97b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681819_e54e15d0fc_o.png",
+      "id_image": "hurry_6066638"
+    }
+  ]
+}

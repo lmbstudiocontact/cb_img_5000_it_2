@@ -1,0 +1,102 @@
+{
+  "english": "jingle",
+  "phat_am": "ˈdʒiŋɡl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tiếng leng keng",
+          "definition": "a slight metallic ringing sound (made eg by coins or by small bells)",
+          "world_new": [
+            "slight",
+            "metallic",
+            "sound",
+            "small"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The dog pricked up its ears at the jingle of its master’s keys.",
+              "world_new": [
+                "dog",
+                "its",
+                "its"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "âm, vần",
+          "definition": "a simple rhyming verse or tune",
+          "world_new": [
+            "simple",
+            "verse",
+            "tune"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "nursery rhymes and other little jingles",
+              "world_new": [
+                "nursery"
+              ]
+            },
+            {
+              "ex_of_definition": "advertising jingles.",
+              "world_new": [
+                "advertising"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "rung leng keng",
+          "definition": "to (cause to) make a clinking or ringing sound; He jingled the coins in his pocket."
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "He has also many ad films and jingles to his contribution.",
+    "Band members also spent much time performing television and radio jingles.",
+    "Music, commercials and jingles were all called up from a series of carts also by the computer system.",
+    "He also creates all of the jingles for various segments, which are mostly other songs with alternate lyrics.",
+    "They have adopted a lot of the jingles and format of the pirates and evolved them into a new style of their own.",
+    "To put it simply, children are subjected to repeated imagery and carefully constructed memorable jingles.",
+    "They repeatedly hear catch-phrases and jingles designed to appeal to them.",
+    "The show was also characterised by its musical score of campy jingles introducing the regular segments."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "jig",
+    "jiggle",
+    "jigsaw (puzzle)",
+    "jilt",
+    "jingle",
+    "jinx",
+    "jittery",
+    "Jnr",
+    "job"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448813_a021fc65bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448813_37b62a44bb_o.png",
+      "id_image": "jingle_352233"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070675_506449e782_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070675_d5f1100b26_o.png",
+      "id_image": "jingle_4213194"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378577_e3543ac81b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378577_928250bb0d_o.png",
+      "id_image": "jingle_5978491"
+    }
+  ]
+}

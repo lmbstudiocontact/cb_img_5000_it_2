@@ -1,0 +1,139 @@
+{
+  "english": "iron",
+  "phat_am": "ˈaiən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sắt",
+          "definition": "(also adjective) chemistry (symbol Fe) (of) an element that is the most common metal, is very hard, and is widely used for making tools etc",
+          "world_new": [
+            "element",
+            "common",
+            "metal",
+            "widely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Steel is made from iron"
+            },
+            {
+              "ex_of_definition": "The ground is as hard as iron",
+              "world_new": [
+                "ground"
+              ]
+            },
+            {
+              "ex_of_definition": "iron railings"
+            },
+            {
+              "ex_of_definition": "iron determination (= very strong determination).",
+              "world_new": [
+                "determination",
+                "strong"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bàn là",
+          "definition": "a flat-bottomed instrument that is heated up and used for smoothing clothes etc",
+          "world_new": [
+            "instrument",
+            "heated",
+            "clothes"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve burnt a hole in my dress with the iron.",
+              "world_new": [
+                "hole",
+                "my",
+                "dress"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "một hình thức câu lạc bộ gôn",
+          "definition": "a type of golf-club.",
+          "world_new": [
+            "type",
+            "golf-club"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "là phẳng",
+          "definition": "to smooth (clothes etc) with an iron",
+          "world_new": [
+            "smooth"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This dress needs to be ironed",
+              "world_new": [
+                "dress"
+              ]
+            },
+            {
+              "ex_of_definition": "I’ve been ironing all afternoon.",
+              "world_new": [
+                "ironing",
+                "afternoon"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In this way diaspora communities are able to subsume all their disparate histories within a single meta-narrative which irons out all the\" wrinkles\".",
+    "Surely they may join electric irons in the glad rush for freedom?",
+    "In most cases, all this will be ironed out without recourse to the tribunal.",
+    "I think that these are points which can be ironed out.",
+    "The transitional period provides a safeguard, so that many of the problems can be ironed out as we go along.",
+    "One suspects, however, that the contributors would argue that 'connections' are entirely different, in which case the definitional ambiguities need ironing out.",
+    "I prepared the dinner, got to do the washing in the washing machine and hang it up, and ironing and things.",
+    "The cluster irons are shown in red and sulfurs in blue."
+  ],
+  "list_see_also": [
+    "ironing",
+    "irons",
+    "ironing-board",
+    "ironmonger",
+    "ironmongery",
+    "have several irons in the fire",
+    "iron out",
+    "strike while the iron is hot"
+  ],
+  "list_browse": [
+    "irate",
+    "iridescence",
+    "iridescent",
+    "iris",
+    "iron",
+    "iron out",
+    "ironic",
+    "ironically",
+    "ironing"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074780_0e6efaa219_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074780_b57590d8a5_o.png",
+      "id_image": "iron_1432475"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382702_3b0daf7002_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382702_7d33688b13_o.png",
+      "id_image": "iron_2570076"
+    }
+  ]
+}

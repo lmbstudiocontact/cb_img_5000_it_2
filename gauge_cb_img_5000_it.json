@@ -1,0 +1,143 @@
+{
+  "english": "gauge",
+  "phat_am": "ɡeidʒ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đo",
+          "definition": "to measure (something) very accurately",
+          "world_new": [
+            "measure",
+            "accurately"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They gauged the hours of sunshine.",
+              "world_new": [
+                "sunshine"
+              ]
+            },
+            {
+              "ex_of_definition": "Technological advancements have allowed astronomers to gauge the distance to the galactic centre/center with increasing accuracy.",
+              "world_new": [
+                "distance",
+                "accuracy"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đo cỡ",
+          "definition": "to estimate, judge",
+          "world_new": [
+            "estimate",
+            "judge"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Can you gauge her willingness to help?",
+              "world_new": [
+                "willingness",
+                "help"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái đo, máy đo",
+          "definition": "an instrument for measuring amount, size, speed etc",
+          "world_new": [
+            "instrument",
+            "amount",
+            "size",
+            "speed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a petrol gauge.",
+              "world_new": [
+                "petrol"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cỡ; hạn độ",
+          "definition": "a standard size (of wire, bullets etc)",
+          "world_new": [
+            "standard",
+            "size",
+            "wire"
+          ]
+        },
+        {
+          "mean_english": "bề ngang đường sắt",
+          "definition": "the distance between the rails of a railway/railroad line",
+          "world_new": [
+            "distance",
+            "line"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a narrow-gauge railway.",
+              "world_new": [
+                "railway"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The elastic girder deforms differently when a different diameter tube is measured, thus resulting in a different output of the strain gauge transducer.",
+    "The solitary wave was generated a number of times, with both gauges being moved between runs, giving measurements at one metre intervals along the wall.",
+    "One has the rare opportunity to prise underneath the 'official mind' of patriotism, and to gauge public reaction through press reports and periodical articles.",
+    "There is considerable debate in the academic literature over the relevance or otherwise of the size-of-bet in gauging respondents' solutions to these types or risks.",
+    "Determining what information searches are blocked by the government is a useful gauge to censorship.",
+    "Further, solid precipitation is normally underreported due to the efficiency of precipitation gauges.",
+    "However, because perceptions of closeness are gauged by a three-point scale the independent variable effects perhaps ought to be estimated with an ordered probit model.",
+    "Her husband's death had been a gauge of these qualities, and had either affirmed or remoulded her attitude to each daughter."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "gather together",
+    "gathering",
+    "gauche",
+    "gaudy",
+    "gauge",
+    "gaunt",
+    "gauntness",
+    "gauze",
+    "gawky"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693064_3d713a526a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693064_8707358d57_o.png",
+      "id_image": "gauge_4636939"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074735_12bee9eb38_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074735_1a28d4e3b7_o.png",
+      "id_image": "gauge_5793427"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074845_3173769690_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074845_723dd137cb_o.png",
+      "id_image": "gauge_694206"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452668_97089aef3d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452668_49552ed584_o.png",
+      "id_image": "gauge_780787"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "english": "mausoleum",
+  "phat_am": "moːsəˈliəm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lăng mộ",
+          "definition": "a very fine tomb, often with a monument",
+          "world_new": [
+            "fine",
+            "tomb",
+            "monument"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They buried the duke in the mausoleum.",
+              "world_new": [
+                "duke"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They are no longer the dusty mausoleums which one was taken round on a wet day as a child.",
+    "They are clearly affiliated to the mausoleums and therefore not necessarily attributable to the preagricultural millennial societies in that area.",
+    "Another post office in my constituency used to have a big mausoleum of an office above it.",
+    "The countryside is not a mausoleum, so that failure will erode its ability to benefit those who live in our towns and cities.",
+    "To get the public health inspector to go into such a place is like asking him to go into a mausoleum.",
+    "But, as things are, a number of very active and intelligent politicians in the other part of this building seem themselves to be enclosed in a sort of mausoleum.",
+    "The truth is that museums must grow, otherwise they will become dusty mausoleums.",
+    "There were also \"vision mausoleums\" built by pious benefactors who had experienced dreams."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "matureness",
+    "maturity",
+    "maul",
+    "Maundy Thursday",
+    "mausoleum",
+    "mauve",
+    "max",
+    "maxim",
+    "maximize"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364347_26da0eeb95_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364347_011ec08c58_o.png",
+      "id_image": "mausoleum_1450725"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674539_4c7dbb780d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674539_af3b750e63_o.png",
+      "id_image": "mausoleum_2457978"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674489_7e2ea08ebe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674489_4fe4375158_o.png",
+      "id_image": "mausoleum_6000988"
+    }
+  ]
+}

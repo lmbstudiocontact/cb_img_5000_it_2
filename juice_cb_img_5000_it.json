@@ -1,0 +1,99 @@
+{
+  "english": "juice",
+  "phat_am": "dʒuːs",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nước ép",
+          "definition": "the liquid part of fruits or vegetables",
+          "world_new": [
+            "liquid",
+            "part"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She squeezed the juice out of the orange",
+              "world_new": [
+                "orange"
+              ]
+            },
+            {
+              "ex_of_definition": "tomato juice.",
+              "world_new": [
+                "tomato"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nước",
+          "definition": "the fluid contained in meat",
+          "world_new": [
+            "fluid",
+            "meat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Roasting meat in tin foil helps to preserve the juices.",
+              "world_new": [
+                "meat",
+                "tin",
+                "foil",
+                "preserve"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dịch",
+          "definition": "fluid contained in the organs of the body, eg to help digestion",
+          "world_new": [
+            "fluid",
+            "body",
+            "help",
+            "digestion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "digestive/gastric juices."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "juicy",
+    "juiciness"
+  ],
+  "list_browse": [
+    "jug",
+    "juggle",
+    "juggler",
+    "jugular",
+    "juice",
+    "juiciness",
+    "juicy",
+    "juke-box",
+    "Jul"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686124_db2980e8c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686124_7a1ec02c33_o.png",
+      "id_image": "juice_499631"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446018_43c92c4cbd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446018_4fa385c80a_o.png",
+      "id_image": "juice_525512"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445968_e73090b8af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445968_f3fbcf4928_o.png",
+      "id_image": "juice_883322"
+    }
+  ]
+}

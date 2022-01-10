@@ -1,0 +1,56 @@
+{
+  "english": "harmonic",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "hài hoà; hòa âm",
+          "definition": "of, or concerned with, especially musical harmony",
+          "world_new": [
+            "musical",
+            "harmony"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a harmonic scale.",
+              "world_new": [
+                "scale"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, in these studies, the intensity of neighboring harmonics was comparable to the enhanced harmonics.",
+    "In general, the localization regions of different longitudinal harmonics overlap.",
+    "Even when the fundamental frequency is masked, it may be recovered from the pulse period and the surviving harmonics.",
+    "The difference becomes very large for the high harmonics.",
+    "All the harmonics are thus resonant, which reflects the formation of weak shocks.",
+    "We can easily find the 0 particle pitch angle for which the number of the cyclotron harmonics contributing to (2.11) is maximum.",
+    "However, for attosecond pulses, generation high order harmonics is implied.",
+    "Strong dips are present in the coherence spectrum at the line frequencies and all higher harmonics."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "harmful",
+    "harmless",
+    "harmlessly",
+    "harmlessness",
+    "harmonic",
+    "harmonica",
+    "harmonious",
+    "harmoniously",
+    "harmoniousness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389147_a576cd6f06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389147_87f1d50bce_o.png",
+      "id_image": "harmonic_352273"
+    }
+  ]
+}

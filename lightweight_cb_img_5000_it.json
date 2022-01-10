@@ -1,0 +1,51 @@
+{
+  "english": "lightweight",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "hạng nhẹ",
+          "definition": "light in weight",
+          "world_new": [
+            "light",
+            "weight"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a lightweight raincoat.",
+              "world_new": [
+                "raincoat"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "lighting",
+    "lightly",
+    "lightness",
+    "lightning",
+    "lightweight",
+    "lignite",
+    "like",
+    "like a house on fire",
+    "like a shot"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079480_444754c1f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079480_7d155eed5e_o.png",
+      "id_image": "lightweight_5660388"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387082_12a8b745ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387082_f0078c3330_o.png",
+      "id_image": "lightweight_5675398"
+    }
+  ]
+}

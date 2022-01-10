@@ -1,0 +1,83 @@
+{
+  "english": "guilt",
+  "phat_am": "ɡilt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tội lỗi",
+          "definition": "a sense of shame",
+          "world_new": [
+            "sense",
+            "shame"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a feeling of guilt.",
+              "world_new": [
+                "feeling"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự hối hận",
+          "definition": "the state of having done wrong",
+          "world_new": [
+            "state",
+            "wrong"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Fingerprints proved the murderer’s guilt."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "When he does violate it, neither guilt nor shame is typically absent, but the act will have been rationalized by him.",
+    "The pressure is greater for innocence than guilt.",
+    "The relationship of the second teacher was characterized by guilt.",
+    "An apology is necessary for restoring harmonious relations, not admission of guilt.",
+    "Opening channels of communication tends to mitigate feelings of inadequacy, guilt, and depression.",
+    "The fact that one cannot accomplish a ' best ' does not absolve one of guilt if one could do far better than one has done.",
+    "He was subsequently apprehended and an examination of the poles revealed the mark and his guilt.",
+    "Establishing guilt by association was in other words a frequent and sometimes very successful strategy in the strongly polarised debating climate of the 1970s."
+  ],
+  "list_see_also": [
+    "guilty",
+    "guiltiness",
+    "guiltily"
+  ],
+  "list_browse": [
+    "guileless",
+    "guilelessly",
+    "guilelessness",
+    "guillotine",
+    "guilt",
+    "guiltily",
+    "guiltiness",
+    "guilty",
+    "guinea-pig"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362417_2e570bec5d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362417_d061cec6df_o.png",
+      "id_image": "guilt_1354775"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672749_424d4b8cf1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672749_59cffac73a_o.png",
+      "id_image": "guilt_5705339"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433168_ba14fdddd8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433168_3288ac8745_o.png",
+      "id_image": "guilt_708643"
+    }
+  ]
+}

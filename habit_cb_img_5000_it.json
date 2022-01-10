@@ -1,0 +1,110 @@
+{
+  "english": "habit",
+  "phat_am": "ˈhӕbit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thói quen",
+          "definition": "something which a person does usually or regularly",
+          "world_new": [
+            "person",
+            "regularly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has the habit of going for a walk after dinner",
+              "world_new": [
+                "walk",
+                "dinner"
+              ]
+            },
+            {
+              "ex_of_definition": "She has an irritating habit of interrupting people.",
+              "world_new": [
+                "irritating",
+                "people"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tập quán",
+          "definition": "a tendency to do the same things that one has always done",
+          "world_new": [
+            "tendency"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I did it out of habit.",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "áo choàng của thầy tu",
+          "definition": "a long loose piece of clothing worn by monks or nuns",
+          "world_new": [
+            "long",
+            "loose",
+            "piece",
+            "clothing",
+            "worn"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a monk’s habit."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Intentions driven by habit can be interrupted, often by unforeseen or relatively dramatic events, causing the agent to deliberate and perhaps adopt another intention.",
+    "As soon as a few years after quitting the smoking habit, ex-smokers are at a substantially lower risk for myocardial infarction or stroke.",
+    "Funding bodies have the annoying habit of wanting to know the methodology or methodologies that will be used in carrying out the proposed research.",
+    "He thought it was necessary for actors to establish habits by means of repetition of exercises and approaches to work.",
+    "The distribution of feeding habits among animals in a tropical rainforest.",
+    "They returned to the mainland with either memories or habits of opium and this was fundamental for the spread of smoking in the eighteenth century.",
+    "However, there are regional differences which could reflect differences in vaccine uptake, travel habits or the presence of certain high risk groups.",
+    "It is the body that understands in the acquisition of habit."
+  ],
+  "list_see_also": [
+    "habitual",
+    "habitually",
+    "from force of habit",
+    "get (someone) into the habit of"
+  ],
+  "list_browse": [
+    "H",
+    "H-bomb",
+    "ha!",
+    "ha! ha!",
+    "habit",
+    "habitable",
+    "habitat",
+    "habitation",
+    "habitual"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671824_fd92c88b7c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671824_84d3081be8_o.png",
+      "id_image": "habit_5778561"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053525_cc8be86804_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053525_177027807e_o.png",
+      "id_image": "habit_5998948"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432138_463f95f403_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432138_bb053e855e_o.png",
+      "id_image": "habit_6193291"
+    }
+  ]
+}

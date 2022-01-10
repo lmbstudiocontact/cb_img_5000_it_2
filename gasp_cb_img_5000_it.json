@@ -1,0 +1,78 @@
+{
+  "english": "gasp",
+  "phat_am": "ɡaːsp",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hơi thở hổn hển",
+          "definition": "the sound made by suddenly breathing in, eg because of surprise or sudden pain",
+          "world_new": [
+            "sound",
+            "suddenly",
+            "surprise",
+            "sudden",
+            "pain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a gasp of fear.",
+              "world_new": [
+                "fear"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thở hổn hển",
+          "world_new": [],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He gasped with pain.",
+              "world_new": [
+                "pain"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "At the same time, there are places in my own constituency which are actually gasping and begging for orders.",
+    "One cannot find any basis for it at all, and one is left gasping at the mentality which can bring it about.",
+    "The visiting doctor gasped in horror and hurriedly asked if there weren't a more private place we could talk.",
+    "The universities and 'critical verisimilitude' are treated as the last gasp of a fossilised world.",
+    "In reality, it was well-worn ground and represents the last gasp of the busses project in policy-making.",
+    "Her chest has over the 3 days prior to admission woken her at night when she was aware of being 'breathy and gasping for breath'.",
+    "Everybody gasped, because they knew that it could not happen.",
+    "Expectations of verbal language that may lead to surprise may include but are not limited to, expletives, shouts, screams, and gasps."
+  ],
+  "list_see_also": [
+    "be gasping for"
+  ],
+  "list_browse": [
+    "gash",
+    "gasification",
+    "gasify",
+    "gasoline",
+    "gasp",
+    "gassiness",
+    "gassy",
+    "gastric",
+    "gastronomic"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338206_54a44d8eec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338206_1967a8c38e_o.png",
+      "id_image": "gasp_1814939"
+    }
+  ]
+}

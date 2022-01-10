@@ -1,0 +1,76 @@
+{
+  "english": "fun",
+  "phat_am": "fan",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự vui đùa; trò vui",
+          "definition": "enjoyment; a good time",
+          "world_new": [
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They had a lot of fun at the party",
+              "world_new": [
+                "party"
+              ]
+            },
+            {
+              "ex_of_definition": "Isn’t this fun!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, theatre is a speculative process at best, and festival audiences are not normally 'sophisticated' theatre audiences, but people out for fun.",
+    "As usual, he's the incredible hulk, but he's also full of fun and plays the fool a lot.",
+    "Such experiments are both scientific and playful, both serious and fun.",
+    "What they're doing here is giving a sense of a unique performance because they suggest it is ad-libbed, and that they are simply having fun.",
+    "A bit of mild fun to get into the spirit of the place, but, for me, hardly of any lasting or compelling interest.",
+    "Then we can think of all these great theories we love to try to explain the data, and that's where the fun comes in.",
+    "The troubled colossus was being turned briefly into a people's fun palace, its gloomy threat spirited away, presaging its recasting as the locus of democracy.",
+    "And part of the fun of having a country house was to visit everyone else's."
+  ],
+  "list_see_also": [
+    "funny",
+    "funnily",
+    "fun and games",
+    "funfair",
+    "for fun",
+    "in fun",
+    "make fun of"
+  ],
+  "list_browse": [
+    "fumble",
+    "fume",
+    "fumigate",
+    "fumigation",
+    "fun",
+    "fun and games",
+    "function",
+    "function key",
+    "functional"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080245_3b6c3dfb29_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080245_68468669eb_o.png",
+      "id_image": "fun_3248298"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697999_2eb8233f2d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697999_28d220df9d_o.png",
+      "id_image": "fun_4729455"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387727_10d43c2024_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387727_3b8b2efa1c_o.png",
+      "id_image": "fun_6321934"
+    }
+  ]
+}

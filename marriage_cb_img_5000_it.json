@@ -1,0 +1,118 @@
+{
+  "english": "marriage",
+  "phat_am": "ˈmӕridʒ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đám cưới",
+          "definition": "the ceremony by which a man and woman become husband and wife",
+          "world_new": [
+            "ceremony",
+            "become",
+            "husband",
+            "wife"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Their marriage took place last week",
+              "world_new": [
+                "place",
+                "week"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) the marriage ceremony.",
+              "world_new": [
+                "ceremony"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kết hôn",
+          "definition": "the state of being married; married life",
+          "world_new": [
+            "state",
+            "married",
+            "life"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Their marriage lasted for thirty happy years.",
+              "world_new": [
+                "happy"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự kết hợp chặt chẽ",
+          "definition": "a close joining together",
+          "world_new": [
+            "close"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His work is regarded as a successful marriage of East and West",
+              "world_new": [
+                "work",
+                "successful"
+              ]
+            },
+            {
+              "ex_of_definition": "the marriage of his skill and her judgement.",
+              "world_new": [
+                "skill",
+                "judgement"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The \"successful\" governess, it seems, manages her pupils into \"successful\" betrothals - just like the marriage plot novel.",
+    "The land was most likely to be transferred to the eldest son of the first marriage.",
+    "What is the nature of the interaction between education and delayed marriage?",
+    "Marriage has been secularised and is concluded upon the oral response of the two parties.",
+    "The share it acquired depended on the daughters' present circumstances, on whether they were unmarried, married, or returned from marriage as a widow or divorcée.",
+    "Due recognition must also be given to changes in nuptial fertility and to apparently changing perceptions of the roles of marriage and the family.",
+    "The question of succession prompted families engaged in the same occupation to form an association that controlled members' marriages and inheritances.",
+    "Taken at face value the statistics seem to suggest a rapid and progressive displacement of traditionally prevalent attitudes which were unfavourable to childbearing outside marriage."
+  ],
+  "list_see_also": [
+    "marriageable",
+    "marriage licence"
+  ],
+  "list_browse": [
+    "marksmanship",
+    "marmalade",
+    "maroon",
+    "marquee",
+    "marriage",
+    "marriage licence",
+    "marriageable",
+    "married",
+    "marrow"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677509_d20c93363e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677509_56e2a9da27_o.png",
+      "id_image": "marriage_1775676"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437608_1b7a2f714d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437608_73396f346e_o.png",
+      "id_image": "marriage_5091520"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367372_8c2a9e2dc3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367372_20b98791f8_o.png",
+      "id_image": "marriage_538248"
+    }
+  ]
+}

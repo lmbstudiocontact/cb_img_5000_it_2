@@ -1,0 +1,68 @@
+{
+  "english": "foreman",
+  "phat_am": "ˈfoːmən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đốc công",
+          "definition": "the supervisor or leader of a group, especially of workmen or a jury",
+          "world_new": [
+            "supervisor",
+            "leader",
+            "group",
+            "jury"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The foreman here is in charge of twenty workmen.",
+              "world_new": [
+                "charge"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Traders were advised by cartage foremen, carters, motor drivers and the company's commercial representatives.",
+    "The census category from which the 51 percent figure was calculated included foremen along with wage workers.",
+    "Workers remain fearful of arbitrary dismissals and female workers in particular are treated poorly by certain foremen.",
+    "Operations management might include department managers, warehouse foremen and the head clerks.",
+    "There are three foremen engaged on wagon repair work, but no charge hands.",
+    "Migrants with longer experience and better language skills helped newcomers in their dealings with foremen, employers, doctors and the police.",
+    "The employers, the shop-floor workers and the foremen understood the arrangement.",
+    "As a consequence, it is difficult for the leader to provide an incentive for the foremen."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "foreign",
+    "foreign exchange",
+    "foreigner",
+    "foreleg",
+    "foreman",
+    "foremost",
+    "forensic",
+    "forerunner",
+    "foresee"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670234_f8093a077e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670234_1c8cffc8af_o.png",
+      "id_image": "foreman_1670456"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359707_26587c8f26_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359707_e72f2ba7f7_o.png",
+      "id_image": "foreman_1909989"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670169_afe63e072c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670169_ed3da6c586_o.png",
+      "id_image": "foreman_4899570"
+    }
+  ]
+}

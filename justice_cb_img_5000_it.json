@@ -1,0 +1,120 @@
+{
+  "english": "justice",
+  "phat_am": "ˈdʒastis",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự công bằng",
+          "definition": "fairness or rightness in the treatment of other people",
+          "world_new": [
+            "fairness",
+            "rightness",
+            "treatment",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Everyone has a right to justice",
+              "world_new": [
+                "right"
+              ]
+            },
+            {
+              "ex_of_definition": "I don’t deserve to be punished – where’s your sense of justice?",
+              "world_new": [
+                "I",
+                "deserve",
+                "where’s",
+                "your",
+                "sense"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "luật pháp",
+          "definition": "the law or the administration of it",
+          "world_new": [
+            "law",
+            "administration"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Their dispute had to be settled in a court of justice.",
+              "world_new": [
+                "dispute",
+                "court"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quan tòa",
+          "definition": "a judge",
+          "world_new": [
+            "judge"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Justice Richardson will be overseeing the case.",
+              "world_new": [
+                "case"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Once it was clear - as it was by 1617, and especially by 1621 - that ministers might be justices, patrons doubtless made their approaches.",
+    "As a consequence, the guard was doubled and clergy and justices were asked to be especially vigilant.",
+    "More specifically, we examine not only how justices vacated their posts, but also what forces and considerations prompted their decisions to do so.",
+    "Through biographical information and examinations of their jurisprudence it is possible to ascertain justices' ideological affiliation (or lack thereof) with the presidents of the period.",
+    "In the opposite situation, justices may hesitate to step down because doing so provides their political adversaries an opportunity to seize a prized judgeship.",
+    "We distinguish between chronic and catastrophic infirmities based on the severity of an infirm justice's ailments in a given year.",
+    "As justices are selected from the legal and political elite, they may have earnings potential beyond their judicial salary.",
+    "Country justices were negligent in tax collection too."
+  ],
+  "list_see_also": [
+    "Justice of the Peace",
+    "bring to justice",
+    "do",
+    "in justice to"
+  ],
+  "list_browse": [
+    "just now",
+    "just the job",
+    "just then",
+    "(just) for once",
+    "justice",
+    "Justice of the Peace",
+    "justifiable",
+    "justification",
+    "justify"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445068_18e0785a51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445068_b598c73995_o.png",
+      "id_image": "justice_1750503"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374722_6bc5139fe1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374722_e984dfa050_o.png",
+      "id_image": "justice_3142982"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685119_3a73504da3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685119_b11d68a1c8_o.png",
+      "id_image": "justice_325672"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684949_126b436dac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684949_eddfeed40a_o.png",
+      "id_image": "justice_4729343"
+    }
+  ]
+}

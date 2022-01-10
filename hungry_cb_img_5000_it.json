@@ -1,0 +1,83 @@
+{
+  "english": "hungry",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "đói",
+          "definition": "wanting or needing food etc",
+          "world_new": [
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a hungry baby",
+              "world_new": [
+                "baby"
+              ]
+            },
+            {
+              "ex_of_definition": "I’m hungry – I haven’t eaten all day",
+              "world_new": [
+                "I",
+                "day"
+              ]
+            },
+            {
+              "ex_of_definition": "He’s hungry for adventure.",
+              "world_new": [
+                "adventure"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Nonnative speakers (and their teachers) are hungry to know the rules and regularities of the written language they are learning and teaching.",
+    "What motivates us to work for particular rewards such as food when we are hungry, or water when we are thirsty?",
+    "They portrayed hungry victims wandering from saloon to saloon, looking for father.",
+    "Citizens were seldom hungry, violence and coercion were infrequent, and society was interracial rather than segregated.",
+    "Equally, another might move earlier and risk the chance of going hungry to experience higher quality hosts over a larger area.",
+    "They appeared particularly wary, and the animals that entered traps were young or hungry.",
+    "The prototypes are either incomplete, or too slow or space hungry to be used as a real application.",
+    "I was definitely the hungriest and took any story that came my way."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "hunger",
+    "hunger strike",
+    "hungrily",
+    "hungriness",
+    "hungry",
+    "hunk",
+    "hunt",
+    "hunt down",
+    "hunt for"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327566_21ee51bdf1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327566_61a3432c89_o.png",
+      "id_image": "hungry_3220703"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442538_bcc7ba94fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442538_ab318a3d1e_o.png",
+      "id_image": "hungry_3255702"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442483_57ca38081c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442483_d411e0ab5f_o.png",
+      "id_image": "hungry_4138780"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682569_44fcc7b7c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682569_bf62b6f2af_o.png",
+      "id_image": "hungry_5046973"
+    }
+  ]
+}

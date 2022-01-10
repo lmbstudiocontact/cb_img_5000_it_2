@@ -1,0 +1,78 @@
+{
+  "english": "lawyer",
+  "phat_am": "ˈloːjə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "luật sư",
+          "definition": "a person whose work it is to know about and give advice and help to others concerning the law",
+          "world_new": [
+            "person",
+            "work",
+            "know",
+            "advice",
+            "help",
+            "concerning",
+            "law"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "If you want to make your will, consult a lawyer.",
+              "world_new": [
+                "want",
+                "your",
+                "consult"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Undoubtedly some lawyers are trying to eradicate legalese in response to the siren voices of customer care, quality improvement and positive image.",
+    "The person becomes a client when consulting a lawyer, and expects legal not medical attention.",
+    "In the interest of avoiding uncertainty and disputes, lawyers need to draw the line as to when mailed contracts are complete.",
+    "The issue is subtle, however, and future research will have to clarify the precise status of forms such as lawyers fees.",
+    "Figure 2 shows bankruptcy fees earned by lawyers; fees increased by a factor of five over the decade.",
+    "The significance of this for lawyers may not yet have been grasped.",
+    "Only in 1820 were the crown lawyers statutorily obliged to bring a libel information to trial within a year of the filing date.",
+    "Should ethical issues in biotechnology research be decided by physicianscientists or by lawyers?"
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "lawlessness",
+    "lawn",
+    "lawn mower",
+    "lawsuit",
+    "lawyer",
+    "lax",
+    "laxative",
+    "laxity",
+    "laxness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673034_367deef3a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673034_a4cbbd09a4_o.png",
+      "id_image": "lawyer_1075057"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318136_303bf7d350_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318136_dca59625df_o.png",
+      "id_image": "lawyer_1910011"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672969_cc642f7fa0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672969_593a2d0942_o.png",
+      "id_image": "lawyer_4202980"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433333_a5603f0e6e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433333_2a44a99010_o.png",
+      "id_image": "lawyer_6417608"
+    }
+  ]
+}

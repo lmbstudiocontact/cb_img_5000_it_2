@@ -1,0 +1,193 @@
+{
+  "english": "match",
+  "phat_am": "mӕtʃ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "diêm",
+          "definition": "a short piece of wood or other material tipped with a substance that catches fire when rubbed against a rough or specially-prepared surface",
+          "world_new": [
+            "short",
+            "piece",
+            "wood",
+            "material",
+            "tipped",
+            "substance",
+            "fire",
+            "rough",
+            "surface"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He struck a match."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cuộc thi đấu",
+          "definition": "a contest or game",
+          "world_new": [
+            "contest",
+            "game"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a football/rugby/chess match."
+            }
+          ]
+        },
+        {
+          "mean_english": "sự hợp nhau",
+          "definition": "a thing that is similar to or the same as another in some way(s) eg in colour/color or pattern",
+          "world_new": [
+            "similar",
+            "pattern"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "These trousers are not an exact match for my jacket.",
+              "world_new": [
+                "trousers",
+                "exact",
+                "my",
+                "jacket"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người ngang sức",
+          "definition": "a person who is able to equal another",
+          "world_new": [
+            "person",
+            "equal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She has finally met her match at arguing.",
+              "world_new": [
+                "finally"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cuộc hôn nhân",
+          "definition": "a marriage or an act of marrying",
+          "world_new": [
+            "marriage",
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She hoped to arrange a match for her daughter.",
+              "world_new": [
+                "arrange",
+                "daughter"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "phù hợp với",
+          "definition": "to be equal or similar to something or someone in some way eg in colour/color or pattern",
+          "world_new": [
+            "equal",
+            "similar",
+            "pattern"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That dress matches her red hair.",
+              "world_new": [
+                "dress",
+                "red",
+                "hair"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đối chọi",
+          "definition": "to set (two things, people etc) to compete",
+          "world_new": [
+            "people",
+            "compete"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He matched his skill against the champion’s.",
+              "world_new": [
+                "matched",
+                "skill"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Simple theories are matched to experimental evidence throughout.",
+    "A symptomatic recovery is not yet being matched by a full functional recovery.",
+    "In the future, psychometrically matched paradigms are necessary to clarify this issue.",
+    "The reluctance of some rabbis matched the zeal of others for drastic punishments.",
+    "Note that wm is 0 when there are no matches at the corresponding position.",
+    "Studies of two-choice problems including memory, discrimination, and matching tasks have a long and venerable history in animal learning research.",
+    "In addition, there may be different matching cardinalities at the instance level.",
+    "If so, letter-name effects may be broader and more influential than if only exact matches are used."
+  ],
+  "list_see_also": [
+    "matchbox"
+  ],
+  "list_browse": [
+    "masturbation",
+    "masturbatory",
+    "mat",
+    "matador",
+    "match",
+    "matchbox",
+    "matched",
+    "matching",
+    "matchless"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675759_39fb825996_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675759_301fdfa844_o.png",
+      "id_image": "match_203975"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320701_84f5414334_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320701_1ef5e96114_o.png",
+      "id_image": "match_2396342"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365602_3259c36d9a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365602_6849f78b2c_o.png",
+      "id_image": "match_3915683"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435833_ea70d13d8f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435833_377ac2c22e_o.png",
+      "id_image": "match_4412724"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057350_d9b83792e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057350_8035573b14_o.png",
+      "id_image": "match_5226382"
+    }
+  ]
+}

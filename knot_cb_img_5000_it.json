@@ -1,0 +1,140 @@
+{
+  "english": "knot",
+  "phat_am": "not",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nút",
+          "definition": "a lump or join made in string, rope etc by twisting the ends together and drawing tight the loops formed",
+          "world_new": [
+            "lump",
+            "join",
+            "string",
+            "rope",
+            "drawing",
+            "tight"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She fastened the string round the parcel, tying it with a knot.",
+              "world_new": [
+                "string",
+                "parcel"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mắt gỗ",
+          "definition": "a lump in wood at the join between a branch and the trunk",
+          "world_new": [
+            "lump",
+            "wood",
+            "join",
+            "branch",
+            "trunk"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This wood is full of knots.",
+              "world_new": [
+                "wood",
+                "full"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhóm",
+          "definition": "a group or gathering",
+          "world_new": [
+            "group",
+            "gathering"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a small knot of people",
+              "world_new": [
+                "small",
+                "people"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hải lý",
+          "definition": "a measure of speed for ships (about 1.85 km per hour).",
+          "world_new": [
+            "measure",
+            "speed",
+            "km",
+            "per"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thắt nút",
+          "definition": "to tie in a knot",
+          "world_new": [
+            "tie"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He knotted the rope around the post.",
+              "world_new": [
+                "rope"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In fact, they effectively sketched a different epistemic configuration in which mathematical work on knots and links could be done in the future.",
+    "This leads to a jerky movement for a large number of knots.",
+    "In the third act, one still hears the psychosomatic knots but sees nobody.",
+    "Rather, wires are seen a bit like ropes that can be knotted or tightened (like chemical bonds) with ropes of other components.",
+    "Another significant example is to use time intervals proportional to the angular displacement between the knots.",
+    "A wind speed of at least 15 knots (kt) blowing nearly at right angles to the ridge (within 30x).",
+    "These knots are deported into the maternal circulation and become trapped in the blood vessels of the lungs where they are eventually lysed.",
+    "Instead of using the weight and muscular forces of men, it now requires the shape of his finger, for instance to knot broken threads."
+  ],
+  "list_see_also": [
+    "knotty"
+  ],
+  "list_browse": [
+    "knock over",
+    "knock up",
+    "knock-kneed",
+    "knocker",
+    "knot",
+    "knotty",
+    "know",
+    "know backwards",
+    "know better"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061845_c5e3f150aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061845_f1ffa15ec2_o.png",
+      "id_image": "knot_2485126"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324951_7c906f45f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324951_6d097cf8e0_o.png",
+      "id_image": "knot_2485183"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440033_5c309f4ee2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440033_2d9b2628e7_o.png",
+      "id_image": "knot_486366"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "english": "hairdresser",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thợ cắt tóc; thợ làm đầu",
+          "definition": "a person who cuts, washes, styles etc a person’s hair",
+          "world_new": [
+            "person",
+            "hair"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I made an appointment with the hairdresser.",
+              "world_new": [
+                "I",
+                "appointment"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "For most hairdressers this had been challenge enough before the war.",
+    "No long bills to barbers and hairdressers for powder and perfumes was in his charges.",
+    "The man noticed the hairdresser of the opera singers who was about to go home.",
+    "A bit of history will put hairdressers' wartime experiences into perspective.",
+    "The woman blamed the hairdresser with the apprentices who was smiling all the time.",
+    "The woman blamed the apprentices of the hairdresser who were smiling all the time.",
+    "Nevertheless, certain professions stand out as contributing more than their share of rebels, among them the building trades (carpenters, plasterers, bricklayers, painters), drapers' assistants, creamery workers, hairdressers, and teachers.",
+    "The logic of it, however, was not likely to comfort hairdressers, whose working lives became increasingly precarious."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "hair-do",
+    "hair-raising",
+    "hairbrush",
+    "haircut",
+    "hairdresser",
+    "hairdressing",
+    "-haired",
+    "hairgrip",
+    "hairiness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052695_2fd4e767a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052695_2b4405975c_o.png",
+      "id_image": "hairdresser_307921"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670849_11927c9b78_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670849_2b28c27ed9_o.png",
+      "id_image": "hairdresser_360442"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316206_a4bd40ef51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316206_074cecffc8_o.png",
+      "id_image": "hairdresser_4514328"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "english": "founder",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người sáng lập",
+          "definition": "a person who founds a school, college, organization etc",
+          "world_new": [
+            "person",
+            "school",
+            "college",
+            "organization"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We are commemorating the founder of the school.",
+              "world_new": [
+                "school"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The founders of the field set out to change social institutions and practices, medicine and healthcare chiefly among them.",
+    "She was a rich mine of life, like the founders of early races.",
+    "There were 34 founders and 115 non-founders involved in the crosses.",
+    "The hopes that an independent, transnational community might emerge among this group of experts foundered on the clash of the national perspectives they represented.",
+    "The founders would not have accepted the empirical claim for three reasons.",
+    "Elsewhere, it is cities themselves which appear in the guise of town founders.",
+    "Multiplicative combinations of indicator variables for different founders were also tested.",
+    "First, founders may have come from low-diversity source populations."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "foul",
+    "foul play",
+    "found",
+    "foundation",
+    "founder",
+    "founding",
+    "founding father",
+    "foundry",
+    "fountain"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313751_5ab980f4e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313751_0a7306b014_o.png",
+      "id_image": "founder_537064"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313716_7102b16522_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313716_b044fc7f89_o.png",
+      "id_image": "founder_6289177"
+    }
+  ]
+}

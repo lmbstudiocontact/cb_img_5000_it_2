@@ -1,0 +1,83 @@
+{
+  "english": "inbox",
+  "phat_am": "ˈinˌboks",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hòm thư",
+          "definition": "the place in an email program where new messages arrive",
+          "world_new": [
+            "place",
+            "program",
+            "arrive"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My inbox has over 30 emails in it."
+            }
+          ]
+        },
+        {
+          "mean_english": "khay tài liệu",
+          "definition": "a container on an office desk where you put documents that you need to deal with; in-tray British",
+          "world_new": [
+            "container",
+            "office",
+            "desk",
+            "deal"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "You have 5 new and 0 unread messages in your inbox.",
+    "A message sitting in the inbox demands immediate attention and cannot be postponed, as was possible in the old days of postal correspondence.",
+    "This has the additional task of loading the marked-up image onto a specific webpage before checking the mail inbox for newly saved mail.",
+    "Animal welfare matters make up a popular part of our postbags and e-mail inboxes.",
+    "Unfortunately, the proposal bit the dust, but it would have allowed people to edit spam from their inbox.",
+    "Every day, my inbox contains e-mails carrying diallers, which are effectively viruses.",
+    "Thirdly, e-mail advertising will be easily recognisable as such in the inbox and will be able to be deleted simply and without cost."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "inaugural",
+    "inaugurate",
+    "inauguration",
+    "inborn",
+    "inbox",
+    "inc",
+    "incalculable",
+    "incandescent",
+    "incantation"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320046_eb4ebab9fa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320046_fde0486d60_o.png",
+      "id_image": "inbox_179875"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364667_cc0710d643_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364667_0131cc81f8_o.png",
+      "id_image": "inbox_3188172"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364772_1343c1ae36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364772_69dc7733bf_o.png",
+      "id_image": "inbox_547044"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364707_b64e9cc6a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364707_c399307a51_o.png",
+      "id_image": "inbox_547045"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674904_6d8ba177f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674904_595571f8f3_o.png",
+      "id_image": "inbox_5512567"
+    }
+  ]
+}

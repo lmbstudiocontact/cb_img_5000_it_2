@@ -1,0 +1,79 @@
+{
+  "english": "kingdom",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vương quốc",
+          "definition": "a state having a king (or queen) as its head",
+          "world_new": [
+            "state",
+            "king",
+            "its",
+            "head"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The United Kingdom of Great Britain and Northern Ireland"
+            },
+            {
+              "ex_of_definition": "He rules over a large kingdom.",
+              "world_new": [
+                "large"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giới",
+          "definition": "any of the three great divisions of natural objects",
+          "world_new": [
+            "great",
+            "natural"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the animal, vegetable and mineral kingdoms.",
+              "world_new": [
+                "animal",
+                "vegetable",
+                "mineral"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "He was able to set up kingdoms and principalities without resistance; indeed, often with some acquiescence.",
+    "By any standards expenditures on armed force required to underpin the kingdom's foreign, strategic and commercial policies look massive.",
+    "The petition has garnered 32,641 signatures since that time, across the length and breadth of the four kingdoms.",
+    "From the above examples, it should be clear that dormancy, and its regulation and mechanisms, is a common feature of many extremophiles across all the kingdoms of life.",
+    "How will it impinge on commercial activities between the two kingdoms?",
+    "The kingdom's leadership centred on the king or the asantehene.",
+    "The event that triggers factor release in all kingdoms is start site recognition.",
+    "As both a specific topic and as an event through which to integrate the history of the three kingdoms, 1641 has received a great deal of attention lately."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "kindred",
+    "kinetic",
+    "king",
+    "king-size",
+    "kingdom",
+    "kingfisher",
+    "kingliness",
+    "kingly",
+    "kink"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682114_47b56bd75f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682114_c478997216_o.png",
+      "id_image": "kingdom_4545234"
+    }
+  ]
+}

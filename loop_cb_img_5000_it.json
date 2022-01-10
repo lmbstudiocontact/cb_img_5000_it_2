@@ -1,0 +1,108 @@
+{
+  "english": "loop",
+  "phat_am": "luːp",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vòng; nút",
+          "definition": "a doubled-over part of a piece of rope, chain etc",
+          "world_new": [
+            "part",
+            "piece",
+            "rope",
+            "chain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She made a loop in the string.",
+              "world_new": [
+                "string"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đường cong",
+          "definition": "a U-shaped bend in a river etc.",
+          "world_new": [
+            "bend",
+            "river"
+          ]
+        },
+        {
+          "mean_english": "vòng tránh thai",
+          "world_new": []
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thắt lại",
+          "definition": "to fasten with, or form into, a loop or loops",
+          "world_new": [
+            "fasten",
+            "form"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He looped the rope round a post.",
+              "world_new": [
+                "rope"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In the model, there are three loops for inspecting the outcome of processes.",
+    "Designs with two or three loops can be very effective.",
+    "The changing palaeocurrent directions record the superposition of different portions of meander loops.",
+    "Coils were positioned insidetheductin the long tubular ducts or straddling the duct (with some loops in the pulmonary artery and some in the aortic ampulla).",
+    "I eventually sang this line through a ring modulator and looped it.",
+    "Since the dynamic behavior of the active end-effector is decoupled in its nominal configuration, separate control loops are needed for each motor.",
+    "We have non-determinism in that we allow loops and nested loops.",
+    "Lastly, he makes the point that by taking away the inevitability of an end, looping creates a sort of managed unpredictability."
+  ],
+  "list_see_also": [
+    "loophole"
+  ],
+  "list_browse": [
+    "looking-glass",
+    "lookout",
+    "looks",
+    "loom",
+    "loop",
+    "loophole",
+    "loose",
+    "loose-leaf",
+    "loosely"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335736_73a22709a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335736_818d21afe1_o.png",
+      "id_image": "loop_4248306"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690944_c2d15a1165_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690944_4da1049643_o.png",
+      "id_image": "loop_5350546"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072600_f98f605745_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072600_5d82c3696f_o.png",
+      "id_image": "loop_5620429"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380672_bef54d2513_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380672_bc183f0ec1_o.png",
+      "id_image": "loop_6365997"
+    }
+  ]
+}

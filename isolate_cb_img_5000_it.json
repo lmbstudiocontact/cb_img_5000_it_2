@@ -1,0 +1,82 @@
+{
+  "english": "isolate",
+  "phat_am": "ˈaisəleit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cô lập",
+          "definition": "to separate, cut off or keep apart from others",
+          "world_new": [
+            "separate",
+            "cut",
+            "keep",
+            "apart"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Several houses have been isolated by the flood water",
+              "world_new": [
+                "isolated",
+                "flood",
+                "water"
+              ]
+            },
+            {
+              "ex_of_definition": "A patient with an infectious disease should be isolated.",
+              "world_new": [
+                "patient",
+                "infectious",
+                "disease",
+                "isolated"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "After the third round of enrichment, individual clones were isolated and analyzed.",
+    "A more distal (but still relatively marginal) setting isolated from input of terrigenous quartzose or neritic carbonate sediment is inferred for this succession.",
+    "Side effects are wholly isolated in a primitive type comm of commands, and do not occur when computing a value of functional type.",
+    "However, several enzymes have been isolated and partially characterized.",
+    "The criterion of identification advanced here does not have a role that is strictly isolated, only of use in the philosophy of mind.",
+    "All positive homing products were isolated and sequenced to verify the deletion.",
+    "He thus isolated the distinctive properties of chemists' pr inciples so that he could provide a corpuscular explanation for them.",
+    "The vulgar isolated single sounds from words; they observed that these sounds had universal value throughout the whole language."
+  ],
+  "list_see_also": [
+    "isolated",
+    "isolation"
+  ],
+  "list_browse": [
+    "Islamic",
+    "island",
+    "islander",
+    "isle",
+    "isolate",
+    "isolated",
+    "isolation",
+    "isotope",
+    "issue"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337181_bb9ea0ee26_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337181_566263af17_o.png",
+      "id_image": "isolated_2890261"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451988_b2a4efe655_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451988_032598dd25_o.png",
+      "id_image": "isolated_6238123"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337221_aedb88234d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337221_50d50bd9d7_o.png",
+      "id_image": "isolate_6237844"
+    }
+  ]
+}

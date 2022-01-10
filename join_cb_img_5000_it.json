@@ -1,0 +1,202 @@
+{
+  "english": "join",
+  "phat_am": "dʒoin",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nối; ghép",
+          "definition": "(often with up, on etc) to put together or connect",
+          "world_new": [
+            "connect"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The electrician joined the wires (up) wrongly",
+              "world_new": [
+                "electrician",
+                "wrongly"
+              ]
+            },
+            {
+              "ex_of_definition": "You must join this piece (on) to that piece",
+              "world_new": [
+                "piece",
+                "piece"
+              ]
+            },
+            {
+              "ex_of_definition": "He joined the two stories together to make a play",
+              "world_new": [
+                "play"
+              ]
+            },
+            {
+              "ex_of_definition": "The island is joined to the mainland by a sandbank at low tide.",
+              "world_new": [
+                "island",
+                "mainland",
+                "sandbank",
+                "low",
+                "tide"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nối liền",
+          "definition": "to connect (two points) eg by a line, as in geometry",
+          "world_new": [
+            "connect",
+            "line",
+            "geometry"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Join point A to point B.",
+              "world_new": [
+                "point",
+                "point",
+                "B"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gia nhập",
+          "definition": "to become a member of (a group)",
+          "world_new": [
+            "become",
+            "member"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was thinking of joining the tennis club.",
+              "world_new": [
+                "tennis",
+                "club"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhập vào",
+          "definition": "(sometimes with up) to meet and come together (with)",
+          "world_new": [
+            "meet"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This lane joins the main road",
+              "world_new": [
+                "lane",
+                "main",
+                "road"
+              ]
+            },
+            {
+              "ex_of_definition": "Do you know where the two rivers join?",
+              "world_new": [
+                "know"
+              ]
+            },
+            {
+              "ex_of_definition": "They joined up with us for the remainder of the holiday.",
+              "world_new": [
+                "remainder",
+                "holiday"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cùng tham gia",
+          "definition": "to come into the company of",
+          "world_new": [
+            "company"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ll join you later in the restaurant.",
+              "world_new": [
+                "restaurant"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chỗ nối",
+          "definition": "a place where two things are joined",
+          "world_new": [
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You can hardly see the joins in the material.",
+              "world_new": [
+                "hardly",
+                "see",
+                "material"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Some returned to join another garden on a false identity.",
+    "The immigrants insisted that others should join them at their earliest opportunity.",
+    "The other performers then joined in with brief exchanges to illustrate this cold and wounding behaviour.",
+    "When the occasion arose and the interviewee permitted, we were able to have a group of the subject's peers join a conversation.",
+    "However, this more general rule is incompatible with the existence of joins which are needed for sums, as described above.",
+    "One approach is for those ethnically-based parties most willing to compromise to join together and, by joining, to fend off the uncompromising extremes.",
+    "The number of new walkers joining each month remained stable for the first 8 months of the scheme.",
+    "About 60 other parties also joined the electoral contest, both within and outside the major contending alliances."
+  ],
+  "list_see_also": [
+    "join forces",
+    "join hands",
+    "join in",
+    "join up"
+  ],
+  "list_browse": [
+    "joey",
+    "jog",
+    "jogging",
+    "joggle",
+    "join",
+    "join forces",
+    "join hands",
+    "join in",
+    "join up"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688019_889e482ee1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688019_9000393fb1_o.png",
+      "id_image": "join_1971139"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069840_e8ee3b66d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069840_79dc214d5e_o.png",
+      "id_image": "join_2733455"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377802_81dd8441cc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377802_17840d12e7_o.png",
+      "id_image": "join_4470914"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447983_0959ae080d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447983_f60b4458a6_o.png",
+      "id_image": "join_4590194"
+    }
+  ]
+}

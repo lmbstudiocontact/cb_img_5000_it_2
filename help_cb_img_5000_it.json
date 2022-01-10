@@ -1,0 +1,254 @@
+{
+  "english": "help",
+  "phat_am": "help",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "giúp đỡ",
+          "definition": "to do something with or for someone that he cannot do alone, or that he will find useful",
+          "world_new": [
+            "alone",
+            "find",
+            "useful"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Will you help me with this translation?",
+              "world_new": [
+                "translation"
+              ]
+            },
+            {
+              "ex_of_definition": "Will you please help me (to) translate this poem?",
+              "world_new": [
+                "please",
+                "translate",
+                "poem"
+              ]
+            },
+            {
+              "ex_of_definition": "Can I help?",
+              "world_new": [
+                "I"
+              ]
+            },
+            {
+              "ex_of_definition": "He fell down and I helped him up.",
+              "world_new": [
+                "fell",
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giúp ích",
+          "definition": "to play a part in something; to improve or advance",
+          "world_new": [
+            "play",
+            "part",
+            "improve",
+            "advance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Bright posters will help to attract the public to the exhibition",
+              "world_new": [
+                "attract",
+                "public",
+                "exhibition"
+              ]
+            },
+            {
+              "ex_of_definition": "Good exam results will help his chances of a job.",
+              "world_new": [
+                "job"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cải thiện tình hình",
+          "definition": "to make less bad",
+          "world_new": [
+            "bad"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "An aspirin will help your headache.",
+              "world_new": [
+                "aspirin",
+                "your",
+                "headache"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phục vụ trong cửa hàng",
+          "definition": "to serve (a person) in a shop",
+          "world_new": [
+            "serve",
+            "shop"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Can I help you, sir?",
+              "world_new": [
+                "I",
+                "sir"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "không thể ngăn chặn hoặc tránh được cái gì",
+          "definition": "(with can(not), could (not)) to be able not to do something or to prevent something",
+          "world_new": [
+            "prevent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He looked so funny that I couldn’t help laughing",
+              "world_new": [
+                "funny",
+                "I"
+              ]
+            },
+            {
+              "ex_of_definition": "Can I help it if it rains?",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự giúp đỡ hoặc được giúp đỡ",
+          "definition": "the act of helping, or the result of this",
+          "world_new": [
+            "act",
+            "helping",
+            "result"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Can you give me some help?"
+            },
+            {
+              "ex_of_definition": "Your digging the garden was a big help",
+              "world_new": [
+                "garden",
+                "big"
+              ]
+            },
+            {
+              "ex_of_definition": "Can I be of help to you?",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người giúp đỡ; vật giúp ích",
+          "definition": "someone or something that is useful",
+          "world_new": [
+            "useful"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You’re a great help to me.",
+              "world_new": [
+                "great"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người làm",
+          "definition": "a servant, farmworker etc",
+          "world_new": [
+            "servant"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She has hired a new help."
+            }
+          ]
+        },
+        {
+          "mean_english": "lối thoát",
+          "definition": "(usually with no) a way of preventing something",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Even if you don’t want to do it, the decision has been made – there’s no help for it now.",
+              "world_new": [
+                "want",
+                "decision"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The risk is that clinicians increasingly will be reluctant to do quite ordinary procedures to help patients because of existing guidelines.",
+    "Their claim that higher levels of unemployment help extreme right parties is valid given their model.",
+    "These improvements could also complement and even enhance the benefits of drugs that help with the symptoms of dementia.",
+    "You told him that you would help him with writing.",
+    "This first synthesis in turn helped in the production of a more perspicuous analysis, with a more satisfactory synthesis.",
+    "Many people with symptoms of psychological distress do not seek professional help.",
+    "They were explicitly told that some of the characters have features that could help them choose and some did not.",
+    "Second, physically speaking, patients are usually helped in any such transfer by a nurse, a doctor, or one of the patient's relatives."
+  ],
+  "list_see_also": [
+    "helper",
+    "helpful",
+    "helpfully",
+    "helpfulness",
+    "helping",
+    "helpless",
+    "helplessly",
+    "helplessness",
+    "helpline",
+    "help oneself",
+    ""
+  ],
+  "list_browse": [
+    "hello",
+    "helm",
+    "helmet",
+    "helmsman",
+    "help",
+    "help oneself",
+    "help out",
+    "helper",
+    "helpful"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384117_1785c45ec4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384117_3e9d88412f_o.png",
+      "id_image": "help_2072716"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384157_532af76cdb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384157_e016f83d19_o.png",
+      "id_image": "help_258374"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076360_3e7665f063_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076360_b9a0d75b42_o.png",
+      "id_image": "help_943640"
+    }
+  ]
+}

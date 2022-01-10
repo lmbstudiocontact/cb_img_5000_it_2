@@ -1,0 +1,111 @@
+{
+  "english": "loss",
+  "phat_am": "los",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự mất mát",
+          "definition": "the act or fact of losing",
+          "world_new": [
+            "act",
+            "fact"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was suffering from loss of memory",
+              "world_new": [
+                "suffering",
+                "memory"
+              ]
+            },
+            {
+              "ex_of_definition": "He was mourning the loss (= death) of his friend.",
+              "world_new": [
+                "mourning",
+                "friend"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mất mát",
+          "definition": "something which is lost",
+          "world_new": [
+            "lost"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It was only after he was dead that we realized what a loss he was.",
+              "world_new": [
+                "dead"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "số tiền bị mất",
+          "definition": "the amount (especially of money) which is lost",
+          "world_new": [
+            "amount",
+            "lost"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This month the company recorded a loss of £550, 000.",
+              "world_new": [
+                "month",
+                "company"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "He saw little chance of recouping war losses easily.",
+    "A young policeman in a leather jacket painfully, letter by letter, typed my losses on an ancient machine.",
+    "In fact there are even more general framing effects, not involving gains or losses.",
+    "The agricultural implications of this result are evident for nurseries - the losses they experience in the transplant of plants could be reduced.",
+    "In all cases, the number of acquired genes is higher than the number of genes losses in the branch of the sister grouping.",
+    "The losses in mailer welfare, which are of course opposite in sign from the profits, are substantially larger in magnitude than the profits.",
+    "How important is low immune status in causing losses?",
+    "Note that the flight energy losses are zero, as the leg is brought forward with zero torque."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "lose sight of",
+    "lose touch (with)",
+    "lose/make money",
+    "loser",
+    "loss",
+    "lost",
+    "lost in",
+    "lost on",
+    "lost property"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690379_2d3b774a9f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690379_38c44ef3ed_o.png",
+      "id_image": "loss_1809623"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380277_7372755b78_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380277_7b6700a553_o.png",
+      "id_image": "loss_267973"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690349_82be555bf2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690349_a9925bd95e_o.png",
+      "id_image": "loss_5692328"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335156_04bf8bbc52_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335156_532542313e_o.png",
+      "id_image": "loss_6299670"
+    }
+  ]
+}

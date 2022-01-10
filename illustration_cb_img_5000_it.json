@@ -1,0 +1,105 @@
+{
+  "english": "illustration",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bức tranh",
+          "definition": "a picture",
+          "world_new": [
+            "picture"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "coloured illustrations.",
+              "world_new": [
+                "coloured"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ví dụ",
+          "definition": "an example",
+          "world_new": [
+            "example"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This case provides a clear illustration of what I mean.",
+              "world_new": [
+                "case",
+                "clear",
+                "I",
+                "mean"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự minh hoạ",
+          "definition": "the act of illustrating",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "For the purposes of illustration, consider the following situation.",
+              "world_new": [
+                "consider",
+                "following",
+                "situation"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The chapter provides excellent illustrations and discussions of how phonological systems change over time, as well as proposing interventions for this child.",
+    "Twenty-eight chapters have been contributed by more than twenty authors who cite over 2500 references and provide over 700 ®gures and other illustrations.",
+    "A comprehensive introduction to all these topics is accompanied by excellent illustrations and photographs, with a very useful 'further reading' list in each section.",
+    "Her live illustrations proved that historical vocal technique does indeed provide new insights into this music.",
+    "Specific examples are, for instance, the fact that the chapter dealing with mitochondria provides illustrations that are far too simplistic.",
+    "Line drawings should be directly reproducible; glossy prints should be furnished for all halftone illustrations.",
+    "A majority of the book's illustrations lack appropriate detail to illustrate important points.",
+    "Several illustrations from the past three decades substantiate this argument."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "illusion",
+    "illusionist",
+    "illustrate",
+    "illustrated",
+    "illustration",
+    "illustrative",
+    "illustrator",
+    "illustrious",
+    "illustriousness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678234_feeacda5a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678234_c1d0b00c72_o.png",
+      "id_image": "illustration_1688378"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323046_3781248c16_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323046_09a4433fbd_o.png",
+      "id_image": "illustration_2301794"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059720_bfbe8ca73a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059720_50cf8b7493_o.png",
+      "id_image": "illustration_4359629"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678299_093d00d94e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678299_45a807539a_o.png",
+      "id_image": "illustration_538091"
+    }
+  ]
+}

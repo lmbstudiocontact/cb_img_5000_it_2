@@ -1,0 +1,87 @@
+{
+  "english": "government",
+  "phat_am": "ˈɡavəmənt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chính quyền",
+          "definition": "the people who rule a country or state",
+          "world_new": [
+            "people",
+            "rule",
+            "country",
+            "state"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the British Government.",
+              "world_new": [
+                "British"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cách thức hoặc hệ thống lãnh đạo",
+          "definition": "the way in which a country or state is ruled",
+          "world_new": [
+            "country",
+            "state",
+            "ruled"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Democracy is one form of government.",
+              "world_new": [
+                "form"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "việc hoặc quá trình cai trị",
+          "definition": "the act or process of governing.",
+          "world_new": [
+            "act",
+            "process"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The government raised wages and allowed opposition parties to participate in the 1981 legislative elections.",
+    "It was first returned because it had been drafted by counsel; government could only be addressed by principals, not their agents.",
+    "Researchers could be misled by the publications of the first category because they were usually censored by the government to fit its propaganda purposes.",
+    "All of these countries reported having government regulations to protect patient-level data.",
+    "Considered here is the simplest case, where government spending is purely dissipative and does not affect private utility.",
+    "As a supplementary policy, the government permitted pricing based on costs for new health services, mainly high-technology services.",
+    "Thus, divided government can serve the interests of moderate voters, particularly in periods when political parties advocate extreme policies.",
+    "In research on the policy impact of partisan governments, parties are often - although mostly implicitly - conceptualised as policy oriented."
+  ],
+  "list_see_also": [
+    "governmental",
+    "governor",
+    "governorship"
+  ],
+  "list_browse": [
+    "gouge",
+    "gourd",
+    "gourmet",
+    "govern",
+    "government",
+    "governmental",
+    "governor",
+    "governorship",
+    "gown"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372357_c2b442d912_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372357_0b1dbcbe67_o.png",
+      "id_image": "government_1312036"
+    }
+  ]
+}

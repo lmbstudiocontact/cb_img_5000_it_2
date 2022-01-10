@@ -1,0 +1,65 @@
+{
+  "english": "marathon",
+  "phat_am": "ˈmӕrəθən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chạy ma-ra-tông",
+          "definition": "a long-distance footrace, usually 42km 195m (26 miles 385 yd)",
+          "world_new": [
+            "long-distance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He came third in the marathon"
+            },
+            {
+              "ex_of_definition": "(also adjective) a marathon race/discussion."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Mini-marathons may be run as side events to marathons or as events in their own right.",
+    "In the inaugural year, 1981, both marathons took place.",
+    "He has completed over 40 marathons and many shorter races.",
+    "He played golf, football and ran in half-marathons.",
+    "He begins to run marathons to help cope with this loss.",
+    "There have been allusions to other cycling events and to marathons.",
+    "He completed 115 marathons, 112 under 2:50, 103 under 2:45 and 29 under 2:20.",
+    "Mekonnen has the most sub 2:15 marathons of anyone: 32 in all."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "map out",
+    "maple",
+    "mar",
+    "marasmus",
+    "marathon",
+    "marble",
+    "marbled",
+    "marbles",
+    "march"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368832_ff2322d19c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368832_9322e4bbf2_o.png",
+      "id_image": "marathon_3708022"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060795_3984e208e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060795_5777a35ae9_o.png",
+      "id_image": "marathon_3965879"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368762_d0e4ce032a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368762_60a7c723b2_o.png",
+      "id_image": "marathon_5200936"
+    }
+  ]
+}

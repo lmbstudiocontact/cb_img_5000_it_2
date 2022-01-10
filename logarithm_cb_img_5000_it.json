@@ -1,0 +1,61 @@
+{
+  "english": "logarithm",
+  "phat_am": "ˈloɡəriðəm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hàm số loga",
+          "definition": "(abbreviated to loglog) mathematics the number of times eg 10 must be multiplied by itself to produce a particular number",
+          "world_new": [
+            "number",
+            "times",
+            "produce",
+            "particular",
+            "number"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "10  10  10 or 103 = 1,000, so 3 is here the logarithm of 1,000."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The independent variable for this fit was the logarithm of the geometricmean radius in each ring (we used logarithm because the filter radius grows geometrically).",
+    "In any case, the above is a natural domain for a logarithm.",
+    "The dissociation rate will then increase linearly with the logarithm of the applied force.",
+    "These scores are negative logarithms of probabilities and therefore require addition as opposed to multiplication when two scores are combined.",
+    "Because the distributions were highly skewed to the right, scores on these tasks were transformed by calculating the logarithm.",
+    "To ensure stationarity, we will consider the rate of growth of these variables, calculated as first differences of logarithms.",
+    "Robots cannot replace syntactic models; but they can instantiate them, as a slide rule does the logarithm, lending credibility.",
+    "Let g denote the logarithm of a main demand aggregate that is decomposed into two subaggregates."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "lofty",
+    "log",
+    "log in",
+    "log off",
+    "logarithm",
+    "logbook",
+    "loggerheads",
+    "logic",
+    "logical"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451903_d1d6ecab0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451903_4d99897e54_o.png",
+      "id_image": "logarithm_2106605"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692354_bd302b5fcb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692354_c544a9455d_o.png",
+      "id_image": "logarithm_2620556"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "english": "idol",
+  "phat_am": "ˈaidl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tượng thần thánh",
+          "definition": "an image of a god, which is worshipped",
+          "world_new": [
+            "image"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The tribesmen bowed down before their idol.",
+              "world_new": [
+                "bowed",
+                "their"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thần tượng",
+          "definition": "a greatly loved person, thing etc",
+          "world_new": [
+            "greatly",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The singer was the idol of thousands of teenagers.",
+              "world_new": [
+                "singer"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "idolatry",
+    "idolatrous",
+    "idolatrously",
+    "idolize"
+  ],
+  "list_browse": [
+    "idle away",
+    "idleness",
+    "idler",
+    "idly",
+    "idol",
+    "idolatrous",
+    "idolatrously",
+    "idolatry",
+    "idolize"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368742_0aee1232f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368742_f387a059a1_o.png",
+      "id_image": "idol_1961037"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368722_b9453e113f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368722_abee9f27ec_o.png",
+      "id_image": "idol_2267527"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368682_7ce8cbb0e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368682_fdde961562_o.png",
+      "id_image": "idol_4441519"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "english": "homosexual",
+  "phat_am": "homəˈsekʃuəl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "người đồng tính luyến ái",
+          "definition": "(a person, especially a man, who is) sexually attracted to people of the same sex.",
+          "world_new": [
+            "person",
+            "sexually",
+            "people",
+            "sex"
+          ]
+        },
+        {
+          "mean_english": "đồng tính luyến ái",
+          "definition": "adjective of or concerning a homosexual or homosexuals",
+          "world_new": [
+            "concerning"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a homosexual relationship.",
+              "world_new": [
+                "relationship"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "homosexuality"
+  ],
+  "list_browse": [
+    "homogeneous",
+    "homonym",
+    "homophobia",
+    "homophobic",
+    "homosexual",
+    "homosexuality",
+    "homozygote",
+    "homozygous",
+    "honest"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333951_26042fc6ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333951_0c5fc11454_o.png",
+      "id_image": "homosexual_4125667"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378817_d92733cc76_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378817_4a20f5774a_o.png",
+      "id_image": "homosexual_4125669"
+    }
+  ]
+}

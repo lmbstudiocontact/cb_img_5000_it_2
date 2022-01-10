@@ -1,0 +1,82 @@
+{
+  "english": "library",
+  "phat_am": "ˈlaibrəri",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thư viện",
+          "definition": "(a building or room containing) a collection of books, tapes, videos etc",
+          "world_new": [
+            "building",
+            "room",
+            "collection"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He works in the public library",
+              "world_new": [
+                "works",
+                "public"
+              ]
+            },
+            {
+              "ex_of_definition": "She has a fine library of books about art.",
+              "world_new": [
+                "fine",
+                "art"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Classes defined by the standard libraries may also be derivable.",
+    "In their place there would be schools for their children, hospitals for their sick, homes for their orphans, and societies, libraries and institutions for themselves.",
+    "Given the high cost of books in the eighteenth century, circulating and community libraries were vital access points to reading material for many readers.",
+    "We also found that the overall pattern of use of libraries and academic offices followed that of teaching space.",
+    "As the repositories and guardians of knowledge, libraries have been indispensable resources for universities throughout history.",
+    "Many spoke about distributing posters and leaflets to places where people in the community would pick them up, such as libraries, supermarkets and pharmacies.",
+    "Local newspapers, of course, have their own libraries and records.",
+    "There is thus scope for promoting public access to computer facilities at schools and libraries."
+  ],
+  "list_see_also": [
+    "librarian"
+  ],
+  "list_browse": [
+    "libidinous",
+    "libido",
+    "Libra",
+    "librarian",
+    "library",
+    "licence",
+    "license",
+    "license plate",
+    "licensed"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343626_93372a0e64_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343626_0f20614160_o.png",
+      "id_image": "library_1138099"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698784_3140a530d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698784_56503b2fa0_o.png",
+      "id_image": "library_2446986"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698744_22d49de47a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698744_a18d9ccc53_o.png",
+      "id_image": "library_4344971"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343641_2cab2316fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343641_be176fc4f4_o.png",
+      "id_image": "library_831484"
+    }
+  ]
+}

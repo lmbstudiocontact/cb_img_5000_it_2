@@ -1,0 +1,174 @@
+{
+  "english": "fork",
+  "phat_am": "foːk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái nĩa",
+          "definition": "an instrument with two or more pointed pieces for piercing and lifting things",
+          "world_new": [
+            "instrument",
+            "pointed",
+            "piercing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He prodded at his food with a fork",
+              "world_new": [
+                "food"
+              ]
+            },
+            {
+              "ex_of_definition": "We usually eat with a knife, fork and spoon.",
+              "world_new": [
+                "eat",
+                "knife",
+                "spoon"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chỗ ngã ba",
+          "definition": "the point at which a road, river etc divides into two or more branches or divisions",
+          "world_new": [
+            "point",
+            "road",
+            "river"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a fork in the river.",
+              "world_new": [
+                "river"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "một trong hai nhánh",
+          "definition": "one of the branches or divisions of a road, river etc into which the road, river etc divides",
+          "world_new": [
+            "road",
+            "river",
+            "road",
+            "river"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Take the left fork (of the road).",
+              "world_new": [
+                "left"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chia thành hai nhánh",
+          "definition": "(of a road, river etc) to divide into (usually two) branches or divisions",
+          "world_new": [
+            "road",
+            "river",
+            "divide"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The main road forks here.",
+              "world_new": [
+                "main",
+                "road"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "rẽ",
+          "definition": "(of a person or vehicle) to follow one of the branches or divisions into which a road has divided",
+          "world_new": [
+            "person",
+            "follow",
+            "road"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The car forked left.",
+              "world_new": [
+                "car",
+                "forked",
+                "left"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhấc bằng chĩa",
+          "definition": "to lift or move with a fork",
+          "world_new": [
+            "lift",
+            "move"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The farmer forked the hay.",
+              "world_new": [
+                "farmer",
+                "forked",
+                "hay"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A harder case is multiple-world test suite generation in which incompatibilities may exist within forks.",
+    "Otherwise, how much longer have we to continue forking out these sums of money?",
+    "The variability within the first category is very low: there just aren't that many different kinds of forks.",
+    "There is speaking with forked tongue, the breaking of promises and picking on the most vulnerable.",
+    "A yard made of hurdles supported by forks is on the right rear.",
+    "The three forked raven foot may have represented the imprint of the raven foot on the skin of the woman.",
+    "My sympathies are with the women who have forked out several hundred pounds every year in tax for the past five or six years.",
+    "Each philosopher needs two forks to eat, so one will only be able to eat when the other is thinking."
+  ],
+  "list_see_also": [
+    "forked",
+    "fork-lift truck",
+    "fork out"
+  ],
+  "list_browse": [
+    "forgetfully",
+    "forgive",
+    "forgiveness",
+    "forgiving",
+    "fork",
+    "fork out",
+    "fork-lift truck",
+    "forked",
+    "forlorn"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315111_121f127a01_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315111_cd5fc170a6_o.png",
+      "id_image": "fork_3006739"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315086_6dba433ff6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315086_58f3294c06_o.png",
+      "id_image": "fork_4711413"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315056_44717c9405_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315056_049db67d0a_o.png",
+      "id_image": "fork_6332067"
+    }
+  ]
+}

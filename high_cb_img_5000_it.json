@@ -1,0 +1,299 @@
+{
+  "english": "high",
+  "phat_am": "hai",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "cao",
+          "definition": "at, from, or reaching up to, a great distance from ground-level, sea-level etc",
+          "world_new": [
+            "great",
+            "distance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a high mountain",
+              "world_new": [
+                "mountain"
+              ]
+            },
+            {
+              "ex_of_definition": "a high dive",
+              "world_new": [
+                "dive"
+              ]
+            },
+            {
+              "ex_of_definition": "a dive from the high diving-board.",
+              "world_new": [
+                "dive"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cao",
+          "definition": "having a particular height",
+          "world_new": [
+            "particular",
+            "height"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This building is about 20 metres high",
+              "world_new": [
+                "building"
+              ]
+            },
+            {
+              "ex_of_definition": "My horse is fifteen hands high.",
+              "world_new": [
+                "horse"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mạnh; dữ dội",
+          "definition": "great; large; considerable",
+          "world_new": [
+            "considerable"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The car was travelling at high speed",
+              "world_new": [
+                "car",
+                "speed"
+              ]
+            },
+            {
+              "ex_of_definition": "He has a high opinion of her work",
+              "world_new": [
+                "opinion",
+                "work"
+              ]
+            },
+            {
+              "ex_of_definition": "They charge high prices",
+              "world_new": [
+                "charge"
+              ]
+            },
+            {
+              "ex_of_definition": "high hopes"
+            },
+            {
+              "ex_of_definition": "The child has a high fever/temperature.",
+              "world_new": [
+                "child"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quan trọng; cao cấp",
+          "definition": "most important; very important",
+          "world_new": [
+            "important"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the high altar in a church",
+              "world_new": [
+                "altar",
+                "church"
+              ]
+            },
+            {
+              "ex_of_definition": "Important criminal trials are held at the High Court",
+              "world_new": [
+                "criminal"
+              ]
+            },
+            {
+              "ex_of_definition": "a high official.",
+              "world_new": [
+                "official"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cao quý",
+          "definition": "noble; good",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "high ideals."
+            }
+          ]
+        },
+        {
+          "mean_english": "mạnh",
+          "definition": "(of a wind) strong",
+          "world_new": [
+            "strong"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The wind is high tonight.",
+              "world_new": [
+                "wind",
+                "tonight"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nốt cao",
+          "definition": "(of sounds) at or towards the top of a (musical) range",
+          "world_new": [
+            "top",
+            "range"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a high note.",
+              "world_new": [
+                "note"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giọng nói trong trẻo",
+          "definition": "(of voices) like a child’s voice (rather than like a man’s)",
+          "world_new": [
+            "voice"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He still speaks in a high voice.",
+              "world_new": [
+                "voice"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bắt đầu có mùi",
+          "definition": "(of food, especially meat) beginning to go bad.",
+          "world_new": [
+            "food",
+            "beginning",
+            "bad"
+          ]
+        },
+        {
+          "mean_english": "có giá trị lớn",
+          "definition": "having great value",
+          "world_new": [
+            "great",
+            "value"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Aces and kings are high cards.",
+              "world_new": [
+                "cards"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "cao; ở mức độ cao",
+          "definition": "at, or to, a great distance from ground-level, sea-level etc",
+          "world_new": [
+            "great",
+            "distance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The plane was flying high in the sky",
+              "world_new": [
+                "plane",
+                "sky"
+              ]
+            },
+            {
+              "ex_of_definition": "He’ll rise high in his profession.",
+              "world_new": [
+                "rise",
+                "profession"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "highly",
+    "highness",
+    "high-chair",
+    "high-class",
+    "higher education",
+    "high fidelity",
+    "high-handed",
+    "high-handedly",
+    "high-handedness",
+    "high jump",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "hierarchical",
+    "hierarchy",
+    "hieroglyph",
+    "hieroglyphics",
+    "high",
+    "high and dry",
+    "high and low",
+    "high and mighty",
+    "high fidelity"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074470_dc45560344_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074470_d307fe9c21_o.png",
+      "id_image": "highland_5293869"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692749_f30fd01acd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692749_feef9a056f_o.png",
+      "id_image": "high_213304"
+    }
+  ]
+}

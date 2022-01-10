@@ -1,0 +1,79 @@
+{
+  "english": "improve",
+  "phat_am": "imˈpruːv",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cải thiện",
+          "definition": "to (cause to) become better, of higher quality etc",
+          "world_new": [
+            "become",
+            "better",
+            "quality"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His work has greatly improved",
+              "world_new": [
+                "work",
+                "greatly"
+              ]
+            },
+            {
+              "ex_of_definition": "They recently improved the design of that car.",
+              "world_new": [
+                "recently",
+                "design",
+                "car"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "As shown, the rule improves the quality by about 20%.",
+    "They have since improved their overall fine-grained score to 66.3%.",
+    "In shor t, the use of remote sensing has been a significant tool in improving our archaeological survey methodology.",
+    "Each questionnaire was piloted twice, which improved the wording and relevance of the questions.",
+    "He rarely could wait weeks or even days until prices improved.",
+    "Other potential objectives-such as reduction of environmental impacts or improving the cost-effectiveness of regulations-have been under-emphasized or not attained.",
+    "Over the years the relationship between the two improved.",
+    "Artificially \"controlling\" the sun's altitude and azimuth significantly improves discriminating bajo islands from the background areas."
+  ],
+  "list_see_also": [
+    "improvement",
+    "improve on"
+  ],
+  "list_browse": [
+    "impromptu",
+    "improper",
+    "improper fraction",
+    "impropriety",
+    "improve",
+    "improve on",
+    "improvement",
+    "improvisation",
+    "improvise"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435523_44492bd011_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435523_00f4b44f19_o.png",
+      "id_image": "improve_4365211"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675334_c4ab902858_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675334_61a1ff473a_o.png",
+      "id_image": "improve_4751664"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365372_8b7f35a7fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365372_e4b9286c50_o.png",
+      "id_image": "improve_564839"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "english": "map",
+  "phat_am": "mӕp",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bản đồ",
+          "definition": "a drawing or plan, in outline, of (any part of) the surface of the earth, with various features shown (usually roads, rivers, seas, towns etc)",
+          "world_new": [
+            "drawing",
+            "plan",
+            "outline",
+            "part",
+            "surface",
+            "earth",
+            "various"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a map of the world",
+              "world_new": [
+                "world"
+              ]
+            },
+            {
+              "ex_of_definition": "a road map.",
+              "world_new": [
+                "road"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bản đồ thiên văn",
+          "definition": "a similar type of drawing showing eg the surface of the moon, the position of the stars in the sky etc.",
+          "world_new": [
+            "similar",
+            "type",
+            "drawing",
+            "surface",
+            "moon",
+            "position",
+            "sky"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "vẽ bản đồ",
+          "definition": "to make a map of (an area)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Africa was mapped by many different explorers."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Name training either taught some children that novel names should be mapped onto novel kinds or enhanced their commitment to this belief.",
+    "Such studies have been very useful in mapping the cognitive architecture of human short-term memory to specific brain regions.",
+    "Unlike the smooth expanding maps treated just above, such maps are in general not structurally or measure-theoretically stable with respect to deterministic perturbations.",
+    "The distance map is determined using just two videoscans and thus only two computations per point.",
+    "The fewest and longest lines are also drawn on plans generating an 'axial map'.",
+    "In particular, visual perception relies on topographically mapped representations, but there is no evidence that the representation of objects in working memory is topographic.",
+    "But the presence of these maps and the retinotopic nature of their organization cannot in itself explain the metric quality of visual phenomenology.",
+    "Since we are not assuming weak purity, the vertical map on the right of this diagram need not be injective."
+  ],
+  "list_see_also": [
+    "map out"
+  ],
+  "list_browse": [
+    "many",
+    "many a",
+    "many happy returns (of the day)",
+    "Maori",
+    "map",
+    "map out",
+    "maple",
+    "mar",
+    "marasmus"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439288_21d42c39d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439288_110bf68dd0_o.png",
+      "id_image": "map_123642"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439243_b0f39af19b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439243_3f8f3d9cc8_o.png",
+      "id_image": "map_207320"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061055_2290219b5c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061055_e90073908d_o.png",
+      "id_image": "map_683836"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "english": "melody",
+  "phat_am": "ˈmelədi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "giai điệu",
+          "definition": "a tune",
+          "world_new": [
+            "tune"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He played Irish melodies on the harp.",
+              "world_new": [
+                "harp"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "âm điệu",
+          "definition": "the principal part in a piece of harmonized music",
+          "world_new": [
+            "principal",
+            "part",
+            "piece",
+            "music"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The sopranos sang the melody, and the other voices added the harmony.",
+              "world_new": [
+                "added",
+                "harmony"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The result was, not unexpectedly, unorganised and quite unlike classical diatonic melodies.",
+    "In that case the grammar would have a phonotactic filter permitting /0/ to form nuclei only with single-x nonconsonantal melodies.",
+    "They belong, then, to that group of smaller melodies referred to above.",
+    "Moreover, there may well have been phrase or word repetition in the new verses to make them fit the existing melody.",
+    "As discussed earlier, the verse melodies of these three songs are all pentatonic.",
+    "There are thousands of bïlinï texts, but far fewer bïlinï melodies, owing to the fact that performers habitually recycled them.",
+    "The musical mutations are effectively rule-based processes, designed to elaborate or to add stability to the melodies.",
+    "Afterwards a harmony, perhaps suggested by the natural registers of the human voices, was added to the melody."
+  ],
+  "list_see_also": [
+    "melodic",
+    "melodious",
+    "melodiously",
+    "melodiousness"
+  ],
+  "list_browse": [
+    "melodiousness",
+    "melodrama",
+    "melodramatic",
+    "melodramatically",
+    "melody",
+    "melon",
+    "melt",
+    "meltdown",
+    "melting pot"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703014_17d69b15e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703014_ccfed72657_o.png",
+      "id_image": "melody_6324754"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463098_d27cff6a51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463098_1bbe1fe3e4_o.png",
+      "id_image": "melody_6325127"
+    }
+  ]
+}

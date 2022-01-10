@@ -1,0 +1,92 @@
+{
+  "english": "harvest",
+  "phat_am": "ˈhaːvist",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "việc thu hoạch",
+          "definition": "the gathering in of ripened crops",
+          "world_new": [
+            "gathering"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the rice harvest.",
+              "world_new": [
+                "rice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thu hoạch; gặt hái",
+          "definition": "to gather in (crops etc)",
+          "world_new": [
+            "gather"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We harvested the apples yesterday.",
+              "world_new": [
+                "yesterday"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They were harvested a year before the experiments took place.",
+    "There are very few fields which offer so important and rich a harvest to scientific enterprise.",
+    "At harvest, however, pest densities did not significantly vary between treatments.",
+    "This is mainly because renewable assets such as biological resources grow over a length of time before they mature and become ready for harvesting.",
+    "The same rates of fertilizer were used at planting and after harvest for both cropping cycles.",
+    "The study of the biology suggested that infestation might be checked by delaying harvesting until after the larvae hatched.",
+    "The effect might not appear very strong because of the scale used in the harvest series.",
+    "Immediately prior to harvest, a 3 m2 area was dug from each sub-plot and the plants counted and topped by hand."
+  ],
+  "list_see_also": [
+    "harvester"
+  ],
+  "list_browse": [
+    "harry",
+    "harsh",
+    "harshly",
+    "harshness",
+    "harvest",
+    "harvester",
+    "has-been",
+    "hash",
+    "hashish"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388747_bc77e0e91a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388747_5b2f8f7e10_o.png",
+      "id_image": "harvest_4496320"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388697_160c7e0e5a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388697_7bfc01fc85_o.png",
+      "id_image": "harvest_5264929"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698959_b600ef2994_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698959_571431c527_o.png",
+      "id_image": "harvest_5265293"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388627_d4206a8f7f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388627_8360af6f75_o.png",
+      "id_image": "harvest_5612929"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "english": "hemisphere",
+  "phat_am": "ˈhemisfiə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bán cầu",
+          "definition": "one half of the Earth",
+          "world_new": [
+            "half"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The British Isles are in the northern hemisphere.",
+              "world_new": [
+                "British",
+                "northern"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The choroid plexuses ®ll the lateral borders of the anterior and posterior ventricles,8 which in turn occupy half of the cerebral hemispheres.",
+    "Relatively strong scattering, 0.1, between the hemispheres corresponds to a wave model with resonant scattering or the upper limit of the dynamical turbulence model.",
+    "We acknowledge that mesozoic mammals are characterized by cerebral hemispheres diverging posteriorly.",
+    "The medial portion of both hemispheres, designated the limbic system, which includes the hippocampus and amygdala, is essential for the acquisition and retention of information.",
+    "The left versus right temporal lobe differences during sentence processing may be the result of differences in the way the two hemispheres process verbal material.",
+    "The degree of motor system activation was comparable in both hemispheres, and the effects were independent of the side of language dominance or of handedness.",
+    "Involvement of the cerebellar hemispheres leads to dysrhythmia, dysmetria and intention tremor of the extremities.",
+    "Wolpert thinks that asymmetry may have evolved in the context of complex motor skills such as toolmaking because it permits cooperation rather than competition between the hemispheres."
+  ],
+  "list_see_also": [
+    "hemispherical"
+  ],
+  "list_browse": [
+    "helpline",
+    "helter-skelter",
+    "hem",
+    "hem in",
+    "hemisphere",
+    "hemispherical",
+    "hemp",
+    "hen",
+    "hen party"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453878_dd0b9fde3c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453878_fc13df7500_o.png",
+      "id_image": "hemisphere_6080907"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693999_efba5d51ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693999_f24a8a0e48_o.png",
+      "id_image": "hemisphere_6181758"
+    }
+  ]
+}

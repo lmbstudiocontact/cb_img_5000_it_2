@@ -1,0 +1,72 @@
+{
+  "english": "italic",
+  "phat_am": "iˈtӕlik",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "nghiêng",
+          "definition": "(of print) of the sloping kind used eg to show emphasis and for the examples in this dictionary",
+          "world_new": [
+            "sloping",
+            "kind",
+            "emphasis",
+            "dictionary"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This example is printed in italic type.",
+              "world_new": [
+                "example",
+                "type"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The estimated coefficients associated with the spline for marriage duration are not shown; the first category of each variable (in italics) is the reference group.",
+    "Printed rubrics from the libretto are in italics; sung text is in inverted commas.",
+    "Enzymes (italics) in bold lettering have been manipulated through genetic engineering (see text for details).",
+    "Figures in italics l calculations based on fewer than 15 couples.",
+    "The main effect and interaction effects coefficients in italics result from adding the original main effect to those of the interaction term coefficients.",
+    "Written in the text of a paper these symbols should be in lower case italic as shown here.",
+    "We use the convention that object language expressions are written in teletype and metalanguage expressions in italic.",
+    "Note that the notation for probability is in lower case italic."
+  ],
+  "list_see_also": [
+    "italicize",
+    "italics"
+  ],
+  "list_browse": [
+    "it stands to reason",
+    "it’s no joke",
+    "it’s no use",
+    "it/that depends",
+    "italic",
+    "italicize",
+    "italics",
+    "itch",
+    "itchiness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336866_b3992bd10a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336866_c1dbeb7b2c_o.png",
+      "id_image": "italic_1833903"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073935_b5d6a3fb8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073935_306875a6ba_o.png",
+      "id_image": "italic_391336"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073885_832a0332a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073885_4bfd8f8d93_o.png",
+      "id_image": "italic_4598430"
+    }
+  ]
+}

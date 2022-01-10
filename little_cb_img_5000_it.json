@@ -1,0 +1,169 @@
+{
+  "english": "little",
+  "phat_am": "ˈlitl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "nhỏ bé",
+          "definition": "small in size",
+          "world_new": [
+            "small",
+            "size"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is only a little boy",
+              "world_new": [
+                "boy"
+              ]
+            },
+            {
+              "ex_of_definition": "When she was little (= a child), she wanted to be a nurse.",
+              "world_new": [
+                "wanted",
+                "nurse"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "một ít",
+          "definition": "small in amount; not much",
+          "world_new": [
+            "small"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has little knowledge of the difficulties involved.",
+              "world_new": [
+                "knowledge",
+                "involved"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "không quan trọng",
+          "definition": "not important",
+          "world_new": [
+            "important"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I did not expect her to make a fuss about such a little thing.",
+              "world_new": [
+                "I",
+                "expect",
+                "fuss"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "pronoun",
+      "list_definition": [
+        {
+          "mean_english": "lượng nhỏ",
+          "definition": "(only) a small amount",
+          "world_new": [
+            "small",
+            "amount"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He knows little of the real world.",
+              "world_new": [
+                "real",
+                "world"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "không nhiều",
+          "definition": "not much",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I go out little nowadays.",
+              "world_new": [
+                "I",
+                "nowadays"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "một chút",
+          "definition": "only to a small degree",
+          "world_new": [
+            "small",
+            "degree"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a little-known fact.",
+              "world_new": [
+                "fact"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "không biết tí nào",
+          "definition": "not at all",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He little knows how ill he is.",
+              "world_new": [
+                "ill"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However one of the most fundamental has been the subject of very little comment.",
+    "No one seems interested in denying the sway of the market even over modernism's littlest magazines and most avant-garde authors.",
+    "Advertising had little role because it mostly concerned new brands with no place in the system.",
+    "Only in the large does it assume august proportions: but the large does not dignify the little, which is a part of it.",
+    "Given the inclusion of nation and year fixed effects in the model, the introduction of country dummies-covariate interactions results in little reduction of unexplained variance.",
+    "In both cases, making function composition left- or right-associative has little influence on the overall efficiency.",
+    "He did little to stop the spread of the prosperity gospel.",
+    "The entropy plateaus when the additional markers contribute little additional information."
+  ],
+  "list_see_also": [
+    "a little",
+    "little by little",
+    "little finger",
+    "make little of"
+  ],
+  "list_browse": [
+    "litmus paper",
+    "litmus test",
+    "litre",
+    "litter",
+    "little",
+    "little by little",
+    "little finger",
+    "live",
+    "live and let live"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339391_b9fc3bd229_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339391_d4698fe0f3_o.png",
+      "id_image": "little_4866835"
+    }
+  ]
+}

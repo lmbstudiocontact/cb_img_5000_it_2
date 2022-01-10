@@ -1,0 +1,140 @@
+{
+  "english": "joke",
+  "phat_am": "dʒəuk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lời nói đùa",
+          "definition": "anything said or done to cause laughter",
+          "world_new": [
+            "cause",
+            "laughter"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He told/made the old joke about the elephant in the refrigerator",
+              "world_new": [
+                "old",
+                "elephant",
+                "refrigerator"
+              ]
+            },
+            {
+              "ex_of_definition": "He dressed up as a ghost for a joke",
+              "world_new": [
+                "dressed",
+                "ghost"
+              ]
+            },
+            {
+              "ex_of_definition": "He played a joke on us and dressed up as a ghost.",
+              "world_new": [
+                "dressed",
+                "ghost"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trò đùa",
+          "definition": "something that causes laughter or amusement",
+          "world_new": [
+            "laughter",
+            "amusement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The children thought it a huge joke when the cat stole the fish.",
+              "world_new": [
+                "thought",
+                "huge",
+                "cat",
+                "fish"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "giễu cợt",
+          "definition": "to make a joke or jokes",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They joked about my mistake for a long time afterwards.",
+              "world_new": [
+                "my",
+                "mistake",
+                "long",
+                "time",
+                "afterwards"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nói đùa",
+          "definition": "to talk playfully and not seriously",
+          "world_new": [
+            "talk",
+            "playfully",
+            "seriously"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Don’t be upset by what he said – he was only joking.",
+              "world_new": [
+                "upset"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I prefer practical jokes to verbal humour. 17.",
+    "Ageism is experienced in interactions in various forms, including jokes about growing older.",
+    "It is the existence of the joke, not its funniness, that matters.",
+    "The appreciation of visual jokes in people with schizophrenia : a study of ' mentalizing ' ability.",
+    "These gendered jokes occasionally deployed language that bespoke a kind of repressed loathing of women.",
+    "Would we not expect to find at least some bawdy allusions in male jokes and social satires?",
+    "Residents also played practical jokes and teased one another.",
+    "Indeed, it was misleading, a joke, beneath serious criticism, and it got none."
+  ],
+  "list_see_also": [
+    "joker",
+    "jokingly",
+    "it’s no joke",
+    "joking apart/aside",
+    "take a joke"
+  ],
+  "list_browse": [
+    "joinery",
+    "joint",
+    "jointed",
+    "jointly",
+    "joke",
+    "joker",
+    "joking apart/aside",
+    "jokingly",
+    "jolliness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069535_ae8318d2d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069535_40f6c39a8b_o.png",
+      "id_image": "joke_3839479"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332686_d5d0b9b936_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332686_98745f0702_o.png",
+      "id_image": "joke_4373958"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "english": "infection",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự lây nhiễm",
+          "definition": "the process of infecting or state of being infected",
+          "world_new": [
+            "process",
+            "state",
+            "infected"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You should wash your hands after handling raw meat to avoid infection.",
+              "world_new": [
+                "wash",
+                "your",
+                "raw",
+                "meat",
+                "avoid"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "căn bệnh",
+          "definition": "a disease",
+          "world_new": [
+            "disease"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a throat infection.",
+              "world_new": [
+                "throat"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "85 and are subject to bacterial, fungal and rust infections and insect infestations which can cause considerable loss in both quantity and quality.",
+    "Parasites that had not reached the mature metacercariae stage were assumed to be experimental infections.",
+    "Respiratory infections (12/137), anxiety or panic symptoms (4/137) and sleeping problems (6/137) formed minor groups.",
+    "Treatment recommendations for respiratory tract infections associated with aging.",
+    "Results from the model system presented here demonstrate the potential of acquired immune responses to regulate nematode infections.",
+    "Such data would help to explain the high yield of cercariae in both single and multiple miracidial infections.",
+    "Factors affecting infections of mammals with intraerythrocytic protozoa.",
+    "The other 14% of complications were considered minor in four patients: two infections and two contractures."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "infant",
+    "infantry",
+    "infect",
+    "infected",
+    "infection",
+    "infectious",
+    "infectiously",
+    "infer",
+    "inference"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671704_bca77e2b2a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671704_a3fb843f67_o.png",
+      "id_image": "infection_1564230"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361292_45efb6a5ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361292_2199662c55_o.png",
+      "id_image": "infection_2270152"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317001_2ed313f627_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317001_1c0e8a4f4f_o.png",
+      "id_image": "infection_2720321"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671684_7d51b0374a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671684_cb96700f19_o.png",
+      "id_image": "infection_5578337"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671664_250ccd17dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671664_423d07f4df_o.png",
+      "id_image": "infection_6029330"
+    }
+  ]
+}

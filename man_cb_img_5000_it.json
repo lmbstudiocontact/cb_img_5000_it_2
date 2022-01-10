@@ -1,0 +1,206 @@
+{
+  "english": "man",
+  "phat_am": "mӕn",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đàn ông",
+          "definition": "an adult male human being",
+          "world_new": [
+            "adult",
+            "male",
+            "human"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Hundreds of men, women and children"
+            },
+            {
+              "ex_of_definition": "a four-man team.",
+              "world_new": [
+                "team"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "loài người",
+          "definition": "human beings taken as a whole; the human race",
+          "world_new": [
+            "human",
+            "human",
+            "race"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the development of man.",
+              "world_new": [
+                "development"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đàn ông",
+          "definition": "obviously masculine male person",
+          "world_new": [
+            "obviously",
+            "masculine",
+            "male",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s independent, tough, strong, brave – a real man!",
+              "world_new": [
+                "independent",
+                "tough",
+                "strong",
+                "brave",
+                "real"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "các ngài",
+          "definition": "a word sometimes used in speaking informally or giving commands to someone",
+          "world_new": [
+            "speaking",
+            "informally"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Get on with your work, man, and stop complaining!",
+              "world_new": [
+                "your",
+                "work",
+                "stop"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người lính",
+          "definition": "an ordinary soldier, who is not an officer",
+          "world_new": [
+            "ordinary",
+            "soldier",
+            "officer"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "officers and men."
+            }
+          ]
+        },
+        {
+          "mean_english": "quân cờ",
+          "definition": "a piece used in playing chess or draughts/checkers",
+          "world_new": [
+            "piece",
+            "chess"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I took three of his men in one move.",
+              "world_new": [
+                "I",
+                "move"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cung cấp người",
+          "definition": "to supply with men (especially soldiers)",
+          "world_new": [
+            "supply"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The colonel manned the guns with soldiers from our regiment.",
+              "world_new": [
+                "colonel",
+                "manned",
+                "our",
+                "regiment"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "suffix",
+      "list_definition": [
+        {
+          "mean_english": "(từ ghép) người làm việc gì đó",
+          "definition": "a person (formerly usually used for either sex; currently, often replaced by -person when the person referred to can be of either sex) who performs a particular activity, as in postman, milkman, chairman. etc",
+          "world_new": [
+            "person",
+            "currently",
+            "person",
+            "particular",
+            "activity"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "-man",
+    "manhood",
+    "mankind",
+    "manly",
+    "manliness",
+    "manned",
+    "man-eating",
+    "man-eater",
+    "manhandle",
+    "manhole",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "mammal",
+    "mammalian",
+    "mammary",
+    "mammoth",
+    "man",
+    "man of letters",
+    "man of the world",
+    "man to man",
+    "man-eater"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442188_82570dc166_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442188_287c114831_o.png",
+      "id_image": "man_169889"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682249_1aae8ca6ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682249_57826ac6b5_o.png",
+      "id_image": "man_366309"
+    }
+  ]
+}

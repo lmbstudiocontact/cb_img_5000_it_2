@@ -1,0 +1,72 @@
+{
+  "english": "icicle",
+  "phat_am": "ˈaisikl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "trụ băng",
+          "definition": "a long hanging piece of ice formed by the freezing of dripping water",
+          "world_new": [
+            "long",
+            "hanging",
+            "piece",
+            "ice",
+            "freezing",
+            "dripping",
+            "water"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Icicles were hanging from the roof.",
+              "world_new": [
+                "hanging",
+                "roof"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Strong wind over the nearby lake fling water droplets which freeze against the trees and their branches, until near-horizontal icicles begin to form.",
+    "Snowblindness, norovirus, seasonal depression, slipping on black ice and falling icicles are other health concerns associated with cold and snowy weather.",
+    "One then sees a shimmering corrugated image like that of an icicle.",
+    "When in long narrow strips (sometimes known as lametta), it emulates icicles.",
+    "Those grants, like icicles in strong sunshine, have melted away.",
+    "If the runner touched one of these objects, several large icicles descended from the cave ceiling, blocking the runner's path.",
+    "Visitors report observing stalactite-like icicles on the cave ceilings, as well as intricate ice crystals.",
+    "Examination of vertical icicle plots indicated support for a three-cluster solution."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "ice tray",
+    "ice-skate",
+    "ice-skating",
+    "iceberg",
+    "icicle",
+    "icily",
+    "iciness",
+    "icing",
+    "icon"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439998_c943553760_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439998_7b627799ef_o.png",
+      "id_image": "icicle_1663137"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061805_1a13961afc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061805_c7afd34491_o.png",
+      "id_image": "icicle_2291198"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369717_c44d66b6c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369717_dc87463754_o.png",
+      "id_image": "icicle_6252724"
+    }
+  ]
+}

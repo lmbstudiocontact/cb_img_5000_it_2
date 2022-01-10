@@ -1,0 +1,80 @@
+{
+  "english": "ignition",
+  "phat_am": "iɡˈniʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bộ phận đánh lửa",
+          "definition": "the instrument in a car etc which ignites the petrol in the engine",
+          "world_new": [
+            "instrument",
+            "car",
+            "petrol",
+            "engine"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He switched on the car’s ignition."
+            }
+          ]
+        },
+        {
+          "mean_english": "sự đốt cháy",
+          "definition": "the act of igniting",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "ignition of the firework.",
+              "world_new": [
+                "firework"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The dynamics of ignition for the two schemes is investigated and a comparison is attempted.",
+    "When this one is above 10 27 cm 3, the low ignition temperature regime appears.",
+    "Two other ignition capsule designs are also being developed as contingencies to the point design.",
+    "From the point of view of pure science and of application, fast ignition is a research subject of pioneering significance.",
+    "The four major natural causes of wildfire ignitions are lightning, volcanic eruption, sparks from rockfalls, and spontaneous combustion.",
+    "The paper already showed that one needs a petawatt laser for thermonuclear ignition.",
+    "The projectile penetrates about 50 mm into the compressed target, before the ignition process properly star ts.",
+    "In the standard approaches formerly cited, targets were self-ignited either from a central hot spark or from a larger domain volume ignition!."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "if you please",
+    "igloo",
+    "igneous",
+    "ignite",
+    "ignition",
+    "ignoble",
+    "ignobleness",
+    "ignobly",
+    "ignorance"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060585_186f1178bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060585_a5a3954f42_o.png",
+      "id_image": "ignition_2422786"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368612_bd2464778a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368612_a64a44cdd8_o.png",
+      "id_image": "ignition_5457883"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323646_327173e3bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323646_71c553b8c9_o.png",
+      "id_image": "ignition_5823332"
+    }
+  ]
+}

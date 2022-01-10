@@ -1,0 +1,78 @@
+{
+  "english": "generator",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "máy phát điện",
+          "definition": "a machine which produces electricity, gas etc",
+          "world_new": [
+            "machine",
+            "electricity",
+            "gas"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The hospital has an emergency generator.",
+              "world_new": [
+                "hospital",
+                "emergency"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Also, up to isomorphism, there are only 10 trace monoids with 4, and 34 trace monoids with 5 generators.",
+    "The complexity and the mysteriousness of mental processes during sleep rule out thinking solely in term of generators.",
+    "Under the model that has unit cost for the four elementary real-arithmetic operations, the sequential generators thus have a useful property.",
+    "At the same time, program generators introduce new research challenges: what are good engineering practices for exploiting program generation?",
+    "Now, nielsen is speculating about 1 versus 2 generators, that is one versus two forms of sleep mentation.",
+    "As we have excluded nodes made by generators, this number is only an estimate.",
+    "Ideas propagated by architectural autonomy - such as authorship and difference - were the generators of this transformation.",
+    "We do not require the tagged sets to be upper sets but take the given elements as a (not necessarily minimal) set of generators."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "generally",
+    "generally speaking",
+    "generate",
+    "generation",
+    "generator",
+    "generic",
+    "generosity",
+    "generous",
+    "generously"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451123_b08cc4e833_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451123_e95198d0c7_o.png",
+      "id_image": "generator_4277611"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381137_90be74d42b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381137_e993fee707_o.png",
+      "id_image": "generator_4815445"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073030_d759289195_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073030_433170fecd_o.png",
+      "id_image": "generator_6002368"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451168_eb1953c94f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451168_e7029ca9de_o.png",
+      "id_image": "generator_778671"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073135_68a227c8ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073135_25512d9896_o.png",
+      "id_image": "generator_778672"
+    }
+  ]
+}

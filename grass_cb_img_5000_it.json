@@ -1,0 +1,82 @@
+{
+  "english": "grass",
+  "phat_am": "ɡraːs",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cỏ",
+          "definition": "the green plant which covers fields, garden lawns etc",
+          "world_new": [
+            "green",
+            "plant",
+            "garden"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Have you cut the grass yet?",
+              "world_new": [
+                "cut",
+                "yet"
+              ]
+            },
+            {
+              "ex_of_definition": "Keep off the grass."
+            }
+          ]
+        },
+        {
+          "mean_english": "loại thân thảo",
+          "definition": "any species of grass, including also corn and bamboo",
+          "world_new": [
+            "species",
+            "including",
+            "corn",
+            "bamboo"
+          ]
+        },
+        {
+          "mean_english": "cần sa",
+          "definition": "marijuana.",
+          "world_new": [
+            "marijuana"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "grassy",
+    "grasshopper",
+    "grassland"
+  ],
+  "list_browse": [
+    "graphite",
+    "grapple",
+    "grasp",
+    "grasping",
+    "grass",
+    "grasshopper",
+    "grassland",
+    "grassy",
+    "grate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324271_9054332e7c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324271_2f4204180d_o.png",
+      "id_image": "grass_4104441"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061185_6c03b87736_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061185_92d95775d9_o.png",
+      "id_image": "grass_4123346"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679394_71a1fc41eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679394_6e2acb2907_o.png",
+      "id_image": "grass_4752201"
+    }
+  ]
+}

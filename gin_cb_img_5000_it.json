@@ -1,0 +1,70 @@
+{
+  "english": "gin",
+  "phat_am": "dʒin",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "rượu gin",
+          "definition": "a type of alcoholic drink made from grain and flavoured/flavored with juniper berries",
+          "world_new": [
+            "type",
+            "alcoholic",
+            "drink",
+            "grain",
+            "juniper"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a gin and tonic.",
+              "world_new": [
+                "tonic"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "It is a popular name for the locally-distilled gin, known as akpeteshie.",
+    "The glamour of these new establishments, according to most accounts, lured in curious laborers, which led to another wave of gin-drinking.",
+    "The cotton produced on the farm would generate some revenue, and the ancillary enterprises (gin, warehouse and marketing association) would generate supplemental income.",
+    "He counted gin-shops, keeping the score by notching a tally-stick."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "gilt",
+    "gilt-edged",
+    "gimmick",
+    "gimmicky",
+    "gin",
+    "ginger",
+    "ginger ale",
+    "gingerbread",
+    "gingerly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332981_e9c71ce7aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332981_69c9d19203_o.png",
+      "id_image": "gin_1927770"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377812_bd109ac5da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377812_e6255c6f94_o.png",
+      "id_image": "gin_6255714"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332926_1719abacb2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332926_5c59a5a177_o.png",
+      "id_image": "gin_6408725"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377897_9d2ef24fde_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377897_73f11f57cb_o.png",
+      "id_image": "gin_920594"
+    }
+  ]
+}

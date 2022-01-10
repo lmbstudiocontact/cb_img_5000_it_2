@@ -1,0 +1,175 @@
+{
+  "english": "last",
+  "phat_am": "laːst",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "cuối cùng",
+          "definition": "coming at the end",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We set out on the last day of November",
+              "world_new": [
+                "day",
+                "November"
+              ]
+            },
+            {
+              "ex_of_definition": "He was last in the race",
+              "world_new": [
+                "race"
+              ]
+            },
+            {
+              "ex_of_definition": "He caught the last bus home.",
+              "world_new": [
+                "bus",
+                "home"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mới nhất; trước",
+          "definition": "most recent; next before the present",
+          "world_new": [
+            "present"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Our last house was much smaller than this",
+              "world_new": [
+                "house"
+              ]
+            },
+            {
+              "ex_of_definition": "last year/month/week."
+            }
+          ]
+        },
+        {
+          "mean_english": "cuối cùng",
+          "definition": "coming or remaining after all the others",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was the last guest to leave.",
+              "world_new": [
+                "guest",
+                "leave"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "cuối cùng",
+          "definition": "at the end of or after all the others",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He took his turn last.",
+              "world_new": [
+                "turn"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "kéo dài",
+          "definition": "to continue to exist",
+          "world_new": [
+            "continue",
+            "exist"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This situation lasted until she got married",
+              "world_new": [
+                "situation",
+                "married"
+              ]
+            },
+            {
+              "ex_of_definition": "I hope this fine weather lasts.",
+              "world_new": [
+                "I",
+                "hope",
+                "fine",
+                "weather"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "còn đủ",
+          "definition": "to remain in good condition or supply",
+          "world_new": [
+            "remain",
+            "condition",
+            "supply"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This carpet has lasted well",
+              "world_new": [
+                "carpet"
+              ]
+            },
+            {
+              "ex_of_definition": "The bread won’t last more than another two days – we’ll need to get some more",
+              "world_new": [
+                "bread"
+              ]
+            },
+            {
+              "ex_of_definition": "This coat will last me for years.",
+              "world_new": [
+                "coat"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "lastly",
+    "at (long) last",
+    "last name",
+    "hear/see etc the last of",
+    "the last person",
+    "the last straw",
+    "the last thing",
+    "the last word",
+    "on one’s last legs",
+    "to the last"
+  ],
+  "list_browse": [
+    "lash",
+    "lash out",
+    "lass",
+    "lasso",
+    "last",
+    "last name",
+    "last out",
+    "last thing (at night etc)",
+    "lasting"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364722_f351c071dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364722_b58bc4b452_o.png",
+      "id_image": "last_5375438"
+    }
+  ]
+}

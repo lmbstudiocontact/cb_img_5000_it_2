@@ -1,0 +1,67 @@
+{
+  "english": "herbal",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc thảo dược",
+          "definition": "of herbs, especially herbs used to make medicines",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a herbal remedy.",
+              "world_new": [
+                "remedy"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Usually the procedure is repeated for several days and sometimes herbal drinks are given afterwards.",
+    "In an age when access to physicians was not possible for most people, women often kept ' receipt books ' of popular remedies and herbal cures.",
+    "The world of herbal medicine has recently suffered a plethora of books that are hardly worth the paper they are printed on.",
+    "Since conventional therapy is often of limited help, fatigued patients may use herbal treatments.",
+    "Since it deals with herbal medicine, it describes actions performed on plants.",
+    "Most doctors are aware that herbal medicines have experienced a remarkable revival.",
+    "Table 1 summarizes the evidence for acupuncture, homoeopathy, spinal manipulation and a herbal remedy used in depression.",
+    "There may also be a synergistic relationship between self-care and use of herbal remedies that would warrant further investigation."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "herald",
+    "heraldic",
+    "heraldry",
+    "herb",
+    "herbal",
+    "herbalist",
+    "herbivore",
+    "herbivorous",
+    "herd"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338561_5d014a091f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338561_3092c32251_o.png",
+      "id_image": "herbal_1407893"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693669_d50b71b397_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693669_5000a04688_o.png",
+      "id_image": "herbal_1407895"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075515_0e7193dfdd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075515_f1255aaf48_o.png",
+      "id_image": "herbal_3023749"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383367_3965f3a2b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383367_2281b6d20c_o.png",
+      "id_image": "herbal_4061407"
+    }
+  ]
+}

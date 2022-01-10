@@ -1,0 +1,96 @@
+{
+  "english": "grin",
+  "phat_am": "ɡrin",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cười toe toét",
+          "definition": "to smile broadly",
+          "world_new": [
+            "smile",
+            "broadly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The children grinned happily for the photographer.",
+              "world_new": [
+                "happily",
+                "photographer"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái cười toe toét",
+          "definition": "a broad smile",
+          "world_new": [
+            "broad",
+            "smile"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Tim had a massive grin on his face.",
+              "world_new": [
+                "massive",
+                "face"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I find it perturbing that he is not only grinning in a somewhat unendearing fashion but is chewing something.",
+    "Snoopy grins, revealing that several of his front teeth have been knocked out.",
+    "However, to be fair to him, he listens, and he grins.",
+    "Here huge animated dinosaurs wallow in gore, as jaws slobber and teeth grin in reptilian rictus.",
+    "I was grinning ruefully because of the time factor here.",
+    "Every farmer in the land should be grinning all over his face with delight, but we all know that the opposite is the case.",
+    "When they start grinning, it does not help.",
+    "Tattoos that consist of political or anti-authoritarian statements are known as grins."
+  ],
+  "list_see_also": [
+    "grin and bear it"
+  ],
+  "list_browse": [
+    "grime",
+    "grimly",
+    "grimness",
+    "grimy",
+    "grin",
+    "grin and bear it",
+    "grind",
+    "grind down",
+    "grind up"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058280_24eebce5de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058280_48aba99d09_o.png",
+      "id_image": "grin_2977977"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366372_cc73904591_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366372_0775920f07_o.png",
+      "id_image": "grin_2978025"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321496_1dfc379ba5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321496_e260768732_o.png",
+      "id_image": "grin_6259824"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321436_14c62f329c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321436_45c8e700b4_o.png",
+      "id_image": "grin_6259903"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "english": "medicine",
+  "phat_am": "ˈmedsin",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thuốc",
+          "definition": "a substance, especially a liquid for swallowing, that is used to treat or keep away disease or illness",
+          "world_new": [
+            "substance",
+            "liquid",
+            "treat",
+            "keep",
+            "disease",
+            "illness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a dose of medicine.",
+              "world_new": [
+                "dose"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khoa nội",
+          "definition": "the science of curing people who are ill, or making their suffering less (especially by means other than surgery)",
+          "world_new": [
+            "science",
+            "people",
+            "ill",
+            "their",
+            "suffering",
+            "means"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is studying medicine."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In medicine, defects are disorders of a patient; in technical domains, defects are faults of a device.",
+    "Physicians in internal medicine, surgery, and anaesthesiology held significantly shorter estimations of \"terminal\" than did physicians in general practice, public health, and psychiatry.",
+    "These have included publications exploring popular medicine, the introduction of compulsory education for children, and, most dramatically of all, the imposition of military conscription.",
+    "In medicine, useful practice often precedes theoretical understanding of disease or relevant adaptations.",
+    "In the first we find the generic categories that most readers are likely to expect: potential, environment, motivation, anxiety, the brain, and medicine.",
+    "Grasslands also improve organic matter, utilized by crops and a range of plants used as medicines.",
+    "It further entails an analysis of how patient-centered medicine can work in different directions, some quite coercive.",
+    "Traditional medicine is developing into an economically unfeasible high-tech operation that governments are increasingly weary of supporting, especially where public health systems exist."
+  ],
+  "list_see_also": [
+    "medicinal",
+    "medicinally"
+  ],
+  "list_browse": [
+    "medicated",
+    "medication",
+    "medicinal",
+    "medicinally",
+    "medicine",
+    "medieval",
+    "mediocre",
+    "mediocrity",
+    "meditate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349141_e5af1b0078_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349141_458f7c13f2_o.png",
+      "id_image": "medicine_171795"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463843_44d3c4a53e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463843_32a5d67c4a_o.png",
+      "id_image": "medicine_203137"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086365_8f721bafaa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086365_55632af17c_o.png",
+      "id_image": "medicine_549131"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086345_ab192b152c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086345_2a0e434469_o.png",
+      "id_image": "medicine_807123"
+    }
+  ]
+}

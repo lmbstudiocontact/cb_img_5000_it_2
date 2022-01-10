@@ -1,0 +1,109 @@
+{
+  "english": "leader",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người dẫn đầu",
+          "definition": "a person who is in front or goes first",
+          "world_new": [
+            "person",
+            "front"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The fourth runner is several miles behind the leaders.",
+              "world_new": [
+                "runner"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người lãnh đạo",
+          "definition": "a person who is the head of, organizes or is in charge (of something)",
+          "world_new": [
+            "person",
+            "head",
+            "charge"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The leader of the expedition is a scientist.",
+              "world_new": [
+                "expedition",
+                "scientist"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bài xã luận",
+          "definition": "an article in a newspaper etc written to express the opinions of the editor",
+          "world_new": [
+            "article",
+            "newspaper",
+            "express",
+            "editor"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He used the leader to criticize the government’s immigration policy.",
+              "world_new": [
+                "criticize",
+                "immigration",
+                "policy"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We thought it wise to elect leaders in different places.",
+    "The photo provides a visual representation of equality of status, in which no one performer serves as a leader.",
+    "Thus, where supervision is lax, district leaders, including local bureaucrats, may use their budgetary discretion and the force at their disposal for personal gain.",
+    "In each case, central leaders reasoned that they did not have the votes for stronger legislation and saw no advantage in reopening earlier controversies.",
+    "On the other hand, leaders also mentioned the low quality of public management and corruption as the main explanatory factors for the state's poor performance.",
+    "The findings suggested the need for culture specific case methodology training sessions for both case leaders and students.",
+    "In this vein, attacks on these leaders have been based less on political arguments than on moral ones.",
+    "However, it is hard to determine the true leaders without more research or knowledge of earlier points in history."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "lead the way",
+    "lead up the garden path",
+    "lead up to",
+    "leaden",
+    "leader",
+    "leadership",
+    "leaf",
+    "leaflet",
+    "leafy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672424_a78db9b0ce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672424_2a626fc797_o.png",
+      "id_image": "leader_1441964"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432823_6f4f73b967_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432823_77c2e54dac_o.png",
+      "id_image": "leader_3281359"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362012_f2bc01c063_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362012_d0cbf4e32a_o.png",
+      "id_image": "leader_5542037"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362067_14a4112860_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362067_7b5583ebec_o.png",
+      "id_image": "leader_567505"
+    }
+  ]
+}

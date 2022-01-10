@@ -1,0 +1,74 @@
+{
+  "english": "mammoth",
+  "phat_am": "ˈmӕməθ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "voi ma mút",
+          "definition": "a large hairy elephant of a kind no longer found living.",
+          "world_new": [
+            "large",
+            "hairy",
+            "elephant",
+            "kind",
+            "found",
+            "living"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "đồ sộ",
+          "definition": "very large (and often very difficult)",
+          "world_new": [
+            "large"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a mammoth project/task."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "An air encounter between two fleets of these aerial mammoths can be more easily imagined than described.",
+    "There are fossils of mammoths and metoposaurs, which resembled giant salamanders.",
+    "Beside the mammoths and mastodons, the cave bears and the giant deer, corals, mussels and fish are found among the core specimens of the collection.",
+    "Amongst the six animal groups cited the mammoths take on a prominent role.",
+    "Skeletons of many now-extinct mammals have been recovered, including camels, mammoths, dire wolves, saber toothed cats, deer, and bison.",
+    "He finds a large herd of adult female mammoths.",
+    "They hunted animals such as mammoths and mastodons.",
+    "He argued that aboriginal groups had hunted several large animals to extinction including mammoths, mastodons and giant bison."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "mamma",
+    "mammal",
+    "mammalian",
+    "mammary",
+    "mammoth",
+    "man",
+    "man of letters",
+    "man of the world",
+    "man to man"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682379_2afa4fa13f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682379_879b4b1884_o.png",
+      "id_image": "mammoth_3804926"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682324_413914431d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682324_339f85a3c8_o.png",
+      "id_image": "mammoth_5999159"
+    }
+  ]
+}

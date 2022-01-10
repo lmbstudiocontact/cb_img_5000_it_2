@@ -1,0 +1,134 @@
+{
+  "english": "hatch",
+  "phat_am": "hӕtʃ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cửa hầm; cửa sàn",
+          "definition": "(the door or cover of) an opening in a wall, floor, ship’s deck etc",
+          "world_new": [
+            "door",
+            "cover",
+            "opening",
+            "wall",
+            "floor",
+            "deck"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There are two hatches between the kitchen and dining-room for serving food.",
+              "world_new": [
+                "kitchen",
+                "serving",
+                "food"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ấp trứng",
+          "definition": "to produce (young birds etc) from eggs",
+          "world_new": [
+            "produce"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My hens have hatched ten chicks."
+            }
+          ]
+        },
+        {
+          "mean_english": "nở",
+          "definition": "to break out of the egg",
+          "world_new": [
+            "break",
+            "egg"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "These chicks hatched this morning.",
+              "world_new": [
+                "morning"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nở ra con",
+          "definition": "to become young birds",
+          "world_new": [
+            "become",
+            "young"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Four of the eggs have hatched."
+            }
+          ]
+        },
+        {
+          "mean_english": "ngấm ngầm âm mưu",
+          "definition": "to plan (something, usually bad) in secret",
+          "world_new": [
+            "plan",
+            "secret"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They hatched a plot to kidnap a rich businessman.",
+              "world_new": [
+                "plot",
+                "kidnap",
+                "rich",
+                "businessman"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The study of the biology suggested that infestation might be checked by delaying harvesting until after the larvae hatched.",
+    "Cumulative hatching curves were then calculated and expressed as the number of juveniles emerging/week as a percentage of the viable egg contents.",
+    "The amount of actin filaments was prominent at hatching embryos compared with other developmental stages of embryos.",
+    "For individual researchers, this can provide a \"conceptual incubator\" for hatching specific brain theories that are both computable and testable.",
+    "Another explanation of apparent recovery of hatching ability over time is stage of juvenile development.",
+    "After hatching, aphids passed through two generations before emigrants were born.",
+    "These low hatch rates were observed using essentially the same technique described here.",
+    "Depression of egg hatch after 5 days' exposure was somewhat less severe, expressed as a percentage of the control, than at 2 days."
+  ],
+  "list_see_also": [
+    "hatchway"
+  ],
+  "list_browse": [
+    "hastiness",
+    "hasty",
+    "hat",
+    "hat trick",
+    "hatch",
+    "hatchet",
+    "hatchway",
+    "hate",
+    "hateful"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343406_c78278c5ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343406_542d2a2d85_o.png",
+      "id_image": "hatch_4146128"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080885_9b55ccc098_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080885_1bf0528ddd_o.png",
+      "id_image": "hatch_505763"
+    }
+  ]
+}

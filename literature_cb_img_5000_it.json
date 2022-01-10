@@ -1,0 +1,73 @@
+{
+  "english": "literature",
+  "phat_am": "ˈlitrətʃə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "văn học",
+          "definition": "poems, novels, plays etc in verse or prose, especially if of fine quality",
+          "world_new": [
+            "verse",
+            "prose",
+            "fine",
+            "quality"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "modern literature.",
+              "world_new": [
+                "modern"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "An exhaustive review of themes across the two literatures is beyond the scope of this article.",
+    "We begin with a brief review of the relevant literatures.",
+    "To what extent have any of these literatures focused on social policy or the welfare state?",
+    "The social network and social support literatures provide an excellent foundation from which to develop our knowledge of the caring capacity of the informal sector.",
+    "Unfortunately, a number of ineffective strategies for identifying taxa continue to appear in the psychology and psychiatry literatures.",
+    "I employ an evolutionary approach to these disparate literatures to form a coherent picture of the signal function of the early infant cry.",
+    "Operative metaphors in these literatures include \"agenda-setting\" in political science and \"problem definition\" in sociology.",
+    "Concerning theory, the results suggest that earlier literatures were in fact correct to see regime type as having important economic effects."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "literally",
+    "literalness",
+    "literary",
+    "literate",
+    "literature",
+    "lithe",
+    "litheness",
+    "lithosphere",
+    "litigation"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339626_41c4849d82_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339626_a3c3d73f4b_o.png",
+      "id_image": "literature_4459391"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454533_34cf971d49_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454533_a95d6bffa2_o.png",
+      "id_image": "literature_5226391"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076920_45a337a228_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076920_406da194b1_o.png",
+      "id_image": "literature_647659"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339641_62eed66f00_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339641_cdf4b47983_o.png",
+      "id_image": "literature_874694"
+    }
+  ]
+}

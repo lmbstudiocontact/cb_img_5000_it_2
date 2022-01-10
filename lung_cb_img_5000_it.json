@@ -1,0 +1,55 @@
+{
+  "english": "lung",
+  "phat_am": "laŋ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phổi",
+          "definition": "one of the pair of organs of breathing, in man and other animals",
+          "world_new": [
+            "pair"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "lung disease.",
+              "world_new": [
+                "disease"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The lungs were removed, rinsed twice, placed in a universal tube and minced with sharp scissors to small pieces (<0 - 5 mm3).",
+    "The pulmonary stenosis, present at both valvar and subvalvar levels, probably protected the lungs from the effects of unmodified left ventricular systolic pressure.",
+    "No schistosomula were found in the lungs 40 days after injection nor in the hepatic portal system at any time.",
+    "The pattern of numbers of schistosomula recoverable from the lungs was predicted and compared with experimentally observed values by linear regression.",
+    "If flow through the lungs exceeds systemic flow, systemic hypoperfusion and metabolic acidosis may develop.",
+    "The haemodynamic consequences for the lungs, nonetheless, can be comparable to that produced by patency of the arterial duct.",
+    "Humans infected with the larval stage of the parasite develop fluid-filled cysts, most often in the liver and lungs.",
+    "The entire alimentary canal was removed and placed in vials containing 10% formaldehyde, and liver, lungs and body cavity carefully inspected for helminths."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "lunar",
+    "lunatic",
+    "lunch",
+    "lunchtime",
+    "lung",
+    "lunge",
+    "lurch",
+    "lure",
+    "lurid"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687309_cf745efb20_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687309_b2ce928748_o.png",
+      "id_image": "lung_2417998"
+    }
+  ]
+}

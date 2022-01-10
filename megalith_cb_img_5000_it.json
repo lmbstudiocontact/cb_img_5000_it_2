@@ -1,0 +1,54 @@
+{
+  "english": "megalith",
+  "phat_am": "ˈmeɡəliθ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cự thạch",
+          "definition": "a very large stone that is part of a prehistoric monument",
+          "world_new": [
+            "large",
+            "stone",
+            "part",
+            "prehistoric",
+            "monument"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Many of these megaliths were astronomical measuring devices.",
+              "world_new": [
+                "astronomical"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "meet (someone) halfway",
+    "meeting",
+    "mega-",
+    "megabyte",
+    "megalith",
+    "megalomania",
+    "megalomaniac",
+    "megaphone",
+    "megaton"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393322_a357396b0a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393322_f0afe83d52_o.png",
+      "id_image": "megalith_190916"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463213_b2e7241656_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463213_af0ecfd2c4_o.png",
+      "id_image": "megalith_307801"
+    }
+  ]
+}

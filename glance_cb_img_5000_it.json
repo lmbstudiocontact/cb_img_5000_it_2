@@ -1,0 +1,91 @@
+{
+  "english": "glance",
+  "phat_am": "ɡlaːns",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "liếc nhìn",
+          "definition": "to look very quickly",
+          "world_new": [
+            "look",
+            "quickly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He glanced at the book",
+              "world_new": [
+                "book"
+              ]
+            },
+            {
+              "ex_of_definition": "He glanced over the accounts."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái liếc qua",
+          "definition": "a brief or quick look",
+          "world_new": [
+            "brief",
+            "quick",
+            "look"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I had a glance at the books last night.",
+              "world_new": [
+                "I",
+                "night"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I was glancing through the books in a friend's library at the weekend.",
+    "They acquiesce by nodding their heads or glancing at him when he speaks.",
+    "We also found that lateral glances are frequently associated with the presence of a moving object, either the child's own fingers, a manipulated object, or a surrounding moving object.",
+    "The descriptions sound different, but they look the same to someone who glances quickly at a ballot paper.",
+    "We need to study successful and unsuccessful viewing (and/or film editing) over multiple glances, just as we need research on effects of stimulus information within a single presentation.",
+    "Therefore, in a sense they are glancing blows.",
+    "We must look ahead to the future and not be for ever casting lingering glances back to a past which cannot be recaptured.",
+    "I have been glancing through the document and have to say that it is excellent."
+  ],
+  "list_see_also": [
+    "glancing",
+    "at a glance",
+    "glance off"
+  ],
+  "list_browse": [
+    "glamorize",
+    "glamorous",
+    "glamorously",
+    "glamour",
+    "glance",
+    "glance off",
+    "glancing",
+    "gland",
+    "glandular"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331906_e7f68fb74d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331906_8dd43020e4_o.png",
+      "id_image": "glance_3508378"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686874_f1e8568e0f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686874_f6149995cd_o.png",
+      "id_image": "glance_3508384"
+    }
+  ]
+}

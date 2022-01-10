@@ -1,0 +1,80 @@
+{
+  "english": "gown",
+  "phat_am": "ɡaun",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "váy",
+          "definition": "a woman’s dress, especially one of high quality for dances, parties etc",
+          "world_new": [
+            "dress",
+            "quality"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an evening gown.",
+              "world_new": [
+                "evening"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "áo choàng",
+          "definition": "a loose robe worn by clergymen, lawyers, teachers etc.",
+          "world_new": [
+            "loose",
+            "robe",
+            "worn"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The coupon rates for dressing gowns are: men's and women's—7 coupons; boys' and girls'—6 coupons; infants'—4 coupons.",
+    "We need a little ceremony and decorum, and the wigs and gowns add to the dignity of our proceedings.",
+    "Dressing gowns must be fire resistant — unless they are made of terry towelling.",
+    "I hope that there will be no disagreement that we should continue to wear gowns.",
+    "They studied a group of patients who did not wear the gowns on one day and then wore the gowns on another.",
+    "We could have had the red gowns of doctors for important occasions.",
+    "The real test is whether the wearing of wigs and gowns actually assists in the administration of justice.",
+    "Indeed, she hoards when she sequesters valuable silk gowns in the clotheschest from which they emerge later, in order of antiquity, to be worn spotted with mold."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "government",
+    "governmental",
+    "governor",
+    "governorship",
+    "gown",
+    "GP",
+    "GPA",
+    "GPS",
+    "gr"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682714_746f775e69_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682714_04f3ab28fb_o.png",
+      "id_image": "gown_1694767"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372252_6efc10c8b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372252_f9c7f48bb9_o.png",
+      "id_image": "gown_3124984"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327501_66de29a3c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327501_6e91597d85_o.png",
+      "id_image": "gown_4284317"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372152_e1daa78511_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372152_efa3809b6a_o.png",
+      "id_image": "gown_4305246"
+    }
+  ]
+}

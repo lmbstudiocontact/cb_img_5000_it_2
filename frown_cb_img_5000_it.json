@@ -1,0 +1,91 @@
+{
+  "english": "frown",
+  "phat_am": "fraun",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cau mày; nhăn mặt",
+          "definition": "to make the forehead wrinkle and the eyebrows move down (as a sign of worry, disapproval, deep thought etc)",
+          "world_new": [
+            "forehead",
+            "wrinkle",
+            "move",
+            "sign",
+            "worry",
+            "disapproval",
+            "deep",
+            "thought"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He frowned at her bad behaviour.",
+              "world_new": [
+                "bad",
+                "behaviour"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự cau mày",
+          "definition": "such a movement of the forehead and eyebrows",
+          "world_new": [
+            "movement",
+            "forehead"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a frown of disapproval.",
+              "world_new": [
+                "disapproval"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Unethical practices on the part of private and public sectors while frowned upon were not openly criticised.",
+    "The immorality of instrumental ethnicity was frowned upon as tending to exacerbate social instability.",
+    "Also, puzzled facial expressions, frowns and various types of mime and gestures.",
+    "Pace and mood may be set with smiles, jokes, frowns, exclamations, and volume, rapidity, or intonation of speech.",
+    "I used localist representations, as they were not frowned upon at that time.",
+    "Remarriage by divorced or widowed women was not frowned upon.",
+    "The professor frowned at the technician of the physician who always seemed to be unhappy.",
+    "It would be hard going for the novice (it certainly had me frowning in some of the geochemical sections)."
+  ],
+  "list_see_also": [
+    "frown on/upon"
+  ],
+  "list_browse": [
+    "frosting",
+    "frosty",
+    "froth",
+    "frothy",
+    "frown",
+    "frown on/upon",
+    "frozen",
+    "fructose",
+    "fruit"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343466_6787c1da8e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343466_6d1e0e574b_o.png",
+      "id_image": "frown_3508358"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388392_818b6f0960_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388392_ea3198aae3_o.png",
+      "id_image": "frown_4795870"
+    }
+  ]
+}

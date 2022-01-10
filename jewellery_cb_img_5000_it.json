@@ -1,0 +1,70 @@
+{
+  "english": "jewellery",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đồ trang sức",
+          "definition": "articles made or sold by a jeweller, and worn for personal adornment, eg bracelets, necklaces, brooches, rings etc",
+          "world_new": [
+            "jeweller",
+            "worn",
+            "personal",
+            "adornment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "(also adjective) a jewellery box (= a box for keeping jewellery in).",
+              "world_new": [
+                "box",
+                "box",
+                "keeping"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Women and girls came to their new homesteads with their own jewellery and were subsequendy buried with them.",
+    "We must remember that masque performances were great occasions, replete with distractions - royalty, nobility, fancy dress, beautiful women, glorious jewellery.",
+    "It is striking that much of the most elaborate and costly jewellery was clearly made to be worn and displayed by men.",
+    "Women may have a couple of synthetic saris, using a blouse and lungi for daily wear, and own no gold jewellery other than the thin chain holding their marriage tali.",
+    "Gold and jewellery were more important as potential sources of cash, especially among women in urban areas.",
+    "Other assets incorporated in the measure included jewellery, various household goods (furniture, bicycle, radios), and livestock.",
+    "For instance, a husband whose wife has died may dispose privately of a few quite modest articles of jewellery.",
+    "Indeed, paying homage to fashion is a major contribution whether it is 'bling' jewellery, baggy jeans, etc., or displaying the 'in-yer-face' attitude."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "Jew",
+    "jewel",
+    "jewelled",
+    "jeweller",
+    "jewellery",
+    "Jewish",
+    "jib",
+    "jibe",
+    "jiffy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379307_f94de2bc50_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379307_582751cfce_o.png",
+      "id_image": "jewellery_2230412"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689434_aa04140fa6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689434_8c0a97fe74_o.png",
+      "id_image": "jewellery_2374127"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071305_1dc28128a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071305_f43bfd639c_o.png",
+      "id_image": "jewellery_2421818"
+    }
+  ]
+}

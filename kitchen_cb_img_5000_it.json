@@ -1,0 +1,79 @@
+{
+  "english": "kitchen",
+  "phat_am": "ˈkitʃin",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bếp",
+          "definition": "a room where food is cooked",
+          "world_new": [
+            "room",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A smell of burning was coming from the kitchen",
+              "world_new": [
+                "smell"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a kitchen table.",
+              "world_new": [
+                "table"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "With its neglect of policy transfer, it has not yet entered the kitchen, let alone started cooking.",
+    "This ad purports to revolutionize women's work in the kitchen, reducing their household chores.",
+    "If your kitchen is short of marzipan, maybe you have a jar (from jarrah) of sultanas.",
+    "Meals were eaten in the living room, rather than in the kitchen and all the family ate together at the same table.",
+    "He staple in your kitchen as it has in mine.",
+    "And thus she will also rationally believe that there is an olive on the kitchen floor.",
+    "Cross-contamination from offal will occur directly or indirectly via equipment, air and food handlers in slaughterhouses, retail outlets and residential kitchens.",
+    "For example, the public home-help service, if received at all, typically provides only infrequent cleaning of just one room and the kitchen."
+  ],
+  "list_see_also": [
+    "kitchenette"
+  ],
+  "list_browse": [
+    "kiss of life",
+    "kit",
+    "kit out",
+    "kitbag",
+    "kitchen",
+    "kitchenette",
+    "kite",
+    "kitten",
+    "kittenish"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326406_a5a6289e5d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326406_2db50ba0a8_o.png",
+      "id_image": "kitchen_1408047"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326356_beca2659f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326356_da2c9129c8_o.png",
+      "id_image": "kitchen_1472340"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371197_532b6b048b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371197_b2f5337ac6_o.png",
+      "id_image": "kitchen_417435"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441413_c6e07f43b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441413_07f74ee755_o.png",
+      "id_image": "kitchen_963810"
+    }
+  ]
+}

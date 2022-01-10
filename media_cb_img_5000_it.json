@@ -1,0 +1,77 @@
+{
+  "english": "media",
+  "phat_am": "(British) ˈmiːdiə; (American) ˈmiːdiːə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phương tiện truyền thông đại chúng",
+          "definition": "all the organizations that supply news and information to the public, such as newspapers, radio, television, and the Internet",
+          "world_new": [
+            "supply",
+            "news",
+            "information",
+            "public",
+            "radio",
+            "television",
+            "Internet"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the news media",
+              "world_new": [
+                "news"
+              ]
+            },
+            {
+              "ex_of_definition": "There has been considerable media coverage in recent years of householders who have been prosecuted after taking action against intruders.",
+              "world_new": [
+                "considerable",
+                "coverage",
+                "recent",
+                "action"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "môi trường",
+          "definition": "the plural of medium.",
+          "world_new": [
+            "plural"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "medallist",
+    "meddle",
+    "meddler",
+    "meddlesome",
+    "media",
+    "mediate",
+    "mediation",
+    "mediator",
+    "medic"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362822_20ea84a20c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362822_d63bfb9a2d_o.png",
+      "id_image": "media_1674954"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362812_7aa5e61780_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362812_d3f6a58709_o.png",
+      "id_image": "media_2303901"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054850_a6ee89d856_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054850_24d60eafde_o.png",
+      "id_image": "media_4660823"
+    }
+  ]
+}

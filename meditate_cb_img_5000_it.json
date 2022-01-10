@@ -1,0 +1,72 @@
+{
+  "english": "meditate",
+  "phat_am": "ˈmediteit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "trầm tư",
+          "definition": "to think deeply",
+          "world_new": [
+            "think",
+            "deeply"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was meditating on his troubles."
+            }
+          ]
+        },
+        {
+          "mean_english": "thiền",
+          "definition": "to spend short, regular periods in deep (especially religious) thought",
+          "world_new": [
+            "spend",
+            "short",
+            "regular",
+            "deep",
+            "thought"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He meditates twice a day.",
+              "world_new": [
+                "twice",
+                "day"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "meditation",
+    "meditative",
+    "meditatively"
+  ],
+  "list_browse": [
+    "medicine",
+    "medieval",
+    "mediocre",
+    "mediocrity",
+    "meditate",
+    "meditation",
+    "meditative",
+    "meditatively",
+    "Mediterranean"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463658_46ea742cbb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463658_95f645861c_o.png",
+      "id_image": "meditate_2621914"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463638_20fe695c2f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463638_f6ffd19dda_o.png",
+      "id_image": "meditate_3062585"
+    }
+  ]
+}

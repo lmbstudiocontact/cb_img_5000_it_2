@@ -1,0 +1,70 @@
+{
+  "english": "helpline",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đường dây hỗ trợ",
+          "definition": "a telephone service that provides advice and support about particular problems",
+          "world_new": [
+            "telephone",
+            "service",
+            "advice",
+            "support",
+            "particular"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They set up a helpline to offer advice to customers.",
+              "world_new": [
+                "offer",
+                "advice"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A telephone helpline was established to coincide with the press release.",
+    "It includes a telephone helpline, 30-minute consultations, and prescribing by nurses.",
+    "The helpline provides practical advice in the application of the minimum wage, and it is a focal point for complaints of underpayment.",
+    "The press release will include details of local continence adviser contact numbers and ethnic minority helpline numbers.",
+    "Nearly 2 million posters, leaflets and stickers advertising this helpline and encouraging sufferers to seek treatment were distributed.",
+    "I have heard of charities setting up helplines where staff have been talking to many callers who are often in tears.",
+    "More than a year later would-be parents are still having to organise their own informal ad hoc helplines.",
+    "A telephone helpline number was included in all mailshots."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "helping",
+    "helpless",
+    "helplessly",
+    "helplessness",
+    "helpline",
+    "helter-skelter",
+    "hem",
+    "hem in",
+    "hemisphere"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694134_8fe7709031_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694134_b40a1078e4_o.png",
+      "id_image": "helpline_2302759"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383872_157f5e3854_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383872_e3c51bb0f1_o.png",
+      "id_image": "helpline_2904513"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075995_0abfbfe4a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075995_84102f8a4f_o.png",
+      "id_image": "helpline_3892165"
+    }
+  ]
+}

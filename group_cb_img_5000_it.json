@@ -1,0 +1,100 @@
+{
+  "english": "group",
+  "phat_am": "ɡruːp",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhóm, tốp",
+          "definition": "a number of persons or things together",
+          "world_new": [
+            "number"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a group of boys."
+            }
+          ]
+        },
+        {
+          "mean_english": "ban, nhóm",
+          "definition": "a group of people who play or sing together",
+          "world_new": [
+            "people",
+            "play",
+            "sing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a pop group",
+              "world_new": [
+                "pop"
+              ]
+            },
+            {
+              "ex_of_definition": "a folk group.",
+              "world_new": [
+                "folk"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tập hợp lại",
+          "definition": "to form into a group or groups",
+          "world_new": [
+            "form"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The children grouped round the teacher.",
+              "world_new": [
+                "teacher"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "grounding",
+    "groundless",
+    "grounds",
+    "groundwork",
+    "group",
+    "grouse",
+    "grovel",
+    "grow",
+    "grow on"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056795_c7fd3247a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056795_3904dcf115_o.png",
+      "id_image": "group_1055430"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056750_95dd635a7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056750_decd3d6077_o.png",
+      "id_image": "group_1158426"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435188_f20e01f39e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435188_8073f1c0d7_o.png",
+      "id_image": "group_1300018"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365027_086cbaff95_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365027_49d37c4e86_o.png",
+      "id_image": "group_860469"
+    }
+  ]
+}

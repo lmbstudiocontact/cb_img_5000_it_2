@@ -1,0 +1,165 @@
+{
+  "english": "horn",
+  "phat_am": "hoːn",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sừng; gạc",
+          "definition": "a hard object which grows (usually in pairs) on the head of a cow, sheep etc",
+          "world_new": [
+            "object",
+            "head",
+            "cow",
+            "sheep"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A ram has horns.",
+              "world_new": [
+                "ram"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chất sừng",
+          "definition": "the material of which this is made",
+          "world_new": [
+            "material"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The spoons are made of horn"
+            },
+            {
+              "ex_of_definition": "(also adjective) horn spoons."
+            }
+          ]
+        },
+        {
+          "mean_english": "đồ dùng làm bằng sừng",
+          "definition": "something which is made of horn",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a shoehorn."
+            }
+          ]
+        },
+        {
+          "mean_english": "vật có hình dáng giống sừng động vật",
+          "definition": "something which looks like a horn in shape",
+          "world_new": [
+            "looks",
+            "shape"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a snail’s horns."
+            }
+          ]
+        },
+        {
+          "mean_english": "còi xe hơi",
+          "definition": "the apparatus in a car etc which gives a warning sound",
+          "world_new": [
+            "apparatus",
+            "car",
+            "warning",
+            "sound"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The driver blew his horn.",
+              "world_new": [
+                "driver"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cái tù và",
+          "definition": "an instrument, formerly an animal’s horn but now made of brass, that is blown to produce a musical sound",
+          "world_new": [
+            "instrument",
+            "formerly",
+            "brass",
+            "produce",
+            "musical",
+            "sound"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a hunting horn.",
+              "world_new": [
+                "hunting"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kèn co",
+          "definition": "(also French horn) the type of coiled brass horn that is played in orchestras etc.",
+          "world_new": [
+            "type",
+            "brass"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I start with the scooter horn going into that ambience, then include the mix exactly at that point.",
+    "Any listener who recognises and loves the sound of the horn will soon be drawn into the narrative.",
+    "In the adult dorsal horn, gap junctions form predominantly between astrocytes.",
+    "The shapes of galls vary from being bag-like, spherical, oval, horn-like, maple leaf-like, and others.",
+    "An additional compositional property of horn epidermis is the variable presence of pigmentation in the wall region.",
+    "A large proportion of non-neuronal cells in the ventral horn of the spinal cord are astrocytes, which play key roles in maintaining a homeostatic environment.",
+    "Finally, these pain mediators collaborate to induce and maintain abnormal pain in injury conditions by enhancing synaptic strength and central sensitization in dorsal horn neurons.",
+    "Horn unifies neg-raising verbs as a natural class by positing that they are mid-scalar (329), which represents the unmarked value."
+  ],
+  "list_see_also": [
+    "horned",
+    "-horned",
+    "horny"
+  ],
+  "list_browse": [
+    "horizon",
+    "horizontal",
+    "horizontally",
+    "hormone",
+    "horn",
+    "horned",
+    "hornet",
+    "horny",
+    "horoscope"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068750_7babf1a6d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068750_0c00ac4393_o.png",
+      "id_image": "horn_280078"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068690_44528258a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068690_8d1f82012d_o.png",
+      "id_image": "horn_4082400"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331951_a0906070e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331951_c63c7499e9_o.png",
+      "id_image": "horn_4330817"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446938_44ed49d803_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446938_e567c4283c_o.png",
+      "id_image": "horn_6255117"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687044_128638c173_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687044_73a138f102_o.png",
+      "id_image": "horn_788087"
+    }
+  ]
+}

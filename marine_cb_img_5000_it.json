@@ -1,0 +1,95 @@
+{
+  "english": "marine",
+  "phat_am": "məˈriːn",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc biển",
+          "definition": "of the sea",
+          "world_new": [
+            "sea"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "marine animals"
+            },
+            {
+              "ex_of_definition": "marine law.",
+              "world_new": [
+                "law"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hải quân",
+          "definition": "a soldier serving on board a ship",
+          "world_new": [
+            "soldier",
+            "serving",
+            "board",
+            "ship"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has joined the marines."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They have seen the governor driven out and the marines overrun.",
+    "What about the marines who were already on the islands?",
+    "They make some of the finest sailors and marines that we could have.",
+    "I hope that we shall find seamen and marines applying in greater numbers.",
+    "No decisions have yet been taken on the preferred disposal route for reactors from decommissioned nuclear sub-marines.",
+    "I am confident that the marines could play a much more effective rôle here than they have hitherto been asked to do.",
+    "Other nations are taking artificial steps to foster their own maritime marines of straight discrimination with regard to ships of their own flag.",
+    "Was he telling me to tell it to the marines?"
+  ],
+  "list_see_also": [
+    "mariner"
+  ],
+  "list_browse": [
+    "margin",
+    "marginal",
+    "marijuana",
+    "marina",
+    "marine",
+    "mariner",
+    "marionette",
+    "marital",
+    "marital status"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678529_d6ce00a9b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678529_c65a4529ba_o.png",
+      "id_image": "marine_2614598"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368202_58c6cfdc90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368202_c5388f1829_o.png",
+      "id_image": "marine_4695130"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323261_5175a62c66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323261_48b0835074_o.png",
+      "id_image": "marine_5426840"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368122_88c1ea5440_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368122_f80c10c648_o.png",
+      "id_image": "marine_5969101"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "english": "magical",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc ảo thuật",
+          "definition": "produced by, or as if by, the art of magic",
+          "world_new": [
+            "art",
+            "magic"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The wizard possesses magical powers.",
+              "world_new": [
+                "wizard"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "có sức lôi cuốn",
+          "definition": "fascinating; charming or very beautiful",
+          "world_new": [
+            "charming",
+            "beautiful"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a magical experience.",
+              "world_new": [
+                "experience"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The probability of a correct response as a function of size of stimulus set in the magical number tasks.",
+    "The magical number seven, plus or minus two : some limits on our capacity for processing information.",
+    "We want magical cures for our problems, and such desires create a universal demand for what science can provide.",
+    "The first chapter examines elite attitudes and the changing legal position visa-vis witchcraft and magical practices.",
+    "The result was ' 'magical,' ' with all the townspeople recovering their health.",
+    "From this magical opening the work radiates out into passages of almost unfathomable loveliness.",
+    "He placed this incident into the category of inswelaboya, a known type of act with the goal of collecting magical substances.",
+    "The healing powers encapsulated in the bones on his magical cape would have derived from the divine powers of creation manifested during that period."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "magazine",
+    "magenta",
+    "maggot",
+    "magic",
+    "magical",
+    "magically",
+    "magician",
+    "magistrate",
+    "magnanimity"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066855_8ba654734b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066855_be5fcd1ce3_o.png",
+      "id_image": "magical_2178126"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330036_dd8c66c660_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330036_6bef9d1245_o.png",
+      "id_image": "magical_2917440"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684954_a7ce8621f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684954_7ff8f9e271_o.png",
+      "id_image": "magical_4545195"
+    }
+  ]
+}

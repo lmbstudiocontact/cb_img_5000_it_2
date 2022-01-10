@@ -1,0 +1,68 @@
+{
+  "english": "jester",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "anh hề",
+          "definition": "in former times, a man employed in the courts of kings, nobles etc to amuse them with jokes etc",
+          "world_new": [
+            "former",
+            "times",
+            "employed",
+            "amuse"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a court jester.",
+              "world_new": [
+                "court"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "It is no time for the jester.",
+    "It is noticeable that still there are extraordinarily few women in this much jester organisation who reach the highest ranks.",
+    "He will know that the basso profundo often takes the part of the jester and sometimes the ogre.",
+    "In the first, he went a long way to confirm his reputation as our best financial jester.",
+    "Death and the jester's (the theatre's) order are two sides of the same coin.",
+    "There were certain basic requirements that role to become a jester to the unfortunate that they are missing.",
+    "A wheel spin will reward the player with gold, card packs, card points, research points, faith points or the jester, who denotes a free spin.",
+    "However, several aspects of his history suggest a more specialised role, one that combined the activities of cleric, scholar, musician and jester."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "jerkiness",
+    "jerky",
+    "jersey",
+    "jest",
+    "jester",
+    "jet",
+    "jet engine",
+    "jet lag",
+    "jet propulsion"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379757_946d694e52_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379757_e341e1828b_o.png",
+      "id_image": "jester_1205642"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379707_f3b3dac749_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379707_34e0864612_o.png",
+      "id_image": "jester_2545785"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449868_58822d38f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449868_9e64aeb3a0_o.png",
+      "id_image": "jester_722869"
+    }
+  ]
+}

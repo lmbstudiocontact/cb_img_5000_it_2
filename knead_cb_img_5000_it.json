@@ -1,0 +1,62 @@
+{
+  "english": "knead",
+  "phat_am": "niːd",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nhào trộn",
+          "definition": "to press together and work (dough etc) with the fingers",
+          "world_new": [
+            "press",
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His mother was kneading (dough) in the kitchen.",
+              "world_new": [
+                "mother",
+                "kitchen"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Dynamical zeta functions and kneading operators.",
+    "What you need to knead.",
+    "Combinatorial objects closely related to kneading sequences are the so-called internal addresses.",
+    "Suppose g has periodic kneading ^ sequences.",
+    "Of crucial importance in this construction is the kneading invariant, a sequence that is derived from the topology of the basins of attraction of the attracting cycle.",
+    "Sharp determinants and kneading operators for holomorphic maps.",
+    "Observe that the cases in (iii) can only occur if at least one of the two given kneading sequences and is non-admissible.",
+    "On the other hand, there are kneading sequences which are not realized at all."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "km",
+    "knack",
+    "knapsack",
+    "knave",
+    "knead",
+    "knee",
+    "knee-deep",
+    "kneecap",
+    "kneel"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370747_2e9a7c52d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370747_23c720a85a_o.png",
+      "id_image": "knead_3449353"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325911_988062d166_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325911_308530248c_o.png",
+      "id_image": "knead_3449387"
+    }
+  ]
+}

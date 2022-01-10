@@ -1,0 +1,89 @@
+{
+  "english": "indent",
+  "phat_am": "inˈdent",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "sắp chữ lùi vào",
+          "definition": "to begin (a line of writing) farther in from the margin than the other lines",
+          "world_new": [
+            "begin",
+            "line",
+            "margin",
+            "lines"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You should indent the first line of each new paragraph.",
+              "world_new": [
+                "line",
+                "paragraph"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chỗ lùi vào",
+          "definition": "(also indentation) the space left at the beginning of a line, eg the first line of a paragraph.",
+          "world_new": [
+            "space",
+            "left",
+            "beginning",
+            "line",
+            "line",
+            "paragraph"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The leaves have scalloped edges, have a hairy surface, and are indented with veins.",
+    "By indenting the sides of the structure three feet, he opened a slender airshaft between abutting buildings.",
+    "The volcano is shaped like a foot; the northeast coast is prominently indented across 20kmmi 0 of shoreline.",
+    "All that survives of the original formation is an irregular perimeter of low, indented ridges surrounding the lava-resurfaced interior.",
+    "The senior medical officer had foreseen that supplies of drugs and dressings might need replenishing at about the end of the year, and had indented to us for them.",
+    "The outer lip slightly indented, sharp, articulated with pinkish-brown, with an inner opaque white band.",
+    "Final portions of the indents are now being shipped.",
+    "The fruit is spherical, indented, becoming purple or black when ripe."
+  ],
+  "list_see_also": [
+    "indentation",
+    "indented"
+  ],
+  "list_browse": [
+    "indefinite article",
+    "indefinitely",
+    "indefiniteness",
+    "indelible",
+    "indent",
+    "indentation",
+    "indented",
+    "independence",
+    "independent"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673174_24e46b6606_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673174_ae2baa9ac5_o.png",
+      "id_image": "indent_2844368"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054990_d3913d1f44_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054990_01bffd5f4d_o.png",
+      "id_image": "indent_930228"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673194_02e16f75bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673194_222c88b242_o.png",
+      "id_image": "indent_930229"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "english": "lodge",
+  "phat_am": "lodʒ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhà thường trực",
+          "definition": "a small house, especially one at a gate to the grounds of a large house.",
+          "world_new": [
+            "small",
+            "house",
+            "gate",
+            "grounds",
+            "large",
+            "house"
+          ]
+        },
+        {
+          "mean_english": "phòng bảo vệ",
+          "definition": "a room at a college gate etc for an attendant",
+          "world_new": [
+            "room",
+            "college",
+            "gate",
+            "attendant"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the porter’s lodge."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cho ở trọ",
+          "definition": "to live in rooms for which one pays, in someone else’s house",
+          "world_new": [
+            "live",
+            "rooms",
+            "house"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He lodges with the Johnsons."
+            }
+          ]
+        },
+        {
+          "mean_english": "bắn vào",
+          "definition": "to make or become fixed",
+          "world_new": [
+            "become",
+            "fixed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The bullet was lodged in his spine.",
+              "world_new": [
+                "bullet",
+                "spine"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gửi; trao",
+          "definition": "to make (an objection, an appeal etc) formally or officially",
+          "world_new": [
+            "objection",
+            "appeal",
+            "formally",
+            "officially"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She is lodging an official complaint.",
+              "world_new": [
+                "lodging",
+                "official",
+                "complaint"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The choice was based on entrance fee, travel time, lodging facilities, tour packages, landscape features, and biodiversity of each destination.",
+    "Other traits measured occasionally are lodging resistance, reaction to diseases, cold damage and wilting due to drought stress.",
+    "The cane-cutters preferred the twelve-month cane; the 24-month cane was reported to be harder to cut, had lodged and was infested with weeds.",
+    "A similar charge can be lodged against the analytical foundations of recuperative archaeological politics.",
+    "Workers and dealers in food and lodging 17.",
+    "What has not been achieved is good lodging resistance in all short spring wheats, nor a complete understanding of its physiological basis.",
+    "After the seventeenth century, lodging was no longer only a life-cycle phase for everyone.",
+    "In such situations, producers typically have some indication of the risks of lodging in their fields, based on earlier experiences."
+  ],
+  "list_see_also": [
+    "lodger",
+    "lodging"
+  ],
+  "list_browse": [
+    "locomotion",
+    "locomotive",
+    "locum",
+    "locust",
+    "lodge",
+    "lodger",
+    "lodging",
+    "loft",
+    "loftily"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382367_1dc8769956_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382367_500e844962_o.png",
+      "id_image": "lodge_191533"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074275_0f057dfe0f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074275_f72b547c80_o.png",
+      "id_image": "lodge_3751966"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074390_35b919e0d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074390_5a4b734079_o.png",
+      "id_image": "lodge_588822"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382327_b81674a184_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382327_fe55dcf285_o.png",
+      "id_image": "lodge_746839"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074330_42a496b261_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074330_f798a541fd_o.png",
+      "id_image": "lodge_895523"
+    }
+  ]
+}

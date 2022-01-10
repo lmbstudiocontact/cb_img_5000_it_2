@@ -1,0 +1,81 @@
+{
+  "english": "infrastructure",
+  "phat_am": "(British) ˈinfrəsˌtraktʃə; (American) ˈinfrəsˌtraktʃər",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cơ sở hạ tầng",
+          "definition": "the basic structures and systems needed for a country or an organization to function properly, for example buildings, transport systems, and power supplies",
+          "world_new": [
+            "basic",
+            "country",
+            "organization",
+            "function",
+            "properly",
+            "example",
+            "transport",
+            "power"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Investment in infrastructure is critical to economic growth.",
+              "world_new": [
+                "critical",
+                "economic",
+                "growth"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The structuring of clan society in the area would, thus, become untenable in practical terms, with its infrastructure undermined.",
+    "These projects are targeted to increase environmental infrastructure to contend with the rapid industrialization and population growth that has strained the region for decades.",
+    "It also relied on extension infrastructure and an active farm consulting market to educate farmers.",
+    "For such a process to be a success, the right infrastructure, research design, people, partnerships, and funding need to be in place.",
+    "Such infrastructure increases trust in the marketplace and reduces the inherent risks which emanate from dealing with previously unknown participants.",
+    "There was an increase in the number of tourists and a steady growth of tourist-related infrastructure.",
+    "A university of 20 000 students based on this infrastructure could provide new forms of employment and access to badly needed housing to modern standards.",
+    "The measure of civil liberties, public sector competence, irregular payments, and regulatory burden are all dropped from the administrative infrastructure sub-index."
+  ],
+  "list_see_also": [
+    "infrastructural"
+  ],
+  "list_browse": [
+    "informer",
+    "infra-red",
+    "infrasonic",
+    "infrastructural",
+    "infrastructure",
+    "infrequency",
+    "infrequent",
+    "infringe",
+    "infringement"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431693_aae398a327_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431693_f4f48e2312_o.png",
+      "id_image": "infrastructure_1340005"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431663_fda929b999_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431663_b84e140ea1_o.png",
+      "id_image": "infrastructure_3043543"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316676_8334cb9771_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316676_315225d79f_o.png",
+      "id_image": "infrastructure_4335974"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316631_412e437c50_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316631_a0a0e6f6e4_o.png",
+      "id_image": "infrastructure_6213765"
+    }
+  ]
+}

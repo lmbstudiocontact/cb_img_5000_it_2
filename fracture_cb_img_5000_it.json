@@ -1,0 +1,92 @@
+{
+  "english": "fracture",
+  "phat_am": "ˈfrӕktʃə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự gãy, vỡ (nhất là xương)",
+          "definition": "a break of anything hard, especially a bone",
+          "world_new": [
+            "break",
+            "bone"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a fracture of the left thigh-bone.",
+              "world_new": [
+                "left"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "gãy hay rạn nứt",
+          "definition": "to break",
+          "world_new": [
+            "break"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The metal pipes (were) fractured.",
+              "world_new": [
+                "metal",
+                "pipes"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Primary end-points were new radiographic vertebral fractures and bone mineral density.",
+    "There are also fractures filled with prehnite, epidote and chlorite.",
+    "With increasing tensile stress due to dehydration, brittle fractures develop at these inhomogeneities.",
+    "Slight alteration and hydration of the silicate phases (typically along fractures) has resulted in a secondary assemblage including chlorite, ser pentine, sericite and rare calcite.",
+    "During dehydration, brittle fractures form within the transition zones.",
+    "The story, though fractured, brings out the politics of negotiation quite well.",
+    "Many onyxes are so prone to fracturing that only very careful sawing and polishing is possible.",
+    "The pooled-rate ratio for hip fractures was 0.67 (0.46 - 0.98)."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "fraction",
+    "fractional",
+    "fractious",
+    "fractiousness",
+    "fracture",
+    "fragile",
+    "fragility",
+    "fragment",
+    "fragmentary"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313511_069bedab4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313511_6d3d4c557f_o.png",
+      "id_image": "fracture_2865347"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357532_62c24fec31_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357532_9dc372fc2a_o.png",
+      "id_image": "fracture_4658077"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357482_fab8540976_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357482_6d4b78ca70_o.png",
+      "id_image": "fracture_5730201"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357467_55bc212d15_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357467_0bd4fd3f98_o.png",
+      "id_image": "fracture_6138055"
+    }
+  ]
+}

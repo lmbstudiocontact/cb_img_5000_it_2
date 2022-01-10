@@ -1,0 +1,121 @@
+{
+  "english": "lace",
+  "phat_am": "leis",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "dây buộc giày",
+          "definition": "a string or cord for fastening shoes etc",
+          "world_new": [
+            "string",
+            "cord",
+            "fastening"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I need a new pair of laces for my tennis shoes.",
+              "world_new": [
+                "I",
+                "pair",
+                "my",
+                "tennis"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đăng ten",
+          "definition": "delicate net-like decorative fabric made with fine thread",
+          "world_new": [
+            "delicate",
+            "decorative",
+            "fabric",
+            "fine",
+            "thread"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her dress was trimmed with lace",
+              "world_new": [
+                "dress"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a lace shawl.",
+              "world_new": [
+                "shawl"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "buộc chặt bằng dây",
+          "definition": "to fasten or be fastened with a lace which is threaded through holes",
+          "world_new": [
+            "fasten"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Lace (up) your boots firmly.",
+              "world_new": [
+                "your",
+                "firmly"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "While on horseback, the fair equestrian shunned the lace, frills, and furbelows worn by her pedestrian sisters.",
+    "The lace was taken from her wedding gown and the ribbons were ' old ' and came from her wearing apparel.",
+    "Lace-making, ribbon-making, and the like were also part of this programme.",
+    "Topographies and histories of local industry often emphasize differences between hosiery and lace, but they also note overlaps.",
+    "Some people wear laces on their foot, what should we call that?",
+    "Trades included were iron manufacture, coal and mineral mining, hardware, cutlery, knitting, cloth and leather trades, as well as pottery and lace making.",
+    "The early lace machines were in fact developed from knitting machines, and drew on local reserves of capital, labour and technical knowledge.",
+    "Terms such a 'barbaric', 'primitive' and 'uncivilised' laced the forest literature of the period."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "labour-saving",
+    "labourer",
+    "Labrador",
+    "labyrinth",
+    "lace",
+    "lack",
+    "laconic",
+    "laconically",
+    "lacquer"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060215_8dc4b53758_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060215_70dba9dafd_o.png",
+      "id_image": "lace_2818460"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368412_0a25d8167b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368412_6033cfda8c_o.png",
+      "id_image": "lace_298185"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438538_2b23929ef3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438538_f1c9b2539f_o.png",
+      "id_image": "lace_354480"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678649_fc546c6e60_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678649_20966877d2_o.png",
+      "id_image": "lace_444967"
+    }
+  ]
+}

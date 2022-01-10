@@ -1,0 +1,109 @@
+{
+  "english": "international",
+  "phat_am": "intəˈnӕʃənl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "quốc tế",
+          "definition": "involving, or done by, two or more nations",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "international trade",
+              "world_new": [
+                "trade"
+              ]
+            },
+            {
+              "ex_of_definition": "an international football match.",
+              "world_new": [
+                "football",
+                "match"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "trận thi đấu quốc tế",
+          "definition": "a football/soccer etc match played between teams from two countries",
+          "world_new": [
+            "match"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "France and England will play an international in July.",
+              "world_new": [
+                "play",
+                "July"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vận động viên có trình độ quốc tế",
+          "definition": "a player in such a match",
+          "world_new": [
+            "player",
+            "match"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Manchester United have several internationals in their team.",
+              "world_new": [
+                "their",
+                "team"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A brief survey of continental traditions in archaeology convincingly demonstrates the constantly varying approach to international debate and shows the different aspects emphasized.",
+    "Overlapping with international economic difficulties was the growing restlessness of the dictators.",
+    "Words stressing this yang principle are best avoided in an international community.",
+    "The university's participants occasionally suggested that the creation of an international university in the liberal mode was not their ultimate goal.",
+    "How can the international scientific community communicate if there is no common language?",
+    "And so the spoken drama struggles, receiving little international or local community funding, nor extra government money to compensate.",
+    "A consensus has emerged that sound management of health care systems makes a significant contribution to the international competitiveness of a country.",
+    "Often they may be either local or international rather than nationally different styles."
+  ],
+  "list_see_also": [
+    "internationally"
+  ],
+  "list_browse": [
+    "intern",
+    "internal",
+    "internal combustion",
+    "internally",
+    "international",
+    "internationally",
+    "Internet",
+    "internment",
+    "internode"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456453_6249506598_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456453_78d85736a2_o.png",
+      "id_image": "international_1424768"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341566_f375257478_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341566_1a721880e0_o.png",
+      "id_image": "international_2090519"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696759_823da832e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696759_e9a33bbbcf_o.png",
+      "id_image": "international_4459318"
+    }
+  ]
+}

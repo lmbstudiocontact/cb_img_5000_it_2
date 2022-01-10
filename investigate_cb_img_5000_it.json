@@ -1,0 +1,81 @@
+{
+  "english": "investigate",
+  "phat_am": "inˈvestiɡeit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "điều tra",
+          "definition": "to examine or inquire into carefully",
+          "world_new": [
+            "examine",
+            "inquire",
+            "carefully"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The police are investigating the crime",
+              "world_new": [
+                "police",
+                "crime"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In particular, problems of coexistence and exclusion of competing species have been theoretically investigated using models based on partial and ordinary differential equations.",
+    "Here we investigate an idealised problem where the rigid bottom is replaced by a layer with a damping mechanism.",
+    "We review research investigating the roles played by these variables in studies of choice from our laboratory.",
+    "A second common feature of qualitative research is the emphasis upon the description of the setting being investigated.",
+    "We generalize the notion of reversible systems in symbolic dynamics, and investigate their properties.",
+    "Various aspects of the interaction of relativistically intense pulses with preformed plasmas and solid targets were investigated in the experiments.",
+    "To investigate these hypotheses, we defined a number of regions that have been identified as part of the social brain network in adults.",
+    "The impact of singing on children's psychological state and well-being was investigated with a participant population of 76 pre-pubertal children."
+  ],
+  "list_see_also": [
+    "investigation",
+    "investigator"
+  ],
+  "list_browse": [
+    "invert",
+    "invertebrate",
+    "inverted commas",
+    "invest",
+    "investigate",
+    "investigation",
+    "investigator",
+    "investiture",
+    "investment"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339216_e71db515c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339216_29789aac26_o.png",
+      "id_image": "investigate_1936002"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384137_237d90db32_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384137_e086f6f99b_o.png",
+      "id_image": "investigate_2472785"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076300_738dc9a388_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076300_ab0c6060d4_o.png",
+      "id_image": "investigate_2472985"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694239_ebd76b57cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694239_3d3bbcaf38_o.png",
+      "id_image": "investigate_2646583"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384207_3ef89beb50_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384207_8ea55a61e8_o.png",
+      "id_image": "investigate_914844"
+    }
+  ]
+}

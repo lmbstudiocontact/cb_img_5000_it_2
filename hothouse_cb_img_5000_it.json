@@ -1,0 +1,42 @@
+{
+  "english": "hothouse",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhà kính",
+          "definition": "a glass-house kept warm for growing plants in",
+          "world_new": [
+            "warm"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He grows orchids in his hothouse."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "hotelier",
+    "hotfoot",
+    "hothead",
+    "hotheaded",
+    "hothouse",
+    "hotly",
+    "hound",
+    "hour",
+    "hour hand"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444758_aa37b57425_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444758_94519870de_o.png",
+      "id_image": "hothouse_1345387"
+    }
+  ]
+}

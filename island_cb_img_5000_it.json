@@ -1,0 +1,100 @@
+{
+  "english": "island",
+  "phat_am": "ˈailənd",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hòn đảo",
+          "definition": "a piece of land surrounded by water",
+          "world_new": [
+            "piece",
+            "land",
+            "water"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a tropical island",
+              "world_new": [
+                "tropical"
+              ]
+            },
+            {
+              "ex_of_definition": "The island lay a mile off the coast.",
+              "world_new": [
+                "lay",
+                "mile",
+                "coast"
+              ]
+            },
+            {
+              "ex_of_definition": "Torres Strait Islanders."
+            }
+          ]
+        },
+        {
+          "mean_english": "chỗ đứng tránh của người đi bộ",
+          "definition": "(also traffic island) a traffic-free area, built in the middle of a street, for pedestrians to stand on.",
+          "world_new": [
+            "area",
+            "middle",
+            "street",
+            "stand"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Accordingly, the endemic area was believed to be expanding to other islands.",
+    "Today, with cheap and frequent shipping routes, timber has replaced flagstone as the most viable resource on the island.",
+    "Perhaps this is due to the presence there of a resident population, making them unique among southerly island groups.",
+    "Most of the trapped electrons remain close to the island separatrix, with only a few particles migrating towards the centre.",
+    "The bridge to the island(s) was about ten miles off the main highway.",
+    "Heterotrophic systems may be of different size and complexity such as an island, most cities, an oyster reef or a sewage treatment plant.",
+    "In fact, it is these very matters that are creating current political conflicts on the island.",
+    "Simulations were run to determine the power of these and previously proposed test statistics to reject an island model of geographic subdivision."
+  ],
+  "list_see_also": [
+    "islander"
+  ],
+  "list_browse": [
+    "irritation",
+    "-ish",
+    "Islam",
+    "Islamic",
+    "island",
+    "islander",
+    "isle",
+    "isolate",
+    "isolated"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692609_f01301da4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692609_e02f146478_o.png",
+      "id_image": "island_1494106"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692569_61483ef05c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692569_f238b4e321_o.png",
+      "id_image": "island_3038813"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692544_c888487bf9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692544_4dc9029a0c_o.png",
+      "id_image": "island_4545210"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452183_e6b2e34469_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452183_2fe4ce1e77_o.png",
+      "id_image": "island_619126"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452153_714eb60ef5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452153_69a50e468b_o.png",
+      "id_image": "island_649494"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "english": "mathematical",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc toán học",
+          "definition": "of or done by mathematics",
+          "world_new": [
+            "mathematics"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a mathematical problem",
+              "world_new": [
+                "problem"
+              ]
+            },
+            {
+              "ex_of_definition": "a mathematical table.",
+              "world_new": [
+                "table"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chính xác",
+          "definition": "very exact or accurate",
+          "world_new": [
+            "exact",
+            "accurate"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the mathematical precision of Ancient Greek architecture.",
+              "world_new": [
+                "precision",
+                "architecture"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, an examination of the verbal description of this part of the model and its mathematical implementation reveals a number of problems with this approach.",
+    "Several mathematical strategies can be employed to create new candidate vectors for the current generation, based on the old candidate vectors of the previous generation.",
+    "We assume this fixed scale of uniform steps in affinity for mathematical convenience.",
+    "The precise form of mathematical functions describing these effects is established, while approximate methods for efficient computing of these functions are also proposed.",
+    "The use of bounding volumes allows to simplify the mathematical representation and reduces the computational complexity.",
+    "It may be resolved, however, by accepting that mathematical knowledge comprises both images of knowledge and the body of knowledge.",
+    "A definite mathematical answer to this matter would require a higher-order approximation.",
+    "On the other hand the mathematical analysis of the related models appears to be rather restricted."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "materially",
+    "maternal",
+    "maternally",
+    "maternity",
+    "mathematical",
+    "mathematically",
+    "mathematician",
+    "mathematics",
+    "matinée"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056605_236b68024f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056605_f1e59ee70b_o.png",
+      "id_image": "mathematical_329786"
+    }
+  ]
+}

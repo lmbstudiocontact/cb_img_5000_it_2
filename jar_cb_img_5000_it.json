@@ -1,0 +1,130 @@
+{
+  "english": "jar",
+  "phat_am": "dʒaː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bình",
+          "definition": "a kind of bottle made of glass or pottery, with a wide mouth",
+          "world_new": [
+            "kind",
+            "bottle",
+            "glass",
+            "pottery",
+            "wide",
+            "mouth"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She poured the jam into large jars",
+              "world_new": [
+                "jam",
+                "large"
+              ]
+            },
+            {
+              "ex_of_definition": "a jam jar",
+              "world_new": [
+                "jam"
+              ]
+            },
+            {
+              "ex_of_definition": "a water jar.",
+              "world_new": [
+                "water"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "gây cảm giác khó chịu",
+          "definition": "(with on) to have a harsh and startling effect (on)",
+          "world_new": [
+            "harsh",
+            "effect"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her sharp voice jarred on my ears.",
+              "world_new": [
+                "sharp",
+                "voice",
+                "my"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gây chấn động",
+          "definition": "to give a shock to",
+          "world_new": [
+            "shock"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The car accident had jarred her nerves.",
+              "world_new": [
+                "car",
+                "accident",
+                "nerves"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Opening the jars for this purpose also served to replenish oxygen and maintain aerobic conditions.",
+    "Other fragmented vessels sherds suggest the possibility of small dishes and other jars and bowls.",
+    "The forms are usually bowls and medium- to small-sized jars; some present composite contours.",
+    "At first, such a combination seemed impossibly jarring, but repetition would help the problem fade.",
+    "At the ends of the tube were placed large glass jars 20 cm high by 15 cm diameter.",
+    "Small stirrup jars were available to many social groups and were primarily desired for their function as effective oil containers.",
+    "The 20 g soil 8 oz glass jar volume is compared to both the 16 and 32 oz glass jar volumes.",
+    "Underneath and surrounding the base of the jar were 30 green-blue jade pebbles and an additional 84 green jade pebbles."
+  ],
+  "list_see_also": [
+    "jarring"
+  ],
+  "list_browse": [
+    "Jan",
+    "jangle",
+    "janitor",
+    "January",
+    "jar",
+    "jargon",
+    "jarring",
+    "jaundice",
+    "jaunt"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450648_798f4edafa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450648_c5d406f503_o.png",
+      "id_image": "jar_1355978"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450638_04cc73b468_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450638_7035b088a9_o.png",
+      "id_image": "jar_1373369"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690829_ab60a1171e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690829_5f5aed1dfc_o.png",
+      "id_image": "jar_1676679"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706894_5deb5d760e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706894_2da518caa9_o.png",
+      "id_image": "jar_1676680"
+    }
+  ]
+}

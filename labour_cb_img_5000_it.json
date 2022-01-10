@@ -1,0 +1,168 @@
+{
+  "english": "labour",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lao động",
+          "definition": "hard work",
+          "world_new": [
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The building of the cathedral involved considerable labour/labor over two centuries",
+              "world_new": [
+                "building",
+                "cathedral",
+                "involved",
+                "considerable"
+              ]
+            },
+            {
+              "ex_of_definition": "People engaged in manual labour/labor are often badly paid.",
+              "world_new": [
+                "engaged",
+                "manual",
+                "badly"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhân công",
+          "definition": "workmen on a job",
+          "world_new": [
+            "job"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The firm is having difficulty hiring labour/labor.",
+              "world_new": [
+                "firm",
+                "difficulty"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "các cơ co dạ con trong quá trình đẻ",
+          "definition": "(in a pregnant woman etc) the process of childbirth",
+          "world_new": [
+            "pregnant",
+            "process",
+            "childbirth"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was in labour/labor for several hours before the baby was born.",
+              "world_new": [
+                "baby"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "Công Đảng",
+          "definition": "used with capital as a name for the Socialist party in the United Kingdom.",
+          "world_new": [
+            "name",
+            "party"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "lao động phổ thông",
+          "definition": "to be employed to do hard and unskilled work",
+          "world_new": [
+            "employed",
+            "unskilled",
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He spends the summer labouring/laboring on a building site.",
+              "world_new": [
+                "summer",
+                "building",
+                "site"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hoạt động chậm chạp và khó khăn",
+          "definition": "to move or work etc slowly or with difficulty",
+          "world_new": [
+            "move",
+            "work",
+            "slowly",
+            "difficulty"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They laboured/labored through the deep undergrowth in the jungle",
+              "world_new": [
+                "deep",
+                "undergrowth",
+                "jungle"
+              ]
+            },
+            {
+              "ex_of_definition": "the car engine labours/labors a bit on steep hills.",
+              "world_new": [
+                "car",
+                "engine",
+                "bit",
+                "steep"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Several were relatively young or had a young spouse, and their labour sustained a capital base sufficient to withstand one health or economic crisis.",
+    "A claim of dominion was used, in turn, to legitimise the town's right to call on the indigenous population for labour service.",
+    "The prevention of preterm labour and delivery is the single most important challenge to modern obstetrics today.",
+    "The working plans included construction of forest access roads at fairly high labour cost.",
+    "While labour demand is modelled, labour supply is supposed to follow the demand within the framework of constant nominal wage rates.",
+    "A certain degree of division of labour took place in the production of cigarettes, but not in the production of cigars and limpiones.",
+    "As a simplified representation of the farm labour force, the farmer carries out tasks on both sows and batches.",
+    "It should be stressed that the labour force was structured around households and not around individual labourers."
+  ],
+  "list_see_also": [
+    "laborious",
+    "laboriously",
+    "laboriousness",
+    "labourer",
+    "labour court",
+    "labour dispute",
+    "labour-saving"
+  ],
+  "list_browse": [
+    "laboratory",
+    "laborious",
+    "laboriously",
+    "laboriousness",
+    "labour",
+    "labour court",
+    "labour dispute",
+    "labour-saving",
+    "labourer"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678894_3f8aceb235_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678894_e6292fa597_o.png",
+      "id_image": "labour_3158157"
+    }
+  ]
+}

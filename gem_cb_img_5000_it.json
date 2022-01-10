@@ -1,0 +1,73 @@
+{
+  "english": "gem",
+  "phat_am": "dʒem",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ngọc",
+          "definition": "a precious stone especially when cut into a particular shape, eg for a ring or necklace.",
+          "world_new": [
+            "precious",
+            "stone",
+            "cut",
+            "particular",
+            "shape",
+            "ring",
+            "necklace"
+          ]
+        },
+        {
+          "mean_english": "cái gì quý",
+          "definition": "anything or anyone thought to be especially good",
+          "world_new": [
+            "thought",
+            "especially"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This picture is the gem of my collection.",
+              "world_new": [
+                "picture",
+                "my",
+                "collection"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The gem of the book is the chapter on lighting.",
+    "Matthews (1887, 94f) writes that, once this trade had been outlawed, traffic was conducted in an argot in which gems were referred to as 'calves'.",
+    "The question is whether those unforeseen elements, after careful examination, turn out to be pebbles in one's shoes or gems on one's fingers.",
+    "It contains some gems, but is unlikely to further understanding of the genre as a whole.",
+    "This collection is full of gems that will delight the reader.",
+    "How many hidden gems do we miss, if selection is influenced in this way?",
+    "One or two dwell too passionately on interpretive battles baffling to those outside that field, but some are gems.",
+    "Despite its extensive coverage and compact presentation, the book includes many gems."
+  ],
+  "list_see_also": [
+    "gemstone"
+  ],
+  "list_browse": [
+    "geisha",
+    "gel",
+    "gelatine",
+    "gelignite",
+    "gem",
+    "Gemini",
+    "gemstone",
+    "gender",
+    "gene"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073705_b946653410_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073705_631987fdbe_o.png",
+      "id_image": "gem_4334176"
+    }
+  ]
+}

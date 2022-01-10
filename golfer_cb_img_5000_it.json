@@ -1,0 +1,66 @@
+{
+  "english": "golfer",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người chơi gôn",
+          "definition": "a person who plays golf",
+          "world_new": [
+            "person",
+            "golf"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a keen golfer.",
+              "world_new": [
+                "keen"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There are about 1 million golfers but only about 18,000 youngsters receive tuition in how to play.",
+    "It is argued that tourism would boom, trade would be boosted, leisure would be all-pervasive, and we would become a nation of evening golfers.",
+    "A railway company, it is alleged, must not provide a special train for the benefit of golfers.",
+    "I do not think that any golfer is worried about the state of play at nine o'clock at night, at the coming down of darkness.",
+    "How many of us could have been great footballers but have not played football or great golfers but have not played golf?",
+    "It has been suggested that this is a sort of one-club golfer approach to the problem.",
+    "My wife is a good golfer, athough she is not of an international standard.",
+    "It is merely as football players, golfers, or cricketers that we count in the world at all."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "goldsmith",
+    "golf",
+    "golf course",
+    "golf-club",
+    "golfer",
+    "golfing",
+    "gondola",
+    "gondolier",
+    "gong"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328881_79cf5839e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328881_e5cb80e435_o.png",
+      "id_image": "golfer_2464852"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328831_48959aba98_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328831_6fd4454a0b_o.png",
+      "id_image": "golfer_2464887"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373547_96ac323b58_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373547_93bd5354c9_o.png",
+      "id_image": "golfer_2955027"
+    }
+  ]
+}

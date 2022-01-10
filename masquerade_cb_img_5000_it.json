@@ -1,0 +1,89 @@
+{
+  "english": "masquerade",
+  "phat_am": "mӕskəˈreid",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "trò giả dối",
+          "definition": "(a) pretence or disguise",
+          "world_new": [
+            "pretence",
+            "disguise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her show of friendship was (a) masquerade.",
+              "world_new": [
+                "friendship"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "giả mạo",
+          "definition": "(with as) to pretend to be, usually intending to deceive",
+          "world_new": [
+            "pretend",
+            "deceive"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The criminal was masquerading as a respectable businessman.",
+              "world_new": [
+                "criminal",
+                "respectable",
+                "businessman"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They produce a peculiar narrative order, his specific way of creating loyalty in the reader masquerading as historical narrative.",
+    "One can miss it nowadays in the masquerade of forms that is going on.",
+    "That does not mean that the end users of the data are geochemists, though some of us have masqueraded under that banner.",
+    "Necrotizing soft tissue infection masquerading as cutaneous abscess following illicit drug injection.",
+    "However, when a piece of theoretical work is dismissed as 'highly personal', it seems that an essentially conceptual problem masquerades as a mere terminological dispute.",
+    "Could it perhaps be an office brochure masquerading as a monograph?",
+    "It might be alleged that these figures were modern whigs masquerading behind the name ' old whig ' but such a view seems unconvincing for three reasons.",
+    "It would be a world containing demons masquerading as cats."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "mash",
+    "mask",
+    "mason",
+    "masonry",
+    "masquerade",
+    "mass",
+    "mass-produce",
+    "mass-produced",
+    "mass-production"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058085_1f4c047c8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058085_106673beeb_o.png",
+      "id_image": "masquerade_1711941"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436538_29e3c83141_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436538_4092b270dc_o.png",
+      "id_image": "masquerade_4576100"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058125_e7bcb104a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058125_a8ce286683_o.png",
+      "id_image": "masquerade_863129"
+    }
+  ]
+}

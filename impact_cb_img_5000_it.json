@@ -1,0 +1,90 @@
+{
+  "english": "impact",
+  "phat_am": "ˈimpӕkt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự va chạm",
+          "definition": "(the force of) one object etc hitting against another",
+          "world_new": [
+            "force",
+            "object"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The bomb exploded on impact.",
+              "world_new": [
+                "bomb"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ảnh hưởng",
+          "definition": "a strong effect or impression",
+          "world_new": [
+            "strong",
+            "effect",
+            "impression"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The film had quite an impact on television viewers.",
+              "world_new": [
+                "film",
+                "quite",
+                "television"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, some participants reported that cancer had no impact on their life priorities.",
+    "This strengthens the case for work factors having a greater impact on socioeconomic inequalities in psychological distress among men.",
+    "The following account, while telling something of their story, looks at how such a private 'language' can impact negatively on second-language acquisition.",
+    "Observation and interviews with the children and the classroom teachers were used as a means to gather data on the potentially psychological impact of singing.",
+    "Work factors had a greater impact on class differences in psychological distress in men.",
+    "On neither coast, however, do fisher training programs provide a positive and significant impact in terms of technical efficiency.",
+    "The impact that patenting has on research is enhanced and reinforced by an additional range of factors.",
+    "Apart from their purely demographic impact, childbearing patterns are also important for their social, psychological, and economic implications."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "immunity",
+    "immunization",
+    "immunize",
+    "imp",
+    "impact",
+    "impair",
+    "impairment",
+    "impale",
+    "impart"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058475_219f6b0536_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058475_bea7e955cd_o.png",
+      "id_image": "impact_1794486"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058415_6a8613cf74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058415_fb66f5766d_o.png",
+      "id_image": "impact_3391182"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436808_677beaa80b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436808_4f66c484c7_o.png",
+      "id_image": "impact_4637159"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436893_e264ca599e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436893_afe8124999_o.png",
+      "id_image": "impact_826561"
+    }
+  ]
+}

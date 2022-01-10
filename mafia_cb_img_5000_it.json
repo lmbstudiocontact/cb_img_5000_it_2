@@ -1,0 +1,72 @@
+{
+  "english": "mafia",
+  "phat_am": "ˈmæfiə; American ˈmaːfiːə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "băng đảng mafia",
+          "definition": "a secret organization of criminals that controls many illegal activities, especially in Italy and the US",
+          "world_new": [
+            "secret",
+            "organization",
+            "illegal",
+            "especially"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "(also adjective) a mafia boss.",
+              "world_new": [
+                "boss"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tổ chức ngầm",
+          "definition": "a powerful group of people within an organization, profession, or community who help and protect each other",
+          "world_new": [
+            "powerful",
+            "group",
+            "people",
+            "organization",
+            "profession",
+            "community",
+            "help",
+            "protect"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "madness",
+    "Madonna",
+    "madrigal",
+    "maestro",
+    "mafia",
+    "magazine",
+    "magenta",
+    "maggot",
+    "magic"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375087_263014a185_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375087_688426a49b_o.png",
+      "id_image": "mafia_2099872"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375042_c8e51998c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375042_5dbd7385e9_o.png",
+      "id_image": "mafia_4092069"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375102_7d213412c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375102_1e1f958b9e_o.png",
+      "id_image": "mafia_843337"
+    }
+  ]
+}

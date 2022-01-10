@@ -1,0 +1,60 @@
+{
+  "english": "inventor",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhà phát minh",
+          "definition": "a person who invents",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Alexander Graham Bell was the inventor of the telephone.",
+              "world_new": [
+                "telephone"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The uses of innovations are also often more diverse, or even divergent, compared to the idea of the inventor.",
+    "Fantasies about the harmonica inspired inventors to attempt, in very real ways, to create new and better instruments.",
+    "In response, one might invoke a natural right of any inventor to control the use of his invention.",
+    "This, in turn, serves only to intensify the predisposition of the inventor to direct his attention to these areas of research and application.",
+    "The self-professed inventor of the neighbourhood unit remains an important, though shadowy and under-documented figure.",
+    "A great deal of normal human education consists of learning an inventor y of indices, both natural and man-made; we learn what goes with what.",
+    "Like professional inventors, he was extremely conscious of priority.",
+    "There is also the distinct possibility that he positively enjoyed inventing things, as did so many of the professional inventors who were his contemporaries."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "invent",
+    "invention",
+    "inventive",
+    "inventiveness",
+    "inventor",
+    "inventory",
+    "inversion",
+    "invert",
+    "invertebrate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694939_073518c639_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694939_1025821cd3_o.png",
+      "id_image": "inventor_1610490"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694919_c1e3b35239_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694919_17e112b3ec_o.png",
+      "id_image": "inventor_5020369"
+    }
+  ]
+}

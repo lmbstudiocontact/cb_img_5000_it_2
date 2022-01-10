@@ -1,0 +1,117 @@
+{
+  "english": "grammar",
+  "phat_am": "ˈɡrӕmə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ngữ pháp",
+          "definition": "the rules for forming words and for combining words to form sentences",
+          "world_new": [
+            "form"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s an expert on French grammar.",
+              "world_new": [
+                "expert",
+                "French"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sách ngữ pháp",
+          "definition": "a description or collection of the rules of grammar",
+          "world_new": [
+            "description",
+            "collection"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Could you lend me your Latin grammar?",
+              "world_new": [
+                "lend",
+                "your",
+                "Latin"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a grammar book.",
+              "world_new": [
+                "book"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "việc sử dụng ngữ pháp",
+          "definition": "a person’s use of grammatical rules",
+          "world_new": [
+            "grammatical"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This essay is full of bad grammar.",
+              "world_new": [
+                "essay",
+                "full",
+                "bad"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The results indicate that the development of the two grammars is basically autonomous, but cross-language effects are also present, although not in both children.",
+    "Different theories can be tested via tuning and adaptation of lexicons and grammars.",
+    "Since any stylistic method must rely on stylistic codification of some kind, such style markers in dictionaries, grammars, usage texts andfiguresof speech references are discussed.",
+    "We assume that the non-terminals appearing in the two grammars to be operated on are renamed apart.",
+    "As different reductions give rise to different semantical interpretations, transitions are an indispensable step from pregroup grammars to discourse representation.",
+    "The treatment of constraints by the formalism of extended term grammars is rather rough.",
+    "Figure 2 shows the results in cross entropy of the three grammars.",
+    "Once the relevant morphology is acquired, children overapply the morphology in systematic ways until they finally expunge ungrammatical forms from their grammars."
+  ],
+  "list_see_also": [
+    "grammatical",
+    "grammatically",
+    "grammar-check",
+    "grammar school"
+  ],
+  "list_browse": [
+    "graffiti",
+    "graft",
+    "grain",
+    "gram",
+    "grammar",
+    "grammar school",
+    "grammar-check",
+    "grammatical",
+    "grammatically"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680969_409ebf32cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680969_9389b8e20f_o.png",
+      "id_image": "grammar_1058530"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370557_1852d76cb4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370557_4122ae4617_o.png",
+      "id_image": "grammar_4806129"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325751_15f025a517_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325751_d144c3d8ce_o.png",
+      "id_image": "grammar_5387392"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325701_e011de0dce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325701_180f12af38_o.png",
+      "id_image": "grammar_6091150"
+    }
+  ]
+}

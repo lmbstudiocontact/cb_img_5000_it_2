@@ -1,0 +1,87 @@
+{
+  "english": "knife",
+  "phat_am": "naif",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "con dao",
+          "definition": "an instrument for cutting",
+          "world_new": [
+            "instrument",
+            "cutting"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He carved the meat with a large knife.",
+              "world_new": [
+                "meat",
+                "large"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dao găm",
+          "definition": "such an instrument used as a weapon",
+          "world_new": [
+            "instrument",
+            "weapon"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She stabbed him with a knife."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đâm bằng dao",
+          "definition": "to stab with a knife",
+          "world_new": [
+            "stab"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He knifed her in the back."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "kneel",
+    "knell",
+    "knickerbockers",
+    "knickers",
+    "knife",
+    "knight",
+    "knighthood",
+    "knit",
+    "knit one’s brows"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440693_f8428469ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440693_fb3ae84225_o.png",
+      "id_image": "knife_297832"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440673_7d0396a57d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440673_522d8d1981_o.png",
+      "id_image": "knife_333549"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370422_571ec1dcc2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370422_f4569a4727_o.png",
+      "id_image": "knife_535039"
+    }
+  ]
+}

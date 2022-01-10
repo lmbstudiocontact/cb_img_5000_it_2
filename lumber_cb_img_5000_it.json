@@ -1,0 +1,111 @@
+{
+  "english": "lumber",
+  "phat_am": "ˈlambə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "củi",
+          "definition": "timber sawn up.",
+          "world_new": [
+            "timber"
+          ]
+        },
+        {
+          "mean_english": "đồ thừa",
+          "definition": "old unwanted furniture etc.",
+          "world_new": [
+            "old",
+            "furniture"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm vướng víu",
+          "definition": "to give (someone) an unwanted responsibility",
+          "world_new": [
+            "responsibility"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was lumbered with the job of sweeping the yard.",
+              "world_new": [
+                "job",
+                "sweeping",
+                "yard"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "kéo lê ì ạch",
+          "definition": "to move about heavily and clumsily",
+          "world_new": [
+            "move",
+            "heavily",
+            "clumsily"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He lumbered drunkenly around the room.",
+              "world_new": [
+                "room"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Vehicles are nothing but survival machines, lumbering robots controlled by the replicators that produced them.",
+    "The increase in foreign exchange generated was also boosted by an increase in the contribution made by the export of kiln-dried lumber.",
+    "The model sought to maximize the income received from productive activity (lumber extraction) restricted by a biodiversity index depending on the number of individuals of each species.",
+    "The high level of protection for lumber and furniture products is likely to artificially increase the demand for these products, thus promoting both legal and illegal logging activities.",
+    "The 1993 volume of lumber exported, for example, reflected a 434 per cent increase above the 1983 figure.",
+    "Recruiters were able to evade administrative supervision and engage workers from circonscriptions hundreds of miles from the lumber camps.",
+    "The flow of population to lumber camps along the lakes had been largely one way with the majority of recruits deciding not to return to their villages.",
+    "Processing the logs into lumber for export in huge quantities thus replaced the gradual cutback in log exports to make up for the loss of income in the latter activity."
+  ],
+  "list_see_also": [
+    "lumberjack"
+  ],
+  "list_browse": [
+    "lukewarm",
+    "lull",
+    "lullaby",
+    "lumbago",
+    "lumber",
+    "lumberjack",
+    "luminosity",
+    "luminous",
+    "lump"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447843_5dbc253b10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447843_6e3dc093d2_o.png",
+      "id_image": "lumber_2559448"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447798_7bb0f92faa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447798_d250367b70_o.png",
+      "id_image": "lumber_4104463"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447748_6237740171_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447748_ebe25291ee_o.png",
+      "id_image": "lumber_4251853"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "english": "ghost",
+  "phat_am": "ɡəust",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ma",
+          "definition": "a spirit, usually of a dead person",
+          "world_new": [
+            "spirit",
+            "dead",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Do you believe in ghosts?",
+              "world_new": [
+                "believe"
+              ]
+            },
+            {
+              "ex_of_definition": "Hamlet thought he saw his father’s ghost.",
+              "world_new": [
+                "thought",
+                "saw"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "ghostly",
+    "give up the ghost"
+  ],
+  "list_browse": [
+    "geyser",
+    "ghastliness",
+    "ghastly",
+    "ghetto",
+    "ghost",
+    "ghostly",
+    "GI",
+    "giant",
+    "gibber"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070660_ba77044725_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070660_d2679d079b_o.png",
+      "id_image": "ghost_1495936"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448833_5c2af27a68_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448833_02de275682_o.png",
+      "id_image": "ghost_203763"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333696_76ac99b8f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333696_0488514fa7_o.png",
+      "id_image": "ghost_3473845"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688849_ac3219de27_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688849_5c0b82a43b_o.png",
+      "id_image": "ghost_774965"
+    }
+  ]
+}

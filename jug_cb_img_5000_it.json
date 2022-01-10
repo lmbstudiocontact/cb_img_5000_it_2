@@ -1,0 +1,60 @@
+{
+  "english": "jug",
+  "phat_am": "dʒaɡ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái bình",
+          "definition": "a deep container for liquids, usually with a handle and a shaped lip for pouring",
+          "world_new": [
+            "deep",
+            "container",
+            "handle",
+            "shaped",
+            "lip"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a jug of water",
+              "world_new": [
+                "water"
+              ]
+            },
+            {
+              "ex_of_definition": "a milk jug.",
+              "world_new": [
+                "milk"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "judicious",
+    "judiciously",
+    "judiciousness",
+    "judo",
+    "jug",
+    "juggle",
+    "juggler",
+    "jugular",
+    "juice"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686484_62e4e831f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686484_a0c44a82ba_o.png",
+      "id_image": "jug_1356988"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686514_6cf1eaa7ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686514_600d447abf_o.png",
+      "id_image": "jug_205048"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "english": "lap",
+  "phat_am": "lӕp",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "liếm, tớp",
+          "definition": "to drink by licking with the tongue",
+          "world_new": [
+            "drink",
+            "licking",
+            "tongue"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The cat lapped milk from a saucer.",
+              "world_new": [
+                "cat",
+                "milk",
+                "saucer"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vỗ",
+          "definition": "(of a liquid) to wash or flow (against)",
+          "world_new": [
+            "wash",
+            "flow"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Water lapped the side of the boat.",
+              "world_new": [
+                "side",
+                "boat"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lòng",
+          "definition": "the part from waist to knees of a person who is sitting",
+          "world_new": [
+            "part",
+            "waist",
+            "person",
+            "sitting"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The baby was lying in its mother’s lap.",
+              "world_new": [
+                "baby",
+                "its"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vòng",
+          "definition": "one round of a racecourse or other competition track",
+          "world_new": [
+            "racecourse",
+            "competition",
+            "track"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The runners have completed five laps, with three still to run.",
+              "world_new": [
+                "run"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Each player sits on a meditation pillow with the laptop either on the lap or to the side, depending on the nature of the piece.",
+    "She sat quietly, hands folded in her lap.",
+    "Throughout she held the doll limply in her lap, without attention, concentrating totally on the rhyme.",
+    "After several seconds, however, he opened his eyes, slid off her lap and, crossing the room, renewed his play.",
+    "The hands that held reins and riding crop a short while ago now lie demurely on her lap.",
+    "The change of variables from u(x) to u (u) on monotone laps is a natural one.",
+    "For example, a correct spelling of packed received 10 points, and a correct spelling of lap received 8 points.",
+    "They lapped it up, and smacked their lips."
+  ],
+  "list_see_also": [
+    "lap up"
+  ],
+  "list_browse": [
+    "lank",
+    "lankiness",
+    "lanky",
+    "lantern",
+    "lap",
+    "lap dog",
+    "lap up",
+    "lapel",
+    "lapse"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365317_cf2a02abcf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365317_b104a1e879_o.png",
+      "id_image": "lap_1506399"
+    }
+  ]
+}

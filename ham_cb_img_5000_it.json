@@ -1,0 +1,66 @@
+{
+  "english": "ham",
+  "phat_am": "hӕm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "giăm bông",
+          "definition": "the top of the back leg of a pig, salted and dried",
+          "world_new": [
+            "top",
+            "leg",
+            "pig",
+            "salted",
+            "dried"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "roast ham.",
+              "world_new": [
+                "roast"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "It is likely that the editors felt that if they did not censor their own publications voluntarily, they would eventually encounter more ham-fisted outside review by the government.",
+    "Allocations, of imported boneless beef for the production of boiled beef ham have now ceased in view of the meat supply position.",
+    "The prices paid for bacon and hams vary in like manner, and also in the case of the different cuts.",
+    "No member of the staff of the bacon and ham branch is included as a representative of any class of curer.",
+    "Half the bacon and ham used by our forces is imported—that is close to £2.5 million-worth of trade.",
+    "Like a long aged wine, these hams develop deep flavor.",
+    "However, it would have been hard to conceive of a more ham-fisted, slapdash and incompetent procedure for doing so.",
+    "The named-meat product only will be called \"ham spread\"and the mixed product\"ham paste\"."
+  ],
+  "list_see_also": [
+    "ham-fisted"
+  ],
+  "list_browse": [
+    "halo",
+    "halt",
+    "halter",
+    "halve",
+    "ham",
+    "ham-fisted",
+    "hamburger",
+    "hammer",
+    "hammer home"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315931_50a8fec82e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315931_469ffdc3ce_o.png",
+      "id_image": "ham_1391396"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430803_767f2ddab9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430803_8f5b20b27e_o.png",
+      "id_image": "ham_1660603"
+    }
+  ]
+}

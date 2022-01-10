@@ -1,0 +1,83 @@
+{
+  "english": "format",
+  "phat_am": "ˈfoːmӕt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "khổ (sách, giấy, bìa…)",
+          "definition": "shape and size, eg that of a book, magazine etc.",
+          "world_new": [
+            "shape",
+            "size",
+            "book",
+            "magazine"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "định dạng",
+          "definition": "to prepare a new computer disk for storing information",
+          "world_new": [
+            "prepare",
+            "computer",
+            "information"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Do you know how to format a blank disk?",
+              "world_new": [
+                "know",
+                "blank"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Additional question formats for minimizing 'yea-saying' responses are suggested.",
+    "The findings underscore the importance of measuring self- and other-blame separately and eschewing forcedchoice or polarized formats to measure causal or responsibility judgments.",
+    "All the instruction text, the task examples and the tests are presented in large formats, an important consideration for work with older adults.",
+    "In order to have comparable formats, the results of that period are collapsed in one bar.",
+    "Section 3 describes econometric models for the two formats and discusses the empirical results.",
+    "The materials will have been acquired in many different formats - through scanning, through electronic text capture, or through transcription.",
+    "Training was undertaken by all team members using a variety of formats.",
+    "Even animated visualisations depend on data formatted to be output as a sequence of still images."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "form",
+    "formal",
+    "formality",
+    "formally",
+    "format",
+    "formation",
+    "former",
+    "formerly",
+    "formidable"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358912_bceebca7eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358912_e5cf4496f4_o.png",
+      "id_image": "format_1277325"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669434_96b22653d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669434_d3ef1ce12e_o.png",
+      "id_image": "format_3527322"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358857_9041069a41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358857_47a8debe1a_o.png",
+      "id_image": "format_4529166"
+    }
+  ]
+}

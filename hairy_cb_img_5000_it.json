@@ -1,0 +1,46 @@
+{
+  "english": "hairy",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "rậm tóc, lông",
+          "definition": "covered in hair or having a lot of hair",
+          "world_new": [
+            "hair",
+            "hair"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a hairy chest.",
+              "world_new": [
+                "chest"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "hairiness",
+    "hairline",
+    "hairpin",
+    "hairstyle",
+    "hairy",
+    "halal",
+    "half",
+    "half board",
+    "half past three/four/seven etc"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360252_56714b3233_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360252_2121021217_o.png",
+      "id_image": "hairy_340028"
+    }
+  ]
+}

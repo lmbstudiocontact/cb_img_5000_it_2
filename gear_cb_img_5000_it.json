@@ -1,0 +1,108 @@
+{
+  "english": "gear",
+  "phat_am": "ɡiə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bánh răng",
+          "world_new": [],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a car with automatic gears.",
+              "world_new": [
+                "car",
+                "automatic"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "số",
+          "definition": "a combination of these wheels, eg in a car",
+          "world_new": [
+            "combination",
+            "car"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The car is in first gear.",
+              "world_new": [
+                "car"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bộ phận",
+          "definition": "a mechanism used for a particular purpose",
+          "world_new": [
+            "mechanism",
+            "particular",
+            "purpose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an aeroplane’s landing-gear."
+            }
+          ]
+        },
+        {
+          "mean_english": "dụng cụ, quần áo",
+          "definition": "the things needed for a particular job, sport etc",
+          "world_new": [
+            "particular",
+            "job",
+            "sport"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "sports gear.",
+              "world_new": [
+                "sports"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Would beginning farmer programs especially geared for small farms that supplied food locally increase interest in local food systems?",
+    "Essentially, this series seems to be geared towards the student text-book market.",
+    "As the alternative for the stiff systems (having high ratio gears, high friction, etc.) we propose to use the tactile sensors.",
+    "These issues require capabilities beyond the scope of our current system and our grading infrastructure, which is geared to concise answer phrases.",
+    "Axial coding is a more focused process than open coding and is geared toward the discovering and relating of subcategories to categories.",
+    "It was a precarious journey, as they were travelling in bad weather with no supplies or equipment except climbing gear and their wet sleeping bags.",
+    "Clearly, in our travel scenario, a language geared towards direct machine-to-machine communication is preferable.",
+    "Rather, he is restricted to using a particular type of gear in a particular part of the lease unit for a specific period of time."
+  ],
+  "list_see_also": [
+    "gearbox",
+    "gear lever/change/stick"
+  ],
+  "list_browse": [
+    "GB",
+    "GCE",
+    "GCSE",
+    "GDP",
+    "gear",
+    "gear lever/change/stick",
+    "gearbox",
+    "GED",
+    "geisha"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337256_9c874cd78d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337256_6403840263_o.png",
+      "id_image": "gear_1473251"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452053_0ef7838d17_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452053_c43d04a5ee_o.png",
+      "id_image": "gear_2137990"
+    }
+  ]
+}

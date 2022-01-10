@@ -1,0 +1,97 @@
+{
+  "english": "franchise",
+  "phat_am": "ˈfrӕntʃaiz",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quyền bầu cử",
+          "definition": "the right to vote",
+          "world_new": [
+            "right",
+            "vote"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Women did not get the franchise until the twentieth century.",
+              "world_new": [
+                "century"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự cho phép bán hàng hoá hay dịch vụ của một công ty ở một vùng",
+          "definition": "the exclusive right to sell or supply a certain product or service",
+          "world_new": [
+            "exclusive",
+            "right",
+            "sell",
+            "supply",
+            "certain",
+            "product",
+            "service"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The business operates as a franchise.",
+              "world_new": [
+                "business"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The appointment of a new franchising director and rail regulator will follow.",
+    "Details of the number of bids received for individual franchises and the levels of subsidy required by unsuccessful bidders are commercially confidential.",
+    "Indeed, the first three franchises are ready to be awarded soon.",
+    "There is no question of halting the franchising programme, which is making good progress.",
+    "In fact, we are all familiar with franchises, although we may not realise it.",
+    "The timetable for franchising and future sales is set down in the following table.",
+    "I believe that the reduction in the number of firms franchised to carry out legal aid work will alter the economics of practice.",
+    "I will keep the question of franchising under review."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "frame",
+    "frame of mind",
+    "framework",
+    "franc",
+    "franchise",
+    "Franco-",
+    "frank",
+    "frankfurter",
+    "frankly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427923_7b11f5c78a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427923_83459cbb2f_o.png",
+      "id_image": "franchise_2345213"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357052_5ea5eafa03_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357052_fae87ab9cc_o.png",
+      "id_image": "franchise_2631411"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049560_3487e26ee6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049560_92a50a2579_o.png",
+      "id_image": "franchise_4148666"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313081_58de789407_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313081_7ea540d3ea_o.png",
+      "id_image": "franchise_6082850"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049585_d0f5d545fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049585_9fec6cd3fd_o.png",
+      "id_image": "franchise_649629"
+    }
+  ]
+}

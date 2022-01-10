@@ -1,0 +1,70 @@
+{
+  "english": "heater",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bếp lò; lò",
+          "definition": "an apparatus which gives out heat in order to warm a room etc, or which heats water etc in a water-tank",
+          "world_new": [
+            "apparatus",
+            "heat",
+            "order",
+            "warm",
+            "room",
+            "water"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an electric heater.",
+              "world_new": [
+                "electric"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The heater beam illuminates a 1-mm-diameter target at normal incidence, and the line focus is in the horizontal plane.",
+    "It is when the heaters are activated, the plastic shrinks, causing the grooves to bend forming the insects legs.",
+    "Additionally, the thermostat on the water heater may be turned down so that the water is not hot enough to burn the patient.",
+    "For domestic and business users, it offers a simple way of remotely controlling electric, oil and gas fired heating systems, water heaters and air conditiners.",
+    "No unprotected heater or exposed pipes in bathroom.",
+    "It has a plenum chamber between the arc heater and the test section.",
+    "Batteries are housed in the end cap, and these supply heaters that warm heater plates in the oil chamber.",
+    "At a certain depth, the heaters are turned on, and the robot ascends due to its now positive buoyancy, resulting from its reduced density."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "heat",
+    "heated",
+    "heatedly",
+    "heatedness",
+    "heater",
+    "heathen",
+    "heather",
+    "heating",
+    "heatwave"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695239_d48cf61638_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695239_6d5c98f0b4_o.png",
+      "id_image": "heater_3844024"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340046_5840e037a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340046_8b31aa3310_o.png",
+      "id_image": "heater_661316"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384902_cf3681eb29_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384902_355c48142f_o.png",
+      "id_image": "heater_741358"
+    }
+  ]
+}

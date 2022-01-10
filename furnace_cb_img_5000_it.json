@@ -1,0 +1,76 @@
+{
+  "english": "furnace",
+  "phat_am": "ˈfəːnis",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lò luyện kim, lò nấu thuỷ tinh",
+          "definition": "a very hot oven or closed-in fireplace for melting iron ore, making steam for heating etc",
+          "world_new": [
+            "hot",
+            "oven",
+            "fireplace",
+            "iron",
+            "ore",
+            "steam",
+            "heating"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a blast furnace.",
+              "world_new": [
+                "blast"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "What of the larger numbers of men who worked in the furnaces and forges?",
+    "There are, he said, still a number of blast furnaces not at work.",
+    "We hoped that with the installation of two electric arc furnaces we could give employment to 2,000 men.",
+    "I come now to the question of the furnaces.",
+    "No assessment has been made of emissions from furnaces fuelled from animal carcases and animal by-products.",
+    "Already the waste heat of blast furnaces is being harnessed.",
+    "In other words, ancillary staff—porters and operators of furnaces and incinerators—have no protection whatever in this matter.",
+    "The blast furnaces are going cold and the franc is falling."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "funny",
+    "fur",
+    "furious",
+    "furl",
+    "furnace",
+    "furnish",
+    "furnished",
+    "furnishings",
+    "furniture"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456198_4c3d91cac2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456198_eb601fe963_o.png",
+      "id_image": "furnace_1504110"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386347_90a7fa87a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386347_f91595f2aa_o.png",
+      "id_image": "furnace_2614553"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078720_fd98dfb9fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078720_7fd266dccc_o.png",
+      "id_image": "furnace_5202483"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341291_959c6875b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341291_16944e1193_o.png",
+      "id_image": "furnace_5350495"
+    }
+  ]
+}

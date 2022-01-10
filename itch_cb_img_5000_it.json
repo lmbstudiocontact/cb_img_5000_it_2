@@ -1,0 +1,99 @@
+{
+  "english": "itch",
+  "phat_am": "itʃ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự ngứa",
+          "definition": "an irritating feeling in the skin that makes one want to scratch",
+          "world_new": [
+            "irritating",
+            "feeling",
+            "skin",
+            "want",
+            "scratch"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He had an itch in the middle of his back and could not scratch it easily.",
+              "world_new": [
+                "middle",
+                "scratch",
+                "easily"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm ngứa",
+          "definition": "to have an itch",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Some plants can cause the skin to itch.",
+              "world_new": [
+                "cause",
+                "skin"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "rất mong muốn",
+          "definition": "to have a strong desire (for something, or to be something)",
+          "world_new": [
+            "strong",
+            "desire"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I was itching to eat one of the pies.",
+              "world_new": [
+                "I",
+                "eat"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Given all this, it of course follows that if the metaphysical presuppositions of cognitive science are causing genuine itches, then everyone ought to care about scratching in the right place.",
+    "I believe that 13 years ago we started by setting free those people who were itching for an opportunity.",
+    "The bites are extremely irritating, causing nodular, inflamed swellings that itch persistently for several days or even weeks.",
+    "The children play in the rooms or in the corridors and, of course, are itching to get out somewhere into the fresh air and into a home of their own.",
+    "The most common side effects near the application site are skin reactions, including burning, redness, pain, itching, swelling.",
+    "I feel strongly that the competition authorities have been itching to get their hands on sport for many years.",
+    "Unlike mere sensations (pains, itches, etc.), feelings, emotions, and sentiments are often intimately connected with the attitudes we have toward ourselves and our surroundings.",
+    "The industry is ready and itching to go."
+  ],
+  "list_see_also": [
+    "itchy",
+    "itchiness"
+  ],
+  "list_browse": [
+    "it/that depends",
+    "italic",
+    "italicize",
+    "italics",
+    "itch",
+    "itchiness",
+    "itchy",
+    "item",
+    "itinerant"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381882_61291ee8f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381882_65a48b0b31_o.png",
+      "id_image": "itch_5730040"
+    }
+  ]
+}

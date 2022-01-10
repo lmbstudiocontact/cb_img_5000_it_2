@@ -1,0 +1,73 @@
+{
+  "english": "listener",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người lắng nghe",
+          "definition": "a person who listens when someone else is speaking",
+          "world_new": [
+            "person",
+            "else",
+            "speaking"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "To be an effective manager, you have to be a good listener.",
+              "world_new": [
+                "effective",
+                "manager"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khán thính giả",
+          "definition": "someone who listens to the radio",
+          "world_new": [
+            "radio"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The show is aimed at teenage listeners.",
+              "world_new": [
+                "teenage"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A different picture emerged by testing children as non-addressed listeners.",
+    "Selected cognitive factors and speech recognition performance among young and elderly listeners.",
+    "In other forms of current radio drama, the listeners' imaginations have less work to do.",
+    "Just as speakers are analogous to producers and sellers, listeners and viewers are analogous to buyers and consumers.",
+    "We describe listeners as caring, understanding, trusting and sympathetic individuals.",
+    "He found that performance was better when the talkers and listeners shared a dialect than when the talkers and listeners were from different dialect regions.",
+    "We must be careful to add all information sources, publications and interviews with the composer, other performers, musicologists, listeners and others.",
+    "Tone pairs were dichotically presented and listeners identified which tone they heard in each ear."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "list",
+    "listen",
+    "listen in on",
+    "listen to reason",
+    "listener",
+    "listless",
+    "listlessly",
+    "listlessness",
+    "litany"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077245_7066cbf776_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077245_67a7d5530c_o.png",
+      "id_image": "listener_4643239"
+    }
+  ]
+}

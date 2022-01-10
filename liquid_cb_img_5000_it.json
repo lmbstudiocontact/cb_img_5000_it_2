@@ -1,0 +1,105 @@
+{
+  "english": "liquid",
+  "phat_am": "ˈlikwid",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "lỏng",
+          "definition": "able to flow; not solid, but not a gas",
+          "world_new": [
+            "solid",
+            "gas"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "liquid nitrogen",
+              "world_new": [
+                "nitrogen"
+              ]
+            },
+            {
+              "ex_of_definition": "The ice-cream has become liquid.",
+              "world_new": [
+                "become"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chất lỏng",
+          "definition": "a substance which flows, like water",
+          "world_new": [
+            "substance",
+            "water"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a clear liquid.",
+              "world_new": [
+                "clear"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Their production patterns are considered first with respect to the implicational relationships between clusters and affricates, and between clusters and liquids.",
+    "Chi-square analyses were conducted on liquids and on fricatives and affricates for each infant.",
+    "Furthermore, they clearly do not confuse vowels, liquids, nasals, and stops in word final position with potential plural endings anymore.",
+    "Evolved liquids produced by floor crystallization might simply mix with less-evolved magma above them.",
+    "Fully breast-fed infants were breast-fed in addition to receiving non-nutritive liquids.",
+    "The method involves one or more weeks of total fasting, except for liquids, minerals, and vitamins.",
+    "Circulation induced by electric fields in insulating liquids.",
+    "The retention rate of two phonemes was higher when the final consonants were liquids than when they were nasals or obstruents."
+  ],
+  "list_see_also": [
+    "liquefy",
+    "liquidate",
+    "liquidation",
+    "liquidator",
+    "liquidize",
+    "liquidizer"
+  ],
+  "list_browse": [
+    "lip-read",
+    "lipstick",
+    "liquefy",
+    "liqueur",
+    "liquid",
+    "liquidate",
+    "liquidation",
+    "liquidator",
+    "liquidize"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695879_e26bbd3814_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695879_248d6f61ae_o.png",
+      "id_image": "liquid_2421543"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455443_020fc140a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455443_2ba745764d_o.png",
+      "id_image": "liquid_3335567"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340441_54b18c2098_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340441_59762147cc_o.png",
+      "id_image": "liquid_4636015"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455358_1ae416b3e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455358_a92218ddb6_o.png",
+      "id_image": "liquid_6192469"
+    }
+  ]
+}

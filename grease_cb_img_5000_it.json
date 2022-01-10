@@ -1,0 +1,88 @@
+{
+  "english": "grease",
+  "phat_am": "ɡriːs",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mỡ động vật",
+          "definition": "soft, thick, animal fat.",
+          "world_new": [
+            "soft",
+            "thick",
+            "animal",
+            "fat"
+          ]
+        },
+        {
+          "mean_english": "dầu mỡ",
+          "definition": "any thick, oily substance",
+          "world_new": [
+            "thick",
+            "oily",
+            "substance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She put grease on the squeaking hinge.",
+              "world_new": [
+                "hinge"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tra mỡ",
+          "definition": "to put grease on, over or in",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The mechanic greased the car’s axle.",
+              "world_new": [
+                "mechanic",
+                "axle"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "When the inspector found the dog, it was lying outside an oven covered in grease.",
+    "What we need is skilled and energetic planning and elbow grease.",
+    "After all, without greasing the official's hand, the litigant would have risked waiting forever to plead his case, still more winning it.",
+    "The joint between the sections was 36.8 cm above the midsection and was sealed with silicon grease.",
+    "If there were such things as essentially invisible people, smearing their faces with opaque grease paint would render them visible.",
+    "The heat and the aridity secured 'a hard, dry and frizzy wool, almost devoid of natural greases'.",
+    "The nitrocellulose paper with attached retinal slices were transferred to a recording chamber, and fixed to the bottom with silicon vacuum grease.",
+    "A coverslip with four posts of silicone grease containing 20-50 m glass beads was placed on the slide and gently lowered until it contacted and slightly compressed the drop."
+  ],
+  "list_see_also": [
+    "greasy",
+    "greasiness"
+  ],
+  "list_browse": [
+    "graveyard",
+    "gravity",
+    "gravy",
+    "graze",
+    "grease",
+    "greasiness",
+    "greasy",
+    "great",
+    "great diving beetle"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368082_0491815a51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368082_f5c485f433_o.png",
+      "id_image": "grease_3690204"
+    }
+  ]
+}

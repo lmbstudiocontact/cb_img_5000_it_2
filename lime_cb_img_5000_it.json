@@ -1,0 +1,113 @@
+{
+  "english": "lime",
+  "phat_am": "laim",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vôi",
+          "definition": "the white substance left after heating limestone, used in making cement.",
+          "world_new": [
+            "white",
+            "substance",
+            "left",
+            "heating",
+            "limestone",
+            "cement"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chanh lá cam",
+          "definition": "a type of small, very sour, yellowish-green citrus fruit related to the lemon",
+          "world_new": [
+            "type",
+            "small",
+            "sour",
+            "fruit",
+            "related",
+            "lemon"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a slice of lime.",
+              "world_new": [
+                "slice"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "màu vàng chanh",
+          "definition": "the colour/color of this fruit",
+          "world_new": [
+            "fruit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "(also adjective) lime walls."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cây đoan",
+          "definition": "a tree with rough bark and small heart-shaped leaves.",
+          "world_new": [
+            "tree",
+            "rough",
+            "bark",
+            "small"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "When advising on liming our staff always take into account leaching and local climatic conditions.",
+    "I would agree that the matter was not debated again until 1951, and then again in 1952, both limes on very small points.",
+    "Higher rates of liming caused greater reductions in exchangeable acidity (p 5 0.05).",
+    "On two pepper farms, the wilt disease infection was located on a few subplots only and had no correlation with liming treatments.",
+    "Exhausted land cannot be restored without a very much heavier application of limes and phosphates because, as we all know, farmyard manure is in very short supply.",
+    "The second argument which has some-limes been used concerns the enormous difficulties which would be created in respect of messing and the like.",
+    "They also suffer the most violent attacks upon them at those limes.",
+    "The point is that there may be limes when conditions are required on a contract and other times when they are not."
+  ],
+  "list_see_also": [
+    "limestone",
+    "limekiln",
+    "limelight: in the limelight"
+  ],
+  "list_browse": [
+    "lilt",
+    "lily",
+    "limb",
+    "limber",
+    "lime",
+    "limekiln",
+    "limelight: in the limelight",
+    "limerick",
+    "limestone"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341691_728f975178_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341691_d439a760d7_o.png",
+      "id_image": "lime_3461679"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341646_19c949d961_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341646_41da5e46be_o.png",
+      "id_image": "lime_4796211"
+    }
+  ]
+}

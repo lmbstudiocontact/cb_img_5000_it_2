@@ -1,0 +1,80 @@
+{
+  "english": "jealous",
+  "phat_am": "ˈdʒeləs",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "ghen tị",
+          "definition": "(with of) feeling or showing envy",
+          "world_new": [
+            "feeling",
+            "envy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She is jealous of her sister.",
+              "world_new": [
+                "sister"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nghen tuông",
+          "definition": "having feelings of dislike for any possible rivals (especially in love)",
+          "world_new": [
+            "dislike",
+            "possible"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a jealous husband.",
+              "world_new": [
+                "husband"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "As a result, governments are mostly staffed by persons of the middle to lower orders, who tend to be jealous and resentful toward their superiors.",
+    "Most of the people back in the village are jealous of each other.",
+    "He became jealous of his wife going out and lost his practical skills.",
+    "Her nascent prima-donna passion for worldly success makes her lover jealous, and he begs her to forget fame and glory to follow him.",
+    "Unfortunately they are intractably jealous of us, and would obliterate us entirely except that we have discovered magic rites that keep them at bay.",
+    "And he is very jealous of my son.",
+    "The children's fate was sealed by the deliberate and malicious action of a jealous wife.",
+    "They are extremely jealous of their autonomy and have a narrow, albeit evolving, concept of motherhood - both of which contributes to their exclusionary manner."
+  ],
+  "list_see_also": [
+    "jealously",
+    "jealousy"
+  ],
+  "list_browse": [
+    "jaywalker",
+    "jaywalking",
+    "jazz",
+    "jazzy",
+    "jealous",
+    "jealously",
+    "jealousy",
+    "jeans",
+    "jeep"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335236_38be49b55d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335236_12aefdbd0a_o.png",
+      "id_image": "jealous_5259980"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450238_90fe432912_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450238_65eeb87aa7_o.png",
+      "id_image": "jealous_6010276"
+    }
+  ]
+}

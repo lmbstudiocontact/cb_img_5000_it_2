@@ -1,0 +1,69 @@
+{
+  "english": "keyhole",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lỗ khóa",
+          "definition": "the hole in which a key of a door etc is placed",
+          "world_new": [
+            "hole",
+            "key",
+            "door"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The child looked through the keyhole to see if his teacher was still with his parents.",
+              "world_new": [
+                "child",
+                "see",
+                "teacher"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "For example, the results of keyhole surgery and its effects on bed occupation have been dramatic.",
+    "Thirty years ago, there were no hip replacements, and keyhole surgery has advanced by leaps and bounds.",
+    "Furthermore, we have not listened at keyholes as well as some other people.",
+    "Only a keyhole, as it were, has to be dug.",
+    "We can peer through keyholes, move through open doors, glide into adjoining halls and rooms.",
+    "The repair can be made using keyhole surgery which, of course allows for the operation to take place without the patient's chest being opened-up, and the consequent trauma.",
+    "If you do by any chance sneak through the keyhole, that will be your good fortune, but it will not make much difference.",
+    "Keyhole surgery has also been subject to opprobrium."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "kettledrum",
+    "key",
+    "keyboard",
+    "keyed up",
+    "keyhole",
+    "keyhole surgery",
+    "keynote",
+    "keypad",
+    "kg"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065445_2652fc8544_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065445_96c321f039_o.png",
+      "id_image": "keyhole_1320439"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683744_12db46676f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683744_ac980e84f2_o.png",
+      "id_image": "keyhole_252105"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373342_b85abecc75_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373342_a4598a1972_o.png",
+      "id_image": "keyhole_4634306"
+    }
+  ]
+}

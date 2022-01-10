@@ -1,0 +1,75 @@
+{
+  "english": "mechanical",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc máy móc",
+          "definition": "having to do with machines",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "mechanical engineering.",
+              "world_new": [
+                "engineering"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bằng máy móc",
+          "definition": "worked or done by machinery",
+          "world_new": [
+            "machinery"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a mechanical sweeper.",
+              "world_new": [
+                "sweeper"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "không suy tính",
+          "definition": "done etc without thinking, from force of habit",
+          "world_new": [
+            "force",
+            "habit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "After you’ve been driving for a while, many of your actions will become mechanical.",
+              "world_new": [
+                "driving",
+                "your",
+                "become"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "measurement",
+    "meat",
+    "meaty",
+    "mechanic",
+    "mechanical",
+    "mechanically",
+    "mechanics",
+    "mechanism",
+    "mechanization"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433703_e7ffd945a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433703_1f7d70c894_o.png",
+      "id_image": "mechanical_2286219"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "english": "male",
+  "phat_am": "meil",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đàn ông; đực; trống",
+          "definition": "(a person, animal etc) of the sex having testes or an organ or organs performing a similar function; not (of) the sex which carries the young until birth etc",
+          "world_new": [
+            "person",
+            "animal",
+            "sex",
+            "organ",
+            "similar",
+            "sex",
+            "young",
+            "birth"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the male of the species",
+              "world_new": [
+                "species"
+              ]
+            },
+            {
+              "ex_of_definition": "the male rabbit.",
+              "world_new": [
+                "rabbit"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhị hoa",
+          "definition": "(a plant) having flowers with stamens which can fertilize female flowers.",
+          "world_new": [
+            "fertilize",
+            "female"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "makeshift",
+    "making",
+    "malady",
+    "malaria",
+    "male",
+    "male chauvinist",
+    "malevolence",
+    "malevolent",
+    "malevolently"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442983_15f0fa00c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442983_4540f0dc60_o.png",
+      "id_image": "male_5983706"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064585_fd7d107938_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064585_84965c2d93_o.png",
+      "id_image": "male_6314150"
+    }
+  ]
+}

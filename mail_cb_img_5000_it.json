@@ -1,0 +1,79 @@
+{
+  "english": "mail",
+  "phat_am": "meil",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thư từ; bưu kiện",
+          "definition": "letters, parcels etc by post",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His secretary opens his mail.",
+              "world_new": [
+                "secretary"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "gửi qua bưu điện",
+          "definition": "to send by post",
+          "world_new": [
+            "send"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This letter needs to be mailed as soon as possible.",
+              "world_new": [
+                "letter",
+                "soon",
+                "possible"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "mailbag",
+    "mailbox",
+    "mailman",
+    "mail order"
+  ],
+  "list_browse": [
+    "maid",
+    "maiden",
+    "maiden name",
+    "maiden voyage",
+    "mail",
+    "mail order",
+    "mailbag",
+    "mailbox",
+    "mailman"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373637_93abaee141_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373637_d5b7e5dc1d_o.png",
+      "id_image": "mail_194350"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328821_0d2373a7cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328821_4c5b00f702_o.png",
+      "id_image": "mail_673817"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328781_3ffc144082_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328781_7beb4707c7_o.png",
+      "id_image": "mail_696380"
+    }
+  ]
+}

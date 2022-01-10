@@ -1,0 +1,130 @@
+{
+  "english": "fuse",
+  "phat_am": "fjuːz",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nấu chảy",
+          "definition": "to melt (together) as a result of great heat",
+          "world_new": [
+            "melt",
+            "result",
+            "great",
+            "heat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Copper and tin fuse together to make bronze.",
+              "world_new": [
+                "tin",
+                "bronze"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ngừng hoặc làm ngừng hoạt động vì cầu chì nóng chảy",
+          "definition": "(of an electric circuit or appliance) to (cause to) stop working because of the melting of a fuse",
+          "world_new": [
+            "electric",
+            "circuit",
+            "stop"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Suddenly all the lights fused"
+            },
+            {
+              "ex_of_definition": "She fused all the lights."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cầu chì",
+          "definition": "a piece of easily-melted wire included in an electric circuit so that a dangerously high electric current will break the circuit and switch itself off",
+          "world_new": [
+            "piece",
+            "wire",
+            "electric",
+            "circuit",
+            "electric",
+            "current",
+            "break",
+            "circuit",
+            "switch"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She mended the fuse."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ngòi nổ; kíp nổ",
+          "definition": "a piece of material, a mechanical device etc which makes a bomb etc explode at a particular time",
+          "world_new": [
+            "piece",
+            "material",
+            "mechanical",
+            "device",
+            "bomb",
+            "explode",
+            "particular",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He lit the fuse and waited for the explosion.",
+              "world_new": [
+                "explosion"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "fusion"
+  ],
+  "list_browse": [
+    "furthermore",
+    "furthest",
+    "furtive",
+    "fury",
+    "fuse",
+    "fuselage",
+    "fusion",
+    "fuss",
+    "fussily"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455853_d14992207a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455853_435aef53d0_o.png",
+      "id_image": "fuse_2231295"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078365_ffa6a66e26_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078365_6099fa8f55_o.png",
+      "id_image": "fuse_2546980"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455798_6339d7dc79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455798_33a03ef0a2_o.png",
+      "id_image": "fuse_5387352"
+    }
+  ]
+}

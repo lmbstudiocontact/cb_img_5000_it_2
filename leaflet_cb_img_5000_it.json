@@ -1,0 +1,72 @@
+{
+  "english": "leaflet",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "truyền đơn; tờ rơi",
+          "definition": "a small, printed sheet containing information etc",
+          "world_new": [
+            "small",
+            "sheet",
+            "information"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They were handing out leaflets in the street.",
+              "world_new": [
+                "street"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There is continuity of the leaflets of the aortic and pulmonary valves because of absence of the outlet septum.",
+    "The rule ofclosure may be broken when there is no preoperative regurgitation and the edges of the adjacent leaflets are very thin.",
+    "The valve guarding the left atrioventricular junction has three leaflets.",
+    "The tricuspid valve had thickening and tethering of its leaflets without downward displacement.",
+    "Small area jet seen close to the point of coaptation of the valvar leaflets and directed towards the posterior wall of the left atrium.",
+    "The classification is based on the severity of the displacement of the septal and posteroinferior leaflets, with four grades of increasing severity.",
+    "Many spoke about distributing posters and leaflets to places where people in the community would pick them up, such as libraries, supermarkets and pharmacies.",
+    "Thickened, dysplastic pulmonary valvar leaflets and a bicuspid aortic valve were also noted."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "leaden",
+    "leader",
+    "leadership",
+    "leaf",
+    "leaflet",
+    "leafy",
+    "league",
+    "leak",
+    "leakage"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672289_4c040de89c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672289_2fe6035abe_o.png",
+      "id_image": "leaflet_1902205"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361887_5bc7c2384d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361887_ca69dfbecc_o.png",
+      "id_image": "leaflet_2388872"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672274_aeb30dd3ce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672274_08b879b37c_o.png",
+      "id_image": "leaflet_5365780"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361897_ef27e9163b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361897_9a3b317fb0_o.png",
+      "id_image": "leaflet_805151"
+    }
+  ]
+}

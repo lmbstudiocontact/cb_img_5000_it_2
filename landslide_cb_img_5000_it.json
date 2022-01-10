@@ -1,0 +1,71 @@
+{
+  "english": "landslide",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự lở đất",
+          "definition": "a piece of land that falls down from the side of a hill",
+          "world_new": [
+            "piece",
+            "land",
+            "falls",
+            "side",
+            "hill"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Some houses were buried in the landslide."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Transport has been disrupted; there have been landslides; hundreds, if not thousands, of homes have been flooded; and livestock and farmland have been lost.",
+    "Avalanches and landslides are horribly dangerous.",
+    "Growing ocean island volcanoes are often structurally unstable and subject to gravity-driven deformation and giant landslides.",
+    "As greater proportions of forest are lost, landscapes become more vulnerable to severe landslides during periods of intense rain.",
+    "Indeed, cities become active geological agents, destabilizing natural conditions and affecting flooding, subsidence, landslides, groundwater flow, subsurface contamination, soil expansion, and river and coastal erosion.",
+    "He told us that it was necessary to have the power of going outside the zones because in some cases the farmers' holdings had been carried away by landslides.",
+    "There will be no landslides.",
+    "The value of olive trees for heritage and for the landscape in terms of protecting land from floods and landslides or in terms of increasing biodiversity is incalculable."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "Landrover",
+    "landscape",
+    "landscape gardener",
+    "landscape gardening",
+    "landslide",
+    "landslide (victory)",
+    "landslide defeat",
+    "lane",
+    "language"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365927_71f425da51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365927_db82fcd6c6_o.png",
+      "id_image": "landslide_286591"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365847_8976a218e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365847_446a625291_o.png",
+      "id_image": "landslide_3436090"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436198_9dfa5b36da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436198_158e2301f0_o.png",
+      "id_image": "landslide_491248"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057730_47412df33a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057730_28c17dc5be_o.png",
+      "id_image": "landslide_491250"
+    }
+  ]
+}

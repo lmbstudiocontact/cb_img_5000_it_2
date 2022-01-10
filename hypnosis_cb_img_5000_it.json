@@ -1,0 +1,75 @@
+{
+  "english": "hypnosis",
+  "phat_am": "hipˈnəusis",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự thôi miên",
+          "definition": "a sleep-like state caused by the action of another person who can then make the sleeper obey his commands",
+          "world_new": [
+            "state",
+            "action",
+            "person",
+            "sleeper",
+            "obey"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His act involves putting people under hypnosis.",
+              "world_new": [
+                "act",
+                "people"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Those with poor outcome accounted for 57.7% of the sample whereas the remaining 42.4% were rated as having a good outcome with hypnosis.",
+    "Finally, perhaps the most enduring legacy of the memory-film association was the practice of forensic hypnosis.",
+    "No hypnosis control group was included in our study and hypnotic induction of ' blindness ' has not, to our knowledge, been reported.",
+    "It is a condition close to hypnosis, perhaps - almost magical.",
+    "Attempts to identify predictors of hypnosis success were not fruitful with one exception.",
+    "The hypnosis hypothesis assigns a higher degree of probability to that observation than does the witness hypothesis.",
+    "Studies concerning the effects of, for example, hypnosis, biofeedback, and acupuncture, are of insufficient quality to draw conclusions.",
+    "Now, it is clear that the hypnosis hypothesis could be a better explanation than the witness hypothesis."
+  ],
+  "list_see_also": [
+    "hypnotic",
+    "hypnotize",
+    "hypnotism",
+    "hypnotist"
+  ],
+  "list_browse": [
+    "hyperlink",
+    "hypermarket",
+    "hyperopia",
+    "hyphen",
+    "hypnosis",
+    "hypnotic",
+    "hypnotism",
+    "hypnotist",
+    "hypnotize"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370302_153537a7ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370302_239f8b2c76_o.png",
+      "id_image": "hypnosis_1347301"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062175_6d6e1cd704_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062175_a4ec3e25b4_o.png",
+      "id_image": "hypnosis_1464037"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680469_1991e767f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680469_e1e58d6218_o.png",
+      "id_image": "hypnosis_4897570"
+    }
+  ]
+}

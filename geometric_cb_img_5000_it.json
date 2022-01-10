@@ -1,0 +1,68 @@
+{
+  "english": "geometric",
+  "phat_am": "dʒiəˈmetrik(əl)",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc hình học",
+          "definition": "made up of lines, circles etc and with a regular shape",
+          "world_new": [
+            "lines",
+            "regular",
+            "shape"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The wallpaper had a geometrical design.",
+              "world_new": [
+                "wallpaper",
+                "design"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The analysis can be extended to incorporate risk by using the geometric instead of the arithmetic mean.",
+    "The power of the method of backward error analysis and the method of modified equations can be demonstrated in the context of geometric integrators.",
+    "However, thanks to the use of conformal geometric algebra the proof of this theorem was reduced to one step shown by (47).",
+    "Therefore, the geometric conditions reported below are not exhaustive.",
+    "This makes very clear to us precisely what we can expect from geometric proportioning.",
+    "Our method essentially relies on the use of geometric quasi-invariants.",
+    "It is just one of a series of results on the long-time behaviour of geometric integrators.",
+    "Aristotle indicated that appropriate proportions were used to analyze these systems of justice, the geometric, the arithmetic, and some other!"
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "geological",
+    "geologically",
+    "geologist",
+    "geology",
+    "geometric",
+    "geometrically",
+    "geometry",
+    "geophysical",
+    "geophysicist"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690139_63c87c634f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690139_c5b2bd6d1a_o.png",
+      "id_image": "geometric_2421974"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335011_6d0f0ce4a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335011_9d06ef7c84_o.png",
+      "id_image": "geometric_391266"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379977_304fe80235_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379977_d02a033bbe_o.png",
+      "id_image": "geometric_6006336"
+    }
+  ]
+}

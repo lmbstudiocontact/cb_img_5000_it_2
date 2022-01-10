@@ -1,0 +1,118 @@
+{
+  "english": "ladder",
+  "phat_am": "ˈlӕdə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái thang",
+          "definition": "a set of rungs or steps between two long supports, for climbing up or down",
+          "world_new": [
+            "steps",
+            "long",
+            "climbing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was standing on a ladder, painting the ceiling",
+              "world_new": [
+                "standing",
+                "painting",
+                "ceiling"
+              ]
+            },
+            {
+              "ex_of_definition": "He climbed up the ladder."
+            }
+          ]
+        },
+        {
+          "mean_english": "lỗi trong chiếc bít tất do đan",
+          "definition": "a long, narrow flaw caused by the breaking of a stitch in a stocking or other knitted fabric; run American",
+          "world_new": [
+            "long",
+            "narrow",
+            "flaw",
+            "stitch",
+            "stocking"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve got a ladder in my stocking.",
+              "world_new": [
+                "my",
+                "stocking"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "có kẽ hở",
+          "definition": "to (cause to) develop such a flaw",
+          "world_new": [
+            "develop",
+            "flaw"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I laddered my best pair of tights today",
+              "world_new": [
+                "I",
+                "my",
+                "best",
+                "pair",
+                "tights"
+              ]
+            },
+            {
+              "ex_of_definition": "Fine stockings ladder very easily.",
+              "world_new": [
+                "easily"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Both of these suffixes are obligatory, and show respect for those higher up on the social-stratification ladder.",
+    "The major achievement of the energy ladder model in its simplest form is the ability to capture the strong income dependency of fuel choices.",
+    "For those on the bottom rungs of their occupational ladder, there are particular dangers.",
+    "The library is editable by the user, and each template can contain both low-level control behaviour (written in ladder diagram) and higher-level intelligent behaviour.",
+    "After the first cycle a second aliquot is added, after the second cycle a third, etc. so building up a ladder.",
+    "The ladder enabled us to photograph at heights up to 10.8 m (6 tubes).",
+    "We see wood that has been made into a ladder rather than a ladder that has been made out of wood.",
+    "Networks of charge-charge interactions in proteins measured by charge ladders and capillary electrophoresis."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "laconically",
+    "lacquer",
+    "lactose",
+    "lad",
+    "ladder",
+    "laden",
+    "ladle",
+    "ladleful",
+    "lady"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438373_1897876e79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438373_debe9a5973_o.png",
+      "id_image": "ladder_2666973"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438328_6a8c5d12a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438328_a719ba4497_o.png",
+      "id_image": "ladder_5604327"
+    }
+  ]
+}

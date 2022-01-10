@@ -1,0 +1,69 @@
+{
+  "english": "herb",
+  "phat_am": "həːb",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thảo dược",
+          "definition": "a usually small plant used to flavour/flavor food or to make medicines",
+          "world_new": [
+            "small",
+            "plant",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "herbs and spices."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The groundcover of these forests was similar to 'shrublands' found at this high altitude (> 4000 m) consisting of characteristic p'ramo herbs and tussock grasses.",
+    "Type 1 consisted of perennial herbs and shrubs capable of immediate germination.",
+    "The last situation is generally observable when re-sprouts are shaded, as under herb cover for instance.",
+    "Where did you learn about the properties of herbs?",
+    "In each cell every plant species (except small herbs) was recorded with their cover and abundance.",
+    "Finally, farmers began to grow medicinal herbs substituting drugs that in the past were collected in the wild.",
+    "Understorey plants were not identified to species, but were categorized as herbs, ferns, herbaceous vines, palms, t rees and lianas.",
+    "There are now no fewer than 15 placebo-controlled studies of hypericum, and eight trials test the herb against standard antidepressants."
+  ],
+  "list_see_also": [
+    "herbal",
+    "herbalist",
+    "herbivore",
+    "herbivorous"
+  ],
+  "list_browse": [
+    "her",
+    "herald",
+    "heraldic",
+    "heraldry",
+    "herb",
+    "herbal",
+    "herbalist",
+    "herbivore",
+    "herbivorous"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453673_97b0a803f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453673_b57c0e5108_o.png",
+      "id_image": "herb_1653063"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453648_2a8e8fb90c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453648_dc1e848f73_o.png",
+      "id_image": "herb_1653105"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453583_531e8104d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453583_dbd9a1d16c_o.png",
+      "id_image": "herb_1902982"
+    }
+  ]
+}

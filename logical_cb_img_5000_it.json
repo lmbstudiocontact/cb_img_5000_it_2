@@ -1,0 +1,59 @@
+{
+  "english": "logical",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc về lô gic",
+          "definition": "(thinking or acting) according to the rules of logic",
+          "world_new": [
+            "logic"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It is logical to assume that you will get a higher salary if you are promoted",
+              "world_new": [
+                "assume",
+                "salary"
+              ]
+            },
+            {
+              "ex_of_definition": "She is always logical in her thinking."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We shall refer to this process of mapping the annotations to logical form as semantic interpretation, or simply as interpretation.",
+    "Logical next steps might include undertaking a comprehensive synthesis of appropriateness focused on specific clinical interventions.",
+    "There are many aspects of mental function, such as verbal and logical thought, that are clearly experienced in this abstract manner.",
+    "There is no logical problem in statistics to estimate and test an effect with zero expectation.",
+    "In the second, two programs for logical conversion are presented: one that converts predicate logic to clausal logic, and one that performs predicate completion.",
+    "Space is not the place (real or logical) within which things are disposed, but rather the means through which the position of things becomes possible.",
+    "Theorem 4.1 can be proven using a standard logical relations argument, but the proof is beyond the scope of this article.",
+    "The opposite direction of this implication, that is, the completeness of the logical relations with respect to contextual equivalence remains future work."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "logarithm",
+    "logbook",
+    "loggerheads",
+    "logic",
+    "logical",
+    "logically",
+    "logistic",
+    "logistically",
+    "logistics"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336851_8561bb0890_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336851_7b4efa903c_o.png",
+      "id_image": "logical_5100475"
+    }
+  ]
+}

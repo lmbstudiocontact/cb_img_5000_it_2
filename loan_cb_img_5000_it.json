@@ -1,0 +1,107 @@
+{
+  "english": "loan",
+  "phat_am": "ləun",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tiền cho vay",
+          "definition": "anything lent, especially money",
+          "world_new": [
+            "lent",
+            "money"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I shall ask the bank for a loan.",
+              "world_new": [
+                "I",
+                "ask",
+                "bank"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự vay",
+          "definition": "the act of lending",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I gave him the loan of my bicycle.",
+              "world_new": [
+                "I",
+                "my",
+                "bicycle"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cho vay; cho mượn",
+          "definition": "to lend",
+          "world_new": [
+            "lend"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Can you loan me a pen?",
+              "world_new": [
+                "pen"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Previously, discount window loans were typically granted at below-market rates, with stringent requirements employed to limit access to this credit.",
+    "Thus, incorporated loans seem to be markers of the older people's age group.",
+    "Participants can also take loans from their balances.",
+    "One big difficulty when starting a business is to provide the required security to obtain loans.",
+    "The purchased equipment was then rented to member railway administrations so that the loans could be repaid.",
+    "A huge part of national revenue was always spent paying interest on previous loans.",
+    "The loans had to be fitted into the existing system.",
+    "Another way is to calculate both direct real estate investments and loans to pension fund's real estate companies together."
+  ],
+  "list_see_also": [
+    "loan shark"
+  ],
+  "list_browse": [
+    "load",
+    "loaded",
+    "loaf",
+    "loafer",
+    "loan",
+    "loan shark",
+    "loathe",
+    "loathing",
+    "loathsome"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075445_90717aa317_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075445_0fae4a0185_o.png",
+      "id_image": "loan_2238089"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338351_cdcc1e1eb7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338351_f479cba467_o.png",
+      "id_image": "loan_2238291"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075475_3cf6444782_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075475_d7649e7f68_o.png",
+      "id_image": "loan_649001"
+    }
+  ]
+}

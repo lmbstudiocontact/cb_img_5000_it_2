@@ -1,0 +1,56 @@
+{
+  "english": "maid",
+  "phat_am": "meid",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người hầu gái",
+          "definition": "a female servant",
+          "world_new": [
+            "female",
+            "servant"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The maid answered the door.",
+              "world_new": [
+                "door"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "magnitude",
+    "magnolia",
+    "magpie",
+    "mahogany",
+    "maid",
+    "maiden",
+    "maiden name",
+    "maiden voyage",
+    "mail"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065825_120df5c2ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065825_6ae9c0b4d1_o.png",
+      "id_image": "maid_1876930"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443858_62b551c2bb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443858_b6cbe906e1_o.png",
+      "id_image": "maid_3216124"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373717_b761f2b390_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373717_5c5e4a51e6_o.png",
+      "id_image": "maid_360456"
+    }
+  ]
+}

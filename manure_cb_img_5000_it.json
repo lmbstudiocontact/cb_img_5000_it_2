@@ -1,0 +1,97 @@
+{
+  "english": "manure",
+  "phat_am": "məˈnjuə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phân bón",
+          "definition": "a mixture containing animal dung, spread on soil to help produce better crops etc",
+          "world_new": [
+            "mixture",
+            "animal",
+            "dung",
+            "spread",
+            "soil",
+            "help",
+            "produce",
+            "better"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The farmer is putting manure on his fields.",
+              "world_new": [
+                "farmer"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bón phân",
+          "definition": "to treat (soil or plants) with manure",
+          "world_new": [
+            "treat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The farmer has been manuring the fields.",
+              "world_new": [
+                "farmer"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Digestion by cattle, and storage within a manure heap for 6 months or longer, further reduced seed germination.",
+    "The dairy farm covered the costs of forage storage and manure-spreading.",
+    "Technologies and production systems that improve the suitability of manure for industrial and energy uses should be developed.",
+    "Manure is usually in short supply, bulky and heavy, and it can introduce weeds and pests.",
+    "Improved manure management: a systems approach than in the past.",
+    "Organic potato production is typically characterized by extended rotations involving leguminous crop green manures sometimes combined with organic amendments.",
+    "This farmer makes an effort to use inputs that enhance farm productivity including certified seeds and manure.",
+    "Nevertheless, the results from manure samples must be interpreted with appropriate caution, as newly introduced, low-level infections may evade detection."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "manually",
+    "manufacture",
+    "manufacturer",
+    "manufacturing",
+    "manure",
+    "manuscript",
+    "many",
+    "many a",
+    "many happy returns (of the day)"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679634_a5211bbb30_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679634_5034a4d452_o.png",
+      "id_image": "manure_1946222"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439463_677f704b0d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439463_bf836d1a93_o.png",
+      "id_image": "manure_4148599"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324501_b96da93e92_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324501_e517fc6583_o.png",
+      "id_image": "manure_439988"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061290_1e3ac31c9c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061290_0a8edb40b2_o.png",
+      "id_image": "manure_4455470"
+    }
+  ]
+}

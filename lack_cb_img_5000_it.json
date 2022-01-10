@@ -1,0 +1,84 @@
+{
+  "english": "lack",
+  "phat_am": "lӕk",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thiếu",
+          "definition": "to have too little or none of",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He lacked the courage to ask her out on a date.",
+              "world_new": [
+                "courage",
+                "ask",
+                "date"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tình trạng không có",
+          "definition": "the state of not having any or enough",
+          "world_new": [
+            "state"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Our lack of money placed a limit on where we could afford to stay.",
+              "world_new": [
+                "money",
+                "limit",
+                "afford",
+                "stay"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Most factories now lacked the capacity to repress the strikes.",
+    "Because of the possible toxicity of thiosulfate to test organisms, a control lacking thiosulfate should be included in toxicity tests utilizing thiosulfatedechlorinated water.",
+    "His metropolitan existence lacks this tragic, poetic register.",
+    "Domestic work remained especially arduous since, even in the 1970s, a large part of rural housing lacked basic amenities.",
+    "One study indicated that although community nurses felt their initial training was satisfactory, they lacked ongoing support and training.",
+    "If any of these nutrients are lacking, growth of the biomass will be inhibited.",
+    "However, a sampling method that accounts for spatial pattern and allows reliable pest density estimations is still lacking.",
+    "Unfortunately, the beginning of the nova historia is lacking in this manuscript."
+  ],
+  "list_see_also": [
+    "be lacking"
+  ],
+  "list_browse": [
+    "labourer",
+    "Labrador",
+    "labyrinth",
+    "lace",
+    "lack",
+    "laconic",
+    "laconically",
+    "lacquer",
+    "lactose"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060140_4176ac166b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060140_a84d769af7_o.png",
+      "id_image": "lack_5138722"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323326_19b5e91d9c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323326_2dcc5077f4_o.png",
+      "id_image": "lack_5278584"
+    }
+  ]
+}

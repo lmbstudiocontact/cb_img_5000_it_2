@@ -1,0 +1,79 @@
+{
+  "english": "invention",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phát minh",
+          "definition": "something invented",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What a marvellous invention the sewing-machine was!",
+              "world_new": [
+                "marvellous"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khả năng phát minh",
+          "definition": "the act of inventing or the ability to invent",
+          "world_new": [
+            "act",
+            "ability",
+            "invent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He had great powers of invention.",
+              "world_new": [
+                "great"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The noninfringing novel designs can be considered new inventions.",
+    "Only great inventions have made it possible for civilizations to keep from sliding back into cycles of repetition.",
+    "The negative feedback amplifier is regarded as one of the most outstanding inventions in the control arena.",
+    "The more sparse and terse the language became, the more space opened up for the visual and musical inventions.",
+    "In this scenario, inventions stimulated economic growth by promoting more ef®cient use of resources, as well as providing new items of consumption.",
+    "The mediation of inventions through these extensions is a time-critical activity.",
+    "Science and trade became mutually supportive; with new technical inventions, goods were manufactured faster and better and transport time to markets became shorter.",
+    "Patents for machinery multiplied after 1850, but most new inventions dealt with subtle refinements rather than major advances."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "invariable",
+    "invariably",
+    "invasion",
+    "invent",
+    "invention",
+    "inventive",
+    "inventiveness",
+    "inventor",
+    "inventory"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339831_3f54fdc5e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339831_4c403ce558_o.png",
+      "id_image": "invention_1330805"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339771_6ed7369dff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339771_b42bd976d7_o.png",
+      "id_image": "invention_2612486"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076960_2be920d1fa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076960_c9da3935ae_o.png",
+      "id_image": "invention_6214067"
+    }
+  ]
+}

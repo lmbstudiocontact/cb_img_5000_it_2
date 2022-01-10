@@ -1,0 +1,362 @@
+{
+  "english": "lead",
+  "phat_am": "liːd",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "dẫn đường; hướng dẫn",
+          "definition": "to guide or direct or cause to go in a certain direction",
+          "world_new": [
+            "guide",
+            "direct",
+            "cause",
+            "certain",
+            "direction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Follow my car and I’ll lead you to the motorway",
+              "world_new": [
+                "my",
+                "car",
+                "motorway"
+              ]
+            },
+            {
+              "ex_of_definition": "She took the child by the hand and led him across the road",
+              "world_new": [
+                "child",
+                "hand",
+                "across",
+                "road"
+              ]
+            },
+            {
+              "ex_of_definition": "He was leading the horse into the stable",
+              "world_new": [
+                "horse",
+                "stable"
+              ]
+            },
+            {
+              "ex_of_definition": "The sound of hammering led us to the garage",
+              "world_new": [
+                "sound",
+                "garage"
+              ]
+            },
+            {
+              "ex_of_definition": "You led us to believe that we would be paid!",
+              "world_new": [
+                "believe"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dẫn tới",
+          "definition": "to go or carry to a particular place or along a particular course",
+          "world_new": [
+            "carry",
+            "particular",
+            "place",
+            "particular",
+            "course"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A small path leads through the woods.",
+              "world_new": [
+                "small",
+                "path"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khiến cho",
+          "definition": "(with to) to cause or bring about a certain situation or state of affairs",
+          "world_new": [
+            "cause",
+            "bring",
+            "certain",
+            "situation",
+            "state"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The heavy rain led to serious floods.",
+              "world_new": [
+                "heavy",
+                "rain",
+                "serious"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dẫn đầu",
+          "definition": "to be first (in)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "An official car led the procession",
+              "world_new": [
+                "official",
+                "car",
+                "procession"
+              ]
+            },
+            {
+              "ex_of_definition": "He is still leading in the competition.",
+              "world_new": [
+                "competition"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trải qua",
+          "definition": "to live (a certain kind of life)",
+          "world_new": [
+            "live",
+            "certain",
+            "kind"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She leads a pleasant existence on a Greek island.",
+              "world_new": [
+                "pleasant",
+                "existence",
+                "island"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vị trí đứng đầu",
+          "definition": "the front place or position",
+          "world_new": [
+            "front",
+            "place",
+            "position"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has taken over the lead in the race.",
+              "world_new": [
+                "race"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tiên phong",
+          "definition": "the state of being first",
+          "world_new": [
+            "state"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We have a lead over the rest of the world in this kind of research.",
+              "world_new": [
+                "rest",
+                "world",
+                "kind",
+                "research"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự lãnh đạo",
+          "definition": "the act of leading",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We all followed his lead and entered the room.",
+              "world_new": [
+                "room"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khoảng cách với người đằng sau",
+          "definition": "the amount by which one is ahead of others",
+          "world_new": [
+            "amount",
+            "ahead"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has a lead of twenty metres (over the man in second place)."
+            }
+          ]
+        },
+        {
+          "mean_english": "dây dắt chó",
+          "definition": "a leather strap or chain for leading a dog etc",
+          "world_new": [
+            "leather",
+            "strap",
+            "chain",
+            "dog"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "All dogs must be kept on a lead."
+            }
+          ]
+        },
+        {
+          "mean_english": "thông tin",
+          "definition": "a piece of information which will help to solve a mystery etc",
+          "world_new": [
+            "piece",
+            "information",
+            "help",
+            "solve",
+            "mystery"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The police have several leads concerning the identity of the thief.",
+              "world_new": [
+                "police",
+                "concerning",
+                "identity",
+                "thief"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vai chính",
+          "definition": "a leading part in a play etc",
+          "world_new": [
+            "part",
+            "play"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Who plays the lead in that film?",
+              "world_new": [
+                "film"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chì",
+          "definition": "(symbol Pb) (of) an element, a soft, heavy, bluish-grey metal",
+          "world_new": [
+            "element",
+            "soft",
+            "heavy",
+            "metal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Are these pipes made of lead or copper?",
+              "world_new": [
+                "pipes",
+                "copper"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) lead pipes.",
+              "world_new": [
+                "pipes"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ngòi chì",
+          "definition": "the part of a pencil that leaves a mark",
+          "world_new": [
+            "part",
+            "pencil",
+            "mark"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The lead of my pencil has broken.",
+              "world_new": [
+                "my",
+                "pencil",
+                "broken"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "On the outskirts of the bazaar, livestock dealers lead their swarming herds along narrow village paths lined by millet-stalk fences.",
+    "It was this early experience as a rice breeder which also led to an interest in seed dormancy.",
+    "This former self, we learn, stood before two paths, one leading to a hill, the other to a meadow.",
+    "Obviously that leads you back into the past, into memory, into repressed emotions.",
+    "The second part returns to the idea that an excess of privatisation has led to a 'tragedy of the anti-commons'.",
+    "Indeed, patients were often reluctant to be prescribed a detoxification drug which had not led to them successfully achieving abstinence in the past.",
+    "Improved understanding of the hormonal causes and consequences of symptom fluctuation may lead to improved pharmacological and psychological treatments.",
+    "On not being led up the garden path : the use of context by the psychological parser."
+  ],
+  "list_see_also": [
+    "leader",
+    "leadership",
+    "lead on",
+    "lead up the garden path",
+    "lead up to",
+    "lead the way"
+  ],
+  "list_browse": [
+    "laziness",
+    "lazy",
+    "lazybones",
+    "lb",
+    "lead",
+    "lead by the nose",
+    "lead on",
+    "lead the way",
+    "lead up the garden path"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054260_d7f1f9a4f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054260_f309782eb1_o.png",
+      "id_image": "lead_2472092"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362137_26c5322ccc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362137_d37663eb9a_o.png",
+      "id_image": "lead_2720763"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432863_3942468b10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432863_095677a6a9_o.png",
+      "id_image": "lead_2720810"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362102_6fa8ed79b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362102_cb85abb6e8_o.png",
+      "id_image": "lead_4497121"
+    }
+  ]
+}

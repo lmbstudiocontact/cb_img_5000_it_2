@@ -1,0 +1,69 @@
+{
+  "english": "maze",
+  "phat_am": "meiz",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mê cung",
+          "definition": "a deliberately confusing series of paths, often surrounded by walls or hedges, from which it’s difficult to find the way out",
+          "world_new": [
+            "deliberately",
+            "confusing",
+            "series",
+            "difficult",
+            "find"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m lost in a maze of rules and regulations.",
+              "world_new": [
+                "lost"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Let me try to find a path through this maze of varieties and super-varieties by attempting a taxonomy (see panel 1).",
+    "Portals are best suited for indoor scenes such as mazes.",
+    "Water mazes have been used to test discrimination learning and spatial learning abilities.",
+    "There are several multi-level mazes, where the player must ascend and descend between levels several times before finding the correct path.",
+    "Content mazes and filled pauses on narrative language samples of children with specific language impairment.",
+    "Going through the street mazes, they reach the temple and are welcomed with a bath.",
+    "Image-based challenges such as mazes, pattern matching and visualization problems are common throughout the series, with all stories being presented in second-person point of view.",
+    "Structural characteristics of elements within a sentence as well as item frequency can influence maze production."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "mayonnaise",
+    "mayor",
+    "mayoress",
+    "maypole",
+    "maze",
+    "MB",
+    "MBA",
+    "MD",
+    "me"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319266_4f856d416a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319266_9a94d86c95_o.png",
+      "id_image": "maze_377116"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363902_90492005f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363902_8c7ecf79b4_o.png",
+      "id_image": "maze_676310"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319201_7e981c55b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319201_08c13032b1_o.png",
+      "id_image": "maze_951781"
+    }
+  ]
+}

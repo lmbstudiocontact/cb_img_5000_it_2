@@ -1,0 +1,51 @@
+{
+  "english": "irrational",
+  "phat_am": "iˈræʃənəl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "phi lý",
+          "definition": "not based on logical, clear thought, or reason",
+          "world_new": [
+            "logical",
+            "clear",
+            "thought",
+            "reason"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an irrational fear.",
+              "world_new": [
+                "fear"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "irrationally",
+    "irrationality"
+  ],
+  "list_browse": [
+    "irons",
+    "irony",
+    "irradiate",
+    "irradiation",
+    "irrational",
+    "irrationality",
+    "irrationally",
+    "irrefutable",
+    "irrefutably"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452383_088b7352b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452383_ba814eb09c_o.png",
+      "id_image": "irrational_4899594"
+    }
+  ]
+}

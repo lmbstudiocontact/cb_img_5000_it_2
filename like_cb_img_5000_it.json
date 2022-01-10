@@ -1,0 +1,187 @@
+{
+  "english": "like",
+  "phat_am": "laik",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "giống như",
+          "definition": "the same or similar",
+          "world_new": [
+            "similar"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They’re as like as two peas in a pod.",
+              "world_new": [
+                "pod"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "preposition",
+      "list_definition": [
+        {
+          "mean_english": "giống nhau",
+          "definition": "the same as or similar to; in the same or a similar way as",
+          "world_new": [
+            "similar",
+            "similar"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He climbs like a cat",
+              "world_new": [
+                "cat"
+              ]
+            },
+            {
+              "ex_of_definition": "She is like her mother.",
+              "world_new": [
+                "mother"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự giống nhau",
+          "definition": "someone or something which is the same or as good etc as another",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You won’t see his like / their like again.",
+              "world_new": [
+                "see",
+                "their"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "conjunction",
+      "list_definition": [
+        {
+          "mean_english": "giống như",
+          "definition": "in the same or a similar way as",
+          "world_new": [
+            "similar"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "No-one does it like he does."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thích",
+          "definition": "to be pleased with; to find pleasant or agreeable",
+          "world_new": [
+            "pleased",
+            "find",
+            "pleasant",
+            "agreeable"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I like him very much",
+              "world_new": [
+                "I"
+              ]
+            },
+            {
+              "ex_of_definition": "I like the way you’ve decorated this room.",
+              "world_new": [
+                "I",
+                "room"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ham thích",
+          "definition": "to enjoy",
+          "world_new": [
+            "enjoy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I like gardening.",
+              "world_new": [
+                "I",
+                "gardening"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Such children, we are told, look like animals and show no trace of intelligence.",
+    "Not only primates and cetaceans, but also other long-lived mammals, like elephants, have females playing active (crucial) post-reproductive roles.",
+    "It does not have to be like this.",
+    "A first theme, like a gust of wind, uses the colours of the chords.",
+    "Some demonstrated the use of technical language, for example 'it did sound very like a scale'.",
+    "The back of the menu, like the club name, inverted another old female stereotype, this time women's supposed cattiness among themselves.",
+    "I would like to know why they took place.",
+    "In a nonlinear environment, it would be enough to have locally increasing returns like setup costs."
+  ],
+  "list_see_also": [
+    "likely",
+    "likelihood",
+    "liken",
+    "likeness",
+    "likewise",
+    "like-minded",
+    "a likely story!",
+    "as likely as not",
+    "be like someone",
+    "feel like",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "lightness",
+    "lightning",
+    "lightweight",
+    "lignite",
+    "like",
+    "like a house on fire",
+    "like a shot",
+    "like clockwork",
+    "like fury"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387062_2289dddb2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387062_8efd8969f0_o.png",
+      "id_image": "like_241827"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079385_5bbc5d6263_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079385_710e079ea5_o.png",
+      "id_image": "like_4149768"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341996_e2545a2cbd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341996_da9d78dd1d_o.png",
+      "id_image": "like_951435"
+    }
+  ]
+}

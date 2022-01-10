@@ -1,0 +1,94 @@
+{
+  "english": "mat",
+  "phat_am": "mӕt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chiếu; thảm chùi chân",
+          "definition": "a flat piece of material (rushes, rubber, carpet, cork etc) for wiping shoes on, covering a floor, or various other purposes",
+          "world_new": [
+            "flat",
+            "piece",
+            "material",
+            "rubber",
+            "carpet",
+            "cork",
+            "covering",
+            "floor",
+            "various"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Wipe your shoes on the doormat",
+              "world_new": [
+                "your",
+                "doormat"
+              ]
+            },
+            {
+              "ex_of_definition": "a yoga mat",
+              "world_new": [
+                "yoga"
+              ]
+            },
+            {
+              "ex_of_definition": "a table mat.",
+              "world_new": [
+                "table"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There is often a wooden platform between the stilts where food is prepared and where hammocks are slung, although people sleep mostly upstairs on mats.",
+    "They probably represent remnants of microbial mats that developed on the seafloor during the quiescence periods of submarine hydrothermal activity.",
+    "In this bundle, ropes hold the reed matting covering the body, and a mask marks the face.",
+    "Oviposition is in the leaf sheaths or corm periphery at the base of the banana mat.",
+    "These algal mats are said to be rich in phosphates, nitrogen, organic matter, and cation-exchange capacity.",
+    "The ratio of production to consumption of organic matter in these mats therefore appears to have been preserved at nutrient concentrations greatly elevated from ambient.",
+    "Films of microbial mats might be present, paralleling bedding planes.",
+    "No negotiation was undertaken about whether she could keep the mat."
+  ],
+  "list_see_also": [
+    "matted",
+    "matting"
+  ],
+  "list_browse": [
+    "mastiff",
+    "masturbate",
+    "masturbation",
+    "masturbatory",
+    "mat",
+    "matador",
+    "match",
+    "matchbox",
+    "matched"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675874_efe66f914c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675874_cbb50f5e1c_o.png",
+      "id_image": "mat_1400251"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320801_38d5b059f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320801_26a0a6d303_o.png",
+      "id_image": "mat_2504148"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436038_37c5f73f4a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436038_c3ecdcb986_o.png",
+      "id_image": "mat_529079"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675824_16e37f1d48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675824_7c4f3cd558_o.png",
+      "id_image": "mat_5367887"
+    }
+  ]
+}

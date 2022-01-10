@@ -1,0 +1,193 @@
+{
+  "english": "freeze",
+  "phat_am": "friːz",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đóng băng",
+          "definition": "to make into or become ice",
+          "world_new": [
+            "become",
+            "ice"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It’s so cold that the river has frozen over.",
+              "world_new": [
+                "cold",
+                "river",
+                "frozen"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lạnh đến mức nước đóng băng; cực kỳ lạnh",
+          "definition": "(of weather) to be at or below freezing-point",
+          "world_new": [
+            "freezing-point"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "If it freezes again tonight, all my plants will die.",
+              "world_new": [
+                "tonight",
+                "my",
+                "die"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chết vì lạnh; cảm thấy rất lạnh",
+          "definition": "to make or be very cold",
+          "world_new": [
+            "cold"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "If you had stayed out all night in the snow, you might have frozen to death (= died of exposure to cold).",
+              "world_new": [
+                "night",
+                "snow",
+                "frozen",
+                "death",
+                "exposure"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ướp đông lạnh",
+          "definition": "to make (food) very cold in order to preserve it",
+          "world_new": [
+            "cold",
+            "order",
+            "preserve"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You can freeze the rest of that food and eat it later.",
+              "world_new": [
+                "rest",
+                "food",
+                "eat"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm (ai) ớn lạnh",
+          "definition": "to make or become stiff, still or unable to move (with fear etc)",
+          "world_new": [
+            "become",
+            "stiff",
+            "unable",
+            "move",
+            "fear"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She froze when she heard the strange noise.",
+              "world_new": [
+                "strange",
+                "noise"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ổn định",
+          "definition": "to fix prices, wages etc at a certain level",
+          "world_new": [
+            "fix",
+            "certain",
+            "level"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "If the economic situation does not improve, wages will be frozen again.",
+              "world_new": [
+                "economic",
+                "situation",
+                "improve",
+                "frozen"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tiết đông giá",
+          "definition": "a period of very cold weather when temperatures are below freezing-point",
+          "world_new": [
+            "period",
+            "cold",
+            "weather",
+            "freezing-point"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "How long do you think the freeze will last?",
+              "world_new": [
+                "long",
+                "think"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We therefore believe that freezing testicular tissues is an efficient method of cytopreservation of spermatogenic cells.",
+    "Perhaps manufacturers became progressively frozen out of land-based polite society.",
+    "After freezing, the finer-grained soils also had greater pore-ice content in comparison.",
+    "The simulated annealing process lowers the temperature by slow stages until the system ' freezes ' and no further changes occur.",
+    "There is difficulty starting, freezing, lack of associated movement and turning en bloc.",
+    "After it has wetted the solid surface, the liquid may be hardened, by freezing it or otherwise.",
+    "Of the 20 samples fed to beetles, 14 contained eggs that had been heated and six contained eggs that had been frozen.",
+    "Is cold and freezes of itself in time."
+  ],
+  "list_see_also": [
+    "freezer",
+    "freezing",
+    "frozen",
+    "freezing-point",
+    "freeze up"
+  ],
+  "list_browse": [
+    "freemason",
+    "Freepost",
+    "freeway",
+    "freewheel",
+    "freeze",
+    "freeze up",
+    "freezer",
+    "freezing",
+    "freezing-point"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427633_e2e0b88d46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427633_212e78b378_o.png",
+      "id_image": "freeze_3426146"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356812_feac5333a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356812_79f20eeabc_o.png",
+      "id_image": "freeze_4636008"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667629_e16d332ed2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667629_739c0b77b9_o.png",
+      "id_image": "freeze_4865928"
+    }
+  ]
+}

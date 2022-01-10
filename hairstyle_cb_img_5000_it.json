@@ -1,0 +1,68 @@
+{
+  "english": "hairstyle",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "kiểu tóc",
+          "definition": "the result of cutting, styling etc a person’s hair",
+          "world_new": [
+            "result",
+            "cutting",
+            "hair"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I like your new hairstyle.",
+              "world_new": [
+                "I",
+                "your"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "If memory serves me right, the guidelines stated that police officers were not to stop people because of their race, colour, religion, mode of dress or their hairstyles.",
+    "Men with the shaved hairstyle appear in tunics and the hairstyle itself gradually becomes less marked and consistent.",
+    "Nor is the mere fact that a person is carrying a particular kind of property, is dressed in a certain way, or has a certain hairstyle of itself sufficient grounds.",
+    "We must be able to tell them that it is possible to have a decent hairstyle and wear a helmet.",
+    "Unable to afford but shiny clothes and extreme hairstyles, they do not possess the economic resources necessary to move on to longer-term projects of mobility and self-realization.",
+    "It was a terracotta head about 2-3 cm in height and represented a female face with bun hairstyle.",
+    "Pende pay great attention to gestures, hairstyle and bodily form, all considered indicative of degrees of panache.",
+    "The band completed the period effect by wearing early 60s-style outfits and hairstyles."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "hairgrip",
+    "hairiness",
+    "hairline",
+    "hairpin",
+    "hairstyle",
+    "hairy",
+    "halal",
+    "half",
+    "half board"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430923_2f077b44f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430923_b91ea9a3c4_o.png",
+      "id_image": "hairstyle_3684491"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316066_e63fba4ddc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316066_640ce168f1_o.png",
+      "id_image": "hairstyle_6003019"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360257_fb607bba98_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360257_b6c48ceab0_o.png",
+      "id_image": "hairstyle_6003245"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "english": "leap",
+  "phat_am": "liːp",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nhảy",
+          "definition": "to jump",
+          "world_new": [
+            "jump"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He leapt into the boat.",
+              "world_new": [
+                "boat"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhảy qua",
+          "definition": "to jump over",
+          "world_new": [
+            "jump"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The dog leapt the wall.",
+              "world_new": [
+                "dog",
+                "wall"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lao vào",
+          "definition": "to rush eagerly",
+          "world_new": [
+            "rush",
+            "eagerly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She leaped into his arms.",
+              "world_new": [
+                "arms"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cú nhảy mạnh",
+          "definition": "an act of leaping",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The cat jumped from the roof and reached the ground in two leaps.",
+              "world_new": [
+                "cat",
+                "roof",
+                "ground"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Loreen enters playing a low sustained tone that leaps a sixth to descend by step.",
+    "The theory and design of integrated circuits has moved forward in leaps and bounds in recent years.",
+    "The last essay in the collection leaps from the seventeenth to the twentieth century, to the new medium of the film.",
+    "Instead, what is presented is a brief overview of the most significant historical developments that, at times, leaps over centuries.",
+    "He leapt up, stuck the text under some papers, and greeted me with some irritation.",
+    "While forensic science had leapt ahead on the coattails of new laboratory instrumentation and techniques, dactyloscopy had remained relatively stagnant.",
+    "As in the three-voice works already cited, this voice has occasional wide leaps.",
+    "Both this and the cabaletta have a jagged melodic contour, alternating stepwise motion with leaps from chest to head register."
+  ],
+  "list_see_also": [
+    "leapfrog",
+    "leap year",
+    "by leaps and bounds"
+  ],
+  "list_browse": [
+    "leaky",
+    "lean",
+    "leaning",
+    "leanness",
+    "leap",
+    "leap year",
+    "leapfrog",
+    "learn",
+    "learned"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672044_868cf57709_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672044_4b1fca1b62_o.png",
+      "id_image": "leap_2586978"
+    }
+  ]
+}

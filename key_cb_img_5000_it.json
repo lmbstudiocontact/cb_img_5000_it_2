@@ -1,0 +1,171 @@
+{
+  "english": "key",
+  "phat_am": "kiː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chìa khóa",
+          "definition": "an instrument or tool by which something (eg a lock or a nut) is turned",
+          "world_new": [
+            "instrument",
+            "tool",
+            "lock"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Have you got the key for this door?",
+              "world_new": [
+                "door"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phím",
+          "definition": "in musical instruments, one of the small parts pressed to sound the notes",
+          "world_new": [
+            "musical",
+            "small",
+            "sound"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "piano keys.",
+              "world_new": [
+                "piano"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nút bấnm",
+          "definition": "in a typewriter, calculator etc, one of the parts which one presses to cause a letter etc to be printed, displayed etc.",
+          "world_new": [
+            "typewriter",
+            "calculator",
+            "cause",
+            "letter"
+          ]
+        },
+        {
+          "mean_english": "tông, âm điệu",
+          "definition": "the scale in which a piece of music is set",
+          "world_new": [
+            "scale",
+            "piece",
+            "music"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What key are you playing in?"
+            },
+            {
+              "ex_of_definition": "the key of F.",
+              "world_new": [
+                "F"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chìa khóa; bí quyết",
+          "definition": "something that explains a mystery or gives an answer to a mystery, a code etc",
+          "world_new": [
+            "mystery",
+            "answer",
+            "mystery",
+            "code"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the key to the whole problem.",
+              "world_new": [
+                "whole",
+                "problem"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bảng dịch kí hiệu",
+          "definition": "in a map etc, a table explaining the symbols etc used in it.",
+          "world_new": [
+            "map",
+            "table"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "then chốt",
+          "definition": "most important",
+          "world_new": [
+            "important"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "key industries"
+            },
+            {
+              "ex_of_definition": "He is a key man in the firm.",
+              "world_new": [
+                "firm"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The key to understanding the difference is its relation to the 'cultural praxis of everyday life'.",
+    "On the basis of this sample, the article will explore three key themes.",
+    "The international author list includes most of the current key players in impact-related studies and the quality of the individual contributions is correspondingly high.",
+    "Since the key issue is the psychological pressure that law can exert on every individual mind, the law must be clear, well diffused, and foreseeable.",
+    "Transformation, then, seems to be a key concept for understanding the ritual practices.",
+    "A key to understanding the debacle of anti-nuclear reform lies in the past history of the movement itself.",
+    "Could the polity sustain pockets of autonomy in key border regions without risking the destabilisation of its interior?",
+    "Here we add in the mediating variables of dietary change to examine what effect they have on this key element of psychological well-being."
+  ],
+  "list_see_also": [
+    "keyboard",
+    "keyhole",
+    "keyhole surgery",
+    "keynote",
+    "keypad",
+    "keyed up"
+  ],
+  "list_browse": [
+    "kerosene",
+    "ketchup",
+    "kettle",
+    "kettledrum",
+    "key",
+    "keyboard",
+    "keyed up",
+    "keyhole",
+    "keyhole surgery"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683919_4d6e9305b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683919_aae0190622_o.png",
+      "id_image": "key_526811"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328816_85f54f5366_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328816_8c2cc0008b_o.png",
+      "id_image": "key_529250"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683854_138158c42f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683854_c44bc88056_o.png",
+      "id_image": "key_694193"
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "english": "jam",
+  "phat_am": "dʒӕm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mứt",
+          "definition": "a thick sticky substance made of fruit etc preserved by being boiled with sugar",
+          "world_new": [
+            "thick",
+            "sticky",
+            "substance",
+            "fruit",
+            "sugar"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "raspberry jam",
+              "world_new": [
+                "raspberry"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a jam sandwich.",
+              "world_new": [
+                "sandwich"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tắc nghẽn",
+          "definition": "to crowd full",
+          "world_new": [
+            "crowd",
+            "full"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The gateway to the embassy was jammed with angry protesters.",
+              "world_new": [
+                "gateway",
+                "embassy",
+                "angry"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ép chặt",
+          "definition": "to squeeze, press or wedge tightly or firmly",
+          "world_new": [
+            "squeeze",
+            "press",
+            "wedge",
+            "firmly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He jammed his foot in the doorway.",
+              "world_new": [
+                "foot",
+                "doorway"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mắc kẹt",
+          "definition": "to stick and (cause to) be unable to move",
+          "world_new": [
+            "stick",
+            "unable",
+            "move"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The door / lever has jammed.",
+              "world_new": [
+                "door",
+                "lever"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhiễu",
+          "definition": "(of a radio station) to cause interference with (another radio station’s broadcast) by sending out signals on a similar wavelength",
+          "world_new": [
+            "radio",
+            "cause",
+            "interference",
+            "radio",
+            "similar",
+            "wavelength"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The device can jam navigational signals.",
+              "world_new": [
+                "device"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đám đông tắc nghẽn",
+          "definition": "a crowding together of vehicles, people etc so that movement is difficult or impossible",
+          "world_new": [
+            "people",
+            "movement",
+            "difficult",
+            "impossible"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They’re stuck in a traffic jam.",
+              "world_new": [
+                "traffic"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tình thế khó khăn",
+          "definition": "a difficult situation",
+          "world_new": [
+            "difficult",
+            "situation"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m in a bit of a jam – I haven’t got enough money to pay for this meal.",
+              "world_new": [
+                "bit",
+                "I",
+                "money",
+                "pay",
+                "meal"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The part may jam while settling due to the friction.",
+    "Furthermore, the jamming diagram of a particular problem may change from one type to another while the insertion is continuing, because of changes of contact-states.",
+    "It is necessary to use a defined force to move the alignment pins (3) jammed inside guidances (2) in parallel to the micro motors.",
+    "In reality, musical practices during jam sessions, although certainly containing spontaneous elements, also reveal hierarchical relationships when examined more closely.",
+    "This not only generates traffic jams; it also stimulates demands in the political process for knocking down buildings for the purpose of broadening the streets.",
+    "Because suggestive and stylish physical performance is intrinsic to the delivery of calypso, female singers often use variations of the male 'jam and wine' style.",
+    "This leads to obtaining the jamming conditions for these particular problems, which are graphically represented by jamming diagrams.",
+    "The occasional pudding was commonly of the suet variety with jam or treacle."
+  ],
+  "list_see_also": [
+    "jammy"
+  ],
+  "list_browse": [
+    "jaguar",
+    "jail",
+    "jailbird",
+    "jailer",
+    "jam",
+    "jam on",
+    "jamboree",
+    "jammy",
+    "Jan"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335846_c26fedf3f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335846_4f9a023f61_o.png",
+      "id_image": "jam_1547923"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380912_b036f41283_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380912_c6fc1669ff_o.png",
+      "id_image": "jam_1682257"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072840_3d61b797ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072840_5fc8b0f7d4_o.png",
+      "id_image": "jam_790635"
+    }
+  ]
+}

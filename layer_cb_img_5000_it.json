@@ -1,0 +1,118 @@
+{
+  "english": "layer",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lớp",
+          "definition": "a thickness or covering",
+          "world_new": [
+            "thickness",
+            "covering"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The ground was covered with a layer of snow",
+              "world_new": [
+                "ground",
+                "snow"
+              ]
+            },
+            {
+              "ex_of_definition": "There was a layer of clay a few feet under the ground.",
+              "world_new": [
+                "clay",
+                "ground"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gà (chim) đẻ trứng",
+          "definition": "something which lays, especially a hen",
+          "world_new": [
+            "hen"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a good layer."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "sắp cái gi thành lớp",
+          "definition": "to put, cut or arrange in layers",
+          "world_new": [
+            "cut",
+            "arrange"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She had her hair layered by the hairdresser.",
+              "world_new": [
+                "hair",
+                "hairdresser"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In the absence of shocks, the resolidification along the wall of the drilled hole will be in the form of thin layers.",
+    "The case examples show that commonality potential can be realized on different layers of the product architecture within a product family.",
+    "The product ranges for the individual segments represent a specific combination of individual and standardized layers of the product architecture.",
+    "The exposed cell layers of the hatched blastocyst make firm physical contact and implantation starts.",
+    "The most distinct feature is the side layers where the velocities can exceed those a t the centre by orders of magnitude.",
+    "On the other hand, the presence of homogeneous layers introduced step changes in salinity at the upper and lower boundaries of the gradient region.",
+    "The case next in complexity is that of three continuously stratified layers contained between two rigid boundaries and separated by two surfaces of density discontinuity.",
+    "One or more layers of photographic film are used as diaphragms and are punctured by a solenoid-operated plunger needle."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "lay/put stress on",
+    "lay/set eyes on",
+    "lay/set the table",
+    "layabout",
+    "layer",
+    "layman",
+    "layout",
+    "lazily",
+    "laziness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362437_c11c1e6791_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362437_cefe0faee6_o.png",
+      "id_image": "layers_3594586"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317926_c89b6e70c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317926_6f5794d3ce_o.png",
+      "id_image": "layers_4148456"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433043_0f3ac09a11_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433043_f13eed989c_o.png",
+      "id_image": "layers_4395224"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433258_ffdcb79b7b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433258_9cb5f481b7_o.png",
+      "id_image": "layer_1218466"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054615_9f181c7bca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054615_9a4762acd1_o.png",
+      "id_image": "layer_4311696"
+    }
+  ]
+}

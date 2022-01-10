@@ -1,0 +1,116 @@
+{
+  "english": "leaf",
+  "phat_am": "liːf",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lá cây",
+          "definition": "a part of a plant growing from the side of a stem, usually green, flat and thin, but of various shapes depending on the plant",
+          "world_new": [
+            "part",
+            "plant",
+            "side",
+            "stem",
+            "green",
+            "flat",
+            "thin",
+            "various",
+            "plant"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Many trees lose their leaves in autumn.",
+              "world_new": [
+                "lose",
+                "their",
+                "autumn"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tờ (giấy)",
+          "definition": "something thin like a leaf, especially the page of a book",
+          "world_new": [
+            "thin",
+            "page",
+            "book"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Several leaves had been torn out of the book.",
+              "world_new": [
+                "book"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tấm ghép",
+          "definition": "an extra part of a table, either attached to one side with a hinge or added to the centre when the two ends are apart.",
+          "world_new": [
+            "extra",
+            "part",
+            "table",
+            "attached",
+            "side",
+            "hinge",
+            "added",
+            "centre",
+            "apart"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Litterfall was separated into three fractions: leaves, branches > 1 cm, and miscellaneous.",
+    "Here, we used artificial leaves of a uniform, ellipsoid shape, half of which were provided with drip-tips.",
+    "The number of leaves needed on a stem from each plant species was then calculated.",
+    "The leaves of plants are beautifully designed to carry out photosynthesis.",
+    "Skutch (1930) proposed that hypodermis in musoids is the tissue enabling young leaves to unroll.",
+    "In both the long and short term, levels of phenolics increased in damaged leaves under low nutrient treatments.",
+    "The drill was used a great deal in the leaves of the trees.",
+    "Flavonoids gave the strongest reaction, and were analyzed quantitatively in leaves of five age classes, expanded during the dry and wet season."
+  ],
+  "list_see_also": [
+    "leaflet",
+    "leafy",
+    "turn over a new leaf"
+  ],
+  "list_browse": [
+    "lead up to",
+    "leaden",
+    "leader",
+    "leadership",
+    "leaf",
+    "leaflet",
+    "leafy",
+    "league",
+    "leak"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361922_74dc81c82a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361922_852dcbb632_o.png",
+      "id_image": "leaf_169819"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317596_37fc531d06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317596_421a92d12d_o.png",
+      "id_image": "leaf_263930"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432693_8e7066c15b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432693_549551f064_o.png",
+      "id_image": "leaf_692063"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317561_dbbf8a4d1d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317561_4dfa43004d_o.png",
+      "id_image": "leaf_921825"
+    }
+  ]
+}

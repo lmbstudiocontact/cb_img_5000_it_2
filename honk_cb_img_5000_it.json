@@ -1,0 +1,62 @@
+{
+  "english": "honk",
+  "phat_am": "hoŋk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tiếng kêu của ngỗng trời; tiếng còi",
+          "definition": "(a sound like) the cry of a goose or the sound of a motor-car horn.",
+          "world_new": [
+            "sound",
+            "cry",
+            "goose",
+            "sound",
+            "horn"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "kêu (ngỗng), bóp còi",
+          "definition": "to make such a noise",
+          "world_new": [
+            "noise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Don’t honk that horn any more – you’ll disturb the neighbours.",
+              "world_new": [
+                "horn",
+                "disturb"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "honey",
+    "honeybee",
+    "honeycomb",
+    "honeymoon",
+    "honk",
+    "honorary",
+    "honour",
+    "honourable",
+    "honours"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378127_14a1ef3499_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378127_22f99d9688_o.png",
+      "id_image": "honk_2369562"
+    }
+  ]
+}

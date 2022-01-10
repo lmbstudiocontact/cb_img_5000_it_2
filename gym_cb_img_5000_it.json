@@ -1,0 +1,65 @@
+{
+  "english": "gym",
+  "phat_am": "dʒim",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phòng tập thể dục",
+          "definition": "short for gymnasium and gymnastics",
+          "world_new": [
+            "short"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The children have gym on Thursdays"
+            },
+            {
+              "ex_of_definition": "(also adjective) a gym teacher.",
+              "world_new": [
+                "teacher"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The person then absorbs the goal through a series of physical movements, repatterning and brain gym exercises.",
+    "These areas include the gym, health promotion rooms, the baby clinic and waiting area.",
+    "The centre had facilities for treatments and activities, including physiotherapy, massage, herb-baths, foot therapy, motion therapy in pools, and gym rooms."
+  ],
+  "list_see_also": [
+    "gym shoe"
+  ],
+  "list_browse": [
+    "guts",
+    "gutted",
+    "gutter",
+    "guy",
+    "gym",
+    "gym shoe",
+    "gymkhana",
+    "gymnasium",
+    "gymnast"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432383_31a31a79c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432383_233356d170_o.png",
+      "id_image": "gym_1177617"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361562_973682d7e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361562_c9cba93e33_o.png",
+      "id_image": "gym_1403333"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053660_b9ce1d34f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053660_d25e9ce6c1_o.png",
+      "id_image": "gym_2503456"
+    }
+  ]
+}

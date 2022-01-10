@@ -1,0 +1,110 @@
+{
+  "english": "hazard",
+  "phat_am": "ˈhӕzəd",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mối nguy hiểm; sự độc hại",
+          "definition": "(something which causes) a risk of harm or danger",
+          "world_new": [
+            "risk",
+            "harm",
+            "danger"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the hazards of mountain-climbing."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "mạo hiểm",
+          "definition": "to risk; to be prepared to do (something, the result of which is uncertain)",
+          "world_new": [
+            "prepared",
+            "result"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Are you prepared to hazard your life for the success of this mission?",
+              "world_new": [
+                "prepared",
+                "your",
+                "life",
+                "success",
+                "mission"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đánh bạo",
+          "definition": "to put forward (a guess etc)",
+          "world_new": [
+            "forward",
+            "guess"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’d hazard a guess that he’s gone to visit his mother.",
+              "world_new": [
+                "guess",
+                "visit",
+                "mother"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In combination the monthly and half-yearly cumulative hazards support the same substantive conclusion as analyses using their ratio.",
+    "Roads and pavements are more likely to accumulate debris washed off fields and hedges, so that there are more hazards for the older pedestrian.",
+    "Explanations of such occurrences as inattention or neglect can, of course, verge on counterfactual history, with all its potential hazards.",
+    "The hazards of the pill have had much ink spilt on them.",
+    "An environmental hazards review of the patient's home should also be performed.",
+    "Smoking presents distinct hazards to patients, as they tend to forget they have left a cigarette burning and may put lighted matches on flammable objects.",
+    "Clearly the hazards of any intervention are more likely to outweigh the potential symptomatic and prognostic benefits in patients at low risk.",
+    "In addition, the presence of environmental hazards positively related to falls during the follow-up period."
+  ],
+  "list_see_also": [
+    "hazardous",
+    "hazardousness"
+  ],
+  "list_browse": [
+    "hay",
+    "hay-fever",
+    "hayrick",
+    "haywire",
+    "hazard",
+    "hazardous",
+    "hazardousness",
+    "haze",
+    "hazel"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387987_b8eb76dacf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387987_728866f726_o.png",
+      "id_image": "hazard_2106519"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698219_7730a5413b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698219_9ae64571bd_o.png",
+      "id_image": "hazard_3922174"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342996_6d7f2f707a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342996_5f78a3d48f_o.png",
+      "id_image": "hazard_5983290"
+    }
+  ]
+}

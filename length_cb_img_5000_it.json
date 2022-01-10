@@ -1,0 +1,106 @@
+{
+  "english": "length",
+  "phat_am": "leŋθ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chiều dài",
+          "definition": "the distance from one end to the other of an object, period of time etc",
+          "world_new": [
+            "distance",
+            "object",
+            "period",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What is the length of your garden?",
+              "world_new": [
+                "your",
+                "garden"
+              ]
+            },
+            {
+              "ex_of_definition": "Please note down the length of time it takes you to do this.",
+              "world_new": [
+                "note",
+                "time"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "độ dài",
+          "definition": "a piece of something, especially cloth",
+          "world_new": [
+            "piece",
+            "cloth"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I bought a (3–metre) length of silk.",
+              "world_new": [
+                "I",
+                "silk"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chung cuộc",
+          "definition": "in racing, the measurement from end to end of a horse, boat etc",
+          "world_new": [
+            "racing",
+            "measurement",
+            "horse",
+            "boat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He won by a length"
+            },
+            {
+              "ex_of_definition": "The other boat is several lengths in front.",
+              "world_new": [
+                "boat",
+                "front"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "lengthen",
+    "lengthways/lengthwise",
+    "lengthy",
+    "at length",
+    "go to any lengths"
+  ],
+  "list_browse": [
+    "lemon grass",
+    "lemonade",
+    "lend",
+    "lend itself to",
+    "length",
+    "lengthen",
+    "lengthways/lengthwise",
+    "lengthy",
+    "lenience"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460448_bd33c1007f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460448_cf25df6e0d_o.png",
+      "id_image": "length_4327057"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390642_38d4427d0b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390642_d166c9f180_o.png",
+      "id_image": "length_4524931"
+    }
+  ]
+}

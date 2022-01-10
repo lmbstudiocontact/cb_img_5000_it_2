@@ -1,0 +1,121 @@
+{
+  "english": "law",
+  "phat_am": "loː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "pháp luật",
+          "definition": "the collection of rules according to which people live or a country etc is governed",
+          "world_new": [
+            "collection",
+            "people",
+            "live",
+            "country"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Breaking the speed limit is against the law",
+              "world_new": [
+                "speed",
+                "limit"
+              ]
+            },
+            {
+              "ex_of_definition": "law and order.",
+              "world_new": [
+                "order"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "luật",
+          "definition": "any one of such rules",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A new law has been passed by Parliament."
+            }
+          ]
+        },
+        {
+          "mean_english": "luật học",
+          "definition": "(in science) a rule that says that under certain conditions certain things always happen",
+          "world_new": [
+            "rule",
+            "certain",
+            "certain",
+            "happen"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the law of gravity.",
+              "world_new": [
+                "gravity"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Constitutions are not supposed to be ordinary law, after all.",
+    "To be more precise, he runs away from the law by defiantly refusing to win the race as the favourite competitor.",
+    "The chief obstacle to such a law in the first part of the twentieth century was opposition from settlers and farmers.",
+    "The former hinges on the possibility of software agents being regarded as legal persons in the eyes of the law.",
+    "Truncated power laws : a tool for understanding aggregation patterns of animals?",
+    "The stories revealed laws of mental functioning that, he assumed, would ultimately be traced to neural mechanisms.",
+    "Unlike criminal matters and the policing of trades and markets, religious courts had no executive powers in matters of family law.",
+    "In other words, understanding a particular action requires applying the theory's laws and deriving a solution."
+  ],
+  "list_see_also": [
+    "lawful",
+    "lawfully",
+    "lawless",
+    "lawlessly",
+    "lawlessness",
+    "lawyer",
+    "law-abiding",
+    "law court",
+    "lawsuit",
+    "be a law unto oneself",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "lavender",
+    "lavish",
+    "lavishly",
+    "lavishness",
+    "law",
+    "law court",
+    "law-abiding",
+    "lawful",
+    "lawfully"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673399_99e2dacc0d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673399_9e0c687a96_o.png",
+      "id_image": "law_1208147"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363122_971eb4d367_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363122_9b86634dc5_o.png",
+      "id_image": "law_1781212"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318541_a112e66c4d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318541_ab942da961_o.png",
+      "id_image": "law_3142936"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055095_7d08662c31_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055095_fd78efac55_o.png",
+      "id_image": "law_3142988"
+    }
+  ]
+}

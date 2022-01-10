@@ -1,0 +1,73 @@
+{
+  "english": "grapevine",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tin đồn",
+          "definition": "an informal means of passing news from person to person",
+          "world_new": [
+            "informal",
+            "means",
+            "passing",
+            "news",
+            "person",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I hear through the grapevine that he is being promoted.",
+              "world_new": [
+                "I",
+                "hear"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cây nho",
+          "definition": "a vine.",
+          "world_new": [
+            "vine"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Cultural practices that improve mycorrhizal colonization, especially through moderate phosphate fertilization and/or conservation of soil organic matter, could also improve drought resistance of grapevines in temperate and semi-arid zones.",
+    "Besides their recommendations about treatments of the existing grapevines and vineyards, the commission recommended only small, carefully undertaken experiments to test grafted vines.",
+    "Identification of resistance gene analogs linked to a powdery mildew resistance locus in grapevine.",
+    "To the vintners the symptoms of the grapevine disease looked familiar and unspecific.",
+    "The new entity \"pest\" as a specific, causal agent external to the grapevine plant existed in a conceptual space that was unconnected to the vintners' field of knowledge.",
+    "The babus' grapevine stretched far and wide.",
+    "The main actor, the ever-escaping grapevine louse, mocked all efforts to arrest it.",
+    "An asexually reproducing phase of the aphid can also live above ground on the leaves of the grapevine, which then responds by growing leaf galls."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "granulated",
+    "granule",
+    "grape",
+    "grapefruit",
+    "grapevine",
+    "graph",
+    "graph paper",
+    "graphic",
+    "graphic design"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324996_87161bf235_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324996_1101e9db4b_o.png",
+      "id_image": "grapevine_4698355"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324961_d0cc863220_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324961_380d8138a6_o.png",
+      "id_image": "grapevine_6286359"
+    }
+  ]
+}

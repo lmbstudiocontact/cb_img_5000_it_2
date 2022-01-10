@@ -1,0 +1,87 @@
+{
+  "english": "location",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chỗ",
+          "definition": "position or situation",
+          "world_new": [
+            "position",
+            "situation"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This would be an ideal location for a picnic.",
+              "world_new": [
+                "ideal",
+                "picnic"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vị trí",
+          "definition": "the act of locating",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Who is arranging the company’s location to the new site?",
+              "world_new": [
+                "site"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Thus, compact and taller forms can be advantageous in reducing the overall summer temperature rise in the atria, particularly in low latitude locations.",
+    "Moreover, we restrict our attention to cases where the two worlds have the same locations.",
+    "There appears to be no published data describing the yield bene®ts to be derived from irrigation for these locations.",
+    "When completed, each agent has a list of up to three process additions with corresponding projected values and locations within the sequence.",
+    "One important class of problems is the selection of locations for the emergency service units.",
+    "As no data exist on the size of these locations, they are not included in the table.",
+    "Scores of volunteers took part in ten-hour sessions, monitoring radiation at and in the vicinity of thirty sites and control locations.",
+    "Their exact locations within those cities have not been established. 10."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "local wind",
+    "locality",
+    "locally",
+    "locate",
+    "location",
+    "lock",
+    "lock in",
+    "lock out",
+    "lock up"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693274_38ef67e00e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693274_53fc9f43a7_o.png",
+      "id_image": "location_1149050"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452898_9e3651c26d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452898_3340fd04c6_o.png",
+      "id_image": "location_1284357"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452863_f047c76275_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452863_9d808d740d_o.png",
+      "id_image": "location_1284362"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452953_8a8a65bcba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452953_7cb51a63d0_o.png",
+      "id_image": "location_495480"
+    }
+  ]
+}

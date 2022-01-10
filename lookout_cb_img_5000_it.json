@@ -1,0 +1,96 @@
+{
+  "english": "lookout",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự giám sát",
+          "definition": "a careful watch",
+          "world_new": [
+            "careful",
+            "watch"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Keep a sharp lookout for Jim.",
+              "world_new": [
+                "sharp"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trạm gác",
+          "definition": "a place from which such a watch can be kept.",
+          "world_new": [
+            "place",
+            "watch"
+          ]
+        },
+        {
+          "mean_english": "người canh gác",
+          "definition": "a person who has been given the job of watching",
+          "world_new": [
+            "person",
+            "job"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There was a shout from the lookout.",
+              "world_new": [
+                "shout"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trách nhiện",
+          "definition": "concern, responsibility",
+          "world_new": [
+            "concern",
+            "responsibility"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "If he catches you leaving early, that’s your lookout!",
+              "world_new": [
+                "your"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Although lookouts typically do not actually participate in the crime, they can nonetheless be charged with aiding and abetting or with conspiracy, or as accomplices.",
+    "Na-tio-tish failed to post lookouts and the troops crossed over undetected.",
+    "Currently, public hotlines, fire lookouts in towers, and ground and aerial patrols can be used as a means of early detection of forest fires.",
+    "The large animals not only tolerate and, by their presence, protect the birds; they also use them as lookouts for predators.",
+    "Lookouts noted the stacks and mast-tops of three ships almost simultaneously at 21000 yd distant and bearing 250 degrees, steering a slightly converging course.",
+    "The technical research community should always be on the lookout for new technologies.",
+    "The cabin was added as a residence for the lookouts in 1939.",
+    "He posted lookouts in the bows and rigging, and began to edge slowly forward."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "look-alike",
+    "looker-on",
+    "-looking",
+    "looking-glass",
+    "lookout",
+    "looks",
+    "loom",
+    "loop",
+    "loophole"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450793_d60c24a365_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450793_cd23fa27cd_o.png",
+      "id_image": "lookout_5261590"
+    }
+  ]
+}

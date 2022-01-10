@@ -1,0 +1,113 @@
+{
+  "english": "meal",
+  "phat_am": "miːl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bữa ăn",
+          "definition": "the food taken at one time",
+          "world_new": [
+            "food",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a three-course meal"
+            },
+            {
+              "ex_of_definition": "a hearty meal",
+              "world_new": [
+                "hearty"
+              ]
+            },
+            {
+              "ex_of_definition": "She eats three meals a day.",
+              "world_new": [
+                "day"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bột xay thô",
+          "definition": "the edible parts of grain ground to a coarse powder",
+          "world_new": [
+            "edible",
+            "grain",
+            "ground",
+            "coarse",
+            "powder"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a sack of meal",
+              "world_new": [
+                "sack"
+              ]
+            },
+            {
+              "ex_of_definition": "oatmeal.",
+              "world_new": [
+                "oatmeal"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This is true of basic items such as a warm waterproof overcoat and a meal with meat, chicken or fish every second day.",
+    "Examples of commercial businesses contracting to government agencies and private individuals are found in social care and school meals provision.",
+    "Creative approaches to funding the cost of accommodation, meals and transport should be explored by local authorities, home managers and voluntary organisations.",
+    "Both single and multiple blood meals were successfully profiled (fig. 3).",
+    "She obviously found it natural to base her meals on the products she found in the store.",
+    "The participants were asked to agree to be videotaped during the meals when they were not in a hurry.",
+    "Self-reported washing of hands before meals did not show any association with illness.",
+    "After we had enjoyed the meal the company delighted in drinking and singing."
+  ],
+  "list_see_also": [
+    "meals on wheels",
+    "make a meal of (something)"
+  ],
+  "list_browse": [
+    "meadow",
+    "meagre",
+    "meagrely",
+    "meagreness",
+    "meal",
+    "meals on wheels",
+    "mealy",
+    "mean",
+    "mean nothing to"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055500_6a037d319c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055500_ce3977f31f_o.png",
+      "id_image": "meal_3274099"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055465_f571e1625b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055465_6245d5071a_o.png",
+      "id_image": "meal_3595881"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363467_6296004f79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363467_963d0fd29c_o.png",
+      "id_image": "meal_3967376"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318946_68f6013639_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318946_6a6026318a_o.png",
+      "id_image": "meal_649067"
+    }
+  ]
+}

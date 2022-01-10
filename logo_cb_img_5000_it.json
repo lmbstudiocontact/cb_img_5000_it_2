@@ -1,0 +1,79 @@
+{
+  "english": "logo",
+  "phat_am": "ˈloɡou; American ˈlouɡou",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "logo",
+          "definition": "a design or symbol that a company or organization uses as its official sign",
+          "world_new": [
+            "design",
+            "symbol",
+            "company",
+            "organization",
+            "its",
+            "official",
+            "sign"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The company logo allows its products to be instantly recognizable.",
+              "world_new": [
+                "company",
+                "its",
+                "instantly",
+                "recognizable"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Such is the power of the logos in music!",
+    "Six of the stimuli were presented in the stylized print condition, in which the items were presented with their familiar typeface but without the logo.",
+    "As the interviewer shows them to you, look to see if the shoe has any logo or writing on it that you recognize.",
+    "Or put another way, doctors draw on scientific texts, using ' medical terms ', to gain the logos, or truth claim, of expertise.",
+    "Or perhaps you plan ahead and always buy the cheapest, in which case you are looking for the price panel not the company logo.",
+    "Using the information analysis and sequence logo technique, the sequence pattern bound by the protein and the frequency of bases at each position were determined.",
+    "I remember one fall night when the stands were sparse and kids were already wearing coats emblazoned with football logos.",
+    "Eventually, as everyone in the world knows, two of the three parabolic arches were to join together and become a logo."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "logically",
+    "logistic",
+    "logistically",
+    "logistics",
+    "logo",
+    "loin",
+    "loincloth",
+    "loiter",
+    "loitering"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381542_9898ff5bab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381542_b03cc115cc_o.png",
+      "id_image": "logo_2311656"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451403_dec955967c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451403_dcd6d81892_o.png",
+      "id_image": "logo_3677245"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073430_85cf45b9db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073430_359d6bc57c_o.png",
+      "id_image": "logo_5304754"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451348_812789249f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451348_db6c61c32e_o.png",
+      "id_image": "logo_5448415"
+    }
+  ]
+}

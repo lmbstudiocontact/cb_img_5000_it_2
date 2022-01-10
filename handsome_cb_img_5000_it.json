@@ -1,0 +1,80 @@
+{
+  "english": "handsome",
+  "phat_am": "ˈhӕnsəm",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "đẹp trai",
+          "definition": "(usually of men) good-looking",
+          "world_new": [
+            "good-looking"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a handsome prince.",
+              "world_new": [
+                "prince"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hào phóng; rộng rãi",
+          "definition": "very large; generous",
+          "world_new": [
+            "generous"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He gave a handsome sum of money to charity.",
+              "world_new": [
+                "sum",
+                "money",
+                "charity"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I put it in my election address and won by a handsome majority.",
+    "His book, accordingly, includes handsome photographs in colour and black-and-white of models, finished buildings, scientific phenomena, and landscapes.",
+    "I wrote many times that he should be beautiful, handsome, interesting.",
+    "You go on the date and find out that the guy is neither handsome nor funny.",
+    "There were handsome houses; tenements and mews; hotels and boarding houses.",
+    "At the price one wonders how such a handsome product can be produced so cheaply.",
+    "No; they put up handsome and very expensive fiats.",
+    "Nevertheless, there are two handsome hotels, a theatre, cinema, dancing hall, tennis court, and so on."
+  ],
+  "list_see_also": [
+    "handsomely",
+    "handsomeness"
+  ],
+  "list_browse": [
+    "hands off!",
+    "hands up!",
+    "hands-on",
+    "handshake",
+    "handsome",
+    "handsomely",
+    "handsomeness",
+    "handstand",
+    "handwriting"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390497_6023090e61_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390497_dc333b111b_o.png",
+      "id_image": "handsome_2897006"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700604_ce334daa57_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700604_37093dfcd1_o.png",
+      "id_image": "handsome_3891309"
+    }
+  ]
+}

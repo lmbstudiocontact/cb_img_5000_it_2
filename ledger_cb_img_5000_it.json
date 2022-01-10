@@ -1,0 +1,77 @@
+{
+  "english": "ledger",
+  "phat_am": "ˈledʒə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sổ cái",
+          "definition": "the book of accounts of an office or shop",
+          "world_new": [
+            "book",
+            "office",
+            "shop"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He made an entry in the ledger.",
+              "world_new": [
+                "entry"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "These summaries were prepared from actual ledgers listing day-by-day transactions.",
+    "Most petitions were blank forms with ledgers for signatures, printed and distributed by farm journal editors.",
+    "Harding's work includes comprehensive references to military reports, packing lists, shipwrecks, inventories, expenditure ledgers and accounts receivable.",
+    "Once the cane was weighed, quantities were recorded in the mill's ledger.",
+    "If merchants' assiduous ledger-keeping reflects a need to establish a literary type of credit, their performance as trustworthy commercial actors suggests affinities with the theatre.",
+    "People registered next to each other in the ledgers lived next to each other in the town.",
+    "Wealth was a much broader matter than abstract figures in an accountant's ledger.",
+    "It thus quite clearly will improve his eventual moral ledger."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "lectern",
+    "lecture",
+    "lecturer",
+    "ledge",
+    "ledger",
+    "lee",
+    "leech",
+    "leek",
+    "leer"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084530_b43a167593_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084530_95e160f132_o.png",
+      "id_image": "ledger_1349753"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461883_91d072e702_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461883_2d7500380c_o.png",
+      "id_image": "ledger_1728971"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461858_c837ed6c74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461858_68e0df1592_o.png",
+      "id_image": "ledger_1751739"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391977_81ba90b3c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391977_4538173ed9_o.png",
+      "id_image": "ledger_5848083"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391927_59d4375f66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391927_8590aaf542_o.png",
+      "id_image": "ledger_6139963"
+    }
+  ]
+}

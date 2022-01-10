@@ -1,0 +1,94 @@
+{
+  "english": "lobby",
+  "phat_am": "ˈlobi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hành lang",
+          "definition": "a (small) entrance-hall",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a hotel lobby.",
+              "world_new": [
+                "hotel"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhóm người vận động",
+          "definition": "a group of people who try to influence the Government etc in a certain way or for a certain purpose.",
+          "world_new": [
+            "group",
+            "people",
+            "try",
+            "influence",
+            "certain",
+            "certain",
+            "purpose"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "vận động hành lang",
+          "definition": "to try to influence (the Government etc)",
+          "world_new": [
+            "try",
+            "influence"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The group will be lobbying the government for a change in the law.",
+              "world_new": [
+                "group",
+                "government",
+                "change",
+                "law"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The lobbies will be so wide, as to include within them the pillars in the front and on each side.",
+    "Devising a study with a starting point ten years ago would add to our understanding of lobbying influence.",
+    "Commercial beer producers lobbying for liquor reform talked the same language.",
+    "Today there is greater emphasis on activities that contribute to women's political participation : civic education, improving leadership skills, and lobbying on particular legislative proposals.",
+    "Indeed, it may well have been pressure-group activity that brought pro-abolitionists into the division lobbies in 1956 after having abstained in 1955.",
+    "From more efficient constitutions would emerge more inclusive and hence more efficient lobbying systems.",
+    "I refer to this as lobbying success to be precise and draw a distinction between this measure and the broader concept of interest group influence.",
+    "There, he once again lobbied for the secularization of hospitals."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "loathe",
+    "loathing",
+    "loathsome",
+    "lob",
+    "lobby",
+    "lobe",
+    "lobster",
+    "local",
+    "local wind"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075370_b412110999_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075370_7a2ae9309f_o.png",
+      "id_image": "lobby_2473110"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383227_04a39feedf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383227_bc3a251855_o.png",
+      "id_image": "lobby_5569268"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "english": "kerosene",
+  "phat_am": "ˈkerəsiːn",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "dầu lửa",
+          "definition": "paraffin oil, obtained from petroleum or from coal",
+          "world_new": [
+            "paraffin",
+            "oil",
+            "petroleum",
+            "coal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The jet plane refuelled with kerosene",
+              "world_new": [
+                "jet",
+                "plane"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a kerosene lamp/stove."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This result is virtually the same as in the kerosene subsidy case.",
+    "Compared to passenger transport by rail or bus, aviation is still subsidized in disguise through duty-free sales and cheap kerosene.",
+    "Formaldehyde is not poisonous; it gives off a suffocating odour and irritates the mucous membranes, and has inflammable properties similar to those of kerosene.",
+    "Secondly, accidents lately suggest that in survivable crashes more people have continued to survive when kerosene is used.",
+    "Figure 3 shows that with the kerosene subsidy over time the forest biomass stays approximately stable.",
+    "In figure 1 we see that compared with the base case a kerosene subsidy substantially improves 70 per cent of the biomass that is wood.",
+    "Table 1 also shows the average share of kerosene purchased from the private market as opposed to the subsidized public distribution system.",
+    "When we look specifically at the rural poor, firewood is universal, much fewer have electricity, and instead kerosene is more important."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "keratin",
+    "kerb",
+    "kerbstone",
+    "kernel",
+    "kerosene",
+    "ketchup",
+    "kettle",
+    "kettledrum",
+    "key"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329326_8a520ee776_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329326_6f69988f7d_o.png",
+      "id_image": "kerosene_1280959"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373962_4753b2abfa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373962_43cf127ff3_o.png",
+      "id_image": "kerosene_2034553"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684284_4e3144bb42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684284_e848d79f80_o.png",
+      "id_image": "kerosene_415996"
+    }
+  ]
+}

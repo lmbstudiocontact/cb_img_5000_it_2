@@ -1,0 +1,84 @@
+{
+  "english": "insert",
+  "phat_am": "inˈsəːt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chèn vào",
+          "definition": "to put or place (something) in",
+          "world_new": [
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He inserted the money in the parking meter",
+              "world_new": [
+                "money",
+                "parking",
+                "meter"
+              ]
+            },
+            {
+              "ex_of_definition": "An extra chapter has been inserted into the book",
+              "world_new": [
+                "extra",
+                "chapter",
+                "book"
+              ]
+            },
+            {
+              "ex_of_definition": "They inserted the announcement in the newspaper.",
+              "world_new": [
+                "announcement",
+                "newspaper"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The large oligosaccharide is transferred en bloc to the nascent polypeptide chain, which is transported across or inserted into the rough endoplasmic reticulum membrane.",
+    "I speculated that some or all of them might have been inserted by a copy editor.",
+    "One can, however, be more systematic about the individual tour in which a new customer has just been inserted.",
+    "The lambda inserts used were too large, sometimes carrying two or three genes, making interpretation difficult.",
+    "Excised schwas were always cut from and inserted at zero crossings to avoid acoustic artifacts.",
+    "Here, we should take into account the value of for bearing 0 since the rotation axis of the motor is inserted into this bearing.",
+    "Total amounts were estimated for both procedures and inserted in the model as cost variables.",
+    "Excessive lettering should be avoided on the figure and should be inserted in the legend."
+  ],
+  "list_see_also": [
+    "insertion"
+  ],
+  "list_browse": [
+    "insensible",
+    "insensitive",
+    "insensitivity",
+    "inseparable",
+    "insert",
+    "insertion",
+    "inset",
+    "inshore",
+    "inside"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345511_317bf32d3c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345511_3469a9f790_o.png",
+      "id_image": "insert_1649614"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345461_29dbf1f9f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345461_b21dd64e98_o.png",
+      "id_image": "insert_1827190"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700589_7c5669b099_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700589_c1461faa1b_o.png",
+      "id_image": "insert_1827194"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "english": "left",
+  "phat_am": "left",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "bên trái",
+          "definition": "on, for, or belonging to, the side of the body that in most people has the less skilful hand (the side of a person or thing which is toward the west when that person or thing is facing north-opposite to right)",
+          "world_new": [
+            "side",
+            "body",
+            "people",
+            "skilful",
+            "hand",
+            "side",
+            "person",
+            "west",
+            "person",
+            "facing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She wore an engagement ring on her left hand",
+              "world_new": [
+                "engagement",
+                "ring",
+                "hand"
+              ]
+            },
+            {
+              "ex_of_definition": "They drive on the left side of the road in Britain.",
+              "world_new": [
+                "drive",
+                "side",
+                "road"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "về phía bên trái",
+          "definition": "to or towards this side",
+          "world_new": [
+            "side"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He turned left at the end of the road.",
+              "world_new": [
+                "road"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bên trái",
+          "definition": "the left side, part etc",
+          "world_new": [
+            "side",
+            "part"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He sat on her left"
+            },
+            {
+              "ex_of_definition": "She turned to her left"
+            },
+            {
+              "ex_of_definition": "Take the first road on the left",
+              "world_new": [
+                "road"
+              ]
+            },
+            {
+              "ex_of_definition": "Keep to the left!"
+            }
+          ]
+        },
+        {
+          "mean_english": "cánh tả",
+          "definition": "within a political party, Parliament etc, the most radical or socialist group",
+          "world_new": [
+            "political",
+            "party",
+            "radical",
+            "socialist",
+            "group"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s on the left of the party.",
+              "world_new": [
+                "party"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "left-hand",
+    "left-handed",
+    "left-handedness",
+    "leftover",
+    "left-wing",
+    "left wing"
+  ],
+  "list_browse": [
+    "leek",
+    "leer",
+    "leeward",
+    "leeway",
+    "left",
+    "left over",
+    "left-hand",
+    "left-handed",
+    "left-handedness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084295_8202139b1f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084295_39cc5c3038_o.png",
+      "id_image": "left_1655261"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701739_007bd251ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701739_388e95bf6d_o.png",
+      "id_image": "left_2456161"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461643_d8e9de0055_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461643_558bea97a3_o.png",
+      "id_image": "left_2456898"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084215_52defcfd72_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084215_8478421dc6_o.png",
+      "id_image": "left_5458283"
+    }
+  ]
+}

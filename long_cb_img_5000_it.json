@@ -1,0 +1,230 @@
+{
+  "english": "long",
+  "phat_am": "loŋ",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "dài",
+          "definition": "measuring a great distance from one end to the other",
+          "world_new": [
+            "great",
+            "distance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a long journey",
+              "world_new": [
+                "journey"
+              ]
+            },
+            {
+              "ex_of_definition": "a long road",
+              "world_new": [
+                "road"
+              ]
+            },
+            {
+              "ex_of_definition": "She has long legs."
+            }
+          ]
+        },
+        {
+          "mean_english": "lâu dài",
+          "definition": "having a great period of time from the first moment to the last",
+          "world_new": [
+            "great",
+            "period",
+            "time",
+            "moment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The book took a long time to read",
+              "world_new": [
+                "book",
+                "time",
+                "read"
+              ]
+            },
+            {
+              "ex_of_definition": "a long conversation",
+              "world_new": [
+                "conversation"
+              ]
+            },
+            {
+              "ex_of_definition": "a long delay.",
+              "world_new": [
+                "delay"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dài",
+          "definition": "measuring a certain amount in distance or time",
+          "world_new": [
+            "certain",
+            "amount",
+            "distance",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The wire is two centimetres/centimeters long",
+              "world_new": [
+                "wire"
+              ]
+            },
+            {
+              "ex_of_definition": "The television programme was just over an hour long.",
+              "world_new": [
+                "television",
+                "programme",
+                "hour"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lâu",
+          "definition": "away, doing or using something etc for a great period of time",
+          "world_new": [
+            "great",
+            "period",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Will you be long?"
+            }
+          ]
+        },
+        {
+          "mean_english": "nhớ dai",
+          "definition": "reaching to a great distance in space or time",
+          "world_new": [
+            "great",
+            "distance",
+            "space",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She has a long memory",
+              "world_new": [
+                "memory"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "trong một thời gian lâu",
+          "definition": "a great period of time",
+          "world_new": [
+            "great",
+            "period",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This happened long before you were born."
+            }
+          ]
+        },
+        {
+          "mean_english": "lâu",
+          "definition": "for a great period of time",
+          "world_new": [
+            "great",
+            "period",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Have you been waiting long?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "khao khát",
+          "definition": "(often with for) to wish very much",
+          "world_new": [
+            "wish"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He longed to go home",
+              "world_new": [
+                "home"
+              ]
+            },
+            {
+              "ex_of_definition": "I am longing for a drink.",
+              "world_new": [
+                "I",
+                "longing",
+                "drink"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "longways",
+    "long-distance",
+    "long-drawn-out",
+    "longhand",
+    "long house",
+    "long jump",
+    "long-playing record",
+    "long-range",
+    "long-sighted",
+    "long-sightedness",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "loneliness",
+    "lonely",
+    "lonesome",
+    "lonesomeness",
+    "long",
+    "long drawn out",
+    "long house",
+    "long jump",
+    "long-distance"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336046_b3cd5b6d06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336046_ea569a6cee_o.png",
+      "id_image": "long_2785392"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691279_20b01fdb18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691279_8f0d85e102_o.png",
+      "id_image": "long_5966419"
+    }
+  ]
+}

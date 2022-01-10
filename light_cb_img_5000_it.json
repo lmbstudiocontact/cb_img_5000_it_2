@@ -1,0 +1,373 @@
+{
+  "english": "light",
+  "phat_am": "lait",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ánh sáng",
+          "definition": "the brightness given by the sun, a flame, lamps etc that makes things able to be seen",
+          "world_new": [
+            "brightness",
+            "sun",
+            "flame"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It was nearly dawn and the light was getting stronger",
+              "world_new": [
+                "nearly",
+                "dawn"
+              ]
+            },
+            {
+              "ex_of_definition": "Sunlight streamed into the room.",
+              "world_new": [
+                "room"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự bật sáng",
+          "definition": "something which gives light (eg a lamp)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Suddenly all the lights went out."
+            }
+          ]
+        },
+        {
+          "mean_english": "lửa",
+          "definition": "something which can be used to set fire to something else; a flame",
+          "world_new": [
+            "fire",
+            "flame"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Have you got a light for my cigarette?",
+              "world_new": [
+                "my",
+                "cigarette"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự hiểu biết",
+          "definition": "a way of viewing or regarding",
+          "world_new": [
+            "regarding"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He regarded her action in a favourable/favorable light.",
+              "world_new": [
+                "action"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "tràn đầy ánh sáng",
+          "definition": "having light; not dark",
+          "world_new": [
+            "dark"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The studio was a large, light room.",
+              "world_new": [
+                "studio",
+                "large",
+                "room"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhạt",
+          "definition": "(of a colour/color) pale; closer to white than black",
+          "world_new": [
+            "white",
+            "black"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "light green.",
+              "world_new": [
+                "green"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bắt đầu cháy",
+          "definition": "to give light to",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The room was lit only by candles.",
+              "world_new": [
+                "room"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bật lên",
+          "definition": "to (make something) catch fire",
+          "world_new": [
+            "catch",
+            "fire"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She lit the gas",
+              "world_new": [
+                "gas"
+              ]
+            },
+            {
+              "ex_of_definition": "I think this match is damp, because it won’t light.",
+              "world_new": [
+                "I",
+                "think",
+                "match",
+                "damp"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "nhẹ",
+          "definition": "easy to lift or carry; of little weight",
+          "world_new": [
+            "easy",
+            "lift",
+            "weight"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I bought a light suitcase for plane journeys.",
+              "world_new": [
+                "I",
+                "suitcase",
+                "plane"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "không nghiêm khắc",
+          "definition": "easy to bear, suffer or do",
+          "world_new": [
+            "easy",
+            "bear",
+            "suffer"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Next time the punishment will not be so light.",
+              "world_new": [
+                "time",
+                "punishment"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhẹ",
+          "definition": "(of food) easy to digest",
+          "world_new": [
+            "easy",
+            "digest"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a light meal.",
+              "world_new": [
+                "meal"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhẹ hơn so với trọng lượng trung bình",
+          "definition": "of less weight than it should be",
+          "world_new": [
+            "weight"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The load of grain was several kilos light.",
+              "world_new": [
+                "load",
+                "grain"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhẹ",
+          "definition": "of little weight",
+          "world_new": [
+            "weight"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Aluminium/Aluminum is a light metal.",
+              "world_new": [
+                "metal"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "năng động",
+          "definition": "lively or agile",
+          "world_new": [
+            "lively",
+            "agile"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was very light on her feet."
+            }
+          ]
+        },
+        {
+          "mean_english": "vui vẻ",
+          "definition": "cheerful; not serious",
+          "world_new": [
+            "serious"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "light music.",
+              "world_new": [
+                "music"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhẹ",
+          "definition": "little in quantity; not intense, heavy, strong etc",
+          "world_new": [
+            "intense",
+            "heavy",
+            "strong"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "light rain.",
+              "world_new": [
+                "rain"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đất nhẹ chứa nhiều cát",
+          "definition": "(of soil) containing a lot of sand.",
+          "world_new": [
+            "sand"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "phrasal verb",
+      "list_definition": [
+        {
+          "mean_english": "tình cờ tìm thấy",
+          "definition": "to find by chance",
+          "world_new": [
+            "find",
+            "chance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "While wandering round the town, we lit on a very cheap restaurant.",
+              "world_new": [
+                "town",
+                "cheap",
+                "restaurant"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A 3-min period of dark adaptation was followed by a 1-min period of light adaptation to the two surrounds.",
+    "In light of this, it would seem appropriate to try another analytical approach that could be appropriate for strongly nonlinear systems.",
+    "Besides nutrients and light, rice and weeds also competed for water.",
+    "All of them shed a direct or oblique light on the main themes of this project.",
+    "We find greater tip raising before both types of schwa, indicating light \\l\\ before schwa and dark \\l\\ in coda position.",
+    "We tested this idea by stimulating surrounds with large spots of light in the flat-mount preparation of the mouse retina.",
+    "However, many problems have remained unsolved, and many supposed facts need to be revised in the light of recent research.",
+    "Luminance gradients are usually thought to provide cues about the interactions of light and surfaces that model the volume of the resulting object."
+  ],
+  "list_see_also": [
+    "lightness",
+    "lighten",
+    "lighter",
+    "lighting",
+    "lightbulb",
+    "lighthouse",
+    "light-year",
+    "bring to light",
+    "come to light",
+    "in the light of",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "lifetime",
+    "lift",
+    "lift off",
+    "ligament",
+    "light",
+    "light up",
+    "light-fingered",
+    "light-headed",
+    "light-hearted"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387602_72ccc426b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387602_2f878e2468_o.png",
+      "id_image": "light_3102361"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457348_28a1f45396_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457348_864bc4c749_o.png",
+      "id_image": "light_3562935"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342601_9ff482c069_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342601_a785767f31_o.png",
+      "id_image": "light_546020"
+    }
+  ]
+}

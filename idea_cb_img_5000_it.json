@@ -1,0 +1,98 @@
+{
+  "english": "idea",
+  "phat_am": "aiˈdiə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự hình dung",
+          "definition": "mental picture",
+          "world_new": [
+            "mental",
+            "picture"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This will give you an idea of what I mean.",
+              "world_new": [
+                "I",
+                "mean"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quan niệm; ý tưởng",
+          "definition": "opinion; belief",
+          "world_new": [
+            "belief"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I have an idea that it won’t work.",
+              "world_new": [
+                "I",
+                "work"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ý định",
+          "definition": "a plan",
+          "world_new": [
+            "plan"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve an idea for solving this problem.",
+              "world_new": [
+                "problem"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Such an approach in relation to socialist ideas and movements up to 1950 is still very much awaited.",
+    "In his theoretical framework, ideas, culture, politics, and economics overlap and are reciprocally related.",
+    "We will see that there are examples of classroom-based research that attempt to implement these ideas.",
+    "Additional experimentation with natural rubber would be useful in testing some of these ideas.",
+    "In the second place, time has completely falsified his ideas about the nature of coin finds in the countryside and in the north-western provinces.",
+    "In the process, each person would need to wage a struggle against one's family, repressive society, narrow preconceptions and enfeebling ideas.",
+    "We are interested in your ideas and would like to help you realize them.",
+    "Other ideological practices less reliant on metapragmatic discourse play a crucial role in linking linguistic forms to ideas of ethno-national belonging."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "icon",
+    "ICT",
+    "icy",
+    "ID",
+    "idea",
+    "ideal",
+    "idealism",
+    "idealist",
+    "idealistic"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369562_9b20384c92_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369562_a0bb8820f5_o.png",
+      "id_image": "idea_166375"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679889_fdfc2b10e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679889_74327d2d9c_o.png",
+      "id_image": "idea_287501"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369517_da99442294_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369517_b755777950_o.png",
+      "id_image": "idea_554796"
+    }
+  ]
+}

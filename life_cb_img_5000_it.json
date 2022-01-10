@@ -1,0 +1,205 @@
+{
+  "english": "life",
+  "phat_am": "laif",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự sống",
+          "definition": "the quality belonging to plants and animals which distinguishes them from rocks, minerals etc and things which are dead",
+          "world_new": [
+            "quality",
+            "dead"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Doctors are fighting to save the child’s life.",
+              "world_new": [
+                "fighting",
+                "save"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cuộc sống",
+          "definition": "the period between birth and death",
+          "world_new": [
+            "period",
+            "birth",
+            "death"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He had a long and happy life.",
+              "world_new": [
+                "long",
+                "happy"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tính sôi nổi",
+          "definition": "liveliness",
+          "world_new": [
+            "liveliness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was full of life and energy.",
+              "world_new": [
+                "full",
+                "energy"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cuộc đời",
+          "definition": "a manner of living",
+          "world_new": [
+            "manner",
+            "living"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She lived a life of ease and idleness.",
+              "world_new": [
+                "ease",
+                "idleness"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cuộc sống",
+          "definition": "the period during which any particular state exists",
+          "world_new": [
+            "period",
+            "particular",
+            "state"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He had many different jobs during his working life."
+            }
+          ]
+        },
+        {
+          "mean_english": "sự sống",
+          "definition": "living things",
+          "world_new": [
+            "living"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It is now believed that there may be life on Mars",
+              "world_new": [
+                "Mars"
+              ]
+            },
+            {
+              "ex_of_definition": "animal life.",
+              "world_new": [
+                "animal"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đời người",
+          "definition": "the story of a life",
+          "world_new": [
+            "story"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has written a life of Churchill."
+            }
+          ]
+        },
+        {
+          "mean_english": "án tù chung thân",
+          "definition": "life imprisonment",
+          "world_new": [
+            "imprisonment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was given life for murder.",
+              "world_new": [
+                "murder"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "lifeless",
+    "lifelike",
+    "life-and-death",
+    "lifebelt",
+    "lifeboat",
+    "lifebuoy",
+    "life cycle",
+    "life expectancy",
+    "lifeguard",
+    "life jacket",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "lie in wait (for)",
+    "lie low",
+    "lie with",
+    "lieutenant",
+    "life",
+    "life cycle",
+    "life expectancy",
+    "life jacket",
+    "life vest"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457918_61e1e2a401_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457918_eddacaff86_o.png",
+      "id_image": "life_1973145"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388082_eb0d4605f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388082_9ba13c7f80_o.png",
+      "id_image": "life_2732377"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080550_b73d3ca61b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080550_e291f4f344_o.png",
+      "id_image": "life_2927823"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457803_ed6a591109_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457803_8c53216a38_o.png",
+      "id_image": "life_4099888"
+    }
+  ]
+}

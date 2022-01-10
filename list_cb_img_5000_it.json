@@ -1,0 +1,140 @@
+{
+  "english": "list",
+  "phat_am": "list",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "danh sách",
+          "definition": "a series eg of names, numbers, prices etc written down or said one after the other",
+          "world_new": [
+            "series"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a shopping list",
+              "world_new": [
+                "shopping"
+              ]
+            },
+            {
+              "ex_of_definition": "We have a long list of people who are willing to help.",
+              "world_new": [
+                "long",
+                "people",
+                "willing",
+                "help"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "liệt kê",
+          "definition": "to place in a list",
+          "world_new": [
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He listed the things he had to do."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nghiêng",
+          "definition": "to lean over to one side",
+          "world_new": [
+            "lean",
+            "side"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The ship is listing.",
+              "world_new": [
+                "ship"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "độ nghiêng",
+          "world_new": [],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The ship had a heavy list.",
+              "world_new": [
+                "ship",
+                "heavy"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A variety of controller devices were specified, with fourteen works listing one or more types.",
+    "The book is completed by an appendix listing the semantic types of adjectives and verbs, and by a commendably comprehensive index.",
+    "All that is done is blind listing and counting.",
+    "The word lists from the atlas usually contained one word per concept, but sometimes more.",
+    "Finally, rule (run) is as in the calculus (and hence, is not listed again here).",
+    "Table 2 lists the 19 civil buildings on the map, together with their toponyms, and correlates them with ethnohistorical and geographical sources.",
+    "The following table, though by no means exhaustive, lists the major writers and their principal works.",
+    "The pair with oxeia is also an exception, for which the lists use the form oxeia pros oxeia(n)."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "liquor store",
+    "liquorice",
+    "lira",
+    "lisp",
+    "list",
+    "listen",
+    "listen in on",
+    "listen to reason",
+    "listener"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695484_8130e9ef51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695484_d8d7e1b856_o.png",
+      "id_image": "list_144919"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455063_1c0b323920_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455063_cf96445c02_o.png",
+      "id_image": "list_167552"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695409_08a5db15d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695409_2c6a2f9090_o.png",
+      "id_image": "list_179714"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077365_0bd68921a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077365_b7b42d2bdc_o.png",
+      "id_image": "list_264277"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695354_8ff2d37dfc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695354_8b062ffa9c_o.png",
+      "id_image": "list_4138632"
+    }
+  ]
+}

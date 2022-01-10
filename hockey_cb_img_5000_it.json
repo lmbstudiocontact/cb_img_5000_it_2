@@ -1,0 +1,73 @@
+{
+  "english": "hockey",
+  "phat_am": "ˈhoki",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "môn khúc côn cầu",
+          "definition": "a game for two teams of eleven players, played with clubs which are bent at one end (ˈhockey-sticks) and a ball, or in ice hockey, a round flat disc called a puck",
+          "world_new": [
+            "game",
+            "clubs",
+            "bent",
+            "ball",
+            "flat",
+            "disc"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a game of hockey",
+              "world_new": [
+                "game"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a hockey stick/ball."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We cannot legislate for football one year, for ice hockey the next, for cricket the next, and for rugby league the next.",
+    "Thus, concern should be expressed when asked for advice concerning participation in sports (hang gliding, downhill skiing, hockey and horseback riding for example) where abdominal trauma is frequent.",
+    "It involves leagues of various age groups in football, rugby, cricket, hockey, basketball and tennis.",
+    "It is not only moving them but like turning rugger goalposts into hockey goalposts in the process.",
+    "Indeed, many experts believe that the notorious hockey stick-shaped exponential global warming curve is, in reality, a graphic fabrication.",
+    "A competitive hockey player, who was diagnosed at age 24, described his coping strategy as a hockey game.",
+    "Hockey needs a renaissance and my own sport, rugby union, has still regularly to threaten the hegemony of the southern hemisphere countries.",
+    "In addition to the required four training sessions each week, he played for the city's hockey club: altogether he trained or competed eight times a week."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "hobby",
+    "hobby-horse",
+    "hobo",
+    "hock",
+    "hockey",
+    "hocus-pocus",
+    "hoe",
+    "hog",
+    "hogwash"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380607_d4d6f773cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380607_f50f7f4cae_o.png",
+      "id_image": "hockey_406181"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690694_fa7ef42946_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690694_16acbf04cd_o.png",
+      "id_image": "hockey_414796"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335496_bd4e92500c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335496_8a4c98b80f_o.png",
+      "id_image": "hockey_4645884"
+    }
+  ]
+}

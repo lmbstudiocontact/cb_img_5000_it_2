@@ -1,0 +1,79 @@
+{
+  "english": "mallet",
+  "phat_am": "ˈmӕlit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái vồ",
+          "definition": "a type of small wooden hammer",
+          "world_new": [
+            "type",
+            "small",
+            "wooden",
+            "hammer"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We hammered the tent pegs into the ground with a mallet.",
+              "world_new": [
+                "tent",
+                "ground"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cái gậy (trong thể thao)",
+          "definition": "a long-handled wooden hammer for playing croquet or polo.",
+          "world_new": [
+            "wooden",
+            "hammer",
+            "croquet",
+            "polo"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They are known for incorporating electric effects, turntables, piano, and mallet percussion.",
+    "The end of the inside mallet is held with little finger, and outside mallet is held between index and middle finger.",
+    "The heaviest blows may be as much as half a tonne, which is like being hit by a 12 lb padded wooden mallet travelling at 20 mph.",
+    "The old method of using a mallet went out a long time ago.",
+    "Rather than containing a clapper, \"bonsh\" are struck from the outside, using either a hand-held mallet or a beam suspended on ropes.",
+    "Another use of parachute cord is in the stringing of mallet percussion instruments, such the xylophone, marimba, or vibraphone.",
+    "Modern pathological examination confirms the probably fatal use of a mallet on some, but not all the gladiator skulls found in a gladiators' cemetery.",
+    "For 'impulsive excitations', the musician might strike something, such as a drum or a xylophone, either with the hand or a mallet or stick."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "malignantly",
+    "malinger",
+    "malingerer",
+    "mall",
+    "mallet",
+    "malnutrition",
+    "malt",
+    "malware",
+    "mamma"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442848_4af67bf652_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442848_eeb1682356_o.png",
+      "id_image": "mallet_2276346"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372582_f31ca86b0d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372582_df400590eb_o.png",
+      "id_image": "mallet_422053"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682834_f8733e8c1e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682834_f55d6db6eb_o.png",
+      "id_image": "mallet_5234128"
+    }
+  ]
+}

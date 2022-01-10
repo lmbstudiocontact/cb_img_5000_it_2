@@ -1,0 +1,88 @@
+{
+  "english": "hen",
+  "phat_am": "hen",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "gà mái",
+          "definition": "the female farmyard fowl",
+          "world_new": [
+            "female",
+            "farmyard",
+            "fowl"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Hens lay eggs.",
+              "world_new": [
+                "lay"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chim mái",
+          "definition": "the female of any bird",
+          "world_new": [
+            "female",
+            "bird"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The hen is sitting on the nest",
+              "world_new": [
+                "sitting",
+                "nest"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a hen blackbird.",
+              "world_new": [
+                "blackbird"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The relationship between oocyte and follicle in the hen's ovary as shown by electron microscopy.",
+    "Subsequently, a protein kinase is activated which t hen phosphorylates membrane proteins involved in active ion transport.",
+    "Simulation of the thermal denaturation of hen egg white lysozyme : trapping the molten globule state.",
+    "Computational approaches to study protein unfolding : hen egg white lysozyme as a case study.",
+    "She went out to look for the hens.",
+    "He also bought pedigreed hens and hogs, which are more difficult to raise but produce bigger eggs and better meat than common varieties.",
+    "The size of my loft for the hens would be 10ft x 8ft, fitted with aviary with inch half battens.",
+    "Why else would they ask the foxes to inspect the hen house?"
+  ],
+  "list_see_also": [
+    "hen party",
+    "henpecked"
+  ],
+  "list_browse": [
+    "hem in",
+    "hemisphere",
+    "hemispherical",
+    "hemp",
+    "hen",
+    "hen party",
+    "hence",
+    "henceforth",
+    "henchman"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338811_6836b30971_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338811_130ce51f9c_o.png",
+      "id_image": "hen_2674550"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338771_961af28902_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338771_fa00985e31_o.png",
+      "id_image": "hen_2853172"
+    }
+  ]
+}

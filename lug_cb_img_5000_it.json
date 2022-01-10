@@ -1,0 +1,49 @@
+{
+  "english": "lug",
+  "phat_am": "laɡ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "kéo lê",
+          "definition": "to drag with difficulty",
+          "world_new": [
+            "drag",
+            "difficulty"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She lugged the heavy trunk across the floor.",
+              "world_new": [
+                "heavy",
+                "trunk",
+                "across",
+                "floor"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "ludicrous",
+    "ludicrously",
+    "ludicrousness",
+    "ludo",
+    "lug",
+    "luggage",
+    "luggage cart",
+    "luggage rack",
+    "lukewarm"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688144_38b08f4d51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688144_ecc9fa7f2d_o.png",
+      "id_image": "lug_1772564"
+    }
+  ]
+}

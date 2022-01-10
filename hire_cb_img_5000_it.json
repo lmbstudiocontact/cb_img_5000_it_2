@@ -1,0 +1,139 @@
+{
+  "english": "hire",
+  "phat_am": "ˈhaiə",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thuê",
+          "definition": "(often with from) to get the use of by paying money",
+          "world_new": [
+            "money"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s hiring a car (from us) for the week.",
+              "world_new": [
+                "car",
+                "week"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cho thuê",
+          "definition": "(often with out) to give (someone) the use of in exchange for money",
+          "world_new": [
+            "exchange",
+            "money"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Will you hire me your boat for the week-end?",
+              "world_new": [
+                "your",
+                "boat"
+              ]
+            },
+            {
+              "ex_of_definition": "Does this firm hire out cars?",
+              "world_new": [
+                "firm"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thuê",
+          "definition": "to employ (a workman etc)",
+          "world_new": [
+            "employ",
+            "workman"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They have hired a team of labourers/laborers to dig the road.",
+              "world_new": [
+                "team",
+                "dig",
+                "road"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tiền thuê",
+          "definition": "(money paid for) hiring",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Is this hall for hire?",
+              "world_new": [
+                "hall"
+              ]
+            },
+            {
+              "ex_of_definition": "How much is the hire of the hall?",
+              "world_new": [
+                "hall"
+              ]
+            },
+            {
+              "ex_of_definition": "We don’t own this crane – it’s on hire.",
+              "world_new": [
+                "crane"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The remaining need for care will then have to be hired privately (if possible), or informal care has to be provided from that point onward.",
+    "Such lack of directness, endemic to the process, is a poor basis for hiring residents.",
+    "Women accompanied by male relatives were hired, but upon paying a commission to those relatives.",
+    "In addition, a freeze was placed on hiring new staff and on salary raises.",
+    "Again the growth was much more dramatic for females ; the government had managed to transform almost all former housewives into employees hired by the state.",
+    "The results indicated that use of animal traction (both owned and hired) all else being equal, increased both the yield and profits in maize production.",
+    "The authority on site rests with the clients in the form of their hired project manager.",
+    "Even though she was home, they hired nurses round the clock in addition to the usual domestic staff."
+  ],
+  "list_see_also": [
+    "hirer",
+    "hire-purchase"
+  ],
+  "list_browse": [
+    "hip",
+    "hip-hop",
+    "hippie",
+    "hippopotamus",
+    "hire",
+    "hire-purchase",
+    "hirer",
+    "his",
+    "his etc days are numbered"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336701_0d6effdfa3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336701_1e280d4e94_o.png",
+      "id_image": "hire_1924518"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381672_419be6c566_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381672_f9661eb264_o.png",
+      "id_image": "hire_3014277"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691959_016dcc0e9b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691959_e8b0192835_o.png",
+      "id_image": "hire_4091272"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "english": "hose",
+  "phat_am": "həuz",
+  "list_english": [
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "ống vòi",
+          "definition": "(also hosepipe) a rubber, plastic etc tube which bends and which is used to carry water etc",
+          "world_new": [
+            "rubber",
+            "plastic",
+            "tube",
+            "carry",
+            "water"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a garden hose",
+              "world_new": [
+                "garden"
+              ]
+            },
+            {
+              "ex_of_definition": "a fireman’s hose."
+            }
+          ]
+        },
+        {
+          "mean_english": "bít tất dài",
+          "definition": "an older word for stockings or socks",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "woollen/woolen hose."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "rửa hoặc tưới nước bằng vòi",
+          "definition": "to apply water to by means of a hose",
+          "world_new": [
+            "apply",
+            "water",
+            "means"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ll go and hose the garden/car."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The decks were hosed down with sea water until free of debris brought aboard from the landing.",
+    "They wear culottes and sometimes have parallel gartering over hose or bare legs.",
+    "Manufacturers relied on hoses, bumpers and engine parts made with rubber.",
+    "The soil was sterilized with equipment constructed from two metal drums joined with a plastic hose; steam was generated using firewood collected locally.",
+    "Plants in the pots were watered by hose to supplement natural rainfall when necessary.",
+    "So streets and vehicles leaving the site were hosed down and workers at the site were outfitted with masks.",
+    "These hoses were used for cleaning milking equipment and washing down the milking area.",
+    "Dead seedlings and t hose with wilted leaves were also discarded."
+  ],
+  "list_see_also": [
+    "hosiery",
+    "hose reel",
+    "hose down"
+  ],
+  "list_browse": [
+    "horsepower",
+    "horseshoe",
+    "horticultural",
+    "horticulture",
+    "hose",
+    "hose down",
+    "hose reel",
+    "hosiery",
+    "hospice"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331146_935dbc5c7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331146_b718f4e795_o.png",
+      "id_image": "hose_256878"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375712_3a99453e45_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375712_d2bf9631ea_o.png",
+      "id_image": "hose_2674349"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375742_aa869036df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375742_841c8481e0_o.png",
+      "id_image": "hose_356989"
+    }
+  ]
+}

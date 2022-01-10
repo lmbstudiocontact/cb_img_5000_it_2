@@ -1,0 +1,77 @@
+{
+  "english": "latitude",
+  "phat_am": "ˈlӕtitjuːd",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vĩ độ",
+          "definition": "the distance, measured in degrees on the map, that a place is north or south of the Equator",
+          "world_new": [
+            "distance",
+            "map",
+            "place",
+            "north",
+            "south"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What is the latitude of London?"
+            }
+          ]
+        },
+        {
+          "mean_english": "quyền rộng rãi",
+          "definition": "freedom of choice or action",
+          "world_new": [
+            "freedom",
+            "choice",
+            "action"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Students are allowed a considerable amount of latitude as regards their dissertation topics.",
+              "world_new": [
+                "considerable",
+                "amount",
+                "regards",
+                "their",
+                "dissertation"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "For some courts, at least, local officials could be given ver y wide latitude when exercising the police power.",
+    "He asked whether an architect ought to be granted such wide latitude to 'butcher really beautiful buildings'.",
+    "Their model may be modified to include dependence on varieties or treatments and on environment-specific covariates such as latitude.",
+    "In his relations with farmers, the young man permitted himself greater latitude than the majority of landless workers.",
+    "This effect flattens the temperature distribution at low latitudes, just as observed.",
+    "Moreover, there was no effect of decision latitude on psychological distress.",
+    "In men, psychological, emotional and physical demands were predictive of fatigue, compared to decision latitude which remained significantly associated with lower fatigue scores.",
+    "Thus, compact and taller forms can be advantageous in reducing the overall summer temperature rise in the atria, particularly in low latitude locations."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "lather",
+    "Latin",
+    "Latin America",
+    "Latin American",
+    "latitude",
+    "latrine",
+    "latter",
+    "latterly",
+    "laudable"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434863_0e90418ae7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434863_25fa9ebc9c_o.png",
+      "id_image": "latitude_992273"
+    }
+  ]
+}

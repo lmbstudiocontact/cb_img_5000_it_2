@@ -1,0 +1,93 @@
+{
+  "english": "louse",
+  "phat_am": "laus",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "rận; chấy",
+          "definition": "a type of wingless, blood-sucking insect, sometimes found on the bodies of animals and people.",
+          "world_new": [
+            "type",
+            "wingless",
+            "insect",
+            "found",
+            "people"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm hỏng",
+          "definition": "(with up) slang to spoil or waste something; to make a mess of thing",
+          "world_new": [
+            "spoil",
+            "waste",
+            "mess"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It’s your last chance",
+              "world_new": [
+                "your",
+                "chance"
+              ]
+            },
+            {
+              "ex_of_definition": "don’t louse it up"
+            },
+            {
+              "ex_of_definition": "He loused up again."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We have, on the other hand, conclusive proof that lice are concerned in the transmission of the disease.",
+    "One form is made up of asexually reproducing female lice which live permanently underground.",
+    "The abundance of lice was lower in 2001.",
+    "Despite the economic importance of sea lice, comparatively little is known about the nature of their host-parasite relationship.",
+    "Extensive damage is caused by skin-parasitizing parasitic copepods such as sea lice and these do elicit a stress response.",
+    "To date only a small amount of work on bioactive molecules produced by fish lice has been undertaken.",
+    "This suggested periodic recruitment of lice into the farms with different resistance characteristics and a changing gene pool.",
+    "The article suggested the strategy of living with the vine louse rather than wasting huge amounts in attempts to eradicate it."
+  ],
+  "list_see_also": [
+    "lousy",
+    "lousiness"
+  ],
+  "list_browse": [
+    "loudness",
+    "loudspeaker",
+    "lounge",
+    "lounge suit",
+    "louse",
+    "lousiness",
+    "lousy",
+    "lout",
+    "loutish"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449153_eca8ba066f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449153_d484dd3e32_o.png",
+      "id_image": "louse_1779575"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449138_fbc89ae281_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449138_58481450b6_o.png",
+      "id_image": "louse_1850265"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378947_eb4843f3f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378947_b08e49f377_o.png",
+      "id_image": "louse_2849917"
+    }
+  ]
+}

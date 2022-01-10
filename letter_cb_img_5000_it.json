@@ -1,0 +1,95 @@
+{
+  "english": "letter",
+  "phat_am": "ˈletə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chữ cái",
+          "definition": "a mark expressing a sound",
+          "world_new": [
+            "mark",
+            "sound"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the letters of the alphabet.",
+              "world_new": [
+                "alphabet"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thư",
+          "definition": "a written message, especially sent by post in an envelope",
+          "world_new": [
+            "message",
+            "envelope"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She slowly took the letter from its envelope",
+              "world_new": [
+                "slowly",
+                "its",
+                "envelope"
+              ]
+            },
+            {
+              "ex_of_definition": "Did you post my letter?",
+              "world_new": [
+                "my"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In his letters there frequently appears the word 'flourish'.",
+    "There were seventeen, none of which had ever been published before; they comprised the largest single collection of the poet's letters he would ever find.",
+    "Pooling across the three samples, 15% of the characters in kindergartners' spellings could be explained only as intrusions of letters from the children's own names.",
+    "In the first session the children were tested on naming letters and then on word recognition of half of the words.",
+    "The second volume, however, had a number of letters as well as an unfinished play to make the required length.",
+    "Without a fixed standard of pronunciation, people before the introduction of letters pronounced their words in innumerably different ways.",
+    "They further show that children choose letters in a way that reflects their experience with the letters.",
+    "Generally, children did better when queried about uppercase letters than lowercase letters."
+  ],
+  "list_see_also": [
+    "lettering",
+    "letterbox",
+    "letterhead",
+    "to the letter"
+  ],
+  "list_browse": [
+    "(let’s) say",
+    "lethal",
+    "lethargic",
+    "lethargy",
+    "letter",
+    "letterbox",
+    "letterhead",
+    "lettering",
+    "lettuce"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459868_9ec2bf2449_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459868_3b760775d5_o.png",
+      "id_image": "letter_2300624"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390077_1eede0a7a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390077_d3c44509cd_o.png",
+      "id_image": "letter_547041"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390042_f6218399f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390042_8d6c8268d3_o.png",
+      "id_image": "letter_870121"
+    }
+  ]
+}

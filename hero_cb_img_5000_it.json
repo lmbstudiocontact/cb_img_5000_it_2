@@ -1,0 +1,95 @@
+{
+  "english": "hero",
+  "phat_am": "ˈhiərəu",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "anh hùng",
+          "definition": "a man or boy admired (by many people) for his brave deeds",
+          "world_new": [
+            "boy",
+            "brave"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The boy was regarded as a hero for saving his friend’s life.",
+              "world_new": [
+                "boy",
+                "saving",
+                "life"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhân vật nam chính",
+          "definition": "the chief male person in a story, play etc",
+          "world_new": [
+            "chief",
+            "male",
+            "person",
+            "story",
+            "play"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The hero of this book is a young American boy called Tom Sawyer.",
+              "world_new": [
+                "book",
+                "young",
+                "American",
+                "boy"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In common with other boy heroes of melodrama, he performs heroic deeds.",
+    "The heroes of architecture commonly put forward a position, and invoke an attitude.",
+    "Never attack (or be thought to attack) other people's heroes !",
+    "Everyone wanted to claim the returning heroes as their own.",
+    "There is a difference however in how we perceive our heroes.",
+    "The censors no longer try to stop people from following popular culture heroes from other countries.",
+    "They reflect upon the pleasure of seeing the actual places once traversed by their heroes.",
+    "We might just as easily make them into heroes of a radicalized pragmatism."
+  ],
+  "list_see_also": [
+    "heroic",
+    "heroically",
+    "heroism",
+    "hero-worship"
+  ],
+  "list_browse": [
+    "hermit",
+    "hermit crab",
+    "hermitage",
+    "hernia",
+    "hero",
+    "hero-worship",
+    "heroic",
+    "heroically",
+    "heroin"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693479_a358cfaecb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693479_e38feb038c_o.png",
+      "id_image": "hero_1142688"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383197_b1ac2bd43e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383197_a213f8ece6_o.png",
+      "id_image": "hero_5765214"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383167_97304ebd55_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383167_a0ff22822b_o.png",
+      "id_image": "hero_5765523"
+    }
+  ]
+}

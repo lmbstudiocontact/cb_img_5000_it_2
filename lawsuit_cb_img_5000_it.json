@@ -1,0 +1,63 @@
+{
+  "english": "lawsuit",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vụ kiện",
+          "definition": "a quarrel or disagreement taken to a court of law to be settled",
+          "world_new": [
+            "quarrel",
+            "disagreement",
+            "court",
+            "law"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She has threatened to file a lawsuit against him.",
+              "world_new": [
+                "file"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This verifies that lawsuits were made in astonishingly large numbers, and that people appealed over extremely minor issues.",
+    "Based on the assumption that open disclosure of mistakes leads to fewer lawsuits, malpractice insurance companies should implement strategies to promote disclosure.",
+    "A certain woman, probably a widow, entered a lawsuit against her male cousins, and adopted son (heir) and his wife.",
+    "Next to family affairs lawsuits, methinks it is the least agreeable conversation rational beings can employ themselves in.",
+    "But what the documents and records of judicial precedents do reveal is that ordinary people filed an extraordinarily large number of lawsuits.",
+    "Note that the lack of lawsuits against trustees is not evidence that trust land is managed poorly.",
+    "Besides initiating lawsuits to regain their estates, royalists also raised loans to purchase from the state confiscated lands, thereby enabling them to maintain their livings.",
+    "This book was withdrawn soon after publication because of threatened lawsuits."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "lawlessly",
+    "lawlessness",
+    "lawn",
+    "lawn mower",
+    "lawsuit",
+    "lawyer",
+    "lax",
+    "laxative",
+    "laxity"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433498_d6df251511_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433498_e4d90b18d8_o.png",
+      "id_image": "lawsuit_2035020"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318216_dbbafff0b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318216_9c452b4412_o.png",
+      "id_image": "lawsuit_6333153"
+    }
+  ]
+}

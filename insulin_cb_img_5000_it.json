@@ -1,0 +1,58 @@
+{
+  "english": "insulin",
+  "phat_am": "ˈinsjulin",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chất insulin",
+          "definition": "a substance used in the treatment of the disease diabetes",
+          "world_new": [
+            "substance",
+            "treatment",
+            "disease",
+            "diabetes"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an injection of insulin.",
+              "world_new": [
+                "injection"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "insufficiently",
+    "insular",
+    "insulate",
+    "insulation",
+    "insulin",
+    "insult",
+    "insulting",
+    "insuperable",
+    "insurance"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343751_24ab709f78_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343751_bd66393355_o.png",
+      "id_image": "insulin_2117245"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343716_ccb25e6a9e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343716_9801fbef49_o.png",
+      "id_image": "insulin_2223894"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698849_dc8339a621_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698849_aeb4d67d75_o.png",
+      "id_image": "insulin_5935650"
+    }
+  ]
+}

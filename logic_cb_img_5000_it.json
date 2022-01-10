@@ -1,0 +1,72 @@
+{
+  "english": "logic",
+  "phat_am": "ˈlodʒik",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lô gic học",
+          "definition": "(the study and art of) reasoning correctly",
+          "world_new": [
+            "study",
+            "art",
+            "reasoning",
+            "correctly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I can see the logic in what he is saying.",
+              "world_new": [
+                "I",
+                "see"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Customer-contractor relations now claim to organize relations in areas of scientific work previously untouched by logics of economic calculation.",
+    "We give several examples of specifiable hidden logics.",
+    "Similarly, other logics have been proposed (and have been successful) for describing particular aspects of agent systems.",
+    "Despite these differences, there is a clear resemblance between both logics, namely, the fact that logical deduction is based on rewriting.",
+    "A side effect of this lack of homogeneity has been the proposal of many different temporal logics devised for reasoning about the different calculi.",
+    "In the following subsections, we consider a range of paraconsistent logics that give sensible inferences from inconsistent information.",
+    "Integrative logics are put over the origin myths through which the preservation of society and the production and reproduction of life is made possible.",
+    "In our eight years of modelling experience, we were not adversely impacted by the representational restrictions of choosing one of the less expressive description logics."
+  ],
+  "list_see_also": [
+    "logical",
+    "logically"
+  ],
+  "list_browse": [
+    "log off",
+    "logarithm",
+    "logbook",
+    "loggerheads",
+    "logic",
+    "logical",
+    "logically",
+    "logistic",
+    "logistically"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692289_d6e1f919bb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692289_f3ec8e0989_o.png",
+      "id_image": "logic_1332017"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692244_5265bf2a3f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692244_7735d57c1d_o.png",
+      "id_image": "logic_2241398"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692214_6925667278_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692214_453e5068e0_o.png",
+      "id_image": "logic_5387386"
+    }
+  ]
+}

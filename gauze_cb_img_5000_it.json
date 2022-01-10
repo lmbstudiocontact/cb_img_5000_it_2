@@ -1,0 +1,78 @@
+{
+  "english": "gauze",
+  "phat_am": "ɡoːz",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sa; lượt; gạc",
+          "definition": "thin cloth used eg to cover wounds",
+          "world_new": [
+            "thin",
+            "cloth",
+            "cover"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a length of gauze",
+              "world_new": [
+                "length"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a gauze bandage.",
+              "world_new": [
+                "bandage"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Mechanical debridement can be easily accomplished by letting the saline gauze dressing dry before removal.",
+    "Collecting treatments in the stables, in terms of fans, doors and gauzes, were randomly allocated each night.",
+    "Under the system now in operation they are kept in individual cylindrical wire gauze cages, giving ample ventilation.",
+    "The open end of the container was covered with cotton gauze.",
+    "Merozoites were filtered through gauze to remove debris.",
+    "Snails were maintained, for logistic reasons, in groups of 3 within experimental pots (15i10i5 cm) divided with gauze into 3 individual sections.",
+    "Both ends of each vial were plugged with gauze to prevent escape.",
+    "This gauze has less reserve elasticity than nylon and is not affected by changes in humidity."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "gaudy",
+    "gauge",
+    "gaunt",
+    "gauntness",
+    "gauze",
+    "gawky",
+    "gay",
+    "gaze",
+    "gazelle"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692994_ac4f12da64_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692994_cf65e9c1df_o.png",
+      "id_image": "gauze_1856798"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692949_3e4482b333_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692949_4649cee631_o.png",
+      "id_image": "gauze_1881280"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337636_51306c2a4d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337636_98b4b9bf41_o.png",
+      "id_image": "gauze_2051632"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692864_0d73c98e23_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692864_ae3a474812_o.png",
+      "id_image": "gauze_2682110"
+    }
+  ]
+}

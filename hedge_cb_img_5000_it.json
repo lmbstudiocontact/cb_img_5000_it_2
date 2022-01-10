@@ -1,0 +1,97 @@
+{
+  "english": "hedge",
+  "phat_am": "hedʒ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bờ giậu",
+          "definition": "a line of bushes etc planted so closely together that their branches form a solid mass, grown round the edges of gardens, fields etc",
+          "world_new": [
+            "line",
+            "closely",
+            "their",
+            "form",
+            "solid",
+            "mass",
+            "grown",
+            "gardens"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The hedge needs cutting.",
+              "world_new": [
+                "cutting"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nói loanh quanh",
+          "definition": "to avoid giving a clear answer to a question",
+          "world_new": [
+            "avoid",
+            "clear",
+            "answer",
+            "question"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Politicians have a tendency to hedge their answers.",
+              "world_new": [
+                "tendency",
+                "their"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quây hàng rào",
+          "definition": "(with in or off) to enclose (an area of land) with a hedge.",
+          "world_new": [
+            "enclose",
+            "area"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Of all investigated hedges, about half of the hedges showed a significant effect of age.",
+    "A useful chapter on currency hedging requires some financial background to be understood.",
+    "Many of the criticisms and suggestions were also mitigated by the use of hedging devices, question for ms, and personal attribution.",
+    "In order to show that this holds for the environment mappings we will define, we investigate consistent hedges and their properties.",
+    "Now the pretentious sentences and the qualifying afterthoughts, all that hedging with provisos so typical of science talk - all that was now superfluous.",
+    "What is especially notewor thy is that the younger speakers made much more use of several adverbial hedges than did the older speakers.",
+    "Introducing derivative securities creates new hedging opportunities and increases allocational efficiency.",
+    "The term translates as 'sea hedges,' within which a mariner may become trapped at great peril."
+  ],
+  "list_see_also": [
+    "hedgehog",
+    "hedgerow"
+  ],
+  "list_browse": [
+    "heavyweight",
+    "heck",
+    "hectare",
+    "hectic",
+    "hedge",
+    "hedgehog",
+    "hedgerow",
+    "hedonism",
+    "hedonist"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454573_05de75b2e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454573_72e6f91729_o.png",
+      "id_image": "hedge_2296473"
+    }
+  ]
+}

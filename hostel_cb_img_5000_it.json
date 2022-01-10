@@ -1,0 +1,82 @@
+{
+  "english": "hostel",
+  "phat_am": "ˈhostəl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhà trọ",
+          "definition": "a building with simple accommodation, especially for young people, hikers etc",
+          "world_new": [
+            "building",
+            "simple",
+            "accommodation",
+            "young",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a youth hostel.",
+              "world_new": [
+                "youth"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ký túc xác",
+          "definition": "a building where students etc may live",
+          "world_new": [
+            "building",
+            "live"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a nurses’ hostel."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The skinheads attacked one of the refugee hostels and the people had to run up to the roof.",
+    "We are carrying out the first major expansion in the building of modern hostels for many years.",
+    "On the second part of the question, we are hoping to open further hostels for alcoholics.",
+    "As these hostels were never intended to be self-supporting, would he put the charges back to the original figure?",
+    "I feel it is important that these hostels should be designed very carefully for the type of people who are going to use them.",
+    "The sensitivity of the ovary to living arrangements became even clearer when the 49 students living in flats and hostels were separated from the 49 who lived with relatives.",
+    "We need residential hostels for the autistic for their own sake and for the sake of their parents.",
+    "I am advised that the hostels could not easily be converted into working class dwellings."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "hospitalization",
+    "hospitalize",
+    "host",
+    "hostage",
+    "hostel",
+    "hostile",
+    "hostilities",
+    "hostility",
+    "hot"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375057_7c6e6c12c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375057_968c8c33a0_o.png",
+      "id_image": "hostel_2286031"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067210_34db11cea4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067210_4e64ec8f8a_o.png",
+      "id_image": "hostel_5017483"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685494_60c40b8540_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685494_8ce31c967f_o.png",
+      "id_image": "hostel_751699"
+    }
+  ]
+}

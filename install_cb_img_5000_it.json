@@ -1,0 +1,80 @@
+{
+  "english": "install",
+  "phat_am": "inˈstoːl",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "lắp đặt",
+          "definition": "to put in place ready for use",
+          "world_new": [
+            "place",
+            "ready"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "When was the telephone/electricity installed (in this house)?"
+            }
+          ]
+        },
+        {
+          "mean_english": "làm lễ nhậm chức",
+          "definition": "to put (a thing, oneself or another person) in a place or position",
+          "world_new": [
+            "place",
+            "position"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was installed as president yesterday",
+              "world_new": [
+                "president",
+                "yesterday"
+              ]
+            },
+            {
+              "ex_of_definition": "They soon installed themselves in the new house.",
+              "world_new": [
+                "soon",
+                "house"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Accordingly, no consideration is being given to the legal implications of installing and using any such device.",
+    "We are installing expensive machinery for cleaning the coal.",
+    "Additional directional signs of the normal motorway pattern are now being installed, after which it is proposed to remove the present temporary signs.",
+    "Secondly, we need a much more reliable permanent remote controlled warning light system for accidents and adverse weather conditions, and this should be installed.",
+    "The machine is worth installing only if it works all day.",
+    "The new fittings that have been installed are a special type of fluorescent bulb, which works on a high frequency induction principle.",
+    "During the past year an increasing number of amenities have been installed aboard ship.",
+    "Burglar alarm systems are regarded as suitable for domestic use if they are of a kind installed in private houses or similar premises."
+  ],
+  "list_see_also": [
+    "installation",
+    "instalment"
+  ],
+  "list_browse": [
+    "inspiration",
+    "inspire",
+    "inspired",
+    "instability",
+    "install",
+    "installation",
+    "instalment",
+    "instance",
+    "instant"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389437_90ffa9303c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389437_f328c453cc_o.png",
+      "id_image": "install_5322020"
+    }
+  ]
+}

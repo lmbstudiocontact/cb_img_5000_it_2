@@ -1,0 +1,90 @@
+{
+  "english": "handy",
+  "phat_am": "ˈhӕndi",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "sẵn có; thuận tiện",
+          "definition": "ready (to use); in a convenient place",
+          "world_new": [
+            "ready",
+            "convenient",
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I like to keep my tools handy",
+              "world_new": [
+                "I",
+                "keep",
+                "my"
+              ]
+            },
+            {
+              "ex_of_definition": "This house is handy for the shops.",
+              "world_new": [
+                "house"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dễ sử dụng; có ích",
+          "definition": "easy to use; useful",
+          "world_new": [
+            "easy",
+            "useful"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a handy tool.",
+              "world_new": [
+                "tool"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The book should therefore be seen as a comprehensive and handy collection of the results of approximately ten years of extensive research.",
+    "The real-time heat of live performing is an especially handy crucible for raising awareness and provoking people to action.",
+    "We know that it's a very handy tool to use because we have a great deal of understanding of it and it contains considerable empirical relevance.",
+    "Given that complex formulae can be inserted in the fm field of each tuple, template matching would not be very handy (citation) for retrieval purposes.",
+    "From another perspective, secondary research goals are mainly oriented toward making practical or handy what is already known (for example in the case of clinical practice guidelines).",
+    "Will such laboratories be handy and close enough for people easily to fulfil that requirement?",
+    "There is little here to recommend this book for graduate student readings, classroom discussion or as a handy reference book for the researcher.",
+    "The book's front and back inside covers contain handy full-scale pronunciation and etymology keys."
+  ],
+  "list_see_also": [
+    "handiness",
+    "handyman",
+    "come in handy"
+  ],
+  "list_browse": [
+    "handsomeness",
+    "handstand",
+    "handwriting",
+    "handwritten",
+    "handy",
+    "handyman",
+    "hang",
+    "hang about/around",
+    "hang back"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460153_0a289238fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460153_6b1eaf2b46_o.png",
+      "id_image": "handy_3349640"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460133_004dabf118_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460133_43a834b10c_o.png",
+      "id_image": "handy_3879792"
+    }
+  ]
+}

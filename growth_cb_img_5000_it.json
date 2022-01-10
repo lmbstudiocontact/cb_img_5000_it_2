@@ -1,0 +1,114 @@
+{
+  "english": "growth",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự phát triển",
+          "definition": "the act or process of growing, increasing, developing etc",
+          "world_new": [
+            "act",
+            "process"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the growth of trade unionism.",
+              "world_new": [
+                "trade"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đã trưởng thành",
+          "definition": "something that has grown",
+          "world_new": [
+            "grown"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a week’s growth of beard.",
+              "world_new": [
+                "beard"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự gia tăng",
+          "definition": "the amount by which something grows",
+          "world_new": [
+            "amount"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We measured the growth of the plant over a two-week period.",
+              "world_new": [
+                "plant",
+                "period"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự hình thành bất thường",
+          "definition": "something unwanted which grows",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a cancerous growth.",
+              "world_new": [
+                "cancerous"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We want to make sure that when persons have cut these growths they shall not leave them in the ditch.",
+    "To add, for tender purposes, some of these other growths would, so far from helping the colonial producer, actually hurt him.",
+    "There is vast amount of ' popular ' wine literature, which prefaces its discussions of classed growths and great vintages with potted histories and geographies of wine.",
+    "The rates of per capita growth during the periods of mining stagnation are 0.12 (1729-44) and 0.03 (1753) per cent per year.",
+    "They are not looked after and second growths are allowed to come up anyhow and any way.",
+    "Next year we shall be using population projections in the formula, and this should take a better account of expected population growths.",
+    "There were frequent cases of unsightly and painful cancerous growths.",
+    "Incremental strains measured by syntectonic crystal growths."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "grower",
+    "growl",
+    "grown",
+    "grown-up",
+    "growth",
+    "grub",
+    "grubbiness",
+    "grubby",
+    "grudge"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674299_4a60422596_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674299_99c10835ab_o.png",
+      "id_image": "growth_164747"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319361_7eeeccd1f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319361_272f11527d_o.png",
+      "id_image": "growth_166906"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674234_bb6e842fe6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674234_598921f7d1_o.png",
+      "id_image": "growth_296927"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319301_eef9661741_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319301_e23d1185a0_o.png",
+      "id_image": "growth_751819"
+    }
+  ]
+}

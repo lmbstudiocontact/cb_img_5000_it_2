@@ -1,0 +1,82 @@
+{
+  "english": "fungus",
+  "phat_am": "ˈfaŋɡəs",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nấm",
+          "definition": "any of several kinds of soft spongy plants without any leaves or green part",
+          "world_new": [
+            "soft",
+            "spongy",
+            "green",
+            "part"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A mushroom is one type of fungus",
+              "world_new": [
+                "mushroom",
+                "type"
+              ]
+            },
+            {
+              "ex_of_definition": "That tree has a fungus growing on it.",
+              "world_new": [
+                "tree"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, this study found no relationship between soil clay content and incidence of the common fungus-growing species, analysed as a group or individually.",
+    "The fungus was generally distributed throughout the lock in the form of spores, sporangia and short hyphae.",
+    "Pellets were prepared with the fungus mycelia in liquid culture medium and contained approximately 20% fungus.",
+    "Arbuscular mycorrhizal fungus spore populations respond to conversions between low-input and conventional management practices in a corn- soybean rotation.",
+    "The presence of fungus had no significant effect on thrips predation by either of the natural enemy species.",
+    "The fungus colonized the rice seeds within 14 days.",
+    "Irrespective of this, the fungus did not appear to have any obvious effect on the weight gains of the treated calves.",
+    "This fungus produces threedimensional adhesive nets, like the other fungi under study."
+  ],
+  "list_see_also": [
+    "fungicide"
+  ],
+  "list_browse": [
+    "funeral",
+    "funereal",
+    "funfair",
+    "fungicide",
+    "fungus",
+    "funicular",
+    "funk",
+    "funnel",
+    "funnily"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341876_1d5967ff70_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341876_e3b73bee20_o.png",
+      "id_image": "fungus_2268983"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079290_ed53f63081_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079290_50e7aaa5b6_o.png",
+      "id_image": "fungus_3075148"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079270_0a73457bc1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079270_ed7c738961_o.png",
+      "id_image": "fungus_4178824"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079220_28cfb82822_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079220_18304f1e1d_o.png",
+      "id_image": "fungus_5969584"
+    }
+  ]
+}

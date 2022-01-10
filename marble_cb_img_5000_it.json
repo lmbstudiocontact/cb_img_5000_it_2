@@ -1,0 +1,103 @@
+{
+  "english": "marble",
+  "phat_am": "ˈmaːbl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đá hoa",
+          "definition": "a kind of hard, usually highly polished stone, cold to the touch",
+          "world_new": [
+            "kind",
+            "highly",
+            "polished",
+            "stone",
+            "cold",
+            "touch"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This table is made of marble",
+              "world_new": [
+                "table"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a marble statue.",
+              "world_new": [
+                "statue"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "viên bi ve",
+          "definition": "a small hard ball of glass used in children’s games",
+          "world_new": [
+            "small",
+            "ball",
+            "glass",
+            "games"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The little boy rolled a marble along the ground.",
+              "world_new": [
+                "boy",
+                "ground"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The sort of things found were bags of plaster, flour and pepper, marbles and pots of paint.",
+    "They are not like marbles in a row.",
+    "Ventral surface of thorax and abdomen brown, more or less extensively suffused and marbled with bluish or greenish grey.",
+    "A total of 690 received treatment for swallowing bones, 290 for swallowing money and an astonishing 74 for swallowing marbles.",
+    "The structure in the in vivo droplets always appeared homogeneous in density, while that in the in vitro ones showed a distinct marbled or partially saturated appearance.",
+    "Nature and dynamic interpretation of deformation lamellae in calcite of three marbles.",
+    "Surely there must be something more than glass marbles in this?",
+    "They do not go down the pit to play at marbles."
+  ],
+  "list_see_also": [
+    "marbled",
+    "marbles"
+  ],
+  "list_browse": [
+    "maple",
+    "mar",
+    "marasmus",
+    "marathon",
+    "marble",
+    "marbled",
+    "marbles",
+    "march",
+    "mare"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060695_88ca3c7822_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060695_8c4b724f3d_o.png",
+      "id_image": "marble_4455509"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438853_ffd5b36109_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438853_5a19779892_o.png",
+      "id_image": "marble_4776074"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368642_b998155a99_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368642_ea64ab7bef_o.png",
+      "id_image": "marble_4785406"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060545_f52fe42dc5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060545_f07f20cf58_o.png",
+      "id_image": "marble_6365793"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "english": "fraud",
+  "phat_am": "froːd",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự lừa đảo",
+          "definition": "(an act of) dishonesty",
+          "world_new": [
+            "act",
+            "dishonesty"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was sent to prison for fraud.",
+              "world_new": [
+                "prison"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kẻ lừa đảo",
+          "definition": "a person who pretends to be something that he/she isn’t",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was exposed as a fraud pretending to be a wealthy businessman.",
+              "world_new": [
+                "exposed",
+                "wealthy",
+                "businessman"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "E-markets provide a fertile ground for deceitful participants to engage in old as well as new types of fraud.",
+    "Controversies in science can be over matters of fact or matters of theory; but they can also be over philosophical foundations, methodology, priority, or fraud.",
+    "For the liberal, fraud, even well intended fraud, cannot be justified, as it cannot improve self-regarding individual choices.",
+    "All but deserted by his former political supporters, he currently faces serious fraud and tax evasion charges alongside human rightsrelated allegations.",
+    "I guess this makes these other major scholars and publications also guilty of \"fraud\" and other related sins by daring to publish such thoughts!",
+    "The following six chapters deal with fraud after the ballot was designated secret.",
+    "Because the county-unit system bred high levels of electoral fraud, control of party machinery was very significant. 183.",
+    "Despite the increasing level of ministerial surveillance, fraud was inevitable."
+  ],
+  "list_see_also": [
+    "fraudulent",
+    "fraudulently",
+    "fraudulence"
+  ],
+  "list_browse": [
+    "frantically",
+    "fraternal",
+    "fraternally",
+    "fraternity",
+    "fraud",
+    "fraudulence",
+    "fraudulent",
+    "fraudulently",
+    "fray"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313056_a92b74d32d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313056_32607bbfb8_o.png",
+      "id_image": "fraud_1671618"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313051_a44c34d085_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313051_13924b83b7_o.png",
+      "id_image": "fraud_2200881"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427853_820acbfecb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427853_0239e87c5b_o.png",
+      "id_image": "fraud_2419600"
+    }
+  ]
+}

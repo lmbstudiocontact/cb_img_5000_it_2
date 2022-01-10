@@ -1,0 +1,85 @@
+{
+  "english": "honey",
+  "phat_am": "ˈhani",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mật ong; mật",
+          "definition": "a sweet, thick fluid made by bees from the nectar of flowers",
+          "world_new": [
+            "sweet",
+            "thick",
+            "fluid",
+            "nectar"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "bread and honey.",
+              "world_new": [
+                "bread"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "em yêu; anh yêu",
+          "definition": "darling (used when speaking to someone one loves).",
+          "world_new": [
+            "darling",
+            "speaking"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Historically, the ferment for mead was honey's naturally occurring yeast.",
+    "What is true for a simple organism like the honey bee is even more true for complex organisms like humans.",
+    "Three categories of honey bees at different developmental stages were collected and classified in unparasitized or parasitized groups.",
+    "Certain agricultural crops, such as clover and buckwheat, are used to make specific honeys.",
+    "At dawn, the honey trap contained three males and five females; the sucrose trap contained three females.",
+    "In so far as that goes, the words are honeyed, and welcome.",
+    "Effects of climatic and edaphic factors on soybean flowers and the subsequent attractiveness of the plants to honey bees.",
+    "Honeys and jams are not controlled at all."
+  ],
+  "list_see_also": [
+    "honeybee",
+    "honeycomb",
+    "honeymoon"
+  ],
+  "list_browse": [
+    "homozygous",
+    "honest",
+    "honestly",
+    "honesty",
+    "honey",
+    "honeybee",
+    "honeycomb",
+    "honeymoon",
+    "honk"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070580_8ce8b85aae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070580_873e3a28a4_o.png",
+      "id_image": "honey_263915"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378502_0f300a428c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378502_b237d89976_o.png",
+      "id_image": "honey_537407"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333621_c99d43efc5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333621_124c3702f2_o.png",
+      "id_image": "honey_590702"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070450_3f228132f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070450_db9d23c542_o.png",
+      "id_image": "honey_883550"
+    }
+  ]
+}

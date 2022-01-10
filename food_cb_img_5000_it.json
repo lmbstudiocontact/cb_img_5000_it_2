@@ -1,0 +1,85 @@
+{
+  "english": "food",
+  "phat_am": "fuːd",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lương thực",
+          "definition": "what living things eat",
+          "world_new": [
+            "living",
+            "eat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Chinese/Indian/French food"
+            },
+            {
+              "ex_of_definition": "Horses and cows eat different food from dogs.",
+              "world_new": [
+                "eat"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Several by-products can be processed into human foods, and most of them have a substantial potential value as animal feedstuffs.",
+    "The outlets did not have common suppliers of other foods, including meat.",
+    "As suggested by previous studies11,16,17, willingness to pay for organic foods varies greatly among consumer groups.",
+    "Illness in the community was associated with the consumption of foods in restaurants or drinking unpasteurized milk.",
+    "Investigations of these outbreaks have implicated a diverse range of foods ; from helva, infant formula milk to chocolate and bean sprouts [4-7].",
+    "The authors further found that consumers were willing to pay a premium for local foods.",
+    "If this hypothesis is correct, clinicians and health officials should focus on foods eaten recently when evaluating sources for nonpregnancy-associated cases.",
+    "An increase in wealth allows the purchase of bettertasting foods, which will often be foods with stronger flavor-calorie associations."
+  ],
+  "list_see_also": [
+    "food stall",
+    "food chain",
+    "food processor",
+    "foodstuff",
+    "food web"
+  ],
+  "list_browse": [
+    "fondle",
+    "fondly",
+    "fondness",
+    "font",
+    "food",
+    "food chain",
+    "food processor",
+    "food stall",
+    "food web"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432418_6ec19fbcdf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432418_8453d48a46_o.png",
+      "id_image": "food_2114315"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432398_2d10997519_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432398_7db0e02d1d_o.png",
+      "id_image": "food_2298835"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361712_362f73691d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361712_24d377e571_o.png",
+      "id_image": "food_416202"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361682_89a5b74376_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361682_a08c0657a8_o.png",
+      "id_image": "food_571877"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672054_ea42108b74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672054_c89692f2cc_o.png",
+      "id_image": "food_781308"
+    }
+  ]
+}

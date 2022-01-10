@@ -1,0 +1,200 @@
+{
+  "english": "house",
+  "phat_am": "haus",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhà ở; căn nhà",
+          "definition": "a building in which people, especially a single family, live",
+          "world_new": [
+            "building",
+            "people",
+            "single",
+            "family",
+            "live"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Houses have been built on the outskirts of the town for the workers in the new industrial estate.",
+              "world_new": [
+                "outskirts",
+                "town",
+                "industrial",
+                "estate"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhà; chuồng",
+          "definition": "a place or building used for a particular purpose",
+          "world_new": [
+            "place",
+            "building",
+            "particular",
+            "purpose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a hen house",
+              "world_new": [
+                "hen"
+              ]
+            },
+            {
+              "ex_of_definition": "a public house.",
+              "world_new": [
+                "public"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhà hát",
+          "definition": "a theatre, or the audience in a theatre/theater",
+          "world_new": [
+            "theatre",
+            "audience"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There was a full house for the first night of the play.",
+              "world_new": [
+                "full",
+                "night",
+                "play"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dòng họ",
+          "definition": "a family, usually important or noble, including its ancestors and descendants",
+          "world_new": [
+            "family",
+            "important",
+            "noble",
+            "including",
+            "its"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the house of Tudor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "cung cấp nhà ở cho",
+          "definition": "to provide with a house, accommodation or shelter",
+          "world_new": [
+            "provide",
+            "accommodation",
+            "shelter"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "All these people will have to be housed",
+              "world_new": [
+                "people"
+              ]
+            },
+            {
+              "ex_of_definition": "The animals are housed in the barn.",
+              "world_new": [
+                "barn"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ở; trú",
+          "definition": "to store or keep somewhere",
+          "world_new": [
+            "store",
+            "keep",
+            "somewhere"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The electric generator is housed in the garage.",
+              "world_new": [
+                "electric",
+                "generator",
+                "garage"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I argue that the temporality of domestic architecture is key to understanding the social and cultural significance of houses.",
+    "Thus, when only a few people had houses, there would be no \"common consent\" to consider them as property.",
+    "They were housed by their employers in boarding houses next to or above the shops, while the shopkeepers themselves lived elsewhere.",
+    "Later it was extended to include the whole rural population, including those who already had houses, which turned it into a villagisation programme.",
+    "A possible indication that houses were decorated comes from an oak woodcarving (190 by 16 by 4-5cms) of an anthropomorphic figure.",
+    "Their relationship with the houses is beyond doubt, as they do not occur further away from the plan.",
+    "As a result of the condition in which most houses are found during excavation, there is limited direct evidence for the use of internal space.",
+    "In the case of the hedge houses there are four floors."
+  ],
+  "list_see_also": [
+    "housing",
+    "housing benefit",
+    "house agent",
+    "house arrest",
+    "houseboat",
+    "housebreaker",
+    "housebreaking",
+    "housefly",
+    "household",
+    "householder",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "hour",
+    "hour hand",
+    "hourglass",
+    "hourly",
+    "house",
+    "house agent",
+    "house arrest",
+    "house music",
+    "house-warming"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684539_d2191bd11a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684539_94063a0422_o.png",
+      "id_image": "house_123619"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066295_942e775430_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066295_e7238a0b57_o.png",
+      "id_image": "house_243265"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329506_e52da3bf06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329506_a6231a100c_o.png",
+      "id_image": "house_288566"
+    }
+  ]
+}

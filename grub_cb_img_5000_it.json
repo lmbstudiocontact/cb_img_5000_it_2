@@ -1,0 +1,92 @@
+{
+  "english": "grub",
+  "phat_am": "ɡrab",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "con giòi",
+          "definition": "the form of an insect after it hatches from its egg",
+          "world_new": [
+            "form",
+            "insect",
+            "its",
+            "egg"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A caterpillar is a grub.",
+              "world_new": [
+                "caterpillar"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thức ăn",
+          "definition": "a slang term for food",
+          "world_new": [
+            "slang",
+            "term",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Is there any grub in the house?",
+              "world_new": [
+                "house"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đào xới",
+          "definition": "to search by digging",
+          "world_new": [
+            "search"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The pigs were grubbing around for roots."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A number of varieties of apple are in serious surplus and need to be grubbed out.",
+    "We have taken possession, grubbed up all the fruit trees and made it into one holding which is producing a good crop of potatoes now.",
+    "What matters is that grant aid for grubbing should be extended to the farmer—and that is what the clause does.",
+    "The grubbing up of these orchards, together with the ban on replanting, will certainly help reduce overproduction in the longer term.",
+    "I understand why many miles of hedgerows were grubbed up in the post-war years.",
+    "We are now returning to the same state, because hedgerows have recently been grubbed up only because modern farming methods demand larger fields.",
+    "Clause 3 provides for grant for grubbing out orchards, including orchards of this kind.",
+    "They are grubbing around the gutters of politics, trying to get some form of power."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "growl",
+    "grown",
+    "grown-up",
+    "growth",
+    "grub",
+    "grubbiness",
+    "grubby",
+    "grudge",
+    "grudging"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055860_9d8c35d336_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055860_53af14142f_o.png",
+      "id_image": "grub_4982452"
+    }
+  ]
+}

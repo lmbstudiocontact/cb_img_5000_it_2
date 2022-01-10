@@ -1,0 +1,75 @@
+{
+  "english": "important",
+  "phat_am": "imˈpoːtənt",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "quan trọng",
+          "definition": "(opposite unimportant) having great value, influence or effect",
+          "world_new": [
+            "great",
+            "value",
+            "influence",
+            "effect"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an important book/person/occasion"
+            },
+            {
+              "ex_of_definition": "It is important that you arrive here on time.",
+              "world_new": [
+                "arrive",
+                "time"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Further investigation is required, because the issues are too important for simply assuming that persistence and intractability necessarily imply an organic genesis.",
+    "Clarification requests play an important role in effective conversations, and children must learn the conversational rules for interpreting and responding to such requests.",
+    "I think the ascetic world reinforced my feeling that they were important.",
+    "Suppose two people disagree about an important issue, and the disagreement is not due to one party's epistemic negligence or obliviousness to relevant evidence.",
+    "The results of this paper can be important for the study of the behavior of laboratory and space plasmas, and also for diagnostic purposes.",
+    "Yet, soil fertility will be the most important constraint for organic rice production.",
+    "Second, and more important, the forecasting of events is much easier in terms of distal than proximal representations.",
+    "This phonetic aspect is the main important difference between the two cases for other reasons as well."
+  ],
+  "list_see_also": [
+    "importantly",
+    "importance"
+  ],
+  "list_browse": [
+    "impolitely",
+    "impoliteness",
+    "import",
+    "importance",
+    "important",
+    "importantly",
+    "importation",
+    "importer",
+    "impose"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435933_da7d9a8fcc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435933_460c5e417f_o.png",
+      "id_image": "important_2343607"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675764_694baf9e8c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675764_eb447f4b97_o.png",
+      "id_image": "important_5512109"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365622_538488deb3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365622_9186d207e6_o.png",
+      "id_image": "important_5619196"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "english": "illustrator",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người vẽ tranh minh hoạ",
+          "definition": "a person who draws pictures etc for books etc",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He works as an illustrator of children’s books.",
+              "world_new": [
+                "works"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The illustrator intended not only to explore the picturesque aspects of the poem, but also to present his work as a painting.",
+    "The illustrators learned the format and style from painting, and they claimed to imitate specific famous painters as well.",
+    "In addition to the increase in landscape elements, the illustrator apparently also adopted techniques from brush painting to render the images.",
+    "She argues that the illustrator comments on the text through the images, and thus plays a role similar to the textual commentator.",
+    "On the contrary, this page may help us to understand the effect our illustrator intended to create.",
+    "The illustrator, however, did not ignore the text completely, but there is a significant rupture between the narrative and the picture.",
+    "When graphic designers, photographers and illustrators are involved, costs begin to escalate.",
+    "The publisher smiled at the illustrator of the writers who was dressed colorfully."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "illustrate",
+    "illustrated",
+    "illustration",
+    "illustrative",
+    "illustrator",
+    "illustrious",
+    "illustriousness",
+    "im-",
+    "image"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059705_680ec8d1cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059705_0a64381050_o.png",
+      "id_image": "illustrator_4861193"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059670_931f456cc1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059670_8bd546274c_o.png",
+      "id_image": "illustrator_5754670"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322876_0b772a9218_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322876_637f00df7c_o.png",
+      "id_image": "illustrator_6101571"
+    }
+  ]
+}

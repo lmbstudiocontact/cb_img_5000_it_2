@@ -1,0 +1,63 @@
+{
+  "english": "gang",
+  "phat_am": "ɡӕŋ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đoàn, tốp, kíp, toán",
+          "definition": "a number (of workmen etc) working together",
+          "world_new": [
+            "number"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a gang of men working on the railway/railroad."
+            }
+          ]
+        },
+        {
+          "mean_english": "bọn, lũ, băng",
+          "definition": "a group (of people), usually formed for a bad purpose",
+          "world_new": [
+            "group",
+            "bad",
+            "purpose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a gang of jewel thieves.",
+              "world_new": [
+                "jewel"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "gangster",
+    "gang up on",
+    "gang up with"
+  ],
+  "list_browse": [
+    "gamete",
+    "gamma",
+    "gammon",
+    "gander",
+    "gang",
+    "gang up on",
+    "gang up with",
+    "gangling",
+    "gangplank"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454478_5ba9d9bae3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454478_8aeb443f66_o.png",
+      "id_image": "gang_2495707"
+    }
+  ]
+}

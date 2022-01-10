@@ -1,0 +1,81 @@
+{
+  "english": "headlight",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đèn pha",
+          "definition": "a powerful light at or on the front of a car, lorry/truck, train, ship, aeroplane/airplane etc",
+          "world_new": [
+            "powerful",
+            "light",
+            "front",
+            "car",
+            "train",
+            "ship"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "As it was getting dark, the driver switched on his headlights.",
+              "world_new": [
+                "dark",
+                "driver"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I think the difference is that in one case the headlight is dipped, and in the other case it is dimmed.",
+    "There is a lot of difference between whether one dips a headlight or does not dip it.",
+    "Stock appearing grill and headlight openings must be retained.",
+    "Headlight glare is very rarely a factor in motorway accidents.",
+    "I am told that so small an error as one degree in the headlight beam can cause dazzle.",
+    "A lighted lamp shows at a considerably greater distance than a reflector, particularly when no headlight is shining on the reflector.",
+    "I am not aware of any headlight which provides an adequate driving light without some degree of dazzle.",
+    "Whereas previously one could have bought a bulb, one now has to buy a sealed headlight and the cost is far higher."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "headgear",
+    "heading",
+    "headlamp",
+    "headland",
+    "headlight",
+    "headline",
+    "headlines",
+    "headlong",
+    "headmaster"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697249_6d884dbd19_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697249_29608816e0_o.png",
+      "id_image": "headlight_1619250"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697244_9a1cde1ceb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697244_50954c5b5b_o.png",
+      "id_image": "headlight_2061988"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342046_8412257c3c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342046_8b395543bf_o.png",
+      "id_image": "headlight_2422828"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079410_4664d8250f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079410_007a9a6b2e_o.png",
+      "id_image": "headlight_4684496"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079375_f0260459d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079375_29f04a0c7e_o.png",
+      "id_image": "headlight_4805681"
+    }
+  ]
+}

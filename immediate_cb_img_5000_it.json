@@ -1,0 +1,87 @@
+{
+  "english": "immediate",
+  "phat_am": "iˈmiːdiət",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "ngay lập tức",
+          "definition": "happening at once and without delay",
+          "world_new": [
+            "happening",
+            "once",
+            "delay"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an immediate response.",
+              "world_new": [
+                "response"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kế tiếp",
+          "definition": "without anyone etc coming between",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His immediate successor was Bill Jones.",
+              "world_new": [
+                "successor"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gần",
+          "definition": "close",
+          "world_new": [
+            "close"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "our immediate surroundings.",
+              "world_new": [
+                "our",
+                "surroundings"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Such response-produced cues could come, for instance, from immediate proprioceptive byproducts of the response as well as its more remote effects.",
+    "The immediate economic effect of high turnover rates was to disrupt production.",
+    "The radical limits of immediate memory must be explained in terms of biocognitive brain architecture.",
+    "All this would have been outside the immediate scope of the article.",
+    "An immediate corollary, which will be useful below, is the following.",
+    "The presence of hydrops would suggest inadequate fetal cardiac output, which should prompt consideration of delivery and immediate surgery.",
+    "Their immediate reaction to the slump was to retrench and ride the crisis.",
+    "In the early design phase changes occur frequently, because the synthesis between the designer's idea and the engineering and ergonomic constraints is not often immediate."
+  ],
+  "list_see_also": [
+    "immediately"
+  ],
+  "list_browse": [
+    "immature",
+    "immaturity",
+    "immeasurable",
+    "immeasurably",
+    "immediate",
+    "immediately",
+    "immense",
+    "immensely",
+    "immensity"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437613_61a4fa05d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437613_feb0a2e26a_o.png",
+      "id_image": "immediate_5361451"
+    }
+  ]
+}

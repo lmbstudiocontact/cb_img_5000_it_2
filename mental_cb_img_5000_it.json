@@ -1,0 +1,104 @@
+{
+  "english": "mental",
+  "phat_am": "ˈmentl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc tâm thần",
+          "definition": "of the mind",
+          "world_new": [
+            "mind"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "mental illnesses/disorders."
+            }
+          ]
+        },
+        {
+          "mean_english": "thuộc trí óc",
+          "definition": "done or made by the mind",
+          "world_new": [
+            "mind"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "mental arithmetic",
+              "world_new": [
+                "arithmetic"
+              ]
+            },
+            {
+              "ex_of_definition": "a mental picture.",
+              "world_new": [
+                "picture"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tâm thần",
+          "definition": "for those who are ill in mind",
+          "world_new": [
+            "ill",
+            "mind"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a mental hospital.",
+              "world_new": [
+                "hospital"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mất trí",
+          "definition": "suffering from an illness of the mind",
+          "world_new": [
+            "suffering",
+            "illness",
+            "mind"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a mental patient.",
+              "world_new": [
+                "patient"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "mentality",
+    "mentally"
+  ],
+  "list_browse": [
+    "menopause",
+    "menstruate",
+    "menstruation",
+    "menswear",
+    "mental",
+    "mentality",
+    "mentally",
+    "menthol",
+    "mentholated"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701894_3904a31ae2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701894_27832532dd_o.png",
+      "id_image": "mental_1683128"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701864_8f1a8cc6bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701864_7a590a2902_o.png",
+      "id_image": "mental_2773087"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "english": "killer",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "kẻ giết người",
+          "definition": "a person, animal etc that kills",
+          "world_new": [
+            "person",
+            "animal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There is a killer on the loose",
+              "world_new": [
+                "loose"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a killer disease.",
+              "world_new": [
+                "disease"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "kidney",
+    "kill",
+    "kill off",
+    "kill time",
+    "killer",
+    "killer whale",
+    "kiln",
+    "kilogram",
+    "kilometre"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327526_815651535f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327526_e41885efc8_o.png",
+      "id_image": "killer_1074414"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442523_08829460dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442523_778b45e9bb_o.png",
+      "id_image": "killer_2230873"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442478_e88d1ffa91_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442478_9e1341e800_o.png",
+      "id_image": "killer_2436887"
+    }
+  ]
+}

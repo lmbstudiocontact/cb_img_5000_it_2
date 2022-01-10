@@ -1,0 +1,71 @@
+{
+  "english": "macaroni",
+  "phat_am": "mӕkəˈrəuni",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mì ống",
+          "definition": "a form of pasta, pressed out to form tubes, and dried",
+          "world_new": [
+            "form",
+            "pasta",
+            "form",
+            "dried"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The macaroni is overcooked"
+            },
+            {
+              "ex_of_definition": "(also adjective) macaroni cheese.",
+              "world_new": [
+                "cheese"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "As he was very tired and hungry, he stopped at a local diner and asked for half of a serving of macaroni.",
+    "There was a scarcity of macaroni.",
+    "Rye and oat are omitted and macaroni wheat is glossed over.",
+    "They are also called tracs digitaux or finger tracings and (though these terms are also in part interpretative) meanders, macaroni, and serpentines.",
+    "The most popular types include penne, spaghetti, and macaroni.",
+    "One is the case of an importer of machinery to manufacture macaroni which would compete with macaroni which will be imported free of deposit.",
+    "But at the same time we find oatmeal, barley, semolina, macaroni and pudding mixtures put on points.",
+    "Garnishes typically included potatoes in a variety of forms, buckwheat kasha, macaroni, etc."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "m",
+    "MA",
+    "mac",
+    "macabre",
+    "macaroni",
+    "macaw",
+    "mace",
+    "Mach",
+    "machine"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331666_18f6ab028a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331666_c4e8f207da_o.png",
+      "id_image": "macaroni_1473324"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331636_1e528dfd11_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331636_bf34fd7bec_o.png",
+      "id_image": "macaroni_3994848"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331591_af79d36119_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331591_666f774f79_o.png",
+      "id_image": "macaroni_4465507"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "english": "journal",
+  "phat_am": "ˈdʒəːnl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tạp chí",
+          "definition": "a magazine or other regularly published paper (eg of a society)",
+          "world_new": [
+            "magazine",
+            "regularly",
+            "paper"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the British Medical Journal.",
+              "world_new": [
+                "British"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhật ký",
+          "definition": "a diary giving an account of each day’s activities",
+          "world_new": [
+            "diary",
+            "account"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He kept a journal during his travels overseas.",
+              "world_new": [
+                "travels",
+                "overseas"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Previous versions of chapters 1, 3, and 6 were published in article form in various journals.",
+    "The resulting end-of-year forecast was close to budget: a favourable variance on primary journals was counterbalanced by the effects of the recession in other areas.",
+    "Selected presentations given during these events are published either in thematic volumes or in journals.",
+    "There are several journals and conferences dedicated to the subject.",
+    "The editors are happy to consider advice on additional journals for abstracting.",
+    "If the recent profusion of relevant journals is an indicator, we need not worry too much, at least nor about quantity.",
+    "The results of these studies will be published separately in a variety of specialized scientific journals.",
+    "Economists in government service should be allowed to take part in outside discussions, to write books and to contribute to learned journals."
+  ],
+  "list_see_also": [
+    "journalism",
+    "journalist",
+    "journalistic"
+  ],
+  "list_browse": [
+    "jostle",
+    "jot",
+    "jotter",
+    "joule",
+    "journal",
+    "journalism",
+    "journalist",
+    "journalistic",
+    "journey"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687419_5d5fcfc0f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687419_40b04de082_o.png",
+      "id_image": "journal_1188506"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332416_fae310d23c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332416_ea6cc07f06_o.png",
+      "id_image": "journal_2232505"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377237_b815418883_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377237_8771897cc3_o.png",
+      "id_image": "journal_422997"
+    }
+  ]
+}

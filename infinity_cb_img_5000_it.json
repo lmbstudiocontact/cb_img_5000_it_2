@@ -1,0 +1,74 @@
+{
+  "english": "infinity",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái vô tận",
+          "definition": "space, time or quantity that is without limit, or is immeasurably great or small.",
+          "world_new": [
+            "space",
+            "time",
+            "quantity",
+            "limit",
+            "immeasurably",
+            "great",
+            "small"
+          ]
+        },
+        {
+          "mean_english": "lượng vô hạn",
+          "definition": "in mathematics, an indefinitely large number, quantity or distance",
+          "world_new": [
+            "mathematics",
+            "indefinitely",
+            "large",
+            "number",
+            "quantity",
+            "distance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Parallel lines meet at infinity.",
+              "world_new": [
+                "lines",
+                "meet"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The answer can be anything between four and infinity.",
+    "The ineffable is thus characterised by a sublime yet accessible infinity, while the unsayable posits an infinity beyond reach.",
+    "Since the behaviour of the solution at infinity is now known, we can again apply 'scattering' techniques to find (parts) of the spectrum.",
+    "In physics and mathematics we can use an infinity of dimensions.",
+    "The condition at infinity can be determined as if the harbour were absent.",
+    "I will now show that there is generally an infinity of efficient taking-it-in-turns equilibria if there are any at all.",
+    "By their very definition these morphisms 'live at infinity'.",
+    "The mean energy flux at infinity can be calculated either directly or by means of the group velocity for each wave component."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "infinite",
+    "infinitely",
+    "infiniteness",
+    "infinitive",
+    "infinity",
+    "infirm",
+    "infirmary",
+    "infirmity",
+    "inflame"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316951_a69826a1bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316951_e541ed81d6_o.png",
+      "id_image": "infinity_4020021"
+    }
+  ]
+}

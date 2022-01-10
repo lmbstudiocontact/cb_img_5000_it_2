@@ -1,0 +1,73 @@
+{
+  "english": "horse",
+  "phat_am": "hoːs",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "con ngựa",
+          "definition": "a large four-footed animal which is used to pull carts etc or to carry people etc",
+          "world_new": [
+            "large",
+            "animal",
+            "pull",
+            "carry",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a horse and cart",
+              "world_new": [
+                "cart"
+              ]
+            },
+            {
+              "ex_of_definition": "She enjoys riding her horse."
+            }
+          ]
+        },
+        {
+          "mean_english": "ngựa gỗ (trong thể thao)",
+          "definition": "a piece of apparatus used for jumping, vaulting etc in a gymnasium.",
+          "world_new": [
+            "piece",
+            "apparatus",
+            "gymnasium"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "horse-box",
+    "horse chestnut",
+    "horsefly",
+    "horsehair",
+    "horseman",
+    "horsemanship",
+    "horseplay",
+    "horsepower",
+    "horseshoe",
+    "on horseback",
+    ""
+  ],
+  "list_browse": [
+    "horrify",
+    "horrifying",
+    "horror",
+    "hors d’oeuvre",
+    "horse",
+    "horse chestnut",
+    "horse-box",
+    "horsefly",
+    "horsehair"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446478_46a20e027f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446478_bd5c7afef8_o.png",
+      "id_image": "horse_239262"
+    }
+  ]
+}

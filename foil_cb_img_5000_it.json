@@ -1,0 +1,119 @@
+{
+  "english": "foil",
+  "phat_am": "foil",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm thất bại (một âm mưu, một kế hoạch…)",
+          "definition": "to defeat; to disappoint",
+          "world_new": [
+            "disappoint"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was foiled in her attempt to become President.",
+              "world_new": [
+                "attempt",
+                "become"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lá (kim loại)",
+          "definition": "extremely thin sheets of metal that resemble paper",
+          "world_new": [
+            "extremely",
+            "thin",
+            "metal",
+            "resemble",
+            "paper"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The sandwiches were wrapped in silver foil.",
+              "world_new": [
+                "silver"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người hay vật tôn người hay vật khác lên (khi so sánh)",
+          "definition": "a dull person or thing against which someone or something else seems brighter",
+          "world_new": [
+            "dull",
+            "person",
+            "else"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She acted as a foil to her beautiful sister.",
+              "world_new": [
+                "beautiful",
+                "sister"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "kiếm bịt đầu",
+          "definition": "a blunt sword with a button at the end, used in the sport of fencing.",
+          "world_new": [
+            "blunt",
+            "sword",
+            "button",
+            "sport",
+            "fencing"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Integration of story information during comprehension was indexed by inflated recognition errors of foils that had been constructed by integrating information across original story sentences.",
+    "The laser pulse was focused on 150-nm thick foils to investigate plasma formation and the related transmittivity of the laser light.",
+    "After these series, both types of foils were examined visually with an optical microscope.",
+    "Target items were presented eight times during the task and foils only once.",
+    "In this ar ticle, we show the preliminary results of the analysis of inter ferograms obtained with femtosecond laser pulses probing plasmas produced by the exploding foils technique.",
+    "Thus, performance levels should be very similar when the phonological similarity of foils and targets is equated in rhyme and alliteration tasks.",
+    "Both foils are seen on the various photographs shown in the paper.",
+    "Multiple scattering calculations on ions passing through thin amorphous foils."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "fog",
+    "fog-bound",
+    "fog-horn",
+    "foggy",
+    "foil",
+    "fold",
+    "folded",
+    "folder",
+    "folding"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054610_39be0ddf13_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054610_422e46a92a_o.png",
+      "id_image": "foil_239248"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317986_7e593be906_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317986_83dc04acc7_o.png",
+      "id_image": "foil_4802431"
+    }
+  ]
+}

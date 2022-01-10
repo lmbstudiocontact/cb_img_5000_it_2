@@ -1,0 +1,81 @@
+{
+  "english": "girl",
+  "phat_am": "ɡəːl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "con gái",
+          "definition": "a female child",
+          "world_new": [
+            "female",
+            "child"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her new baby is a girl.",
+              "world_new": [
+                "baby"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cô gái",
+          "definition": "a young usually unmarried woman",
+          "world_new": [
+            "young",
+            "unmarried"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s very popular with the girls.",
+              "world_new": [
+                "popular"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Boys may be required to verbalize and express themselves more than girls.",
+    "What happens when boys try to join in girls' games?",
+    "Half of the children were boys and half were girls.",
+    "On infection, girls become normal boys and boys become normal girls.",
+    "The girls did pay attention, and work in classes, and the boys didn't.",
+    "The majority of boys thought that they were better at this than girls (forty-two) and the majority of girls disagreed with this (forty-seven).",
+    "The number of boys and girls was approximately the same.",
+    "The teachers assessed both boys and girls to be progressively more skilful, the worse the quality of provision in the school."
+  ],
+  "list_see_also": [
+    "girlish",
+    "girlfriend",
+    "Girl Guide"
+  ],
+  "list_browse": [
+    "gingerly",
+    "giraffe",
+    "girder",
+    "girdle",
+    "girl",
+    "Girl Guide",
+    "girlfriend",
+    "girlish",
+    "girth"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687464_1bb0fd5cb6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687464_7628dc6565_o.png",
+      "id_image": "girl_627768"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069205_72d884a231_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069205_9cfdc20d80_o.png",
+      "id_image": "girl_658423"
+    }
+  ]
+}

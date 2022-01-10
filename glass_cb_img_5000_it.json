@@ -1,0 +1,121 @@
+{
+  "english": "glass",
+  "phat_am": "ɡlaːs",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thuỷ tinh",
+          "definition": "a hard usually breakable transparent substance",
+          "world_new": [
+            "breakable",
+            "transparent",
+            "substance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The bottle is made of glass",
+              "world_new": [
+                "bottle"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a glass bottle.",
+              "world_new": [
+                "bottle"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cái cốc, cái ly",
+          "definition": "a usually tall hollow object made of glass, used for drinking",
+          "world_new": [
+            "tall",
+            "hollow",
+            "object"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There are six glasses on the tray",
+              "world_new": [
+                "glasses",
+                "tray"
+              ]
+            },
+            {
+              "ex_of_definition": "sherry glasses.",
+              "world_new": [
+                "sherry",
+                "glasses"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gương soi",
+          "definition": "(also looking-glass) a mirror.",
+          "world_new": [
+            "mirror"
+          ]
+        },
+        {
+          "mean_english": "cái phong vũ biểu",
+          "definition": "a barometer, or the atmospheric pressure shown by one",
+          "world_new": [
+            "barometer",
+            "atmospheric",
+            "pressure"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The glass is falling."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Airfall deposits from these eruptions were sampled in detail and analysed for major and trace elements, along with microprobe analyses of minerals and glasses.",
+    "Because glasses are metastable solids, they can support a considerable mechanical stress, especially over short periods of time.",
+    "The complex behavior of spin glasses appears at low temperatures after the system undergoes something like a phase transition.",
+    "However, reported water-consumption behaviour for various proportions of cases was increased by 1-4 glasses to model the impact of reporting bias.",
+    "Volume changes in cupping glasses and the air pump measured the power of this active elasticity.",
+    "Most importantly, the silicic glasses represent bimodal compositions rather than a continuous evolution trend.",
+    "The user wears a pair of stereo liquid crystal shutter glasses and a six-degree-of-freedom head-tracking device.",
+    "The preparation of a meal involves many things - spoons, dishes, glasses, pitchers - and a certain facility in the use of those things."
+  ],
+  "list_see_also": [
+    "glasses",
+    "glassful",
+    "glassy",
+    "glassiness",
+    "glasshouse",
+    "glassware"
+  ],
+  "list_browse": [
+    "glandular",
+    "glare",
+    "glaring",
+    "glaringly",
+    "glass",
+    "glasses",
+    "glassful",
+    "glasshouse",
+    "glassiness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331841_87b4bbd337_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331841_1320ac34af_o.png",
+      "id_image": "glass_1473252"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376557_249d02d4a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376557_4e262033fa_o.png",
+      "id_image": "glass_3349345"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "english": "hive",
+  "phat_am": "haiv",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tổ ong",
+          "definition": "a box etc where bees live and store up honey",
+          "world_new": [
+            "box",
+            "live",
+            "store",
+            "honey"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s building a hive so that he can keep bees.",
+              "world_new": [
+                "building",
+                "keep"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đàn ong",
+          "definition": "the bees that live in such a place",
+          "world_new": [
+            "live",
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The whole hive flew after the queen bee.",
+              "world_new": [
+                "whole",
+                "queen",
+                "bee"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "What will happen, therefore, in the case of those individual companies who want to carry out hiving off operations?",
+    "In doing so, they will know that the profits that they produce at their pits will be hived off to subsidise the electricity industry.",
+    "I was on the point of saying that a great many people fear that this is a halfway house to further hiving off.",
+    "He objects to the authorities that are to be created for the purpose of examining and discovering diseased hives.",
+    "They are especially concerned about resettlement and redundancy arrangements that might occur as a result of hiving off any part of the corporation.",
+    "Across a very broad section of public industry the threat of hiving off profitable parts is very real.",
+    "Is not the work about to be hived off to an agency?",
+    "No matter what the service, until the charges were introduced there was no easy way of hiving off particular services."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "hither",
+    "hither and thither",
+    "hitherto",
+    "HIV",
+    "hive",
+    "HMS",
+    "hoard",
+    "hoarder",
+    "hoarding"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691149_23788386b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691149_e761a8bb65_o.png",
+      "id_image": "hive_306741"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691119_df50e83bef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691119_2158393190_o.png",
+      "id_image": "hive_5493283"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072815_95914b9531_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072815_d90ca67d79_o.png",
+      "id_image": "hive_622090"
+    }
+  ]
+}

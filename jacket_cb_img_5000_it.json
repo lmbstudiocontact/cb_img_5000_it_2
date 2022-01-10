@@ -1,0 +1,90 @@
+{
+  "english": "jacket",
+  "phat_am": "ˈdʒӕkit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "áo vét",
+          "definition": "a short coat",
+          "world_new": [
+            "short",
+            "coat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He wore brown trousers and a blue jacket.",
+              "world_new": [
+                "brown",
+                "trousers",
+                "blue"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bìa",
+          "definition": "a covering, especially a loose paper cover for a book",
+          "world_new": [
+            "covering",
+            "loose",
+            "paper",
+            "cover",
+            "book"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I like the design on this (dust) jacket.",
+              "world_new": [
+                "I",
+                "design"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Copiers of the jacket produced in the more interior province, however, pay even less attention to the configuration of letters.",
+    "The fading memory of this reviewer can recall the vivid auras emanating from rock musicians on the record jackets of the 1960s.",
+    "The computer, an \"intrinsically rhetorical device,\" enfranchises the free play and experimentation that pervade postmodern arts and letters' (jacket).",
+    "The dress code required that boys wear a jacket and tie, or a sweater and tie.",
+    "Frequently, students cover their texts in jackets made from old, brown paper bags, then deposit their books on kitchen tables.",
+    "Although their jackets were now common fashion elements, the bodies of these women declared their social origins.",
+    "They wore patriotic colours, red, white, and blue, and their jackets buttoned at the back, as a daily, practical exercise in fraternal interdependence.",
+    "The experimental set-up is shown in figure 6, in which the position of the water jackets is given by the dotted areas."
+  ],
+  "list_see_also": [
+    "jacket potato"
+  ],
+  "list_browse": [
+    "jackal",
+    "jackass",
+    "jackboot",
+    "jackdaw",
+    "jacket",
+    "jacket potato",
+    "jackpot",
+    "Jacuzzi",
+    "jade"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381372_92530efcd1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381372_354f2f5fb6_o.png",
+      "id_image": "jacket_195810"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073345_0632ac7f23_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073345_e71a3ff644_o.png",
+      "id_image": "jacket_343343"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073290_5da593e6b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073290_5cbedf89dc_o.png",
+      "id_image": "jacket_343344"
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "english": "hole",
+  "phat_am": "həul",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lỗ thủng; lỗ hổng",
+          "definition": "an opening or gap in or through something",
+          "world_new": [
+            "opening",
+            "gap"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a hole in the fence",
+              "world_new": [
+                "fence"
+              ]
+            },
+            {
+              "ex_of_definition": "There are holes in my socks.",
+              "world_new": [
+                "my"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hang; lỗ",
+          "definition": "a hollow in something solid",
+          "world_new": [
+            "hollow",
+            "solid"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a hole in my tooth",
+              "world_new": [
+                "my",
+                "tooth"
+              ]
+            },
+            {
+              "ex_of_definition": "Many animals live in holes in the ground.",
+              "world_new": [
+                "live",
+                "ground"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lỗ đặt bóng",
+          "definition": "(in golf) (the point scored by the player who takes the fewest strokes to hit his ball over) any one of the usually eighteen sections of the golf course between the tees and the holes in the middle of the greens",
+          "world_new": [
+            "point",
+            "player",
+            "hit",
+            "ball",
+            "golf",
+            "course",
+            "middle",
+            "greens"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He won by two holes"
+            },
+            {
+              "ex_of_definition": "We played nine holes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thủng",
+          "definition": "to make a hole in",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The ship was badly holed when it hit the rock.",
+              "world_new": [
+                "ship",
+                "badly",
+                "hit",
+                "rock"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đánh bóng vào lỗ",
+          "definition": "to hit (a ball etc) into a hole",
+          "world_new": [
+            "hit",
+            "ball"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The golfer holed his ball from twelve feet away.",
+              "world_new": [
+                "golfer",
+                "ball"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "An enlarged view of those spines (fig. 6 inset) show that they are located in crater-like holes in the tegument.",
+    "Chamfers on the holes can help to accomplish this desired initial state.",
+    "The location of the holes can also be controlled.",
+    "Note the development of a primary street consisting of six large holes and a secondary street consisting of six small holes.",
+    "Such a jump between vertices corresponds to a short-cut between two places which is only known to the evader (like a rabbit using rabbit holes).",
+    "Other exceptional conditions (black holes, concurrency, etc.) can be handled in the same way.",
+    "In some cases, the pegs cannot be inserted into the holes because of incompatible dimensions.",
+    "Replacement of holes in generalized expressions is defined as for ordinary contexts."
+  ],
+  "list_see_also": [
+    "hole out"
+  ],
+  "list_browse": [
+    "hold water",
+    "hold with",
+    "hold-all",
+    "-holder",
+    "hole",
+    "hole out",
+    "holiday",
+    "holidaymaker",
+    "holiness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334971_6f062aa8ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334971_2f54c19abf_o.png",
+      "id_image": "hole_1098203"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450038_a68b54c52a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450038_550b22fb18_o.png",
+      "id_image": "hole_3561426"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380072_f6cb46fcc2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380072_734c9afde0_o.png",
+      "id_image": "hole_595781"
+    }
+  ]
+}

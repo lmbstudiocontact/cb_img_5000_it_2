@@ -1,0 +1,79 @@
+{
+  "english": "industrial",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc về công nghiệp",
+          "definition": "having, concerning etc industries or the making of goods",
+          "world_new": [
+            "concerning",
+            "goods"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That area of the country is industrial rather than agricultural.",
+              "world_new": [
+                "area",
+                "country",
+                "rather",
+                "agricultural"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The numbers of industrials have continued to fall.",
+    "Of these 504,521 were non-industrials and 94,261 industrials.",
+    "A new volume of regulations for non-industrials is in preparation, which will make their position clear.",
+    "The negotiations, which are in their final stages, both as to industrials and non-industrials, have gone very smoothly.",
+    "Will my noble friend also say whether the trouble in the dockyards, the strike that they have been having among the non-industrials, is now settled?",
+    "Of the 100 additional civilians, 31 were already in their posts as industrials but had been reclassified as non-industrials.",
+    "Of those whose required retirement date is 60, we expect 770 non-industrials to be retired this year and 730 in 1982–93.",
+    "A number of specific amenity facilities for industrials and non-industrials working afloat and for naval staffs are also included in the development programmes."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "indulge",
+    "indulge in",
+    "indulgence",
+    "indulgent",
+    "industrial",
+    "industrial action",
+    "industrial estate",
+    "industrial relations",
+    "industrialist"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317546_6dde7bdfc4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317546_a792c49315_o.png",
+      "id_image": "industrial_2809949"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361952_e80a054868_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361952_903c80833a_o.png",
+      "id_image": "industrial_327409"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054015_b1d8618eb9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054015_02692efc4c_o.png",
+      "id_image": "industrial_4795477"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672244_b53d52f42a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672244_690d344121_o.png",
+      "id_image": "industrial_4829817"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317601_b571a69d6c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317601_66f60ac415_o.png",
+      "id_image": "industrial_997712"
+    }
+  ]
+}

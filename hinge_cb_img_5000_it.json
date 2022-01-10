@@ -1,0 +1,79 @@
+{
+  "english": "hinge",
+  "phat_am": "hindʒ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bản lề",
+          "definition": "the joint by means of which a door is fastened to a door-frame, a lid is fastened to a box etc and on which the door, lid etc turns when it opens or closes",
+          "world_new": [
+            "joint",
+            "means",
+            "door",
+            "lid",
+            "box",
+            "door",
+            "lid"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I must oil the hinges.",
+              "world_new": [
+                "I",
+                "oil"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The redemption of the entire human race from eternal death hinged on pain.",
+    "In the past, we have referred to this area between the off-set hinges of the atrioventricular valves as the atrioventricular muscular septum.",
+    "The solution of the problem thus hinges on locating the free boundary separating regions where the two different regimes prevail.",
+    "Conservatives made their messages compatible with the rhetorical environment, understanding whether consciously or unconsciously that their prospects hinged on conforming to it.",
+    "Naturally, this evidence hinges on the ability to identify chunks correctly.",
+    "Essentially, this hinges on the observation that a finite lattice 'turned upside-down' is still a finite lattice.",
+    "So, it looks as if popularity butters the parsnips of management theory, and that popularity does not hinge on a robust evidence base.",
+    "The former hinges on the possibility of software agents being regarded as legal persons in the eyes of the law."
+  ],
+  "list_see_also": [
+    "hinge on"
+  ],
+  "list_browse": [
+    "hindrance",
+    "hindsight",
+    "Hindu",
+    "Hinduism",
+    "hinge",
+    "hinge on",
+    "hint",
+    "hinterland",
+    "hip"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073890_5748749166_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073890_37c9e186fb_o.png",
+      "id_image": "hinge_1678142"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336831_d8a6afa709_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336831_542002b4c3_o.png",
+      "id_image": "hinge_1678149"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381837_c5e8e0636c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381837_ea8b181b36_o.png",
+      "id_image": "hinge_1678218"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692059_c1eceb8d42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692059_5403a2375d_o.png",
+      "id_image": "hinge_1678224"
+    }
+  ]
+}

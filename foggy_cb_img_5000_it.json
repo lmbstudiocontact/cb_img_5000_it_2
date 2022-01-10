@@ -1,0 +1,61 @@
+{
+  "english": "foggy",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "có sương mù",
+          "definition": "full of, or covered with, fog",
+          "world_new": [
+            "full",
+            "fog"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It is very foggy tonight.",
+              "world_new": [
+                "tonight"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We should almost have to avoid the risk of foggy weather, and also the new factor of aeroplanes.",
+    "I may say quite frankly that we do not go into a disagreeable subject like this to be fogged off on a foggy evening of this description.",
+    "The number of foggy evenings has been remarkably small.",
+    "One can only put it down to the fact that it is an exceptionally foggy day.",
+    "If there were such a system of weather reports, a great many motorists would remain where they were rather than proceed into the foggy area.",
+    "Because of this general foggy idea that something was wrong with local government and that change was needed.",
+    "We are considering installing some overhead lighting on foggy lengths of the motorways and a major operation is being conducted to try to identify those lengths.",
+    "Are they to install reflective studs in time for the foggy periods later this year?"
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "foetus",
+    "fog",
+    "fog-bound",
+    "fog-horn",
+    "foggy",
+    "foil",
+    "fold",
+    "folded",
+    "folder"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318056_170d45383e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318056_4f746d791d_o.png",
+      "id_image": "foggy_2159339"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433253_52c03db9b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433253_ba99006bb8_o.png",
+      "id_image": "foggy_5493079"
+    }
+  ]
+}

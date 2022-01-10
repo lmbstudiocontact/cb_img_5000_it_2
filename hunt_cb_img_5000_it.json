@@ -1,0 +1,128 @@
+{
+  "english": "hunt",
+  "phat_am": "hant",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "săn bắn",
+          "definition": "to chase (animals etc) for food or for sport",
+          "world_new": [
+            "chase",
+            "food",
+            "sport"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He spent the whole day hunting (deer).",
+              "world_new": [
+                "spent",
+                "whole",
+                "day",
+                "hunting"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "săn đuổi; tìm kiếm",
+          "definition": "to pursue or drive out",
+          "world_new": [
+            "pursue",
+            "drive"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The murderer was hunted from town to town.",
+              "world_new": [
+                "murderer",
+                "town",
+                "town"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cuộc đi săn",
+          "definition": "the act of hunting animals etc",
+          "world_new": [
+            "act",
+            "hunting"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a fox hunt.",
+              "world_new": [
+                "fox"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cuộc tìm kiếm",
+          "definition": "a search",
+          "world_new": [
+            "search"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ll have a hunt for that lost necklace.",
+              "world_new": [
+                "lost",
+                "necklace"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A trade-off in hunting effort is present in the expected utility function.",
+    "On the other hand, the first three columns show that participation in hunting gives a significantly negative coefficient with respect to the district.",
+    "Crab hunting appears to have occurred at all sites with the same intensity.",
+    "First, we re here to find a more efficient way of hunting animals.",
+    "Now its neighbours had gone away hunting and it was left behind, but the shaman cured it.",
+    "Hunters then planned to allow the population to renew after the epidemic peak, therefore, hunting pressure may have declined in 1993 and 1994.",
+    "In rural areas, feral cats are dependent on hunting rodent and bird prey and occur in much lower densities.",
+    "By the eighteenth century most of the permits granted were used for grazing land, rather than hunting or mineral extraction."
+  ],
+  "list_see_also": [
+    "hunter",
+    "hunting",
+    "huntsman",
+    "hunt down",
+    "hunt for",
+    "hunt high and low",
+    "hunt out"
+  ],
+  "list_browse": [
+    "hungrily",
+    "hungriness",
+    "hungry",
+    "hunk",
+    "hunt",
+    "hunt down",
+    "hunt for",
+    "hunt high and low",
+    "hunt out"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442353_433109ab0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442353_fe2e09cfdc_o.png",
+      "id_image": "hunt_2362512"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372067_1fce1767c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372067_2aeca6fe4a_o.png",
+      "id_image": "hunt_784387"
+    }
+  ]
+}

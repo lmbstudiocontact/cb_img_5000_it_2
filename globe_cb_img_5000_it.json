@@ -1,0 +1,95 @@
+{
+  "english": "globe",
+  "phat_am": "ɡləub",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quả đất",
+          "definition": "(usually with the) the Earth",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve travelled to all parts of the globe."
+            }
+          ]
+        },
+        {
+          "mean_english": "quả địa cầu",
+          "definition": "a ball with a map of the Earth on it.",
+          "world_new": [
+            "ball",
+            "map"
+          ]
+        },
+        {
+          "mean_english": "vật hình cầu",
+          "definition": "an object shaped like a globe",
+          "world_new": [
+            "object",
+            "shaped"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The chemicals were crushed in a large metal globe.",
+              "world_new": [
+                "large",
+                "metal"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Globalization of any form, including a socialist form, sees the globe as one place.",
+    "This must, in truth, be simply intended by the publishers as fodder for the burgeoning population of 'dinosaurophiles' around the globe.",
+    "These participants buy seasonally for various reasons such as the social and environmental implications of importing foods from around the globe.",
+    "Moreover, there is not much area left on the globe that is agriculturally promising.",
+    "This is not the only pattern possible, however: in many industries, multinational corporations demand seamless operations across the globe.",
+    "First because he sees western civilization expanding over the whole globe, and western culture replacing cultures of other types.",
+    "The aggrandizing state has run amok and collectivism has triumphed across the globe.",
+    "Our method of measuring eye-position can in principle confuse small rotations and large fore -aft movements of the globe."
+  ],
+  "list_see_also": [
+    "global",
+    "globalize",
+    "globalization",
+    "global village",
+    "global warming",
+    "globally",
+    "globular",
+    "globule",
+    "globetrotter",
+    "globetrotting"
+  ],
+  "list_browse": [
+    "global warming",
+    "globalization",
+    "globalize",
+    "globally",
+    "globe",
+    "globetrotter",
+    "globetrotting",
+    "globular",
+    "globule"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331276_9e26b5b301_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331276_eca5a449ea_o.png",
+      "id_image": "globe_1010737"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375947_c953a0635e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375947_5386bba73e_o.png",
+      "id_image": "globe_1631094"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686224_33e41b25ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686224_89a2dc7117_o.png",
+      "id_image": "globe_4426594"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "english": "knob",
+  "phat_am": "nob",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chỗ phồng",
+          "definition": "a hard rounded part standing out from the main part",
+          "world_new": [
+            "rounded",
+            "part",
+            "standing",
+            "main",
+            "part"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bedstead with brass knobs on.",
+              "world_new": [
+                "brass"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nắm đấm cửa",
+          "definition": "a rounded handle on or for a door or drawer",
+          "world_new": [
+            "rounded",
+            "handle",
+            "door",
+            "drawer"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "wooden door-knobs.",
+              "world_new": [
+                "wooden"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "knobbly"
+  ],
+  "list_browse": [
+    "knit one’s brows",
+    "knitter",
+    "knitting",
+    "knitting needle",
+    "knob",
+    "knobbly",
+    "knock",
+    "knock about/around",
+    "knock back"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369997_0d34d06b58_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369997_0f1902dec3_o.png",
+      "id_image": "knob_194417"
+    }
+  ]
+}

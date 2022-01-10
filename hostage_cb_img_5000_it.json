@@ -1,0 +1,76 @@
+{
+  "english": "hostage",
+  "phat_am": "ˈhostidʒ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "con tin",
+          "definition": "a person who is held prisoner in order to ensure that the captor’s demands etc will be carried out",
+          "world_new": [
+            "person",
+            "prisoner",
+            "order",
+            "ensure"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The terrorists took three people with them as hostages",
+              "world_new": [
+                "people"
+              ]
+            },
+            {
+              "ex_of_definition": "They took / were holding three people hostage.",
+              "world_new": [
+                "people"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There is no free movement and over a thousand prisoners arrested before 1993 have been held in prison as if they were hostages.",
+    "He has given some hostages to fortune to the north, and made some promises that it will be difficult to deliver.",
+    "In recent days the plight of the hostages and refugees has understandably dominated the media.",
+    "We are persevering with our efforts to persuade them that the holding of hostages is in no one's interest.",
+    "There is no question but that the taking of the hostages is totally deplorable.",
+    "In that same prison there were some women kept as hostages until their husbands, who were under threat of arrest, gave themselves up.",
+    "Of those three conditions, one has been largely fulfilled—the release of the hostages.",
+    "If the situation has not been clarified and the eight hostages have not been located, the families' concern will increase."
+  ],
+  "list_see_also": [
+    "take/hold (someone) hostage"
+  ],
+  "list_browse": [
+    "hospitality",
+    "hospitalization",
+    "hospitalize",
+    "host",
+    "hostage",
+    "hostel",
+    "hostile",
+    "hostilities",
+    "hostility"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330501_5afdb8eebf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330501_e2342b0e23_o.png",
+      "id_image": "hostage_2302416"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375207_5465728cc1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375207_49c013ea78_o.png",
+      "id_image": "hostage_3604881"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067290_bbeedf4e06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067290_b7ea43eea8_o.png",
+      "id_image": "hostage_4321593"
+    }
+  ]
+}

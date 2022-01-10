@@ -1,0 +1,87 @@
+{
+  "english": "manifestation",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự biểu lộ",
+          "definition": "an obvious or clear example",
+          "world_new": [
+            "obvious",
+            "clear",
+            "example"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This mistake is another manifestation of his unsuitability for this job.",
+              "world_new": [
+                "mistake",
+                "unsuitability",
+                "job"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự hiện hình",
+          "definition": "the act of showing clearly.",
+          "world_new": [
+            "act",
+            "clearly"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The ocular manifestations of congenital infection: a study of the early effect and long-term outcome of maternally transmitted rubella and toxoplasmosis.",
+    "One is to trace their genesis in a shared context, to give a historical account that is rich enough to encompass seemingly diverse cultural manifestations.",
+    "Other infants have mild or subclinical manifestations of the disease.",
+    "The increased awareness of the studied population in relation to acute filarial manifestations as the study proceeded, indicates, for instance the operation of monitoring biases.",
+    "The attempts of co-operation, as well as matters of conflict among the countries planning relief expeditions, expose overt manifestations of nationalism.",
+    "The other manifestations of acute rheumatic fever besides carditis usually disappear without sequels.",
+    "The problems of primary care attenders with physical manifestations of psychological distress have attracted considerable research interest.",
+    "On the contrary, legal orders shaped by legal borrowing stand out as vivid manifestations of the syncretic, fluid nature of modernity."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "manic",
+    "manicure",
+    "manicurist",
+    "manifest",
+    "manifestation",
+    "manifestly",
+    "manifesto",
+    "manipulate",
+    "manipulation"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370592_d930789bbd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370592_6a1240bf18_o.png",
+      "id_image": "manifestation_2287727"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062560_abd3ced8a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062560_787f9e1e5b_o.png",
+      "id_image": "manifestation_2529682"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325756_1623059c23_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325756_878ca98cba_o.png",
+      "id_image": "manifestation_2529739"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440713_c2718cb21b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440713_2c211da213_o.png",
+      "id_image": "manifestation_3458259"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680754_9a8b338735_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680754_d5fe6a3cf7_o.png",
+      "id_image": "manifestation_3458270"
+    }
+  ]
+}

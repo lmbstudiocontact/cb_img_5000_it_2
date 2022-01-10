@@ -1,0 +1,50 @@
+{
+  "english": "lesbian",
+  "phat_am": "ˈlezbiən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đồng tính nữ",
+          "definition": "a woman who is sexually attracted to other women",
+          "world_new": [
+            "sexually"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "(also adjective) a lesbian relationship.",
+              "world_new": [
+                "relationship"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "leopard",
+    "leotard",
+    "leper",
+    "leprosy",
+    "lesbian",
+    "lesion",
+    "less",
+    "lessen",
+    "lesser"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390322_3cd66964e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390322_44114ccef9_o.png",
+      "id_image": "lesbian_1475208"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460138_569feff4ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460138_7ab1b18dca_o.png",
+      "id_image": "lesbian_1475239"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "english": "kidney",
+  "phat_am": "ˈkidni",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thận",
+          "definition": "one of a pair of organs in the body which remove waste matter from the blood and produce urine",
+          "world_new": [
+            "pair",
+            "body",
+            "remove",
+            "waste",
+            "matter",
+            "blood",
+            "produce",
+            "urine"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The kidneys of some animals are used as food",
+              "world_new": [
+                "food"
+              ]
+            },
+            {
+              "ex_of_definition": "a kidney transplant",
+              "world_new": [
+                "transplant"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Dissemination may occur to multiple organs including the skin, oesophagus, liver, lungs, adrenal glands, pancreas, bowel, kidneys, bone marrow and joints.",
+    "A large duct, by giving rise to a low aortic diastolic pressure, may impair perfusion of the gut and kidneys and can result in a metabolic acidosis.",
+    "Transplantation is believed to be the most cost-effective treatment (8;12), but the demand for kidneys far outstrips the supply.",
+    "The aorta arose from the left ventricle and ascended into the pleural cavity where the kidneys were attached via the renal arteries.",
+    "A sepoy here was trying to remove a silver fork from one of his lungs, another had received a piece of lightning conductor in his kidneys.",
+    "The organs examined were the intestine, diaphragm, intercostal muscles, lungs, heart, brain, liver, spleen and kidneys.",
+    "If parents want to give their children a \"positive self-image,\" piano lessons may be more appropriate than excising one of their kidneys or a lobe of their liver.",
+    "Both kidneys are normally easily identifiable on standard sequences through the abdomen."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "kick up",
+    "kid",
+    "kidnap",
+    "kidnapper",
+    "kidney",
+    "kill",
+    "kill off",
+    "kill time",
+    "killer"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682984_db6e24a29d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682984_cb58d3b178_o.png",
+      "id_image": "kidney_3390286"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442893_ed704ceb91_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442893_ec8f36ea94_o.png",
+      "id_image": "kidney_4706940"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372557_d927e849d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372557_66bf4e96b4_o.png",
+      "id_image": "kidney_5873154"
+    }
+  ]
+}

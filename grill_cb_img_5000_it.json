@@ -1,0 +1,137 @@
+{
+  "english": "grill",
+  "phat_am": "ɡril",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nướng",
+          "definition": "to cook directly under heat",
+          "world_new": [
+            "cook",
+            "directly",
+            "heat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m going to grill the lamb chops.",
+              "world_new": [
+                "lamb"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tra hỏi",
+          "definition": "to question (a person) closely",
+          "world_new": [
+            "question",
+            "closely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The police grilled the man they thought was the murderer.",
+              "world_new": [
+                "police",
+                "thought",
+                "murderer"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tủ nướng",
+          "definition": "the part of a cooker used for grilling",
+          "world_new": [
+            "part",
+            "cooker"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You could toast the bread on the grill.",
+              "world_new": [
+                "toast",
+                "bread"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vỉ nướng",
+          "definition": "a frame of metal bars for grilling food on.",
+          "world_new": [
+            "frame",
+            "metal",
+            "food"
+          ]
+        },
+        {
+          "mean_english": "món thịt nướng",
+          "definition": "a dish of grilled food",
+          "world_new": [
+            "dish",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a mixed grill.",
+              "world_new": [
+                "mixed"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There are many hotels which have restaurants, grills and bars which open on to the streets and are intended to serve residents of the town.",
+    "The dish can be grilled outdoors on a grate until charred and soft, or may be cooked whole directly on glowing coals and then peeled.",
+    "They were trying to benefit from some of the warm air coming through the grills from the underground station after it had been closed.",
+    "A notable example lies in the preparation of bakkwa, where the meat once still being air-dried is instead grilled over charcoal.",
+    "He has subpoenaed numerous government officials to testify before the committee and grilled them for hours.",
+    "They can be roasted, grilled, fried, baked, braised, or smoked.",
+    "Both beaches have picnic areas, grills, children's playgrounds and lifeguard stands.",
+    "Garnishes vary but usually include chopped onion, cilantro, various salsas, grilled green onions, and lime wedges."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "grief-stricken",
+    "grievance",
+    "grieve",
+    "grievous",
+    "grill",
+    "grim",
+    "grime",
+    "grimly",
+    "grimness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676979_6e56fa2029_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676979_b7323fdcd9_o.png",
+      "id_image": "grill_883530"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676924_54e5b3ee43_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676924_3e3886ce18_o.png",
+      "id_image": "grill_933233"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676894_9d28938b27_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676894_327e9069f4_o.png",
+      "id_image": "grill_995892"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058560_b641654066_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058560_69de10728d_o.png",
+      "id_image": "grill_998910"
+    }
+  ]
+}

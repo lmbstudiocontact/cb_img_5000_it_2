@@ -1,0 +1,163 @@
+{
+  "english": "forward",
+  "phat_am": "ˈfoːwəd",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "tiến về phía trước",
+          "definition": "moving on; advancing",
+          "world_new": [
+            "moving"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The artist’s works represent a forward movement in European art.",
+              "world_new": [
+                "works",
+                "represent",
+                "movement",
+                "European",
+                "art"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gần hay tại mặt trước",
+          "definition": "at or near the front",
+          "world_new": [
+            "front"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The forward part of a ship is called the ‘bows’.",
+              "world_new": [
+                "part",
+                "ship"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "về phía trước",
+          "definition": "(also forwards) moving towards the front",
+          "world_new": [
+            "moving",
+            "front"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A pendulum swings backward(s) and forward(s).",
+              "world_new": [
+                "pendulum"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hướng về tương lai",
+          "definition": "to a later time",
+          "world_new": [
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "From this time forward, the nation will be heading in a new political direction.",
+              "world_new": [
+                "time",
+                "nation",
+                "heading",
+                "political",
+                "direction"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tiền đạo",
+          "definition": "(in certain team games, eg football, hockey) a player in a forward position.",
+          "world_new": [
+            "certain",
+            "team",
+            "games",
+            "football",
+            "player",
+            "position"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "gửi (lá thư) tới một địa chỉ mới",
+          "definition": "to send (letters etc) on to another address",
+          "world_new": [
+            "send",
+            "address"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I have asked the post office to forward my mail.",
+              "world_new": [
+                "I",
+                "office",
+                "my",
+                "mail"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "bring forward"
+  ],
+  "list_browse": [
+    "forty",
+    "forty winks",
+    "forty-year-old",
+    "forum",
+    "forward",
+    "fossil",
+    "fossil fuel",
+    "fossilize",
+    "foster"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428903_2bb679733e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428903_b95c7ccfc1_o.png",
+      "id_image": "forward_1624571"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314006_5cebcaf132_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314006_f0e01b3023_o.png",
+      "id_image": "forward_1915665"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358202_ba703032c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358202_ee235fa4df_o.png",
+      "id_image": "forward_3160937"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358272_28a3f7fe68_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358272_4f7631ddc7_o.png",
+      "id_image": "forward_785726"
+    }
+  ]
+}

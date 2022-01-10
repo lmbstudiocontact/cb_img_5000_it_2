@@ -1,0 +1,168 @@
+{
+  "english": "lock",
+  "phat_am": "lok",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ổ khóa",
+          "definition": "a mechanism for fastening doors etc",
+          "world_new": [
+            "mechanism",
+            "fastening"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He put the key in the lock.",
+              "world_new": [
+                "key"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cửa cống",
+          "definition": "a closed part of a canal for raising or lowering boats to a higher or lower part of the canal.",
+          "world_new": [
+            "part",
+            "canal",
+            "lowering",
+            "lower",
+            "part",
+            "canal"
+          ]
+        },
+        {
+          "mean_english": "kim hỏa",
+          "definition": "the part of a gun by which it is fired.",
+          "world_new": [
+            "part",
+            "gun"
+          ]
+        },
+        {
+          "mean_english": "miếng khóa trong môn vật",
+          "definition": "a tight hold (in wrestling etc).",
+          "world_new": [
+            "tight",
+            "hold",
+            "wrestling"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "khóa",
+          "definition": "to fasten or become fastened with a lock",
+          "world_new": [
+            "fasten",
+            "become"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She locked the drawer",
+              "world_new": [
+                "drawer"
+              ]
+            },
+            {
+              "ex_of_definition": "This door doesn’t lock.",
+              "world_new": [
+                "door"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lọn tóc",
+          "definition": "a piece of hair",
+          "world_new": [
+            "piece",
+            "hair"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She cut off a lock of his hair.",
+              "world_new": [
+                "cut",
+                "hair"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tóc trên đầu",
+          "definition": "hair",
+          "world_new": [
+            "hair"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "curly brown locks.",
+              "world_new": [
+                "curly",
+                "brown"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They have brought lock, stock and barrel into the mythology embroidered and perpetuated by a complex mix of nineteenth-century media and politics.",
+    "It is determined by the inflow headways from both directions and by lock characteristics.",
+    "The latter is illustrated by a vertical bar in figure 4, which gives the span of results obtained in recent lock-exchange experiments.",
+    "In the higher frequency range both locked and free long waves could be resonated.",
+    "In particular, for repeated answers they pay the cost of performing locking operations without inserting any new trie node.",
+    "Therefore, when all of them meet at a common point while all the actuators are locked, the end-effector cannot sustain the applied moments.",
+    "It means that the end-effector can move when the active links are locked.",
+    "Inside the harbour, the analytical expressions for the locked long waves are obtained."
+  ],
+  "list_see_also": [
+    "locker",
+    "locker room",
+    "locket",
+    "locksmith",
+    "lock in",
+    "lock out",
+    "lock up"
+  ],
+  "list_browse": [
+    "locality",
+    "locally",
+    "locate",
+    "location",
+    "lock",
+    "lock in",
+    "lock out",
+    "lock up",
+    "locker"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382797_7e5f135874_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382797_664833db3b_o.png",
+      "id_image": "lock_184263"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074805_20fb390a7c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074805_49552ed584_o.png",
+      "id_image": "lock_526818"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337741_45b12f2277_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337741_1b4d77146c_o.png",
+      "id_image": "lock_923793"
+    }
+  ]
+}

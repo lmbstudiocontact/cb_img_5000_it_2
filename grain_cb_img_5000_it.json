@@ -1,0 +1,130 @@
+{
+  "english": "grain",
+  "phat_am": "ɡrein",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thóc; gạo",
+          "definition": "a seed of wheat, oats etc",
+          "world_new": [
+            "seed",
+            "wheat",
+            "oats"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a grain of wheat.",
+              "world_new": [
+                "wheat"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ngũ cốc",
+          "definition": "corn in general",
+          "world_new": [
+            "corn",
+            "general"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Grain is ground into flour.",
+              "world_new": [
+                "ground",
+                "flour"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hạt; hột",
+          "definition": "a very small, hard particle",
+          "world_new": [
+            "small",
+            "particle"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a grain of sand.",
+              "world_new": [
+                "sand"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thớ (gỗ)",
+          "definition": "the way in which the lines of fibre run in wood, leather etc.",
+          "world_new": [
+            "lines",
+            "fibre",
+            "run",
+            "wood",
+            "leather"
+          ]
+        },
+        {
+          "mean_english": "một chút",
+          "definition": "a very small amount",
+          "world_new": [
+            "small",
+            "amount"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There isn’t a grain of truth in that story.",
+              "world_new": [
+                "truth",
+                "story"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Pentlandite forms flame-like exsolution lamellae in pyrrhotite and discrete grains adjacent to pyrrhotite and chalcopyrite.",
+    "Thus, a smaller proportion of the tillerproduced grains meets malting grading requirements.",
+    "35 garnet and biotite grains that were consumed during charnockitization.",
+    "Synthesis is achieved by iterating grains either synchronously or asynchronously.",
+    "Furthermore, the electron number density appearing in pe has to be calculated from (3.5) when the dust grains are present.",
+    "Compared to olivine, augite has a greater degree of chemical zoning within individual grains and samples.",
+    "Prior to analysis, all grains were imaged by cathodoluminescence in order to reveal their internal structure.",
+    "We consider a weakly ionized dusty plasma composed of electrons, singly charged ions, negatively charged dust grains and neutrals."
+  ],
+  "list_see_also": [
+    "go against the grain"
+  ],
+  "list_browse": [
+    "graduate",
+    "graduation",
+    "graffiti",
+    "graft",
+    "grain",
+    "gram",
+    "grammar",
+    "grammar school",
+    "grammar-check"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325906_63feaef08d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325906_98b463d4f3_o.png",
+      "id_image": "grain_2259561"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325861_fb1cd44916_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325861_f12d0505fe_o.png",
+      "id_image": "grain_4127305"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681064_e6abde62a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681064_553c4e1698_o.png",
+      "id_image": "grain_517618"
+    }
+  ]
+}

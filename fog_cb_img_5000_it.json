@@ -1,0 +1,103 @@
+{
+  "english": "fog",
+  "phat_am": "foɡ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sương mù",
+          "definition": "a thick cloud of moisture or water vapour/vapor in the air which makes it difficult to see",
+          "world_new": [
+            "thick",
+            "cloud",
+            "moisture",
+            "water",
+            "air",
+            "difficult",
+            "see"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I had to drive very slowly because of the fog.",
+              "world_new": [
+                "I",
+                "drive",
+                "slowly"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bao phủ hay bị bao phủ bằng sương mù",
+          "definition": "(usually with up) to cover with fog",
+          "world_new": [
+            "cover"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her glasses were fogged up with steam.",
+              "world_new": [
+                "glasses",
+                "steam"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "As a result, for the first 10 ms after fog formation, the surfaces are likely to store more energy than indicated by (14).",
+    "The lighting system would be considered as a whole, including items such as fog lamps, sidelights and indicator lights.",
+    "In laboratory experiments scattering in obstacles occurred within a relatively short distance, however, being stronger than scattering in real fog.",
+    "When fog rolls in, it is hard to see anything at all.",
+    "Monthly variation in fog drip was also negatively correlated with monthly rainfall.",
+    "In the fog of the medicalised obfuscation of old age, this book sounds a loud warning blast.",
+    "I had faith that it was there beyond the fog.",
+    "The fog of uncertainty inhibited confident assertion that his administration was on the right economic course."
+  ],
+  "list_see_also": [
+    "foggy",
+    "fog-bound",
+    "fog-horn"
+  ],
+  "list_browse": [
+    "fodder",
+    "foe",
+    "foetal",
+    "foetus",
+    "fog",
+    "fog-bound",
+    "fog-horn",
+    "foggy",
+    "foil"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362702_79743e6f89_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362702_8791166b01_o.png",
+      "id_image": "fog_1207561"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362662_4044df878a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362662_9dddeb7fd7_o.png",
+      "id_image": "fog_1327598"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433443_9026066d17_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433443_7cb1efd022_o.png",
+      "id_image": "fog_286588"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433328_d6a2e9f9a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433328_f67f212cc0_o.png",
+      "id_image": "fog_6183091"
+    }
+  ]
+}

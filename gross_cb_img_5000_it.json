@@ -1,0 +1,111 @@
+{
+  "english": "gross",
+  "phat_am": "ɡrəus",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "trắng trợn",
+          "definition": "very bad",
+          "world_new": [
+            "bad"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "gross errors/indecency."
+            }
+          ]
+        },
+        {
+          "mean_english": "không tinh tế",
+          "definition": "vulgar",
+          "world_new": [
+            "vulgar"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "gross language.",
+              "world_new": [
+                "language"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "to béo",
+          "definition": "too fat",
+          "world_new": [
+            "fat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a large, gross woman.",
+              "world_new": [
+                "large"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "toàn bộ; tổng",
+          "definition": "total",
+          "world_new": [
+            "total"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The gross weight of a parcel is the total weight of the contents, the box, the wrapping etc.",
+              "world_new": [
+                "weight",
+                "parcel",
+                "total",
+                "weight",
+                "contents",
+                "box",
+                "wrapping"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tính chung",
+          "definition": "the total amount (of several things added together).",
+          "world_new": [
+            "total",
+            "amount",
+            "added"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "grossly",
+    "gross domestic product",
+    "gross national product"
+  ],
+  "list_browse": [
+    "groom",
+    "groove",
+    "grooved",
+    "grope",
+    "gross",
+    "gross domestic product",
+    "gross national product",
+    "grossly",
+    "grotesque"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057060_936cd1f8d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057060_d0dcfaa406_o.png",
+      "id_image": "gross_2329468"
+    }
+  ]
+}

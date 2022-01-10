@@ -1,0 +1,79 @@
+{
+  "english": "interruption",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự gián đoạn",
+          "definition": "the act of interrupting or state of being interrupted",
+          "world_new": [
+            "act",
+            "state"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His failure to complete the job was due to constant interruption.",
+              "world_new": [
+                "failure",
+                "complete",
+                "job",
+                "due",
+                "constant"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vật cản trở",
+          "definition": "something that interrupts",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I get too many interruptions in my work.",
+              "world_new": [
+                "I",
+                "my",
+                "work"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The empirical results indicate that democracy has a significant and positive effect on economic growth by inhibiting regime interruption and enhancing system adjustability.",
+    "Similar decreases in local tumor control are calculated for treatment protraction and for interruptions in the radiotherapy of carcinoma of the larynx in four centers.",
+    "Interruption occurs when late processing of the target is disrupted by the mask so that further processing of the target does not occur.",
+    "If a treatment course encompasses a bank holiday or a planned machine service, then these are planned, but unscheduled interruptions.",
+    "He wants to prevent interruption in production and forestall reflection on a vicious economic cycle that leaves people poor despite their long hours of work.",
+    "An interruption by something sounding like a switch leads into a chorus of voices speaking about an undisclosed quasi-scientific process.",
+    "For each category, place of interruption was examined, which revealed that 96% of interruptions occurred within two words of the trouble point.",
+    "This resulted in joining interruptions and overlaps, simple and complex information requests, commands and warnings, and negations and criticisms."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "interrogation",
+    "interrogative",
+    "interrogator",
+    "interrupt",
+    "interruption",
+    "intersect",
+    "intersection",
+    "interstate",
+    "interval"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386212_b94c9a4f3c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386212_275c5ec8ee_o.png",
+      "id_image": "interruption_5361926"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341206_d3b6fccfce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341206_9550da5888_o.png",
+      "id_image": "interruption_6314899"
+    }
+  ]
+}

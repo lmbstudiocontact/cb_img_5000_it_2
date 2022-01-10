@@ -1,0 +1,125 @@
+{
+  "english": "grave",
+  "phat_am": "ɡreiv",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "huyệt; mộ",
+          "definition": "a plot of ground, or the hole dug in it, in which a dead person is buried",
+          "world_new": [
+            "plot",
+            "ground",
+            "hole",
+            "dead",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He laid flowers on the grave."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "quan trọng",
+          "definition": "important",
+          "world_new": [
+            "important"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a grave responsibility",
+              "world_new": [
+                "responsibility"
+              ]
+            },
+            {
+              "ex_of_definition": "grave decisions."
+            }
+          ]
+        },
+        {
+          "mean_english": "nghiêm trọng",
+          "definition": "serious, dangerous",
+          "world_new": [
+            "serious",
+            "dangerous"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "grave news.",
+              "world_new": [
+                "news"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trang nghiêm",
+          "definition": "serious, sad",
+          "world_new": [
+            "serious",
+            "sad"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a grave expression.",
+              "world_new": [
+                "expression"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, in the long term do we really want 1.4 million graves littering the countryside every year?",
+    "Their bones must be stirring restlessly and uneasily this afternoon in their respective graves.",
+    "I believe that it knows where the graves are.",
+    "There are no present plans to amend legislation to provide for the proposed re-use of graves.",
+    "He asked me to record that both graves were beautifully kept.",
+    "Of these, about one third have been assessed so far, with one third of these confirmed as mass graves.",
+    "There are no mass graves in our countryside and there is no fear of disease.",
+    "Persons visiting war graves may pay their return fares in sterling to a travel agency in this country without formality."
+  ],
+  "list_see_also": [
+    "gravedigger",
+    "gravestone",
+    "graveyard"
+  ],
+  "list_browse": [
+    "gratuitous",
+    "gratuitously",
+    "gratuitousness",
+    "gratuity",
+    "grave",
+    "gravedigger",
+    "gravel",
+    "gravely",
+    "gravestone"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368482_6b83661c57_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368482_f28e534d72_o.png",
+      "id_image": "grave_1022299"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368422_f4457f7eea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368422_c2c3616fe9_o.png",
+      "id_image": "grave_1901055"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368367_734eeb8e61_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368367_da371ceb46_o.png",
+      "id_image": "grave_5426443"
+    }
+  ]
+}

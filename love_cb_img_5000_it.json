@@ -1,0 +1,169 @@
+{
+  "english": "love",
+  "phat_am": "lav",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "yêu thích",
+          "definition": "a feeling of great fondness or enthusiasm for a person or thing",
+          "world_new": [
+            "feeling",
+            "great",
+            "fondness",
+            "enthusiasm",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She has a great love of music",
+              "world_new": [
+                "great",
+                "music"
+              ]
+            },
+            {
+              "ex_of_definition": "Her love for her children was clear for all to see.",
+              "world_new": [
+                "clear",
+                "see"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tình yêu",
+          "definition": "strong attachment with sexual attraction",
+          "world_new": [
+            "strong",
+            "attachment",
+            "sexual",
+            "attraction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They are in love with one another."
+            }
+          ]
+        },
+        {
+          "mean_english": "người, vật đáng yêu",
+          "definition": "a person or thing that is thought of with (great) fondness (used also as a term of affection)",
+          "world_new": [
+            "person",
+            "thought",
+            "fondness",
+            "term"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Ballet is the love of her life",
+              "world_new": [
+                "life"
+              ]
+            },
+            {
+              "ex_of_definition": "Goodbye, love!"
+            }
+          ]
+        },
+        {
+          "mean_english": "điểm không trong tennis",
+          "definition": "a score of nothing in tennis",
+          "world_new": [
+            "score",
+            "tennis"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The present score is fifteen love (written 15–0).",
+              "world_new": [
+                "present",
+                "score"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thích",
+          "definition": "to be (very) fond of",
+          "world_new": [
+            "fond"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She loves her children dearly.",
+              "world_new": [
+                "dearly"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "say mê",
+          "definition": "to take pleasure in",
+          "world_new": [
+            "pleasure"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They both love dancing.",
+              "world_new": [
+                "dancing"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Here the final overcoming of obstacles and declaration of equality takes the form of a rococo interchangeability of persons in the love relationships.",
+    "She is controversial for challenging the male literary tradition and appropriating the ghazal, a lyrical poetic style used by men to express love.",
+    "He makes it clear that post-lapsarian human beings love inordinately, and must, because of the disordered fundamental orientation called original sin.",
+    "If the work is successful, spiritual well-being of connection is manifest as appreciation for life, love of others, and feeling connected to deceased loved ones.",
+    "They also enhanced their beauty through facial tattooing, washing daily, plaiting and applying red ochre to their hair, wearing sweet-smelling leaves and using love medicines.",
+    "Analogously : we can pour out our love or attention on just any old object, but it won't necessarily stick, let alone mix with it.",
+    "The transformation of the refrain is the vehicle through which the lover affirms the value of his love.",
+    "Love with its treasures also tends to delight others in abundance."
+  ],
+  "list_see_also": [
+    "lovable",
+    "lovely",
+    "loveliness",
+    "lover",
+    "loving",
+    "lovingly",
+    "love affair",
+    "love letter",
+    "lovesick",
+    "fall in love (with)",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "lousy",
+    "lout",
+    "loutish",
+    "lovable",
+    "love",
+    "love affair",
+    "love letter",
+    "loveliness",
+    "lovely"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378907_bd235ab77b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378907_ca8e548478_o.png",
+      "id_image": "love_708692"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "english": "inch",
+  "phat_am": "intʃ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đơn vị đo chiều dài (2,54 cm)",
+          "definition": "(often abbreviated to inwhen written) a measure of length, the twelfth part of a foot (2.54 centimetres)",
+          "world_new": [
+            "measure",
+            "length",
+            "part",
+            "foot"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a 12-inch ruler",
+              "world_new": [
+                "ruler"
+              ]
+            },
+            {
+              "ex_of_definition": "The picture measures 8 inches by 5 inches.",
+              "world_new": [
+                "picture"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "một chút",
+          "definition": "a small amount",
+          "world_new": [
+            "small",
+            "amount"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There is not an inch of room to spare.",
+              "world_new": [
+                "room",
+                "spare"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nhích dần",
+          "definition": "to move slowly and carefully",
+          "world_new": [
+            "move",
+            "slowly",
+            "carefully"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He inched (his way) along the narrow ledge.",
+              "world_new": [
+                "narrow",
+                "ledge"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In places, the text comes to within one-eight of an inch of the bottom of the page and the margins are uniformly narrow.",
+    "Sixteen inches down, a horizontal bar is anchored to this vertical and spans to the opposite frame.",
+    "The basic uncertainty in pressure readings was estimated t o be 0.003 vertical inches of water.",
+    "He was 5 feet 6 1/2 inches tall with dark skin, hazel eyes and black hair.",
+    "The advances are undeniable, especially in electoral matters as opposition parties have inched their way into elected office at various levels.",
+    "Inch by inch the disturbance rises as if the desert were rising in obedience to some upthrusting force beneath.",
+    "They were seated at a comfortable viewing distance from the monitor with the microphone approximately one inch in front of their lips.",
+    "He was 5 feet 8 inches tall and had brown hair with hazel eyes and a fair complexion."
+  ],
+  "list_see_also": [
+    "within an inch of"
+  ],
+  "list_browse": [
+    "incentive",
+    "incessant",
+    "incessantly",
+    "incest",
+    "inch",
+    "incident",
+    "incidental",
+    "incidentally",
+    "incinerate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319631_3c826c80fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319631_79ee7d2ca6_o.png",
+      "id_image": "inch_4236613"
+    }
+  ]
+}

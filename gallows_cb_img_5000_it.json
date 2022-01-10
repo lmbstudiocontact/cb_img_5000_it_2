@@ -1,0 +1,51 @@
+{
+  "english": "gallows",
+  "phat_am": "ˈɡӕləuz",
+  "list_english": [
+    {
+      "type_word": "noun singular",
+      "list_definition": [
+        {
+          "mean_english": "giá treo cổ",
+          "definition": "a wooden frame on which criminals were hanged",
+          "world_new": [
+            "wooden",
+            "frame"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was sent to the gallows for stealing a horse.",
+              "world_new": [
+                "horse"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "gallon",
+    "gallons (of)",
+    "gallop",
+    "galloping",
+    "gallows",
+    "gallstone",
+    "galore",
+    "galvanize",
+    "gambit"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385117_11e6213086_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385117_c8eb1faa8e_o.png",
+      "id_image": "gallows_123985"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695454_79bb5b3782_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695454_1390aab638_o.png",
+      "id_image": "gallows_252141"
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "english": "late",
+  "phat_am": "leit",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "chậm; muộn",
+          "definition": "coming etc after the expected or usual time",
+          "world_new": [
+            "usual",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The train is late tonight",
+              "world_new": [
+                "train",
+                "tonight"
+              ]
+            },
+            {
+              "ex_of_definition": "I try to be punctual, but I am almost always late.",
+              "world_new": [
+                "I",
+                "try",
+                "punctual",
+                "I",
+                "almost"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "muộn",
+          "definition": "far on in the day or night",
+          "world_new": [
+            "far",
+            "day",
+            "night"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They arrived late at night",
+              "world_new": [
+                "night"
+              ]
+            },
+            {
+              "ex_of_definition": "It was very late when I got to bed.",
+              "world_new": [
+                "I",
+                "bed"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quá cố",
+          "definition": "dead, especially recently",
+          "world_new": [
+            "dead",
+            "recently"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the late king.",
+              "world_new": [
+                "king"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nguyên",
+          "definition": "recently, but no longer, holding an office or position",
+          "world_new": [
+            "recently",
+            "office",
+            "position"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Mr Allan, the late chairman, made a speech.",
+              "world_new": [
+                "chairman",
+                "speech"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "muộn",
+          "definition": "after the expected or usual time",
+          "world_new": [
+            "usual",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He arrived late for his interview.",
+              "world_new": [
+                "interview"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "muộn",
+          "definition": "far on in the day or night",
+          "world_new": [
+            "far",
+            "day",
+            "night"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They always go to bed late.",
+              "world_new": [
+                "bed"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Both in the brief memorandum of his services written around 1796 and in later correspondence there is no reference to the episode.",
+    "The later parts of the book are much better and include a detailed consideration of the effects of logging on the forest and its mammals.",
+    "If so, does this relationship change in later life ?",
+    "In the present study, we found evidence of reliable effects of parental behaviour on later outcomes, as the existing evidence would suggest.",
+    "All these observations raise a number of issues that are taken up in detail in later chapters.",
+    "We also know that the best programs are at the mercy of the latest software upgrade.",
+    "Family supports in later life : does ethnicity make a difference ?",
+    "We included data from these latest papers only."
+  ],
+  "list_see_also": [
+    "lateness",
+    "lately",
+    "later on",
+    "of late"
+  ],
+  "list_browse": [
+    "lasting",
+    "lastly",
+    "latch",
+    "latchkey",
+    "late",
+    "lately",
+    "lateness",
+    "latent",
+    "later on"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319946_40867f49a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319946_36a3074a2c_o.png",
+      "id_image": "late_5929501"
+    }
+  ]
+}

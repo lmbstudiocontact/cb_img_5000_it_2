@@ -1,0 +1,71 @@
+{
+  "english": "literary",
+  "phat_am": "ˈlitərəri",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "văn học",
+          "definition": "concerning literature or the writing of books",
+          "world_new": [
+            "concerning",
+            "literature"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a literary magazine.",
+              "world_new": [
+                "magazine"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhà văn",
+          "definition": "(of a person) knowledgeable about books",
+          "world_new": [
+            "knowledgeable"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a literary expert.",
+              "world_new": [
+                "expert"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "With a reference list of literary works, munication networks, and new approaches to story resources to fight censorship, and three appendices telling.",
+    "The revaluation of songs did not result in a lasting elevated literary status of the genre.",
+    "Before proponents of the so-called literary turn in anthropology achieved dominance in the field, the anthropological monograph was an easily identified artefact.",
+    "Students are thus able to read short extracts from correspondence, legislation, theoretical and literary material, which substantiate the contexts they have been led to consider.",
+    "It deserves the welcome which students reserve for a really important contribution to literary criticism.",
+    "Some of the chapters even ignore literary conventions, such as an introduction and conclusion, leaving the reader to search for the argument alone.",
+    "That connotation is associated with the literary myth and symbol tendency of interpretation focusing on his lyrics.",
+    "His study of nineteenth-century ' ' higher law ' ' debates in relation to key literary and cultural material is provocative, original, and ambitious."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "literacy",
+    "literal",
+    "literally",
+    "literalness",
+    "literary",
+    "literate",
+    "literature",
+    "lithe",
+    "litheness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339716_4285fe1e01_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339716_7814d15293_o.png",
+      "id_image": "literary_2178155"
+    }
+  ]
+}

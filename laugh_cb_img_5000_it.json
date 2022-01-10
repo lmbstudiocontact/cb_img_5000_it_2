@@ -1,0 +1,110 @@
+{
+  "english": "laugh",
+  "phat_am": "laːf",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cười",
+          "definition": "to make sounds with the voice in showing happiness, amusement, scorn etc",
+          "world_new": [
+            "voice",
+            "happiness",
+            "amusement",
+            "scorn"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We laughed at the funny photographs",
+              "world_new": [
+                "funny"
+              ]
+            },
+            {
+              "ex_of_definition": "Children were laughing in the garden as they played.",
+              "world_new": [
+                "garden"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tiếng cười",
+          "definition": "an act or sound of laughing",
+          "world_new": [
+            "act",
+            "sound"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He gave a laugh"
+            },
+            {
+              "ex_of_definition": "a loud laugh.",
+              "world_new": [
+                "loud"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A laughing young man modestly covers his mouth with his hand, but a buxom young woman laughs openly, showing her teeth.",
+    "After the doctor leaves, her husband laughs and asks if he should call her an angel or a saviour [mas-h-].",
+    "Rejection included behaviors such as distracting or ignoring the child, going into another room, and yelling or laughing at the child.",
+    "Later, she watches the same younger brother laughing gleefully as his truck rolls off the shelf each time he sets it there.",
+    "At both firms many engineers laughed about these memberships, saying they were good for little more than an annual dinner and an occasional newsletter.",
+    "As an infant he fell into a well, but when alarmed family members rushed to his rescue they found him sitting atop the waters laughing.",
+    "English which would not be laughed at in any part of the country.",
+    "When the man in the night-shirt walked past once more, the women laughed again, and another male resident sitting in the lounge laughed with them."
+  ],
+  "list_see_also": [
+    "laughable",
+    "laughably",
+    "laughingly",
+    "laughter",
+    "laughing stock",
+    "laugh at"
+  ],
+  "list_browse": [
+    "latter",
+    "latterly",
+    "laudable",
+    "laudably",
+    "laugh",
+    "laugh at",
+    "laughable",
+    "laughably",
+    "laughing jackass"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056235_71f661fdbe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056235_bd0a5b9f52_o.png",
+      "id_image": "laugh_1464026"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319641_cea4177606_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319641_b325319d3b_o.png",
+      "id_image": "laugh_1464042"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364307_a0e05a7496_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364307_a90f239a8e_o.png",
+      "id_image": "laugh_3561590"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056115_e61c29754b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056115_0f3d9ff5ca_o.png",
+      "id_image": "laugh_3632583"
+    }
+  ]
+}

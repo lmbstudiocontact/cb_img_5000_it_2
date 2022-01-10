@@ -1,0 +1,101 @@
+{
+  "english": "management",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "việc quản lý",
+          "definition": "the art of managing",
+          "world_new": [
+            "art"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an old-fashioned style of management",
+              "world_new": [
+                "old-fashioned",
+                "style"
+              ]
+            },
+            {
+              "ex_of_definition": "The management of this company is a difficult task.",
+              "world_new": [
+                "company",
+                "difficult",
+                "task"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ban quản lý",
+          "definition": "or noun plural the managers of a firm etc as a group",
+          "world_new": [
+            "firm",
+            "group"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The management has/have agreed to pay the workers more.",
+              "world_new": [
+                "agreed",
+                "pay"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Replacing management's discretion to provide share options as incentives by the principle of universality represents, in our view, another restriction and inflexibility on business.",
+    "Their managements treat them as such, processing them through a succession of rehearsals for a 'production line' of operas without calling on their creative or imaginative resources.",
+    "Is he aware that managements will not agree with that view?",
+    "From time to time particular actions by managements or labour have received public attention.",
+    "On the contrary, it is quite possible that standards have gone down rather than up at many institutions, since having a 'qualified' staff can lull managements into self-satisfaction and complacency.",
+    "The unions believe that a public inquiry should be set up to investigate management's motives in the use of public investment.",
+    "Opportunities for reducing the environmental impact of dairy farming managements: a systems approach.",
+    "Certainly its managements have striven for some time to get it on its feet in order to compete with the rest of the world."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "man-size",
+    "manage",
+    "manageability",
+    "manageable",
+    "management",
+    "manager",
+    "managerial",
+    "mandarin",
+    "mandolin"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063745_613f70df20_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063745_0555c0f0ae_o.png",
+      "id_image": "management_1262761"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441813_9b3eec4068_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441813_45ebcbbc01_o.png",
+      "id_image": "management_1285494"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063645_ab7343b96b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063645_d59e4665c3_o.png",
+      "id_image": "management_2494813"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441703_db9b582e3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441703_8a51d31178_o.png",
+      "id_image": "management_3380748"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681979_4e38e6c6a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681979_89c3f4c970_o.png",
+      "id_image": "management_943764"
+    }
+  ]
+}

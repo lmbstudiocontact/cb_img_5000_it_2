@@ -1,0 +1,69 @@
+{
+  "english": "inflatable",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "có thể bơm phồng",
+          "definition": "(of eg a cushion, ball etc) that can be filled with air for use",
+          "world_new": [
+            "cushion",
+            "ball",
+            "filled",
+            "air"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an inflatable beach ball.",
+              "world_new": [
+                "beach",
+                "ball"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Thanks to the inflatable rafts which were carried, no lives were lost, but the boat went down in ten minutes.",
+    "All we want are inflatable shibboleths.",
+    "Will he so alter the rule as to ensure that inflatable rafts should be not only inflatable but covered inflatable rafts?",
+    "Certain approved types of inflatable liferafts of foreign manufacture are accepted under the rules.",
+    "When necessary, the radio investigation service inspects radio installations on craft moored offshore using vessels hired for the purpose, or its own inflatable dinghy.",
+    "Inflatable booms and skimmer systems for containment and recovery of oil from the sea surface are also available.",
+    "I have questioned the proposal that all lifejackets should be inflatable.",
+    "A collection of various interchangeable and expendable gizmos, the house included inflatable beds and chairs that doubled as hovercrafts and multi-purpose robots that could distinguish between flavours of canned soup."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "inflamed",
+    "inflammability",
+    "inflammable",
+    "inflammation",
+    "inflatable",
+    "inflate",
+    "inflation",
+    "inflationary",
+    "inflection"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053315_1b2a7c6f6b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053315_41f7a7eb3a_o.png",
+      "id_image": "inflatable_1861777"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361192_04eabbbea2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361192_35cfca67f6_o.png",
+      "id_image": "inflatable_2240624"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361217_872014a843_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361217_c96daca771_o.png",
+      "id_image": "inflatable_868386"
+    }
+  ]
+}

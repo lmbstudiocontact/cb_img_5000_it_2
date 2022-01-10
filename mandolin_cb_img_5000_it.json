@@ -1,0 +1,68 @@
+{
+  "english": "mandolin",
+  "phat_am": "ˈmӕndəlin",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đàn măng-đô-lin",
+          "definition": "a musical instrument similar to a guitar",
+          "world_new": [
+            "musical",
+            "instrument",
+            "similar",
+            "guitar"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He played a tune on the mandolin.",
+              "world_new": [
+                "tune"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A power trio of keyboards, key bass, drums, fiddle mandolin, and vocals, the celebration is a surprisingly full sound for a party of three.",
+    "The strong pluckings and tremolos of the mandolin-banjos (when the accordions are not playing their solo parts, for example) give the piece a flavour of their own.",
+    "A very small run of lap steels, banjos and mandolins were also built but are rare to come across.",
+    "On the whole these are played competently, though not spectacularly; the decision to use a variety of solo instruments including mandolin is a welcome piece of imaginative freedom.",
+    "They use many different instruments such as the cello, violin, flute, didgeridoo, marimba, mandolin, sitar and vibraphone.",
+    "He plays a variety of instruments, such as piano/keyboard, bass, harp, and mandolin, with the guitar being his first love.",
+    "It adds pedal steel, dobro, fiddle and mandolin to the guitar and bass emphasis of rock and then throws in the blue-eyed soul of countrified gospel piano.",
+    "He commonly played instruments such as the washboard and the mandolin."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "management",
+    "manager",
+    "managerial",
+    "mandarin",
+    "mandolin",
+    "mane",
+    "manger",
+    "mangle",
+    "mango"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063195_a3ea644a13_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063195_40e73721c7_o.png",
+      "id_image": "mandolin_1880619"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441238_df793c2f49_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441238_9dd27b2ea0_o.png",
+      "id_image": "mandolin_2318432"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441203_230540b847_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441203_ea76d55e5b_o.png",
+      "id_image": "mandolin_2776242"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "english": "measurement",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "kích thước",
+          "definition": "size, amount etc found by measuring",
+          "world_new": [
+            "size",
+            "amount",
+            "found"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What are the measurements of this room?",
+              "world_new": [
+                "room"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "số đo",
+          "definition": "the sizes of various parts of the body, usually the distance round the chest, waist and hips",
+          "world_new": [
+            "various",
+            "body",
+            "distance",
+            "chest",
+            "waist"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What are your measurements, madam?",
+              "world_new": [
+                "your",
+                "madam"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự đo lường",
+          "definition": "the act of measuring",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We can find the size of something by means of measurement.",
+              "world_new": [
+                "find",
+                "size",
+                "means"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The main problem here is the absence of reliable measurements essential for the theory of plasma properties.",
+    "Such measurements can usually be assumed to be normally distributed and therefore a number of well-established methods can be used to analyse crop yield data.",
+    "In this dataset, measurements were taken at slightly different times.",
+    "The difficulty of reproducing measurements of the pulmonary valve is an important factor affecting interobserver variability.",
+    "The maximum diameter was found by rotating the humerus while taking measurements at midshaft.",
+    "The gradient could not be quantified, because measurements of flow could not be performed.",
+    "To per form these measurements a special spectrometer used to register the line emission in the range 3- 4!",
+    "Preliminary investigation showed that these measurements were inaccurate and rather subjective."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "measurable",
+    "measure",
+    "measure out",
+    "measure up",
+    "measurement",
+    "meat",
+    "meaty",
+    "mechanic",
+    "mechanical"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055260_db1ce4b6ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055260_f1e83de56c_o.png",
+      "id_image": "measurement_2637622"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318666_c49658e6c2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318666_69d51f7c4b_o.png",
+      "id_image": "measurement_3773044"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363237_9696bd49f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363237_48cacdd26d_o.png",
+      "id_image": "measurement_532036"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055265_1fa02a8051_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055265_647bba845b_o.png",
+      "id_image": "measurement_927856"
+    }
+  ]
+}

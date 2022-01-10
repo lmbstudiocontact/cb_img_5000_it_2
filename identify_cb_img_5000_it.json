@@ -1,0 +1,85 @@
+{
+  "english": "identify",
+  "phat_am": "aiˈdentifai",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nhận ra; nhận dạng",
+          "definition": "to recognize as being a certain person etc",
+          "world_new": [
+            "recognize",
+            "certain",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Would you be able to identify the man who robbed you?"
+            },
+            {
+              "ex_of_definition": "He identified the coat as his brother’s.",
+              "world_new": [
+                "coat"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "coi như nhau",
+          "definition": "to think of as being the same",
+          "world_new": [
+            "think"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He identifies beauty with goodness.",
+              "world_new": [
+                "beauty",
+                "goodness"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Two perception studies show that increasing the duration of the transition increases the probability of such a vowel being identified as long.",
+    "They identified 8937 single-domain proteins that could be assigned both a fold and a function.",
+    "Two specific issues have been identified in the literature which are of particular relevance to community practitioners.",
+    "In 1947, some 841 were identified; in 1973, more than 3,300.",
+    "However, in this case no specific ligand has so far been identified.",
+    "The log also identified in-service training needs for herself and others.",
+    "They identified a wide range of potential research questions about the delivery of care and the organization of primary care teams.",
+    "A final category of the benefits of the group was also inductively identified."
+  ],
+  "list_see_also": [
+    "identification",
+    "identify with",
+    "identify oneself with / be identified with"
+  ],
+  "list_browse": [
+    "identical",
+    "identically",
+    "identicalness",
+    "identification",
+    "identify",
+    "identify oneself with / be identified with",
+    "identify with",
+    "identity",
+    "identity card"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061080_e90073908d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061080_c6f2066b32_o.png",
+      "id_image": "identify_2311649"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439198_8ca6108a5c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439198_7a566628f4_o.png",
+      "id_image": "identify_4633917"
+    }
+  ]
+}

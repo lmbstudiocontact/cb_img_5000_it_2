@@ -1,0 +1,148 @@
+{
+  "english": "hot",
+  "phat_am": "hot",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "nóng",
+          "definition": "having or causing a great deal of heat",
+          "world_new": [
+            "great",
+            "deal",
+            "heat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a hot oven",
+              "world_new": [
+                "oven"
+              ]
+            },
+            {
+              "ex_of_definition": "That water is hot.",
+              "world_new": [
+                "water"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nóng bức",
+          "definition": "very warm",
+          "world_new": [
+            "warm"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a hot day",
+              "world_new": [
+                "day"
+              ]
+            },
+            {
+              "ex_of_definition": "Running makes me feel hot.",
+              "world_new": [
+                "feel"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cay nồng",
+          "definition": "(of food) having a sharp, burning taste",
+          "world_new": [
+            "sharp",
+            "taste"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a hot curry.",
+              "world_new": [
+                "curry"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nóng nảy",
+          "definition": "easily made angry",
+          "world_new": [
+            "easily",
+            "angry"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a hot temper.",
+              "world_new": [
+                "temper"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nóng hổi",
+          "definition": "recent; fresh",
+          "world_new": [
+            "fresh"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "hot news.",
+              "world_new": [
+                "news"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "hotly",
+    "hot air",
+    "hot-air balloon",
+    "hot-blooded",
+    "hot dog",
+    "hotfoot",
+    "hothead",
+    "hotheaded",
+    "hothouse",
+    "hot-plate",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "hostel",
+    "hostile",
+    "hostilities",
+    "hostility",
+    "hot",
+    "hot air",
+    "hot dog",
+    "hot up",
+    "hot-air balloon"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685009_e4dd25141e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685009_6fd6c1ea24_o.png",
+      "id_image": "hot_1553034"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374687_296103e006_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374687_89cc6e39e0_o.png",
+      "id_image": "hot_2188140"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330071_d1c3a91b46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330071_44f5806648_o.png",
+      "id_image": "hot_645711"
+    }
+  ]
+}

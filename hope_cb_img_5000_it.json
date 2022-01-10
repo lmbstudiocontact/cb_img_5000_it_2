@@ -1,0 +1,186 @@
+{
+  "english": "hope",
+  "phat_am": "həup",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "hy vọng; ước mong",
+          "definition": "to want something to happen and have some reason to believe that it will or might happen",
+          "world_new": [
+            "want",
+            "happen",
+            "reason",
+            "believe",
+            "happen"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s very late, but we are still hoping he will come"
+            },
+            {
+              "ex_of_definition": "I hope to be in London next month",
+              "world_new": [
+                "I",
+                "month"
+              ]
+            },
+            {
+              "ex_of_definition": "We’re hoping for some help from other people",
+              "world_new": [
+                "help",
+                "people"
+              ]
+            },
+            {
+              "ex_of_definition": "It’s unlikely that he’ll come now, but we keep on hoping",
+              "world_new": [
+                "unlikely",
+                "keep"
+              ]
+            },
+            {
+              "ex_of_definition": "‘Do you think it will rain?’ ‘I hope so/not’.",
+              "world_new": [
+                "think",
+                "rain"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nguồn hy vọng",
+          "definition": "(any reason or encouragement for) the state of feeling that what one wants will or might happen",
+          "world_new": [
+            "reason",
+            "encouragement",
+            "state",
+            "feeling",
+            "happen"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has lost all hope of becoming the president",
+              "world_new": [
+                "lost",
+                "becoming",
+                "president"
+              ]
+            },
+            {
+              "ex_of_definition": "He came to see me in the hope that I would help him",
+              "world_new": [
+                "see",
+                "I",
+                "help"
+              ]
+            },
+            {
+              "ex_of_definition": "He has hopes of winning a scholarship",
+              "world_new": [
+                "winning",
+                "scholarship"
+              ]
+            },
+            {
+              "ex_of_definition": "The rescuers said there was no hope of finding anyone alive in the mine.",
+              "world_new": [
+                "alive"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người hoặc vật mang lại hy vọng",
+          "definition": "a person, thing etc that one is relying on for help etc",
+          "world_new": [
+            "person",
+            "help"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s my last hope – there is no-one else I can ask.",
+              "world_new": [
+                "my",
+                "no-one",
+                "else",
+                "I",
+                "ask"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "niềm hy vọng",
+          "definition": "something hoped for",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My hope is that he will get married and settle down soon.",
+              "world_new": [
+                "married",
+                "settle",
+                "soon"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I hope that this will help to explain the many and various definitions of the concept of successful ageing.",
+    "Archaeologists study the former in the hope of understanding the latter.",
+    "Internally caudillo warfare had set back any hopes of a truly national identity.",
+    "In a specific, technical sense, its hopes were not realized.",
+    "However, one might hope that the chapter prefaces or book structure would highlight key points of debate so that instructors and students could assess them.",
+    "We hope that this paper will go some way to raising awareness of the possibilities for exploiting this work.",
+    "I hope they're not all going to be driving pick-ups like yours.",
+    "We hope that readers will benefit from this exchange as much as we have."
+  ],
+  "list_see_also": [
+    "hopeful",
+    "hopefulness",
+    "hopefully",
+    "hopeless",
+    "hopelessly",
+    "hopelessness",
+    "hope against hope",
+    "hope for the best",
+    "not (have) a hope",
+    "raise someone’s hopes"
+  ],
+  "list_browse": [
+    "hoot",
+    "hooter",
+    "Hoover",
+    "hop",
+    "hope",
+    "hope against hope",
+    "hope for the best",
+    "hopeful",
+    "hopefully"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332346_e27321df6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332346_cacc43feb2_o.png",
+      "id_image": "hope_2858443"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687284_9091e8b6a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687284_228dabf166_o.png",
+      "id_image": "hope_5110805"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377147_2b3796260a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377147_226db92272_o.png",
+      "id_image": "hope_708639"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "english": "lunch",
+  "phat_am": "lantʃ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bữa trưa",
+          "definition": "a meal eaten in the middle of the day",
+          "world_new": [
+            "meal",
+            "middle",
+            "day"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What did you have for lunch?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ăn trưa",
+          "definition": "to eat this meal",
+          "world_new": [
+            "eat",
+            "meal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We lunched on the train.",
+              "world_new": [
+                "train"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "According to parent report, forty percent of the children participated in the school lunch program.",
+    "The main concerns ranged from where, when and with whom lunch was taken at school.",
+    "Approximately 24% of the sample reported receiving free lunch at school at the beginning of middle school.",
+    "But perhaps it's only right that the reader should have some work to do: after all, there's no such thing as a free lunch.",
+    "I only request that you should treat me to lunch sometime.",
+    "The only common exposure we identified was eating the school lunch.",
+    "Which hole did the boy drop his toys in just after lunch?",
+    "Table 1 lists the parent educational level and lunch status of the participants by group."
+  ],
+  "list_see_also": [
+    "lunchtime"
+  ],
+  "list_browse": [
+    "lumpy",
+    "lunacy",
+    "lunar",
+    "lunatic",
+    "lunch",
+    "lunchtime",
+    "lung",
+    "lunge",
+    "lurch"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332446_fc08f91c9d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332446_be2fd4d22b_o.png",
+      "id_image": "lunch_1058549"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447483_549b1c2ee6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447483_f90fa299f6_o.png",
+      "id_image": "lunch_195815"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069160_e6877ab9dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069160_c58d89b85b_o.png",
+      "id_image": "lunch_1985698"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069110_5c199df56c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069110_6cdb17b3db_o.png",
+      "id_image": "lunch_5483765"
+    }
+  ]
+}

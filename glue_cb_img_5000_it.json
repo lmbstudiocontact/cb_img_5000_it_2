@@ -1,0 +1,92 @@
+{
+  "english": "glue",
+  "phat_am": "ɡluː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "keo; hồ",
+          "definition": "a substance used for sticking things together",
+          "world_new": [
+            "substance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That glue will not stick plastic to wood.",
+              "world_new": [
+                "stick",
+                "plastic",
+                "wood"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "dán bằng hồ",
+          "definition": "to join (things) with glue",
+          "world_new": [
+            "join"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Glue the two pieces of cardboard together.",
+              "world_new": [
+                "cardboard"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Each presentation of a surface can be reduced to a singleton by inverse and gluing operations since a surface is connected.",
+    "Birds and rodent dishes were glued to the top of long plastic cylinders and set 2-3 cm above the ground surface.",
+    "Intelligent systems are built by \"glueing together\" different sources of behaviour which, when conceived as a whole, are perceived as intelligent by the user.",
+    "When sherds were glued together to form complete or par tial vessel, they were counted as a single sherd in the sherd counts.",
+    "A triangular piece of cardboard was glued to the wax above the frontal part of the thorax.",
+    "Templates designed to be valid over the whole spectral range must be based on both types of data properly \"glued\" together.",
+    "The test time for buffing the side of the shoe took 16 s, and the side of the shoe was buffed appropriately for gluing.",
+    "A filter paper glued to the lid of the petri dish was moistened with distilled water to maintain humidity."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "glowering",
+    "gloweringly",
+    "glowing",
+    "glucose",
+    "glue",
+    "glum",
+    "glumly",
+    "glumness",
+    "glut"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375322_2490858530_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375322_a89b58a09b_o.png",
+      "id_image": "glue_164351"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375302_670e26718e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375302_65f6ba5b7c_o.png",
+      "id_image": "glue_1806611"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685654_dcbf22ea9d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685654_5f102c8c52_o.png",
+      "id_image": "glue_4869769"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375247_1a25ce3575_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375247_fbc9d0c199_o.png",
+      "id_image": "glue_5483656"
+    }
+  ]
+}

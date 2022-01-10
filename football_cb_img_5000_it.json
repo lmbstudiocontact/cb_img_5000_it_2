@@ -1,0 +1,82 @@
+{
+  "english": "football",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "môn bóng đá",
+          "definition": "a game played by kicking a large ball; soccer",
+          "world_new": [
+            "game",
+            "large"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The children played football"
+            },
+            {
+              "ex_of_definition": "(also adjective) a football fan.",
+              "world_new": [
+                "fan"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quả bóng đá",
+          "definition": "the ball used in this game.",
+          "world_new": [
+            "ball",
+            "game"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "She also taught children to play football and basketball.",
+    "The coach looked at the football players with the fans who were very happy.",
+    "It is no more a question of collecting music for music's sake, it could just as well be stamps or football cards.",
+    "The students have to write a program to provide answers to questions like which teams have lost a football match at home?",
+    "Some 40% of urban married men and 55% of urban bachelors played sport-usually football.",
+    "It is not clear, however, that random assignment would promote selfless values in physicians any more than a one-sided draft does in professional football.",
+    "I think he is a good football player.",
+    "A rank ordering is therefore very much at the heart of football assignments - even if it is a one-sided rank ordering."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "foolproof",
+    "foolscap",
+    "foot",
+    "foot the bill",
+    "football",
+    "(football) pools",
+    "footbridge",
+    "foothill",
+    "foothold"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671634_8e0f583b78_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671634_e3085ff476_o.png",
+      "id_image": "football_124807"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671604_82d7951d3b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671604_b0af13e1e5_o.png",
+      "id_image": "football_178127"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316891_6d24d53a4d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316891_aef0915973_o.png",
+      "id_image": "football_3116258"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671589_1057e7fed9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671589_0c42ed1b93_o.png",
+      "id_image": "football_684044"
+    }
+  ]
+}

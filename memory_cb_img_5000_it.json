@@ -1,0 +1,132 @@
+{
+  "english": "memory",
+  "phat_am": "ˈmeməri",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "trí nhớ",
+          "definition": "the power to remember things",
+          "world_new": [
+            "power",
+            "remember"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has a good memory for details."
+            }
+          ]
+        },
+        {
+          "mean_english": "ký ức",
+          "definition": "the mind’s store of remembered things",
+          "world_new": [
+            "store"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her memory is full of interesting stories.",
+              "world_new": [
+                "full",
+                "interesting"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "những kỷ niệm",
+          "definition": "something remembered",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "memories of her childhood.",
+              "world_new": [
+                "childhood"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ký ức",
+          "definition": "the time as far back as can be remembered",
+          "world_new": [
+            "time",
+            "far"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the coldest winter in memory.",
+              "world_new": [
+                "winter"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bộ nhớ",
+          "definition": "a part of computer in which information is stored for immediate use.",
+          "world_new": [
+            "part",
+            "computer",
+            "information",
+            "immediate"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The reliability and stability of verbal working memory measures.",
+    "The implicit memory tasks may also rely more on the encoded meaning of concepts than on the perceptual record of the items.",
+    "We use memory in all verbal activities whether reading, speaking or listening.",
+    "In the language of neural networks, the ' network ' here is trained to have one dominant memory.",
+    "Relation of prefrontal cortex dysfunction to working memory and symptoms in schizophrenia.",
+    "Such studies have been very useful in mapping the cognitive architecture of human short-term memory to specific brain regions.",
+    "What makes students tick: working memory and look-up behaviour.",
+    "If the results indicate neither memory nor symbolic play deficits, then further consideration of the executive dysfunction hypothesis is warranted."
+  ],
+  "list_see_also": [
+    "memorize",
+    "Memory Stick",
+    "from memory",
+    "in memory of / to the memory of"
+  ],
+  "list_browse": [
+    "memorable",
+    "memorandum",
+    "memorial",
+    "memorize",
+    "memory",
+    "Memory Stick",
+    "men’s room",
+    "menace",
+    "menacing"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347306_28e2217e2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347306_09164e964b_o.png",
+      "id_image": "memory_1783697"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392262_ae37815429_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392262_d63abde8a7_o.png",
+      "id_image": "memory_2513343"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392202_de48002784_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392202_6b168752f1_o.png",
+      "id_image": "memory_3079232"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462003_47fa934efb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462003_d6d934e82b_o.png",
+      "id_image": "memory_3981111"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084705_e5913b9ce7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084705_7cee6cdd46_o.png",
+      "id_image": "memory_969351"
+    }
+  ]
+}

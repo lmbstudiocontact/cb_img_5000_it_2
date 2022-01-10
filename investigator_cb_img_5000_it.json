@@ -1,0 +1,61 @@
+{
+  "english": "investigator",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "điều tra viên",
+          "definition": "a person, eg a detective, who investigates",
+          "world_new": [
+            "person",
+            "detective"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a private investigator.",
+              "world_new": [
+                "private"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In order to reduce the artificiality of the situation, the investigator behaved as a participant observer throughout.",
+    "These studies involved hundreds of subjects and dozens of scientific investigators who gathered data from thousands of reported observations over several decades.",
+    "When one makes a \"discovery,\" is it the scientific investigator or the dreamer who discovers?",
+    "Data were extracted by two independent investigators and included demographic variables, diagnoses, interventions, efficacy, and adverse effects.",
+    "Yet another idea favoured by some investigators is that language arose as a consequence of growth in the size and complexity of ancestral brains.",
+    "When the committee meets to review proposals, it may decide to invite the investigator to be present to discuss the study and answer questions.",
+    "A precise estimate of this quantity is difficult to make, and the various determinations made by various investigators differ by several magnitudes.",
+    "The road to understanding continues to reward the persistent investigator."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "inverted commas",
+    "invest",
+    "investigate",
+    "investigation",
+    "investigator",
+    "investiture",
+    "investment",
+    "investor",
+    "invigilate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453853_5da5ee2f77_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453853_22827102d3_o.png",
+      "id_image": "investigator_2621887"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694024_58bbccc83a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694024_393c18e37c_o.png",
+      "id_image": "investigator_875290"
+    }
+  ]
+}

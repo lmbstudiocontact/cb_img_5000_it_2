@@ -1,0 +1,128 @@
+{
+  "english": "intimate",
+  "phat_am": "ˈintimət",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thân thiết",
+          "definition": "close and affectionate",
+          "world_new": [
+            "close",
+            "affectionate"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "intimate friends."
+            }
+          ]
+        },
+        {
+          "mean_english": "cá nhân",
+          "definition": "private or personal",
+          "world_new": [
+            "private",
+            "personal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the intimate details of his private life.",
+              "world_new": [
+                "private",
+                "life"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sâu sắc",
+          "definition": "(of knowledge of a subject) deep and thorough",
+          "world_new": [
+            "knowledge",
+            "deep",
+            "thorough"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She has an intimate knowledge of database design.",
+              "world_new": [
+                "knowledge",
+                "database",
+                "design"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bạn thân",
+          "definition": "a close friend.",
+          "world_new": [
+            "close",
+            "friend"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "công bố",
+          "definition": "to give information or announce",
+          "world_new": [
+            "information",
+            "announce"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He intimated that he was planning to make some radical changes.",
+              "world_new": [
+                "planning",
+                "radical"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "At every juncture there is a seamless connection between private moments and public events, intimate feelings and collective sentiments, personal goals and national ambitions.",
+    "In the case of online diaries, publicizing the intimate meets two purposes, a social one and another, individual one.",
+    "The former, more intimate and personal, on of hands, was the most popular therapy.",
+    "The author had done little to help dispel this confusion, other than intimating his discomfort by putting the term ' peripheral ' within quotes.",
+    "In this view acquaintances are plentiful, companions fewer, and intimates few and far between in a person's life.",
+    "A more intimate term is needed to describe the persons whose acts are attributed to the corporation.",
+    "Moreover, the decaying houses intimate the finite nature of our existence.",
+    "The listener and the singer are ' placed' now in very intimate proximity."
+  ],
+  "list_see_also": [
+    "intimation",
+    "intimacy",
+    "intimately"
+  ],
+  "list_browse": [
+    "interviewer",
+    "intestinal",
+    "intestine",
+    "intimacy",
+    "intimate",
+    "intimately",
+    "intimation",
+    "intimidate",
+    "intimidation"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455243_cf5fe0556a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455243_ed7c54ba86_o.png",
+      "id_image": "intimate_2170231"
+    }
+  ]
+}

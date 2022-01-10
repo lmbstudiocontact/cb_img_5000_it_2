@@ -1,0 +1,438 @@
+{
+  "english": "head",
+  "phat_am": "hed",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái đầu",
+          "definition": "the top part of the human body, containing the eyes, mouth, brain etc; the same part of an animal’s body",
+          "world_new": [
+            "top",
+            "part",
+            "human",
+            "body",
+            "mouth",
+            "brain",
+            "part",
+            "body"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The stone hit him on the head",
+              "world_new": [
+                "stone",
+                "hit"
+              ]
+            },
+            {
+              "ex_of_definition": "He scratched his head in amazement.",
+              "world_new": [
+                "amazement"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đầu óc",
+          "definition": "a person’s mind",
+          "world_new": [
+            "mind"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "An idea came into my head last night.",
+              "world_new": [
+                "idea",
+                "my",
+                "night"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "một đầu",
+          "definition": "the height or length of a head",
+          "world_new": [
+            "height",
+            "length"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The horse won by a head.",
+              "world_new": [
+                "horse"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người đứng đầu một nhóm hoặc một tổ chức",
+          "definition": "the chief or most important person (of an organization, country etc)",
+          "world_new": [
+            "chief",
+            "important",
+            "person",
+            "organization",
+            "country"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Kings and presidents are heads of state",
+              "world_new": [
+                "heads",
+                "state"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a head waiter",
+              "world_new": [
+                "waiter"
+              ]
+            },
+            {
+              "ex_of_definition": "the head office.",
+              "world_new": [
+                "office"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vật hình đầu",
+          "definition": "anything that is like a head in shape or position",
+          "world_new": [
+            "shape",
+            "position"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the head of a pin",
+              "world_new": [
+                "pin"
+              ]
+            },
+            {
+              "ex_of_definition": "The boy knocked the heads off the flowers.",
+              "world_new": [
+                "boy",
+                "heads"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đầu nguồn",
+          "definition": "the place where a river, lake etc begins",
+          "world_new": [
+            "place",
+            "river",
+            "lake"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the head of the Nile."
+            }
+          ]
+        },
+        {
+          "mean_english": "phía trên hoặc phần cao nhất",
+          "definition": "the top, or the top part, of anything",
+          "world_new": [
+            "top",
+            "top",
+            "part"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Write your address at the head of the paper",
+              "world_new": [
+                "your",
+                "address",
+                "paper"
+              ]
+            },
+            {
+              "ex_of_definition": "the head of the table.",
+              "world_new": [
+                "table"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phía trước",
+          "definition": "the front part",
+          "world_new": [
+            "front",
+            "part"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He walked at the head of the procession.",
+              "world_new": [
+                "procession"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "năng khiếu",
+          "definition": "a particular ability or tolerance",
+          "world_new": [
+            "particular",
+            "ability",
+            "tolerance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has no head for heights"
+            },
+            {
+              "ex_of_definition": "She has a good head for figures."
+            }
+          ]
+        },
+        {
+          "mean_english": "ông bà hiệu trưởng",
+          "definition": "a headmaster or headmistress",
+          "world_new": [
+            "headmaster"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You’d better ask the Head.",
+              "world_new": [
+                "better",
+                "ask"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mỗi người",
+          "definition": "(for) one person",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This dinner costs $10 a head.",
+              "world_new": [
+                "dinner",
+                "costs"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mũi đất",
+          "definition": "a headland",
+          "world_new": [
+            "headland"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Beachy Head."
+            }
+          ]
+        },
+        {
+          "mean_english": "bọt ở phía trên cốc bia",
+          "definition": "the foam on the top of a glass of beer etc.",
+          "world_new": [
+            "foam",
+            "top",
+            "glass",
+            "beer"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "dẫn đầu",
+          "definition": "to go at the front of or at the top of (something)",
+          "world_new": [
+            "front",
+            "top"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The procession was headed by the band",
+              "world_new": [
+                "procession",
+                "band"
+              ]
+            },
+            {
+              "ex_of_definition": "Whose name headed the list?",
+              "world_new": [
+                "name",
+                "list"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đứng đầu",
+          "definition": "to be in charge of; to be the leader of",
+          "world_new": [
+            "charge",
+            "leader"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He heads a team of scientists investigating cancer.",
+              "world_new": [
+                "heads",
+                "team",
+                "cancer"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tiến về phía",
+          "definition": "(often with for) to (cause to) move in a certain direction",
+          "world_new": [
+            "move",
+            "certain",
+            "direction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The explorers headed south",
+              "world_new": [
+                "south"
+              ]
+            },
+            {
+              "ex_of_definition": "The boys headed for home",
+              "world_new": [
+                "home"
+              ]
+            },
+            {
+              "ex_of_definition": "You’re heading for disaster!",
+              "world_new": [
+                "heading",
+                "disaster"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ghi ở đầu",
+          "definition": "to put or write something at the beginning of",
+          "world_new": [
+            "beginning"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His report was headed ‘Ways of Preventing Industrial Accidents’.",
+              "world_new": [
+                "report"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đánh đầu",
+          "definition": "(in football) to hit the ball with the head",
+          "world_new": [
+            "hit",
+            "ball"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He headed the ball into the goal.",
+              "world_new": [
+                "ball",
+                "goal"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Perhaps, moreover, a case can be made for saying that philosophical understanding is advanced, not by solving problems head-on, but by moving around them.",
+    "In addition to its precise spatial location, the form of response to be generated involved a dipping of the pigeon's head at that location.",
+    "Typically, 200-300 tiller heads are produced at 500 seeds/m2.",
+    "Predictably, no modifiers can then intervene between the head and the relative clause.",
+    "Language learners use their heads to figure out the same things, and their understanding of language is driven by this lexical knowledge.",
+    "A weak head reduction relation is defined for the expressions of the calculus.",
+    "The head partial tree is then extended one level.",
+    "The authors suggest that representations from one participant's head are aligned directly with those from the other participant's head."
+  ],
+  "list_see_also": [
+    "-headed",
+    "header",
+    "heading",
+    "heads",
+    "headache",
+    "headband",
+    "headdress",
+    "headfirst",
+    "headgear",
+    "headlamp",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "he",
+    "he etc is likely to",
+    "he etc wouldn’t say boo to a goose",
+    "he-man",
+    "head",
+    "head louse",
+    "head off",
+    "head over heels",
+    "head-on"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080250_5348a4997f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080250_cc073e39f1_o.png",
+      "id_image": "head_1430797"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697994_52fa5c4979_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697994_2246a019c6_o.png",
+      "id_image": "head_2417967"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697974_75c0c14691_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697974_ab1911077f_o.png",
+      "id_image": "head_2688273"
+    }
+  ]
+}

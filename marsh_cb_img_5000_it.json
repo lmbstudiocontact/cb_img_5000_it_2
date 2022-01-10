@@ -1,0 +1,70 @@
+{
+  "english": "marsh",
+  "phat_am": "maːʃ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đầm lầy",
+          "definition": "(an area of) soft wet land",
+          "world_new": [
+            "area",
+            "soft",
+            "wet",
+            "land"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a salt marsh",
+              "world_new": [
+                "salt"
+              ]
+            },
+            {
+              "ex_of_definition": "The heavy rainfall turned the land into a marsh.",
+              "world_new": [
+                "heavy",
+                "rainfall",
+                "land"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The marshes in my area could be at risk.",
+    "Pit heaps, marshes, water and flashes of water are all part of our inheritance from deep mining in the past.",
+    "I have brought back tapes, photographs and videos taken at great risk of life and limb by people deep inside the heart of the marshes.",
+    "The owner also has on marshes about one mile distant eleven cattle and one calf.",
+    "Under his direction, marshes were drained, a hospital founded, courts of judicature set up, and an assembly of landowners convened to regulate local taxes and other sources of revenue.",
+    "He has other plans to rip up the marshes, which are sites of special scientific interest.",
+    "What percentage of the marshes is at present arable land?",
+    "If a scheme could be devised to protect these marshes which was both technically and economically sound, we would certainly consider it for grant aid."
+  ],
+  "list_see_also": [
+    "marshy",
+    "marshiness",
+    "marshmallow"
+  ],
+  "list_browse": [
+    "married",
+    "marrow",
+    "marry",
+    "Mars",
+    "marsh",
+    "marshal",
+    "marshiness",
+    "marshmallow",
+    "marshy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322126_22e9b751b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322126_b74b7ca6f5_o.png",
+      "id_image": "marsh_307778"
+    }
+  ]
+}

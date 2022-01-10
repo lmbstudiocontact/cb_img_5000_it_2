@@ -1,0 +1,80 @@
+{
+  "english": "generation",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thế hệ",
+          "definition": "one stage in the descent of a family",
+          "world_new": [
+            "stage",
+            "descent",
+            "family"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "All three generations – children, parents and grandparents – lived together quite happily.",
+              "world_new": [
+                "quite",
+                "happily"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thế hệ",
+          "definition": "people born at about the same time",
+          "world_new": [
+            "people",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "People of my generation all think the same way about this.",
+              "world_new": [
+                "my",
+                "think"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In-depth interviews were used to collect information about at least three generations in each family.",
+    "Because of that, the number of parasitoid generations was found to be equal to the number of midge generations.",
+    "There are no doubt numerous other ways that we try to make things better for our children and future generations.",
+    "When the inevitable rising erupted, it did so with all the violence that generations of repression virtually guarantees.",
+    "Nevertheless, visual selection generally would have taken place in the previous generations, successfully removing the least suitable agronomic types.",
+    "In addition, it is the minority language that showed a sharp decline in use across generations, in favor of the majority language.",
+    "Indeed, there has been an oscillation between the two schools for generations, each time with new evidence and new sources.",
+    "Multiple households and ones comprising more than two generations were more common in the latter, but the differences in household size were relatively minor."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "generalize",
+    "generally",
+    "generally speaking",
+    "generate",
+    "generation",
+    "generator",
+    "generic",
+    "generosity",
+    "generous"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336326_8114001da1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336326_5e597e88d0_o.png",
+      "id_image": "generation_3220663"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691614_3673e6df89_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691614_48b9869d34_o.png",
+      "id_image": "generation_5225027"
+    }
+  ]
+}

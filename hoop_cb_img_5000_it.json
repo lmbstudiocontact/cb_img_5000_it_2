@@ -1,0 +1,70 @@
+{
+  "english": "hoop",
+  "phat_am": "huːp",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vòng xiếc",
+          "definition": "a thin ring of metal, wood etc",
+          "world_new": [
+            "thin",
+            "ring",
+            "metal",
+            "wood"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "At the circus we saw a dog jumping through a hoop.",
+              "world_new": [
+                "circus",
+                "saw",
+                "dog"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I sometimes wonder how many hoops and hurdles can be invented.",
+    "Unfortunately, the scheme requires claimants to jump through hoops and prove the value of their claim with expert reports.",
+    "Five hundred people got through the hoops to make the applications, a third of which were disallowed.",
+    "I remember the ladies on the backs of the horses jumping through hoops.",
+    "They normally jump through hoops to lap up their trendy theories.",
+    "Part of the reason is that we unreasonably expect local partnerships to have the expertise and time to go through all the hoops.",
+    "Grapple them to thy soul with hoops of steel.",
+    "The police cannot start investigations into allegations until they have gone through certain hoops."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "hooked",
+    "hooker",
+    "hooligan",
+    "hooliganism",
+    "hoop",
+    "hoot",
+    "hooter",
+    "Hoover",
+    "hop"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069650_94ec4cea91_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069650_254e21163b_o.png",
+      "id_image": "hoop_1079426"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069625_fd6ae449d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069625_50c957ddb1_o.png",
+      "id_image": "hoop_1678201"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332771_7c33661852_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332771_295435cb77_o.png",
+      "id_image": "hoop_2128353"
+    }
+  ]
+}

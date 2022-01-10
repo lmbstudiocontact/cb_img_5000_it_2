@@ -1,0 +1,80 @@
+{
+  "english": "luggage",
+  "phat_am": "ˈlaɡidʒ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hành lý",
+          "definition": "the suitcases, trunks etc of a traveller",
+          "world_new": [
+            "trunks",
+            "traveller"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He carried her luggage to the train",
+              "world_new": [
+                "train"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a luggage compartment.",
+              "world_new": [
+                "compartment"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We waited for our luggage.",
+    "Which pieces of luggage are more alike than others depends not only upon what properties they share, but upon who makes the comparison, and when.",
+    "The transport ships would have to provide detailed information on the passengers on board and their luggage.",
+    "They had delayed charter flights, hour-long waits for luggage to be brought to hotel rooms, and over-booked day excursions.",
+    "Similarly, forms such as furniture, luggage, traffic and equipment are said to be grammatically 'noncount' although they could be perceived as consisting of items that could be 'counted'.",
+    "The spectator may notice shape, size, color, material, and even make of luggage; the pilot is more concerned with weight, and the passenger with destination and ownership.",
+    "There was a luggage wagon that would pick up and drop at the head of the march.",
+    "The police know that drugs have been introduced into legitimate consignments of goods and luggage and recovered when the container has been landed."
+  ],
+  "list_see_also": [
+    "luggage cart",
+    "luggage rack"
+  ],
+  "list_browse": [
+    "ludicrously",
+    "ludicrousness",
+    "ludo",
+    "lug",
+    "luggage",
+    "luggage cart",
+    "luggage rack",
+    "lukewarm",
+    "lull"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688109_91f4461c7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688109_cd23d91786_o.png",
+      "id_image": "luggage_166623"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448073_ca5fb8924e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448073_938b3a13d3_o.png",
+      "id_image": "luggage_2410590"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332971_d0c5fd4215_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332971_d8a63101c4_o.png",
+      "id_image": "luggage_2553574"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377957_0c3bf08a32_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377957_3052bf555f_o.png",
+      "id_image": "luggage_421856"
+    }
+  ]
+}

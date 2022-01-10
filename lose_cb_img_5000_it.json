@@ -1,0 +1,184 @@
+{
+  "english": "lose",
+  "phat_am": "luːz",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "mất",
+          "definition": "to stop having; to have no longer",
+          "world_new": [
+            "stop"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She has lost interest in her work",
+              "world_new": [
+                "lost",
+                "interest",
+                "work"
+              ]
+            },
+            {
+              "ex_of_definition": "I have lost my watch",
+              "world_new": [
+                "I",
+                "lost",
+                "my",
+                "watch"
+              ]
+            },
+            {
+              "ex_of_definition": "He lost hold of the rope.",
+              "world_new": [
+                "lost",
+                "hold",
+                "rope"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mất",
+          "definition": "to have taken away from one (by death, accident etc)",
+          "world_new": [
+            "death",
+            "accident"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She lost her father last year",
+              "world_new": [
+                "lost",
+                "father",
+                "year"
+              ]
+            },
+            {
+              "ex_of_definition": "The ship was lost in the storm",
+              "world_new": [
+                "ship",
+                "lost",
+                "storm"
+              ]
+            },
+            {
+              "ex_of_definition": "He has lost his job.",
+              "world_new": [
+                "lost",
+                "job"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lạc mất",
+          "definition": "to put (something) where it cannot be found",
+          "world_new": [
+            "found"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My secretary has lost your letter.",
+              "world_new": [
+                "secretary",
+                "lost",
+                "your",
+                "letter"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thua",
+          "definition": "not to win",
+          "world_new": [
+            "win"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I always lose at cards",
+              "world_new": [
+                "I",
+                "cards"
+              ]
+            },
+            {
+              "ex_of_definition": "She lost the race.",
+              "world_new": [
+                "lost",
+                "race"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lãng phí",
+          "definition": "to waste or use more (time) than is necessary",
+          "world_new": [
+            "waste",
+            "necessary"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He lost no time in informing the police of the robbery.",
+              "world_new": [
+                "lost",
+                "time",
+                "police",
+                "robbery"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In addition, 5 participants died, 5 participants reported being too ill to participate, and 3 were lost due to relocation or other reasons.",
+    "But there is a danger that the basic weaknesses of these approaches get lost in a daze of technical sophistication.",
+    "It was they who had made the reform act and who had most to lose from its amendment.",
+    "Many of the pages are blank; others were removed and subsequently have been lost.",
+    "If the mirroring is too accurate, the perception itself can become a source of fear, and it loses its symbolic potential.",
+    "Only nine subjects actively refused to participate in the study; the others were lost to follow-up or failed to return the consent form.",
+    "Since her books were rarely taught or read during the twentieth century, her home lost its literary significations to all but a select few.",
+    "It remains to be seen why (43) loses its validity for long times."
+  ],
+  "list_see_also": [
+    "loser",
+    "loss",
+    "lost",
+    "at a loss",
+    "a bad/good loser",
+    "lose oneself in",
+    "lose one’s memory",
+    "lose out",
+    "lost in",
+    "lost on",
+    ""
+  ],
+  "list_browse": [
+    "Lordship",
+    "lore",
+    "lorry",
+    "lorry driver",
+    "lose",
+    "lose face",
+    "lose ground",
+    "lose heart",
+    "lose interest"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335351_a01bcec6ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335351_b9a27ce70c_o.png",
+      "id_image": "lose_4372342"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380387_67e31b3db0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380387_54140e4fdd_o.png",
+      "id_image": "lose_6329133"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "english": "manicure",
+  "phat_am": "ˈmӕnikjuə",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cắt tỉa móng tay",
+          "definition": "to care for (the hands and nails)",
+          "world_new": [
+            "care"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She manicures her nails every night.",
+              "world_new": [
+                "night"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự cắt tỉa móng tay",
+          "definition": "a treatment for the hands and nails",
+          "world_new": [
+            "treatment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m going for a manicure."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Proportionately five times as many boys as girls take up apprenticeships, and most of the girls are apprentices in hairdressing and manicure.",
+    "It cannot be particularly amusing to spend your days massaging faces and hands and manicuring nails, but they become in time quite skilled workers.",
+    "Manicures are also offered by general beauty salons, spas and hotels.",
+    "I do not know when the system of these establishments, nominally intended for manicure, massage, and other objects, started.",
+    "Manicures are not perhaps quite as important to health as chiropody, but they are important for decent and civilised living.",
+    "I do not think anybody would regard a manicure set in the possession of a lady as a luxury.",
+    "An executioner might as well manicure his nails before chopping off a head.",
+    "Altogether there may be half a dozen different countries involved in the make-up of these articles included in a composite toilet or manicure set."
+  ],
+  "list_see_also": [
+    "manicurist"
+  ],
+  "list_browse": [
+    "manhood",
+    "mania",
+    "maniac",
+    "manic",
+    "manicure",
+    "manicurist",
+    "manifest",
+    "manifestation",
+    "manifestly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681069_c6fe02384d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681069_2db8a909db_o.png",
+      "id_image": "manicure_223963"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062715_96de56db87_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062715_fd7a7b442f_o.png",
+      "id_image": "manicure_224041"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440853_eed2da1598_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440853_241b0d7bcd_o.png",
+      "id_image": "manicure_2377422"
+    }
+  ]
+}

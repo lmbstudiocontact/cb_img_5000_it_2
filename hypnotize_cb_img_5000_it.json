@@ -1,0 +1,74 @@
+{
+  "english": "hypnotize",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thôi miên",
+          "definition": "to put in a state of hypnosis",
+          "world_new": [
+            "state",
+            "hypnosis"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The hypnotist hypnotized three people from the audience.",
+              "world_new": [
+                "hypnotist",
+                "people",
+                "audience"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm mê mẩn",
+          "definition": "to fascinate completely",
+          "world_new": [
+            "fascinate",
+            "completely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her beauty hypnotized him.",
+              "world_new": [
+                "beauty"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "She was hypnotized four times throughout the series.",
+    "He hypnotized kids to be under his control.",
+    "The plot concerns an insurance investigator and an efficiency expert who are both hypnotized by a crooked hypnotist into stealing jewels.",
+    "The necromancer offers the clergyman a dinner of partridges and promptly hypnotizes him into believing he ascends to the papacy in a matter of a few years.",
+    "The detective tries to blackmail her, but she hypnotizes him and forces him to leave.",
+    "We were never hypnotized to tell our stories.",
+    "Many professionals think that these tests produce results because they involve attentional control and a certain level of concentration is required to be hypnotized.",
+    "The wedding guests are hypnotized by the rosebush cane straw-wraps (\"chochoy\") who came to life and joined the party, from the farmhouse garden."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "hypnosis",
+    "hypnotic",
+    "hypnotism",
+    "hypnotist",
+    "hypnotize",
+    "hypochondria",
+    "hypochondriac",
+    "hypocrisy",
+    "hypocrite"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062075_a92102794e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062075_5333124932_o.png",
+      "id_image": "hypnotize_3834110"
+    }
+  ]
+}

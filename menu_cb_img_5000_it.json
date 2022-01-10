@@ -1,0 +1,80 @@
+{
+  "english": "menu",
+  "phat_am": "ˈmenjuː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thực đơn",
+          "definition": "(a card with) a list of dishes that may be ordered at a meal",
+          "world_new": [
+            "card",
+            "list",
+            "meal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What’s on the menu today?"
+            }
+          ]
+        },
+        {
+          "mean_english": "trình đơn",
+          "definition": "a list of options on a computer screen, from which a user can choose",
+          "world_new": [
+            "list",
+            "computer",
+            "screen",
+            "user",
+            "choose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a drop-down menu."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The interaction with the user is done by means of menus, which give access to the properties of nodes, links and conditional probability tables.",
+    "Their menus do not incorporate mezes, and the choices of seafood are limited to a few \"acceptable\" species of fish.",
+    "While there had always been a few diner chains, most were thought of as an individual enterprise serving local food, with individual menus.",
+    "There were four different menus, including items such as eggs and bacon, liver and bacon, steak and kidney pudding and tinned ginger pudding.",
+    "Using these fresh food items, and planning menus according to seasons for vegetables and hunting periods, shows a relation to household work influenced by life course experiences.",
+    "One option in this situation might be to conceive of the network as consisting of repertoires (or menus) of genres that can be drawn upon according to circumstance.",
+    "The user does not need to wait for the drawing of the waveform to finish in order to play back the soundfile or to access the program menus.",
+    "I am sure of the fact that we have given a commitment that we shall include the word \"irradiation\" on menus in restaurants."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "mentally",
+    "menthol",
+    "mentholated",
+    "mention",
+    "menu",
+    "MEP",
+    "mercenary",
+    "merchandise",
+    "merchant"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084120_494b0b4830_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084120_03f59ff32c_o.png",
+      "id_image": "menu_129166"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391637_14e52f7f26_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391637_da47801963_o.png",
+      "id_image": "menu_325597"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391632_89979ffb08_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391632_ea92216f3d_o.png",
+      "id_image": "menu_325629"
+    }
+  ]
+}

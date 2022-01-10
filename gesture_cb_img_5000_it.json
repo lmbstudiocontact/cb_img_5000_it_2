@@ -1,0 +1,94 @@
+{
+  "english": "gesture",
+  "phat_am": "ˈdʒestʃə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cử chỉ",
+          "definition": "a movement of the head, hand etc to express an idea etc",
+          "world_new": [
+            "movement",
+            "head",
+            "hand",
+            "express",
+            "idea"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He made a gesture for us to follow him",
+              "world_new": [
+                "follow"
+              ]
+            },
+            {
+              "ex_of_definition": "The speaker emphasized his words with violent gestures.",
+              "world_new": [
+                "speaker",
+                "violent"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ra hiệu",
+          "definition": "to make a gesture or gestures",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He gestured to her to keep quiet.",
+              "world_new": [
+                "keep",
+                "quiet"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The oboe, on the other hand, offers very little for the eye, though some players attempt to compensate for this with grand gestures.",
+    "Most studies of language acquisition have relied on tape-recordings but these don't contain information about gestures or gaze.",
+    "Most likely, phonological plans and articulatory gestures are wired in primary motor and premotor cortices in the inferior frontal lobe.",
+    "Pointing gestures and responses, yes\\no gestures and responses, imitations, unintelligible utterances, and utterances that included a participant that was not visible were excluded.",
+    "Younger children (2;3) gestured more often to a desired sticker when their parents had not seen its location than when they had.",
+    "However, the distribution of gesture+speech combinations differed for caregiver and child.",
+    "The texts perpetually gesture towards a moment of fulfilment that remains deferred, when their latent significance would unfurl itself in a millennial revelation.",
+    "For this reason, other responses that infants provided - gestures and utterances - provided important information regarding their genuine level of sophistication in absent reference comprehension."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "germination",
+    "gerund",
+    "gestation",
+    "gesticulate",
+    "gesture",
+    "get",
+    "get (hold of) the wrong end of the stick",
+    "get (someone) into the habit of",
+    "get (something) off the ground"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379082_450c76129a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379082_549e4d08d5_o.png",
+      "id_image": "gesture_4236900"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071170_58a3deb967_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071170_520e7bd768_o.png",
+      "id_image": "gesture_4636215"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689214_b11cfd6868_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689214_6efd3fc886_o.png",
+      "id_image": "gesture_6246489"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "english": "fuel",
+  "phat_am": "ˈfjuəl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chất đốt; nhiên liệu",
+          "definition": "any substance by which a fire, engine etc is made to work (eg coal, oil, petrol)",
+          "world_new": [
+            "substance",
+            "fire",
+            "engine",
+            "work",
+            "coal",
+            "oil"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The machine ran out of fuel.",
+              "world_new": [
+                "machine"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đổ nhiên liệu",
+          "definition": "to give or take fuel",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The tanker will leave when it has finished fuelling / being fuelled.",
+              "world_new": [
+                "tanker",
+                "leave",
+                "finished"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Workers drank before, during, and after work, fueling their long hours and grueling labor with beer.",
+    "The weather component models moisture input and output in fuels generically classed as fine, moderate, and heavy.",
+    "To improve environmental performance, the other option suggested by the author is substituting other low carbon fuels for coal or using washed coal.",
+    "The floor of the workshop is compacted soil and is visibly stained with oils and fuels.",
+    "The necessary response was to end those programmes which fuelled this deviant behaviour.",
+    "Increasing incomes and affluence have fuelled demand for more expansive dwellings.",
+    "In a city where speculation fuels the money markets, second guessing about corporate futures is commonplace throughout the business community.",
+    "Penetration of intense charged particle beams in the outer layers of precompressed thermonuclear fuels."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "fry",
+    "frying pan",
+    "ft",
+    "fudge",
+    "fuel",
+    "fugitive",
+    "fulcrum",
+    "fulfil",
+    "fulfilled"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080420_0b6cbfebf2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080420_6926e7e3ce_o.png",
+      "id_image": "fuel_1486200"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342906_9c25192d54_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342906_cb64bf6081_o.png",
+      "id_image": "fuel_2321545"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698254_e4923c882e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698254_5387d0df42_o.png",
+      "id_image": "fuel_439972"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387962_bf68416f30_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387962_820dbe9d60_o.png",
+      "id_image": "fuel_439974"
+    }
+  ]
+}

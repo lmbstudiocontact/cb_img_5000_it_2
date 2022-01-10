@@ -1,0 +1,126 @@
+{
+  "english": "grind",
+  "phat_am": "ɡraind",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nghiền",
+          "definition": "to crush into powder or small pieces",
+          "world_new": [
+            "crush",
+            "powder",
+            "small"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Grind the spices in a pestle and mortar",
+              "world_new": [
+                "pestle",
+                "mortar"
+              ]
+            },
+            {
+              "ex_of_definition": "This machine grinds coffee.",
+              "world_new": [
+                "machine",
+                "coffee"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nén hoặc cọ mạnh",
+          "definition": "to rub together, usually producing an unpleasant noise",
+          "world_new": [
+            "rub",
+            "unpleasant",
+            "noise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He grinds his teeth."
+            }
+          ]
+        },
+        {
+          "mean_english": "mài",
+          "definition": "to rub into or against something else",
+          "world_new": [
+            "rub",
+            "else"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He ground his heel into the earth.",
+              "world_new": [
+                "ground",
+                "heel",
+                "earth"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "công việc cực nhọc đều đều",
+          "definition": "boring hard work",
+          "world_new": [
+            "boring",
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Learning irregular verbs is a bit of a grind.",
+              "world_new": [
+                "irregular",
+                "bit"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The remaining part of the body was ground in a small bowl with physiological saline.",
+    "We follow here a widespread convention in theoretical computer science that considers ground types as being of order 1.",
+    "Conversely, constitutional rights always ground a lack of legal power in citizens and members of the legislature and are therefore always immunity-rights.",
+    "The grinding process may have affected the clay component more than the other minerals.",
+    "The tissue was dried by grinding with anhydrous sodium sulfate and extracted with several volumes of hexane to remove carotenoids, retinols, and retinyl esters.",
+    "The last movement is a grinding palindromic movement which has sudden and drastic, if not violent, contrasts of tempi and texture.",
+    "The sides were glowing and going round, grinding out a familiar rumble.",
+    "Every morning she ground foodstuffs before her prayers."
+  ],
+  "list_see_also": [
+    "grinder",
+    "grinding",
+    "grindstone",
+    "grind down",
+    "grind up",
+    "keep (some)one’s nose to the grindstone"
+  ],
+  "list_browse": [
+    "grimness",
+    "grimy",
+    "grin",
+    "grin and bear it",
+    "grind",
+    "grind down",
+    "grind up",
+    "grinder",
+    "grinding"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436633_8cac028956_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436633_19c116fde1_o.png",
+      "id_image": "grind_1407905"
+    }
+  ]
+}

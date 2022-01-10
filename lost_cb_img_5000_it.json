@@ -1,0 +1,104 @@
+{
+  "english": "lost",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "lạc mất",
+          "definition": "missing; no longer to be found",
+          "world_new": [
+            "found"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a lost ticket.",
+              "world_new": [
+                "ticket"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thua",
+          "definition": "not won",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The game is not lost until the final whistle.",
+              "world_new": [
+                "game",
+                "final",
+                "whistle"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lãng phí",
+          "definition": "wasted; not used properly",
+          "world_new": [
+            "properly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a lost opportunity.",
+              "world_new": [
+                "opportunity"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lạc đường",
+          "definition": "no longer knowing where one is, or in which direction to go",
+          "world_new": [
+            "knowing",
+            "direction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I don’t know whether to turn left or right – I’m lost.",
+              "world_new": [
+                "I",
+                "know",
+                "turn",
+                "left",
+                "right"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "lose touch (with)",
+    "lose/make money",
+    "loser",
+    "loss",
+    "lost",
+    "lost in",
+    "lost on",
+    "lost property",
+    "lot"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334941_de3197fbcc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334941_3a0f744391_o.png",
+      "id_image": "lost_5116112"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450003_a70dc70450_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450003_ed1c483929_o.png",
+      "id_image": "lost_5361214"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690159_6a082eebac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690159_755d004da8_o.png",
+      "id_image": "lost_825953"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "english": "hour",
+  "phat_am": "ˈauə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "giờ; tiếng (đồng hồ)",
+          "definition": "sixty minutes, the twenty-fourth part of a day",
+          "world_new": [
+            "part",
+            "day"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He spent an hour trying to start the car this morning",
+              "world_new": [
+                "spent",
+                "trying",
+                "start",
+                "car",
+                "morning"
+              ]
+            },
+            {
+              "ex_of_definition": "She’ll be home in half an hour",
+              "world_new": [
+                "home",
+                "half"
+              ]
+            },
+            {
+              "ex_of_definition": "a five-hour delay.",
+              "world_new": [
+                "delay"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khoảng thời gian ấn định để làm gì",
+          "definition": "the time at which a particular thing happens",
+          "world_new": [
+            "time",
+            "particular"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "When the hour for action arrives, we’ll be ready.",
+              "world_new": [
+                "action",
+                "ready"
+              ]
+            },
+            {
+              "ex_of_definition": "He helped me in my hour of need",
+              "world_new": [
+                "my"
+              ]
+            },
+            {
+              "ex_of_definition": "You can consult him during business hours.",
+              "world_new": [
+                "consult",
+                "business"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The behavior of the labor-market variables also improves, with hours now being substantially less correlated with productivity.",
+    "This suggests that most changes of working hours took place in full-time or in part-time work.",
+    "From the data on number of flowers visited and the number of open flowers we calculated the number of visits per flower per hour.",
+    "Students were in two classes, one receiving 12 hours of direct communication strategy training.",
+    "Observations were performed 15, 30, 60, 120, 180 min and 24 hours after administration of the test substance.",
+    "Branches from the trees were covered with black permeable plastic bags for 12 hours a day.",
+    "The data-collection sessions took about 11/2 hours for each student, including the training, think-aloud protocol, and retrospective interview.",
+    "We used the mean number of visits per flower for each hour as the variable."
+  ],
+  "list_see_also": [
+    "hourly",
+    "hourglass",
+    "hour hand",
+    "at all hours",
+    "for hours",
+    "on the hour"
+  ],
+  "list_browse": [
+    "hotheaded",
+    "hothouse",
+    "hotly",
+    "hound",
+    "hour",
+    "hour hand",
+    "hourglass",
+    "hourly",
+    "house"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374357_4cd15562bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374357_919886af79_o.png",
+      "id_image": "hours_1010949"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374332_e98c2f9038_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374332_0b61968676_o.png",
+      "id_image": "hours_1195639"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066420_8bf814d811_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066420_c44500a467_o.png",
+      "id_image": "hours_3603834"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329611_8f497d09ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329611_88f0bd033c_o.png",
+      "id_image": "hours_4745511"
+    }
+  ]
+}

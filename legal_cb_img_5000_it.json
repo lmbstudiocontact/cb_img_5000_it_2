@@ -1,0 +1,102 @@
+{
+  "english": "legal",
+  "phat_am": "ˈliːɡəl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc pháp luật",
+          "definition": "lawful; allowed by the law",
+          "world_new": [
+            "law"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Is it legal to bring gold into the country?",
+              "world_new": [
+                "bring",
+                "gold",
+                "country"
+              ]
+            },
+            {
+              "ex_of_definition": "a legal contract.",
+              "world_new": [
+                "contract"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "liên quan đến pháp luật",
+          "definition": "concerned with or used in the law",
+          "world_new": [
+            "law"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the legal profession.",
+              "world_new": [
+                "profession"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "But let us consider instead the common legal example of a person who wants to be alone on his large estate.",
+    "Sharing statistical data in the biomedical and health sciences : ethical, institutional, legal, and professional dimensions.",
+    "We now present the set of typing rules that define the legal terms of the system, but first we introduce some terminology and notation.",
+    "Thus, it is crucial that the legal and technical communities embark on interdisciplinary research to deal with these issues.",
+    "I do not think that fiat really is a panacea for legal indeterminacy.",
+    "We want to program a two-person finite game where the players must perform alternate legal moves, until one of them, the loser, cannot move.",
+    "The author discusses practical issues such as legal status, education, training, consent, and non-medical prescribing.",
+    "The former hinges on the possibility of software agents being regarded as legal persons in the eyes of the law."
+  ],
+  "list_see_also": [
+    "legally",
+    "legality",
+    "legalize"
+  ],
+  "list_browse": [
+    "left-wing",
+    "leftover",
+    "leg",
+    "legacy",
+    "legal",
+    "legality",
+    "legalize",
+    "legally",
+    "legation"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461453_299984fcd2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461453_3b7196de57_o.png",
+      "id_image": "legal_2419622"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084020_e726c509f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084020_2fa55dcd75_o.png",
+      "id_image": "legal_2861285"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461378_9bd982e8e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461378_9a4008c1ac_o.png",
+      "id_image": "legal_4459244"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461328_e453db5346_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461328_45280bd98a_o.png",
+      "id_image": "legal_5300039"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461288_bab2c0cd28_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461288_4088f89295_o.png",
+      "id_image": "legal_6299625"
+    }
+  ]
+}

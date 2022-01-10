@@ -1,0 +1,218 @@
+{
+  "english": "heart",
+  "phat_am": "haːt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "trái tim",
+          "definition": "the organ which pumps blood through the body",
+          "world_new": [
+            "organ",
+            "blood",
+            "body"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "How fast does a person’s heart beat?",
+              "world_new": [
+                "fast",
+                "beat"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) heart disease",
+              "world_new": [
+                "disease"
+              ]
+            },
+            {
+              "ex_of_definition": "a heart specialist.",
+              "world_new": [
+                "specialist"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giữa trung tâm",
+          "definition": "the central part",
+          "world_new": [
+            "central",
+            "part"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I live in the heart of the city",
+              "world_new": [
+                "I",
+                "live",
+                "city"
+              ]
+            },
+            {
+              "ex_of_definition": "a hut in the heart of the forest",
+              "world_new": [
+                "hut",
+                "forest"
+              ]
+            },
+            {
+              "ex_of_definition": "the heart of a lettuce",
+              "world_new": [
+                "lettuce"
+              ]
+            },
+            {
+              "ex_of_definition": "Let’s get straight to the heart of the matter/problem.",
+              "world_new": [
+                "straight"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lòng",
+          "definition": "the part of the body where one’s feelings, especially of love, conscience etc are imagined to arise",
+          "world_new": [
+            "part",
+            "body",
+            "love",
+            "conscience",
+            "arise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She has a kind heart",
+              "world_new": [
+                "kind"
+              ]
+            },
+            {
+              "ex_of_definition": "You know in your heart that you ought to go",
+              "world_new": [
+                "know",
+                "your"
+              ]
+            },
+            {
+              "ex_of_definition": "She has no heart (= She is not kind)."
+            }
+          ]
+        },
+        {
+          "mean_english": "nhiệt tình",
+          "definition": "courage and enthusiasm",
+          "world_new": [
+            "courage",
+            "enthusiasm"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The soldiers were beginning to lose heart.",
+              "world_new": [
+                "beginning",
+                "lose"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hình trái tim",
+          "definition": "a symbol supposed to represent the shape of the heart; a white dress with little pink hearts on it; heart-shaped.",
+          "world_new": [
+            "symbol",
+            "represent",
+            "shape"
+          ]
+        },
+        {
+          "mean_english": "lá bài cơ",
+          "definition": "one of the playing-cards of the suit hearts, which have red symbols of this shape on them.",
+          "world_new": [
+            "suit",
+            "hearts",
+            "red",
+            "shape"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The heart of the book lies in the maps and the statistics and most of their meanings remain to be explored.",
+    "Lack of both accuracy and precision becomes more problematic in malformed hearts when cardiac structures are hypoplastic.",
+    "It is anticipated that heart and lung transplants would be even more restricted to possibly one or at most two centers.",
+    "He returns home and finds the burglar, dead from a heart attack, on the floor.",
+    "A 22-year-old pregnant woman was referred for a detailed fetal echocardiogram because an abnormality of the fetal heart was suspected on routine antenatal scanning.",
+    "This tension, between capitalism, cultural diversity, opportunity, enterprise and community, lies at the heart of what these three scholars wrestle with.",
+    "How could they gain recruits for their war on hearts and minds?",
+    "This question lies at the heart of political representation and democratic responsiveness."
+  ],
+  "list_see_also": [
+    "-hearted",
+    "hearten",
+    "heartless",
+    "heartlessly",
+    "heartlessness",
+    "hearts",
+    "hearty",
+    "heartily",
+    "heartiness",
+    "heartache",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "hearing",
+    "hearing aid",
+    "hearsay",
+    "hearse",
+    "heart",
+    "heart and soul",
+    "heart attack",
+    "heart disease",
+    "heart failure"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340886_0772af201b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340886_83407b2721_o.png",
+      "id_image": "heart_170843"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078175_e83c00772d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078175_2cac8e8ed2_o.png",
+      "id_image": "heart_241833"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385777_45fccdc0c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385777_a0c9c69e05_o.png",
+      "id_image": "heart_286504"
+    }
+  ]
+}

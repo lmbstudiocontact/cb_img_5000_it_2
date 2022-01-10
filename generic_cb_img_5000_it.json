@@ -1,0 +1,62 @@
+{
+  "english": "generic",
+  "phat_am": "dʒəˈnerik",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "chung cho cả loại",
+          "definition": "(of a name, term etc) referring to several similar objects etc",
+          "world_new": [
+            "name",
+            "term",
+            "similar"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "‘Furniture’ is a generic term for chairs, tables etc.",
+              "world_new": [
+                "term"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Recognising the generic trajectory is important in determining the dramatic intent of any piece following this scheme.",
+    "At a most fundamental level, the work does not tell us whether generics are conceptually distinct from non-generic utterances.",
+    "We will observe, therefore, period, national, and object-specific (generic) styles depending on our focus.",
+    "In the first we find the generic categories that most readers are likely to expect: potential, environment, motivation, anxiety, the brain, and medicine.",
+    "For the sake of quality standards and efficiency, generic plans of care are formulated for patients that are not responsive to individual circumstances.",
+    "The report recommended that, in principle, economic analysis should be pursued for all pharmaceuticals, but only simple price comparisons should be undertaken for generic medicines.",
+    "Combining these abstractions yields a small but highly generic toolkit whose power we have barely begun to explore.",
+    "Generic tasks as building blocks for knowledgebased systems: the diagnosis and routine design examples."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "generally speaking",
+    "generate",
+    "generation",
+    "generator",
+    "generic",
+    "generosity",
+    "generous",
+    "generously",
+    "genesis"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336076_45a0210398_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336076_e3b409d3f5_o.png",
+      "id_image": "generic_1490875"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072965_50958a81d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072965_743a84bbc6_o.png",
+      "id_image": "generic_1818679"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "english": "lemon",
+  "phat_am": "ˈlemən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quả chanh",
+          "definition": "a type of oval, juicy, citrus fruit with pale yellow skin and very sour juice",
+          "world_new": [
+            "type",
+            "oval",
+            "juicy",
+            "fruit",
+            "pale",
+            "yellow",
+            "skin",
+            "sour",
+            "juice"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She added the juice of a lemon to the pudding",
+              "world_new": [
+                "added",
+                "juice",
+                "pudding"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a lemon drink.",
+              "world_new": [
+                "drink"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "màu vàng chanh",
+          "definition": "the colour/color of this fruit",
+          "world_new": [
+            "fruit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "(also adjective) a pale lemon dress.",
+              "world_new": [
+                "pale",
+                "dress"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "lemonade",
+    "lemon grass"
+  ],
+  "list_browse": [
+    "legitimate",
+    "legitimately",
+    "leisure",
+    "leisurely",
+    "lemon",
+    "lemon grass",
+    "lemonade",
+    "lend",
+    "lend itself to"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700944_0f46f276fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700944_597fc1febf_o.png",
+      "id_image": "lemon_1087449"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083445_e4177a6bc4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083445_8e39de21e2_o.png",
+      "id_image": "lemon_258587"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390892_dd77cbf1e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390892_3ed0267534_o.png",
+      "id_image": "lemon_952030"
+    }
+  ]
+}

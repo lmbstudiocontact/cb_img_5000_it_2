@@ -1,0 +1,102 @@
+{
+  "english": "margin",
+  "phat_am": "ˈmaːdʒin",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lề",
+          "definition": "the blank edge round a page of writing or print",
+          "world_new": [
+            "blank",
+            "edge",
+            "page",
+            "print"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Please write your comments in the margin.",
+              "world_new": [
+                "your"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mép; bờ",
+          "definition": "an edge or border",
+          "world_new": [
+            "edge",
+            "border"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the margin of the lake.",
+              "world_new": [
+                "lake"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "số dư",
+          "definition": "something extra, beyond what should be needed",
+          "world_new": [
+            "extra"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There is very little margin for error in Grand Prix racing.",
+              "world_new": [
+                "error",
+                "racing"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Exposed tumour material should be removed gently without any attempt to excise beyond the tumour margins.",
+    "Additional notes in the margins of the plan show other possible orderings of the materials or insertions into the main body of the piece.",
+    "The hornblende lacks ductile bends and recrystallized margins.",
+    "Daily estimates involve averaging the trial ballot margins from surveys released on a given date.",
+    "Instead, strain was accommodated in narrow zones on thrust block margins.",
+    "The eclogite sheets and pods are generally sheared and retrogressed to amphibolites at the margins of such bodies.",
+    "Sixteen per cent of the patients had positive margins and in 10% margins were uncertain.",
+    "During the latter half of the century, however, positive features of domiciliary care have been recognised even if they have remained on the margins."
+  ],
+  "list_see_also": [
+    "marginal"
+  ],
+  "list_browse": [
+    "marbles",
+    "march",
+    "mare",
+    "margarine",
+    "margin",
+    "marginal",
+    "marijuana",
+    "marina",
+    "marine"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323416_4cfbc05f84_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323416_4e49b594ed_o.png",
+      "id_image": "margin_2640831"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060220_184fde253b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060220_a3ba8f86d8_o.png",
+      "id_image": "margin_3063570"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060290_bc84f1bddb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060290_e68ae7b28c_o.png",
+      "id_image": "margin_893415"
+    }
+  ]
+}

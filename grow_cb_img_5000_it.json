@@ -1,0 +1,158 @@
+{
+  "english": "grow",
+  "phat_am": "ɡrəu",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "phát triển",
+          "definition": "(of plants) to develop",
+          "world_new": [
+            "develop"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Carrots grow well in this soil.",
+              "world_new": [
+                "soil"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gia tăng",
+          "definition": "to become bigger, longer etc",
+          "world_new": [
+            "become"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My hair has grown too long",
+              "world_new": [
+                "hair",
+                "grown",
+                "long"
+              ]
+            },
+            {
+              "ex_of_definition": "Our friendship grew as time went on.",
+              "world_new": [
+                "friendship",
+                "time"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm phát triển",
+          "definition": "to cause or allow to grow",
+          "world_new": [
+            "cause",
+            "allow"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has grown a beard.",
+              "world_new": [
+                "grown",
+                "beard"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trở thành",
+          "definition": "(with into) to change into, in becoming mature",
+          "world_new": [
+            "change",
+            "becoming",
+            "mature"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Your daughter has grown into a beautiful woman.",
+              "world_new": [
+                "daughter",
+                "grown",
+                "beautiful"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trở thành",
+          "definition": "to become",
+          "world_new": [
+            "become"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It’s growing dark.",
+              "world_new": [
+                "dark"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Similarly, in the right-hand plot we show the solution at t = 0.056, where the circular interface has grown from 0.6 to 0.875.",
+    "However, there is growing interest in different models of categorization that are affected by type rather than by token frequency.",
+    "A rather simple measurement of the scaling on growing parameters may disclose properties for ignition and perhaps would arrive at a full scale ignition.",
+    "The scale effect entails that in a growing economy emissions tend to increase (at given emission intensities and a given industrial structure).",
+    "A growing body of evidence suggests that temporal information processing controls many aspects of human behaviour, including language.",
+    "Effects of post-anthesis water stress on the yield and grain protein concentration of barley grown at two levels of nitrogen.",
+    "Later in the film the performer-toaudience interaction grows even more direct.",
+    "Part-time mature students are a sizable and growing minority of all higher education students."
+  ],
+  "list_see_also": [
+    "grower",
+    "grown",
+    "growth",
+    "grown-up",
+    "grown-up",
+    "grow on",
+    "grow up"
+  ],
+  "list_browse": [
+    "groundwork",
+    "group",
+    "grouse",
+    "grovel",
+    "grow",
+    "grow on",
+    "grow up",
+    "grower",
+    "growl"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056275_468172a857_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056275_2422e85c08_o.png",
+      "id_image": "grow_2597685"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364407_6624e91cb2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364407_e378ac4d27_o.png",
+      "id_image": "grow_428789"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434793_21b4360150_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434793_f6855eafab_o.png",
+      "id_image": "grow_4760755"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434738_57ef426924_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434738_d0331f43bf_o.png",
+      "id_image": "grow_6332166"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674504_452cde5d67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674504_827173dd81_o.png",
+      "id_image": "grow_6344208"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "english": "loot",
+  "phat_am": "luːt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "của cướp được",
+          "definition": "something which is stolen",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The thieves got away with a lot of loot."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cướp bóc",
+          "definition": "to rob or steal from (a place)",
+          "world_new": [
+            "rob",
+            "steal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The rioters looted the local shops.",
+              "world_new": [
+                "local"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "loose-leaf",
+    "loosely",
+    "loosen",
+    "looseness",
+    "loot",
+    "lop",
+    "lope",
+    "lord",
+    "lord it over"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690844_7bc0dd1a36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690844_b93c041f57_o.png",
+      "id_image": "loot_1377729"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335596_b46f20250e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335596_9d66cfa992_o.png",
+      "id_image": "loot_1485070"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690764_fe5923f267_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690764_9fdd947538_o.png",
+      "id_image": "loot_2614332"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450528_66f39f9115_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450528_56c74b3697_o.png",
+      "id_image": "loot_2742168"
+    }
+  ]
+}

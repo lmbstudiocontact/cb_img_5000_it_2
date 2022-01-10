@@ -1,0 +1,52 @@
+{
+  "english": "interrogate",
+  "phat_am": "inˈterəɡeit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thẩm vấn",
+          "definition": "to question (a person) thoroughly",
+          "world_new": [
+            "question",
+            "thoroughly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The police spent five hours interrogating the prisoner.",
+              "world_new": [
+                "police",
+                "spent",
+                "prisoner"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "interrogation",
+    "interrogator",
+    "interrogative"
+  ],
+  "list_browse": [
+    "internode",
+    "interpret",
+    "interpretation",
+    "interpreter",
+    "interrogate",
+    "interrogation",
+    "interrogative",
+    "interrogator",
+    "interrupt"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696529_e430fda6d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696529_96f706ee7f_o.png",
+      "id_image": "interrogate_3317249"
+    }
+  ]
+}

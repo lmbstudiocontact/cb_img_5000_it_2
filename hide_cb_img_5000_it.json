@@ -1,0 +1,128 @@
+{
+  "english": "hide",
+  "phat_am": "haid",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "che giấu",
+          "definition": "to put (a person, thing etc) in a place where it cannot be seen or easily found",
+          "world_new": [
+            "person",
+            "place",
+            "easily",
+            "found"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ll hide the children’s presents"
+            },
+            {
+              "ex_of_definition": "You hide, and I’ll come and look for you",
+              "world_new": [
+                "look"
+              ]
+            },
+            {
+              "ex_of_definition": "She hid from her father",
+              "world_new": [
+                "father"
+              ]
+            },
+            {
+              "ex_of_definition": "He tries to hide his feelings."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chỗ ẩn nấp",
+          "definition": "a small concealed hut etc from which birds etc can be watched, photographed etc.",
+          "world_new": [
+            "small",
+            "hut"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "da sống",
+          "definition": "the skin of an animal",
+          "world_new": [
+            "skin",
+            "animal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He makes coats out of animal hides",
+              "world_new": [
+                "animal"
+              ]
+            },
+            {
+              "ex_of_definition": "cow-hide."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "His tan jacket almost hid a red flannel shirt.",
+    "As we have no need for hiding operations here, we describe a simpler version.",
+    "The parent's behaviour is in the spotlight, and the child is hidden behind the parent.",
+    "There may be hidden potential aesthetic value in the melodies that may be extractable by human interpretation.",
+    "The object to be hidden was a small stuffed animal.",
+    "In another situation, the landmark could be hidden by an obstacle, and thus be invisible to the robot.",
+    "The latter is hidden for much of the year by vegetation and snow and ice.",
+    "As long as this (somewhat hidden) allocation mechanism still exists, no amount of regulation will be able to control inequities."
+  ],
+  "list_see_also": [
+    "hidden",
+    "hide-and-seek",
+    "hide-out",
+    "hiding",
+    "hiding-place"
+  ],
+  "list_browse": [
+    "hibiscus",
+    "hiccup",
+    "hidden",
+    "hidden agenda",
+    "hide",
+    "hide-and-seek",
+    "hide-out",
+    "hideous",
+    "hideously"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452638_43173603c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452638_ba03546658_o.png",
+      "id_image": "hide_216663"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693004_fe337f27a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693004_a0fe7e6fc4_o.png",
+      "id_image": "hide_2978140"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452538_f39a444c90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452538_25dd0a42fa_o.png",
+      "id_image": "hide_5020625"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452603_b1bf73a0cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452603_43d5ce6c44_o.png",
+      "id_image": "hide_593517"
+    }
+  ]
+}

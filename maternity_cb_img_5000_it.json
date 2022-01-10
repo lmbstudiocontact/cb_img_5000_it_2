@@ -1,0 +1,79 @@
+{
+  "english": "maternity",
+  "phat_am": "məˈtəːnəti",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhà hộ sinh",
+          "definition": "the state of being or becoming a mother",
+          "world_new": [
+            "state",
+            "becoming",
+            "mother"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a maternity hospital",
+              "world_new": [
+                "hospital"
+              ]
+            },
+            {
+              "ex_of_definition": "a maternity ward",
+              "world_new": [
+                "ward"
+              ]
+            },
+            {
+              "ex_of_definition": "maternity clothes.",
+              "world_new": [
+                "clothes"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This is already the case for maternity treatment (when there are no complications) and may later allow the use of diagnosis-related groups.",
+    "The most common focus of activity was in relationship to maternity and public policies directed towards motherhood.",
+    "In the case of a third or subsequent birth, a substantial sum is forfeited, ostensibly to pay for maternity services.",
+    "It is the role of the specialist nurse to ensure effective communication with all maternity units and establish good links.",
+    "In 1945, the federal government was empowered to regulate maternity insurance as well as family allowances.",
+    "In developed countries, the rate of maternal mortality is now very low, limiting its usefulness as a quality indicator for maternity care.",
+    "A large proportion are referred from the maternity department, so it is likely that their youngest child is still in infancy.",
+    "Many social welfare policies were shaped by women who used claims of maternity, equality and social justice to justify their entrance into politics."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "materialize",
+    "materially",
+    "maternal",
+    "maternally",
+    "maternity",
+    "mathematical",
+    "mathematically",
+    "mathematician",
+    "mathematics"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364842_90b3516b26_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364842_c5ce410a81_o.png",
+      "id_image": "maternity_1425415"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364812_4f7dae979e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364812_204d28f90c_o.png",
+      "id_image": "maternity_1833856"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056630_7cdba92a5d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056630_eb85547f23_o.png",
+      "id_image": "maternity_6258709"
+    }
+  ]
+}

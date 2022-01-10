@@ -1,0 +1,84 @@
+{
+  "english": "improvement",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự cải tiến",
+          "definition": "the state or act of improving or being improved",
+          "world_new": [
+            "state",
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There has been a great improvement in her work",
+              "world_new": [
+                "great",
+                "work"
+              ]
+            },
+            {
+              "ex_of_definition": "The patient’s condition shows some improvement.",
+              "world_new": [
+                "condition"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự sửa sang",
+          "definition": "something which improves, or adds beauty, value etc",
+          "world_new": [
+            "beauty",
+            "value"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve made several improvements to the house.",
+              "world_new": [
+                "house"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Experiments evaluating the effects of isoproteronol on tissue removed from the heart at surgery demonstrated initial inhibition of contraction with improvements over time.",
+    "The results showed significant improvement after training across age groups.",
+    "These improvements in the outcome of pregnancy, nonetheless, concomitantly increase the genetic risk in the surviving population.",
+    "Demonstration of these improvements is planned for the near future.",
+    "We incline to think that the latter change, in contrast to the former, represents a cognitive improvement in our condition.",
+    "The farmers provided various suggestions for possible improvements in the distribution of available irrigation water.",
+    "However, unlike technology improvements, optimal tariffs will hurt the poor region.",
+    "Participants in both intervention and control groups showed significant improvement in mood symptoms over time."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "improper fraction",
+    "impropriety",
+    "improve",
+    "improve on",
+    "improvement",
+    "improvisation",
+    "improvise",
+    "imprudence",
+    "imprudent"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365202_fa67c486a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365202_36c19320df_o.png",
+      "id_image": "improvement_5361137"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365172_7d85170809_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365172_b9bf118fe3_o.png",
+      "id_image": "improvement_6040861"
+    }
+  ]
+}

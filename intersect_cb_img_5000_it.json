@@ -1,0 +1,86 @@
+{
+  "english": "intersect",
+  "phat_am": "intəˈsekt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "giao",
+          "definition": "to divide (eg lines or roads) by cutting or crossing",
+          "world_new": [
+            "divide",
+            "lines",
+            "cutting",
+            "crossing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The line AB intersects the line CD at X",
+              "world_new": [
+                "line",
+                "line",
+                "CD",
+                "X"
+              ]
+            },
+            {
+              "ex_of_definition": "Where do the two roads intersect?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The non-linearity of the problem may lead to mutually intersecting characteristics and hence to admissible shocks.",
+    "Entities that can fulfill two or more specifications are found by intersecting the sets of entities that meet each specification individually.",
+    "The measuring volume is formed in the far field of intersecting highly directional piezoelectric transducers.",
+    "In the figure the nodes at which partitionings have been intersected are drawn with thicker lines.",
+    "Where the magnetic field intersects a material surface, there are other possibilities.",
+    "Two or more annotations cross-over one another if they are linked to intersecting regions of the document.",
+    "An equivalent process is represented by intersecting right bisecting lines of two sides of the projected triangle.",
+    "A first point of mention is that two intersecting cells were phonologically impossible."
+  ],
+  "list_see_also": [
+    "intersection"
+  ],
+  "list_browse": [
+    "interrogative",
+    "interrogator",
+    "interrupt",
+    "interruption",
+    "intersect",
+    "intersection",
+    "interstate",
+    "interval",
+    "intervene"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078430_0d239bd6f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078430_da9eeb5836_o.png",
+      "id_image": "intersection_3058436"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455823_c1d3e93cf5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455823_495cb91fc0_o.png",
+      "id_image": "intersection_3393544"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455803_c17c170656_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455803_974258aa74_o.png",
+      "id_image": "intersection_3680632"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078535_011c9ecb6f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078535_c4c9e953a0_o.png",
+      "id_image": "intersect_1850055"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078510_3d93e1ca92_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078510_89e226a8ef_o.png",
+      "id_image": "intersect_5488461"
+    }
+  ]
+}

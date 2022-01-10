@@ -1,0 +1,110 @@
+{
+  "english": "log",
+  "phat_am": "loɡ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "khúc củi",
+          "definition": "a thick piece of unshaped wood",
+          "world_new": [
+            "thick",
+            "piece",
+            "wood"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The trees were sawn into logs and taken to the sawmill.",
+              "world_new": [
+                "sawmill"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sổ lộ trình",
+          "definition": "a logbook",
+          "world_new": [
+            "logbook"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The captain of the ship entered the details in the log.",
+              "world_new": [
+                "captain",
+                "ship"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ghi vào sổ lộ trình",
+          "definition": "to write down or record in a logbook (especially the distance covered during a journey)",
+          "world_new": [
+            "record",
+            "logbook",
+            "distance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The incident was logged by the ship’s captain.",
+              "world_new": [
+                "incident",
+                "captain"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The lowest maize yield harvested in 1996/97 under sole maize was attributed to leaching and water logging due to excessive rainfall and lodging.",
+    "The economic reform index, log of price level, corruption index, and the war dummy are the intermediate variables.",
+    "Additionally, there were six log files with totally different searches from questionnaire reports.",
+    "In 1999, the site was legally protected from hunting, logging and goldmining.",
+    "I have also estimated models using the log of the actual size of the agency's initial budget in 1992 dollars.",
+    "If timber price were to fall by a third, then benefits are still comparable to half the proceeds of logging being invested.",
+    "All 11 component community samples demonstrated an approximately log-normal distribution of parasite species using cumulative probability plots.",
+    "The counts were natural log transformed, after being augmented by 1 to avoid 1n(0)."
+  ],
+  "list_see_also": [
+    "logbook",
+    "log in",
+    "log off"
+  ],
+  "list_browse": [
+    "loft",
+    "loftily",
+    "loftiness",
+    "lofty",
+    "log",
+    "log in",
+    "log off",
+    "logarithm",
+    "logbook"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451993_9af3ded075_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451993_d70786126b_o.png",
+      "id_image": "log_125161"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337076_32397cabf8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337076_58d05b7247_o.png",
+      "id_image": "log_5139731"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692474_295c4f06dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692474_bb5c8f4038_o.png",
+      "id_image": "log_721100"
+    }
+  ]
+}

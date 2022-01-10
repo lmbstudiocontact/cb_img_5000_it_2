@@ -1,0 +1,110 @@
+{
+  "english": "knee",
+  "phat_am": "niː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đầu gối",
+          "definition": "the joint at the bend of the leg",
+          "world_new": [
+            "joint",
+            "bend",
+            "leg"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He fell and cut his knee",
+              "world_new": [
+                "fell",
+                "cut"
+              ]
+            },
+            {
+              "ex_of_definition": "The child sat on her father’s knee",
+              "world_new": [
+                "child"
+              ]
+            },
+            {
+              "ex_of_definition": "She was on her knees weeding the garden",
+              "world_new": [
+                "garden"
+              ]
+            },
+            {
+              "ex_of_definition": "He fell on his knees and begged for mercy.",
+              "world_new": [
+                "fell",
+                "mercy"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đầu gối quần",
+          "definition": "the part of an article of clothing covering this joint",
+          "world_new": [
+            "part",
+            "article",
+            "clothing",
+            "covering",
+            "joint"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has a hole in the knee of his trousers.",
+              "world_new": [
+                "hole",
+                "trousers"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The legs, although extended in front of the body, were slightly flexed, elevating the knees above the chamber floor and slightly separating the ankles and feet.",
+    "Synovial effusion was evident in the wrists, elbows and knees.",
+    "The shroud is usually knotted at the head and feet, and sufficiently open to expose the breast and knees of the deceased.",
+    "His hairs bristle, his knees stagger forward brokenly.",
+    "The patients were assessed at the shoulders, elbows, wrists, hips and knees and a global score was obtained by addition.",
+    "On examination the knees are painful, swollen (due to synovial thickening) and warm to the touch.",
+    "The knees are depicted with button-like protuberances.",
+    "Rheumatic polyarthritis usually involves the larger joints of the body, that is, the knees, ankles, shoulders and hips."
+  ],
+  "list_see_also": [
+    "kneecap",
+    "knee-deep"
+  ],
+  "list_browse": [
+    "knack",
+    "knapsack",
+    "knave",
+    "knead",
+    "knee",
+    "knee-deep",
+    "kneecap",
+    "kneel",
+    "knell"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325876_241b0d7bcd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325876_0dfc5e7220_o.png",
+      "id_image": "knee_2417976"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325801_3911da8050_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325801_31b84fba27_o.png",
+      "id_image": "knee_5726993"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325766_d19cd6ef6e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325766_2a93792562_o.png",
+      "id_image": "knee_6147417"
+    }
+  ]
+}

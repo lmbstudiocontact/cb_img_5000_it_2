@@ -1,0 +1,69 @@
+{
+  "english": "inequality",
+  "phat_am": "iniˈkwoləti",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự không công bằng",
+          "definition": "(a case of) the existence of differences in size, value etc between two or more objects etc",
+          "world_new": [
+            "case",
+            "existence",
+            "size",
+            "value"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "social inequalities",
+              "world_new": [
+                "social"
+              ]
+            },
+            {
+              "ex_of_definition": "There is bound to be inequality between a manager’s salary and a workman’s wages.",
+              "world_new": [
+                "salary"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This requirement is essential in the simply typed calculus for obtaining non-trivial inequalities.",
+    "Then we obtain a facet-defining inequality of the projected polyhedron.",
+    "An inequality relationship specifies an area in which design solutions exist.",
+    "Not all social policy areas are covered but there are chapters on income distribution, health inequalities, social care, gender and employment.",
+    "First, we explore whether income from natural resource extraction affects poverty and inequality.",
+    "It is common to define egalitarianism in terms of an inequality ordering, which is supposed to have some weight in overall evaluations of outcomes.",
+    "Class analysis is useful in underlining domination and resistance and in highlighting inequality in social relations.",
+    "Taxing capital at a higher rate decreases both gross wage inequality and net inequality."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "inelegant",
+    "inelegantly",
+    "ineligibility",
+    "ineligible",
+    "inequality",
+    "inert",
+    "inertia",
+    "inertness",
+    "inescapable"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672004_a99f5138f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672004_31a31a79c5_o.png",
+      "id_image": "inequality_2646662"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432338_19af8f33bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432338_22281de5e1_o.png",
+      "id_image": "inequality_3053747"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "english": "genesis",
+  "phat_am": "ˈdʒenəsis",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nguồn gốc",
+          "definition": "the beginning or origin of something",
+          "world_new": [
+            "beginning",
+            "origin"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The Space Shuttle concept had its genesis in the 1960s.",
+              "world_new": [
+                "concept",
+                "its"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They discovered beneath the surface of the domesticated landscape the remains of a primeval savagery and contributed to an understanding of the genesis of civilization.",
+    "The project showed that the genesis of the 'missing male' trend in singing at school may be occurring in early childhood.",
+    "To be causally responsible for an event is simply to be a part of its causal genesis.",
+    "Alternatively, it seems possible that low-level visual mechanisms are involved in the genesis of the reading disorder.",
+    "While each has a distinct set of meanings and a distinctive genesis, the three have become interpenetrating, and in some contexts difficult to separate.",
+    "It appears that some of these cells originate from tumour genesis (supporting the stem cell hypothesis) while others are attracted by the tumours.",
+    "Critical analysis involves questioning the genesis and justification of patient selection criteria, as well as considering their meaning and impact in the relevant policy domain.",
+    "One is to trace their genesis in a shared context, to give a historical account that is rich enough to encompass seemingly diverse cultural manifestations."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "generic",
+    "generosity",
+    "generous",
+    "generously",
+    "genesis",
+    "genetic",
+    "genetic engineering",
+    "genetically modified",
+    "genetics"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691024_8f66110406_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691024_7be40069b1_o.png",
+      "id_image": "genesis_1163399"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072710_0cb602982d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072710_dd686f3c02_o.png",
+      "id_image": "genesis_2586113"
+    }
+  ]
+}

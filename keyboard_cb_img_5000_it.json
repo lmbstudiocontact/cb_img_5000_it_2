@@ -1,0 +1,90 @@
+{
+  "english": "keyboard",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bàn phím",
+          "definition": "the keys in a piano, typewriter etc arranged along or on a flat board",
+          "world_new": [
+            "piano",
+            "typewriter",
+            "flat",
+            "board"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The pianist sat down at the keyboard and began to play",
+              "world_new": [
+                "pianist",
+                "play"
+              ]
+            },
+            {
+              "ex_of_definition": "A computer keyboard looks like that of a typewriter",
+              "world_new": [
+                "computer",
+                "looks",
+                "typewriter"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) harpsichords and other early keyboard instruments."
+            }
+          ]
+        },
+        {
+          "mean_english": "loại nhạc cụ bàn phím",
+          "definition": "any keyboard (musical) instrument",
+          "world_new": [
+            "instrument"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The album features Mick Brown on keyboards.",
+              "world_new": [
+                "album"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The class also chose repeated sighs and choral effects triggered from synthesizer keyboards.",
+    "At the next layer there will be some rhythmic 'lift-up-over-sounding' discrepancies: rhythm guitar or keyboards.",
+    "First, he taught the pupils how to collect the keyboards from the store-room.",
+    "The pupils did not join a queue to collect keyboards stacked in a distant cupboard.",
+    "Whatever happens, our instrumentarium will include new imaginative keyboards.",
+    "No need, he says, for eyes, monitors, ears and speakers, hands or keyboards, if the computer is so clever, why can't it just read my mind?.",
+    "From fists on keyboards to eyes on screens to legs and wheels on sand.",
+    "Firstly, it would make it easier for users who are unfamiliar with keyboards to communicate with the computer by using their normal handwriting."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "ketchup",
+    "kettle",
+    "kettledrum",
+    "key",
+    "keyboard",
+    "keyed up",
+    "keyhole",
+    "keyhole surgery",
+    "keynote"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373512_1f11949ba5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373512_056c321b4b_o.png",
+      "id_image": "keyboard_417601"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683789_9cfe15eed2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683789_c77c43f79d_o.png",
+      "id_image": "keyboard_420990"
+    }
+  ]
+}

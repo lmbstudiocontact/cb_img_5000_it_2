@@ -1,0 +1,97 @@
+{
+  "english": "instrument",
+  "phat_am": "ˈinstrəmənt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "dụng cụ",
+          "definition": "a tool, especially if used for delicate scientific or medical work",
+          "world_new": [
+            "tool",
+            "delicate",
+            "scientific",
+            "medical",
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "medical/surgical/mathematical instruments."
+            }
+          ]
+        },
+        {
+          "mean_english": "nhạc cụ",
+          "definition": "(also musical instrument) an apparatus for producing musical sounds",
+          "world_new": [
+            "apparatus",
+            "musical"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He can play the piano, violin, and several other instruments.",
+              "world_new": [
+                "play",
+                "piano",
+                "violin"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Furthermore, they direct our attention toward the significant but previously under-explored possibility that many perceptual instruments may cooperatively employ more than one receptor type.",
+    "Many teachers dislike the synthesised sounds computer sound cards produce, and argue for acoustic instruments.",
+    "The music was going up and down and in and different instruments were coming in at different times.",
+    "Both these instruments have been used to determine the range of behaviours associated with specific syndromes, and published data are available.",
+    "Civilians in wartime are regarded as instruments for carrying on the war rather than as 'individual persons with separate and different objectives of their own'.",
+    "The experimenter was merely a technician who controlled the instruments, whereas the subject often published the paper.",
+    "The appendixes contain useful instruments that teachers can use to find out about their students' approach to language learning, motivation, and learning strategies.",
+    "Fourthly, although the same set of standardized instruments were used across all sites, quality of data collection might have varied."
+  ],
+  "list_see_also": [
+    "instrumental",
+    "instrumentalist"
+  ],
+  "list_browse": [
+    "instructive",
+    "instructively",
+    "instructiveness",
+    "instructor",
+    "instrument",
+    "instrumental",
+    "instrumentalist",
+    "insubordinate",
+    "insubordination"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081450_4dce46849c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081450_54c0beb6ee_o.png",
+      "id_image": "instrument_1296729"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458778_23dc7f5a9d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458778_c6150e9163_o.png",
+      "id_image": "instrument_2270966"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388932_56a33fa6f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388932_e05d20f734_o.png",
+      "id_image": "instrument_2504135"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699149_90ef61b206_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699149_157fd5856f_o.png",
+      "id_image": "instrument_5015957"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081515_8b607dc20a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081515_aaa25bbe95_o.png",
+      "id_image": "instrument_805327"
+    }
+  ]
+}

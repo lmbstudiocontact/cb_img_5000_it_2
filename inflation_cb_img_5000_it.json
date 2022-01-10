@@ -1,0 +1,82 @@
+{
+  "english": "inflation",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lạm phát",
+          "definition": "a situation in country’s economy where prices and wages keep forcing each other to increase",
+          "world_new": [
+            "situation",
+            "economy",
+            "keep",
+            "increase"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Inflation has risen to 3.5%."
+            }
+          ]
+        },
+        {
+          "mean_english": "sự bơm phồng",
+          "definition": "the process of inflating or being inflated.",
+          "world_new": [
+            "process"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Most of the developing countries were experiencing deep economic problems such as slow growth, economic stagnation, and high inflation.",
+    "Figure 3 shows that the optimal volatility of inflation decreases when the elasticity of demand increases (the markup decreases).",
+    "One simply has to add a model containing both lagged output and lagged inflation to the two models considered thus far.",
+    "The initial inflation target was 3% until the end of 1992 and then it was reduced to 2% in 1993 until the end of 1995.",
+    "But, as soon as the war ended, social unrest spread rapidly because of fierce inflation and other factors.",
+    "For simplicity, the inflation rate, the money growth rate, and the output growth rate are assumed to be zero in the steady-state.",
+    "Note that all variables except for the interest and inflation rates are in logarithms and refer to deviations from some exogenous equilibrium (growth path).",
+    "The positive and partly delayed responses of income and inflation are plausible."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "inflammable",
+    "inflammation",
+    "inflatable",
+    "inflate",
+    "inflation",
+    "inflationary",
+    "inflection",
+    "inflectional",
+    "inflexibility"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053300_a6cc5cfc47_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053300_5be0d37f8e_o.png",
+      "id_image": "inflation_1753681"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361152_0500cb2922_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361152_ce392d5e52_o.png",
+      "id_image": "inflation_2361928"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316876_72fa2c9ff6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316876_ee2b25ba1e_o.png",
+      "id_image": "inflation_3310646"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431883_a00926e20c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431883_caa3140d9c_o.png",
+      "id_image": "inflation_5116485"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053255_ef8736a68b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053255_31c0949106_o.png",
+      "id_image": "inflation_6203227"
+    }
+  ]
+}

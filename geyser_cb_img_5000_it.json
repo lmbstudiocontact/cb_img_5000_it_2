@@ -1,0 +1,84 @@
+{
+  "english": "geyser",
+  "phat_am": "ˈɡiːzə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "suối nước nóng",
+          "definition": "an underground spring that produces and sends out hot water and steam",
+          "world_new": [
+            "underground",
+            "spring",
+            "hot",
+            "water",
+            "steam"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There are geysers in Iceland and New Zealand."
+            }
+          ]
+        },
+        {
+          "mean_english": "thùng đun nước nóng",
+          "definition": "a small gas or electric water heater in a bathroom, kitchen etc.",
+          "world_new": [
+            "small",
+            "gas",
+            "electric",
+            "water",
+            "heater",
+            "bathroom",
+            "kitchen"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Geysers erupt at a rate of about one a day during peak springtime season.",
+    "During a day and a half of exploration they named seven geysers they observed erupting.",
+    "Five groups of hydrothermal features comprise the basin, and all of them contain geysers, although some are dormant.",
+    "The affected geysers have returned to their previous pattern since that time, however.",
+    "Common land types include hot springs, fumaroles and geysers.",
+    "However, the geysers may erupt at any time.",
+    "Geysers and hot springs are distributed all over the island.",
+    "The hydrothermal system that supplies the geysers with hot water sits within an ancient active caldera."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "get/have the upper hand (of/over someone)",
+    "get/keep on the right side of",
+    "get/set to work",
+    "getaway",
+    "geyser",
+    "ghastliness",
+    "ghastly",
+    "ghetto",
+    "ghost"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689089_226e8affb9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689089_6fb6603635_o.png",
+      "id_image": "geyser_1079136"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448953_be25945154_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448953_d12c6b932e_o.png",
+      "id_image": "geyser_1208501"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689109_77ee4d6240_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689109_fe1d613a8f_o.png",
+      "id_image": "geyser_471520"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070940_cdd6316db5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070940_97835d8322_o.png",
+      "id_image": "geyser_6253512"
+    }
+  ]
+}

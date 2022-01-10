@@ -1,0 +1,89 @@
+{
+  "english": "hoe",
+  "phat_am": "həu",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái cuốc",
+          "definition": "a long-handled tool with a metal blade used for removing or destroying weeds etc",
+          "world_new": [
+            "tool",
+            "metal",
+            "blade"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a garden hoe.",
+              "world_new": [
+                "garden"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cuốc; xới",
+          "definition": "to use a hoe eg to remove or destroy weeds",
+          "world_new": [
+            "remove",
+            "destroy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This morning I hoed the garden/weeds.",
+              "world_new": [
+                "morning",
+                "I"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Then we come to a description of hoe telescopes see into space.",
+    "Tubers were harvested by digging with a hoe.",
+    "The ten-row spatial arrangement allowed the use of the innovative precision hoeing machine, while a conventional hoeing machine was adopted in the standard system.",
+    "Farmers mostly used a digging hoe for land preparation.",
+    "The second unsatisfactory feature is the ad hoe introduction of kinetic effects by a mean free path approach.",
+    "During hand hoeing only the top 40+50 mm of soil was disturbed and the ground was walked over to give a -at compacted surface.",
+    "The digging hoe (toyle) is a common traditional tool and most commonly used.",
+    "The hoe-type drill used in the two last seasons alleviated these problems since both seeds and fertilizers were banded in the 5+10 cm layer."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "hobo",
+    "hock",
+    "hockey",
+    "hocus-pocus",
+    "hoe",
+    "hog",
+    "hogwash",
+    "hoist",
+    "hold"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450428_114cca1e28_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450428_6499b6356d_o.png",
+      "id_image": "hoe_2259581"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335416_c366a850a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335416_22cdd4fc37_o.png",
+      "id_image": "hoe_3317554"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072290_74ec67fcbb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072290_644b381320_o.png",
+      "id_image": "hoe_3762925"
+    }
+  ]
+}

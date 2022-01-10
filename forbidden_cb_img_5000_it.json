@@ -1,0 +1,59 @@
+{
+  "english": "forbidden",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "cấm",
+          "definition": "not allowed",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Smoking is forbidden."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "forage",
+    "forbearance",
+    "forbearing",
+    "forbid",
+    "forbidden",
+    "forbidding",
+    "force",
+    "force someone’s hand",
+    "forced"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316431_e38fa8b69f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316431_8acb88a2b3_o.png",
+      "id_image": "forbidden_3387251"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360637_519eac2591_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360637_477b77d293_o.png",
+      "id_image": "forbidden_3806358"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360602_55f36ba821_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360602_b172b5dff9_o.png",
+      "id_image": "forbidden_4413860"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316346_23792a9342_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316346_1129d5737c_o.png",
+      "id_image": "forbidden_4470169"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431198_27eb2e149b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431198_f585de7f10_o.png",
+      "id_image": "forbidden_5318978"
+    }
+  ]
+}

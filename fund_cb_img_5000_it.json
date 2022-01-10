@@ -1,0 +1,124 @@
+{
+  "english": "fund",
+  "phat_am": "fand",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quĩ",
+          "definition": "a sum of money for a special purpose",
+          "world_new": [
+            "sum",
+            "money",
+            "special",
+            "purpose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Have you given any money to the village hall repair fund?",
+              "world_new": [
+                "money",
+                "village",
+                "hall",
+                "repair"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kho hay nguồn dự trữ cái gì",
+          "definition": "a store or supply",
+          "world_new": [
+            "store",
+            "supply"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has a fund of funny stories.",
+              "world_new": [
+                "funny"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tài trợ",
+          "definition": "to provide money for something that costs a lot",
+          "world_new": [
+            "provide",
+            "money",
+            "costs"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The film festival is funded by a drinks company.",
+              "world_new": [
+                "film",
+                "festival",
+                "company"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Despite this increase in the number of schemes, social risks were not separated into different trust funds.",
+    "This research falls under two main themes (i) assessing the societal value of orphan drugs and (ii) funding the development and use of orphan drugs.",
+    "It is only reasonable to require an investment to yield a return at least as high as that on the alternative use of funds.",
+    "We treat corporate pension funds and industry-wide pension funds together due to their similar nature.",
+    "Accordingly, we ignore the corporate governance effects that could stem from the pension funds' role as debt-holders.",
+    "Finally, we discuss the values that provide the context for the development of approaches to funding which affect the scope and direction of our research.",
+    "The remaining funds of (1xb) must be invested in the riskless asset to ensure that the total position is riskless.",
+    "Apparently, these types of pension funds are able to manage their investment more efficiently than the other categories : industry funds have lower costs."
+  ],
+  "list_see_also": [
+    "funds",
+    "funding"
+  ],
+  "list_browse": [
+    "fun and games",
+    "function",
+    "function key",
+    "functional",
+    "fund",
+    "fundamental",
+    "fundamentalism",
+    "fundamentalist",
+    "fundamentally"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387507_012c458ee0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387507_d9e28d7be0_o.png",
+      "id_image": "fund_1753697"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342421_9dcc744f54_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342421_83119c0dcb_o.png",
+      "id_image": "fund_2176973"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079905_c5ebe01fd2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079905_fba6688070_o.png",
+      "id_image": "fund_4234512"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079855_23373574eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079855_f0ea350948_o.png",
+      "id_image": "fund_4514863"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697574_d34baa5b15_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697574_432d1a9bcc_o.png",
+      "id_image": "fund_6001178"
+    }
+  ]
+}

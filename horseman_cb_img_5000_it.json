@@ -1,0 +1,61 @@
+{
+  "english": "horseman",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "kỵ sĩ",
+          "definition": "a rider, especially a skilled one",
+          "world_new": [
+            "rider",
+            "skilled"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She is a very competent horsewoman.",
+              "world_new": [
+                "competent"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The speed of the horseman must be limited by the power of his horse.",
+    "The second, third and fourth horsemen (on red, black and pale horses) are clearly associated with war, famine and death.",
+    "This is because ancient horsemen, by way of compensating for their lack of this device, sat farther back on their mounts.",
+    "Better dead than badly turned-out was the view of the old-time horseman!",
+    "According to many horsemen and veterinarians, excessive tight-reining of a horse reportedly damaged its windpipe and significantly shortened its life, in addition to purportedly causing severe discomfort.",
+    "Unlike these riders, most of us are not horsemen now, but we remain indebted to horsemen for what they have contributed to the language.",
+    "I don't know what happened to the horseman.",
+    "Parties of 50-60 horsemen are sent out, who surround the villagers while employed on their farms, capturing them, and eventually exchanging them in the interior for horses c."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "horse chestnut",
+    "horse-box",
+    "horsefly",
+    "horsehair",
+    "horseman",
+    "horsemanship",
+    "horseplay",
+    "horsepower",
+    "horseshoe"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686404_cd3fa477af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686404_1935f0b7f7_o.png",
+      "id_image": "horseman_1354463"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376042_230d2fe985_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376042_a2e6b91588_o.png",
+      "id_image": "horseman_1499919"
+    }
+  ]
+}

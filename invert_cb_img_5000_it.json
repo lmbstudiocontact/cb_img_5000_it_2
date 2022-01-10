@@ -1,0 +1,67 @@
+{
+  "english": "invert",
+  "phat_am": "inˈvəːt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đảo ngược",
+          "definition": "to turn upside down or reverse the order of",
+          "world_new": [
+            "turn",
+            "reverse",
+            "order"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Mix the contents of the jar by inverting it several times.",
+              "world_new": [
+                "contents",
+                "jar",
+                "times"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "As the whiteflies recovered from anaesthesia, the leaf punches were inverted so that the whiteflies orientated normally.",
+    "Rather than reinforcing patriarchy it could be argued that he occupied a role that inverted it in order to serve capitalism.",
+    "However, a commentator capable of producing such ambiguities is just as capable of inverting the order of speed assignments for the standard reconstruction.",
+    "There are many examples of unexpected and unnoticed artificial illumination from below, however, that can perceptually invert the scene.",
+    "The index has been inverted so that higher scores signify more leftist government.",
+    "The method of transforming the variables, followed by a solution in spectral space, will invert it to machine precision, which may be an important advantage.",
+    "It was then inverted several times periodically over the course of several days until all of the dye had dissolved.",
+    "At operation the grossly regurgitant left-sided morphologically tricuspid valve was replaced by a \"top-hat\" inverted aortic valve homograft."
+  ],
+  "list_see_also": [
+    "inversion",
+    "inverted commas"
+  ],
+  "list_browse": [
+    "inventiveness",
+    "inventor",
+    "inventory",
+    "inversion",
+    "invert",
+    "invertebrate",
+    "inverted commas",
+    "invest",
+    "investigate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339486_b0335ffff6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339486_c91044fcfe_o.png",
+      "id_image": "invert_1042424"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694664_b3c45cc5e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694664_af2268d7e8_o.png",
+      "id_image": "invert_5798175"
+    }
+  ]
+}

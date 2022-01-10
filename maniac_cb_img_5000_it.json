@@ -1,0 +1,42 @@
+{
+  "english": "maniac",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người điên",
+          "definition": "an insane (and dangerous) person; madman",
+          "world_new": [
+            "insane"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He drives like a maniac."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "manhandle",
+    "manhole",
+    "manhood",
+    "mania",
+    "maniac",
+    "manic",
+    "manicure",
+    "manicurist",
+    "manifest"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370792_0f95faf9f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370792_ffec31e66d_o.png",
+      "id_image": "maniac_3590166"
+    }
+  ]
+}

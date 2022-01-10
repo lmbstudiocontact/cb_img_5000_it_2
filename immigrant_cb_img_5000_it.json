@@ -1,0 +1,80 @@
+{
+  "english": "immigrant",
+  "phat_am": "ˈimiɡrənt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhập cư",
+          "definition": "(a person) who has come into a foreign country to live there permanently, not as a tourist or visitor",
+          "world_new": [
+            "foreign",
+            "country",
+            "live",
+            "permanently",
+            "tourist",
+            "visitor"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The eastern part of the city is inhabited by immigrants",
+              "world_new": [
+                "eastern",
+                "part",
+                "city"
+              ]
+            },
+            {
+              "ex_of_definition": "the immigrant population.",
+              "world_new": [
+                "population"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The vibrant immigrant life amidst such poverty and difficulties is apparent.",
+    "The regression analyses point to the importance of governmental support programmes among both men and women immigrants, though the patterns differ.",
+    "This article focuses on one aspect of the immigrant older person's experience and situation, their perceptions about filial obligations.",
+    "Migrations and forced population movements had been followed by steady settlement by veterans and immigrants from elsewhere in the empire.",
+    "The immigrants insisted that others should join them at their earliest opportunity.",
+    "Overall, immigrant policy programs have demonstrated remarkable stability.",
+    "Attitudes towards immigrants were thus used as a control measure.",
+    "Thus, this group of immigrants was at particular risk for psychological distress."
+  ],
+  "list_see_also": [
+    "immigration"
+  ],
+  "list_browse": [
+    "immerse",
+    "immersion",
+    "immersion heater",
+    "immersion programme",
+    "immigrant",
+    "immigration",
+    "imminence",
+    "imminent",
+    "immiscible"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059140_85b3f3187d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059140_5aa1636ba2_o.png",
+      "id_image": "immigrant_2061482"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677394_a5728d221f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677394_791c900658_o.png",
+      "id_image": "immigrant_3382522"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058960_080d3bd94d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058960_3145462c3b_o.png",
+      "id_image": "immigration_5965823"
+    }
+  ]
+}

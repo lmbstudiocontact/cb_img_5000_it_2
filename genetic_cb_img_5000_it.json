@@ -1,0 +1,65 @@
+{
+  "english": "genetic",
+  "phat_am": "dʒəˈnetik",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc di truyền học",
+          "definition": "of genes or genetics",
+          "world_new": [
+            "genetics"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a genetic abnormality.",
+              "world_new": [
+                "abnormality"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The characterization of genetic factors underlying ontogenetic trajectories from our model helps to unravel the origin of morphological novelties.",
+    "In many cases, these measures declined substantially with relatively small increases in genetic distance.",
+    "Probably, in species with a worldwide distribution, genetic changes may occur as populations adapt to new regions.",
+    "Empirical studies on the speed of convergence of neural network training using genetic algorithms.",
+    "These improvements in the outcome of pregnancy, nonetheless, concomitantly increase the genetic risk in the surviving population.",
+    "On the other hand, there is a substantial amount of phenotypic covariance, and genetic and shared environmental influences contribute substantially to this overlap.",
+    "Thus, although there would be third-party collaboration, it would not involve the difficulties typically associated with third-party genetic parentage. 40.",
+    "Again, in this application the theory simplifies because of lack of a paternal genetic effect on the fruits (tomatoes are almost purely maternal tissue)."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "generosity",
+    "generous",
+    "generously",
+    "genesis",
+    "genetic",
+    "genetic engineering",
+    "genetically modified",
+    "genetics",
+    "genial"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380807_27d1931e86_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380807_7cc4e648ff_o.png",
+      "id_image": "genetic_2191468"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690964_c2fc01a0e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690964_a0108edd49_o.png",
+      "id_image": "genetic_2233624"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335676_27316c9b41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335676_10fcb7c124_o.png",
+      "id_image": "genetic_4061294"
+    }
+  ]
+}

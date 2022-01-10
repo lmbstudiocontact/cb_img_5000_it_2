@@ -1,0 +1,101 @@
+{
+  "english": "kit",
+  "phat_am": "kit",
+  "list_english": [
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "quân trang",
+          "definition": "(an outfit of) tools, clothes etc for a particular purpose",
+          "world_new": [
+            "outfit",
+            "clothes",
+            "particular",
+            "purpose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He carried his tennis kit in a bag",
+              "world_new": [
+                "tennis",
+                "bag"
+              ]
+            },
+            {
+              "ex_of_definition": "a repair kit for mending punctures in bicycle tyres.",
+              "world_new": [
+                "repair",
+                "mending",
+                "bicycle"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bộ đồ nghề",
+          "definition": "a collection of the materials etc required to make something",
+          "world_new": [
+            "collection"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He bought a model aeroplane kit.",
+              "world_new": [
+                "model",
+                "aeroplane"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Each product was sequenced in both the directions and appropriate kit controls were used with each reaction.",
+    "Based on the validation exercise, immunoassay test kits were used for on-site delineation and confirmatory testing during site remediation.",
+    "Possibly the concept of value as approached here could be one of the items in such a tool kit.",
+    "It seems clear that the kit items that occupy the front part of the overall distribution are those that are followed by a velar consonant.",
+    "For example, for the word cat, both mat and flat are rime neighbors, cap and catch are body neighbors, and kit is a consonant neighbor.",
+    "The low concentration detected by the field test kit could be attributed to the high moisture content or sample heterogeneity.",
+    "Structure of the active core of human stem cell factor and analysis of binding to its receptor kit.",
+    "These are off-site determinations, the use of on-site test kits or equivalent simple procedures, and the deployment of a mobile laboratory."
+  ],
+  "list_see_also": [
+    "kitbag",
+    "kit out"
+  ],
+  "list_browse": [
+    "kiosk",
+    "kipper",
+    "kiss",
+    "kiss of life",
+    "kit",
+    "kit out",
+    "kitbag",
+    "kitchen",
+    "kitchenette"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326656_7c7f605a70_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326656_87b62297f9_o.png",
+      "id_image": "kit_1338976"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681674_dfe1975c73_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681674_930d5d704c_o.png",
+      "id_image": "kit_2535563"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681664_6d0fcb4192_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681664_466f091621_o.png",
+      "id_image": "kit_4275712"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063425_e7d04d027d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063425_4dc743d453_o.png",
+      "id_image": "kit_4310377"
+    }
+  ]
+}

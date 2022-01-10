@@ -1,0 +1,68 @@
+{
+  "english": "journalism",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nghề báo chí",
+          "definition": "the business of running, or writing for, newspapers or magazines",
+          "world_new": [
+            "business",
+            "running"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "investigative journalism."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "At mid-century, journalism was attracting enterprising authors who learned how to profit from its fluid, dynamic nature.",
+    "His interests include journalism, language testing, and translation.",
+    "By the end of the 19th century the dividing line between journalism and literature was still clear in theory but quite invisible in practice.",
+    "The inhibitions here have not been grounded in ideas of propriety or legal requirement, like those of journalism.",
+    "He is the kind of hybrid analyst who can blend scholarship, journalism, and art with an impressive command over his subjects.",
+    "In addition, forums allowed participants an opportunity to discuss the role of journalism in science education.",
+    "Oral versus written history and historicity are discussed - but not the significance of other oral arts, not journalism or other non-fiction writing.",
+    "He demonstrates the crucial role of journalism and new communication technologies in negotiating the role between readers, the market and ways of knowing."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "jot",
+    "jotter",
+    "joule",
+    "journal",
+    "journalism",
+    "journalist",
+    "journalistic",
+    "journey",
+    "jovial"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069125_c98d1f900c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069125_e98f80f6c0_o.png",
+      "id_image": "journalism_1354765"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377097_781328b9ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377097_1a906fcf3e_o.png",
+      "id_image": "journalism_4459192"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687289_40c5e4cd79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687289_ef29ecff81_o.png",
+      "id_image": "journalism_6182848"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069005_e6cc718ac9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069005_87f2d202ec_o.png",
+      "id_image": "journalism_6316004"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "english": "listen",
+  "phat_am": "ˈlisn",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "lắng nghe",
+          "definition": "(often with to) to give attention so as to hear (what someone is saying etc)",
+          "world_new": [
+            "attention",
+            "hear"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I told her three times, but she wasn’t listening",
+              "world_new": [
+                "I",
+                "times"
+              ]
+            },
+            {
+              "ex_of_definition": "Do listen to the music!",
+              "world_new": [
+                "music"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nghe theo",
+          "definition": "(with to) to follow the advice of",
+          "world_new": [
+            "follow",
+            "advice"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "If she’d listened to me, she wouldn’t have got into trouble.",
+              "world_new": [
+                "trouble"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "By and large, this course: ...aims to help pupils to develop the four language skills: reading, listening, speaking and writing.",
+    "They are given listening or reading tasks that require them to pay attention to the form of the target structure and process its meaning.",
+    "He sometimes preached to congregations of some two to three thousand who listened to him with\" much attention and willingness\".",
+    "Seeing is prosaic, listening poetic19 - and 'no colour can ever be as romantic as a tone'.",
+    "In this task, the child listened as the experimenter said a pair of words and was asked to report the shared sound.",
+    "The children listened to 20 pseudoword items of one syllable, each comprising one to three phonemes.",
+    "He listens for the right word like a musician listening for the right note.",
+    "Ask the student to create a graphic score of a piece while listening to it."
+  ],
+  "list_see_also": [
+    "listener",
+    "listen in on"
+  ],
+  "list_browse": [
+    "liquorice",
+    "lira",
+    "lisp",
+    "list",
+    "listen",
+    "listen in on",
+    "listen to reason",
+    "listener",
+    "listless"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695294_9b2491be47_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695294_81221f967d_o.png",
+      "id_image": "listen_2368580"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077295_4cf2b774b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077295_8660c6abeb_o.png",
+      "id_image": "listen_2643572"
+    }
+  ]
+}

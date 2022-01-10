@@ -1,0 +1,73 @@
+{
+  "english": "funnel",
+  "phat_am": "ˈfanl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái phễu",
+          "definition": "a tube which is wide-mouthed at one end and narrow-mouthed at the other through which liquid can be poured into a narrow bottle etc",
+          "world_new": [
+            "tube",
+            "liquid",
+            "narrow",
+            "bottle"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You will need a funnel if you are going to pour petrol into that can.",
+              "world_new": [
+                "pour",
+                "petrol"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phần dưới ống khói",
+          "definition": "a chimney on a ship etc through which smoke escapes.",
+          "world_new": [
+            "chimney",
+            "ship",
+            "smoke"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Quite soon everybody will be funnelling themselves through the tunnel and not even going by air.",
+    "The solventmediated hydrophilic interaction plays a key role in determining the structural specificity of globular proteins and contributes to their funneled energy landscape.",
+    "The relief road funnels the traffic instead of moving it.",
+    "From levintal to pathways to funnels.",
+    "Too much is funnelled through the south-east at present.",
+    "In addition, six collectors (polyethylene funnels 15 cm in diameter) were installed in open areas for direct rainfall measurements.",
+    "The city council introduced a ban on heavy traffic in certain areas but this has funnelled it through other areas, causing havoc and great distress.",
+    "The same typically applies to schools, where most of the resources of special education and behavior management are funneled into middle and high schools, rather than elementary schools or preschools."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "fungicide",
+    "fungus",
+    "funicular",
+    "funk",
+    "funnel",
+    "funnily",
+    "funny",
+    "fur",
+    "furious"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696824_0cd9fb8364_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696824_072b581c27_o.png",
+      "id_image": "funnel_1295794"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696809_447ac3ff05_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696809_0361b54f6f_o.png",
+      "id_image": "funnel_2503693"
+    }
+  ]
+}

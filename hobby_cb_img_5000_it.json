@@ -1,0 +1,80 @@
+{
+  "english": "hobby",
+  "phat_am": "ˈhobi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sở thích",
+          "definition": "something a person enjoys doing (usually frequently) in his/her spare time and not for pay",
+          "world_new": [
+            "person",
+            "spare",
+            "time",
+            "pay"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Stamp-collecting is a popular hobby.",
+              "world_new": [
+                "popular"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They neglected their homework and had no hobbies.",
+    "In lines 23 -30, he explains his entrance into the field of electronics through an account of personal hobbies and friendships.",
+    "People live active lives far beyond retirement; our families, friends, hobbies, and sometimes professional careers, too, continue to make our lives worthwhile.",
+    "Gardening, too, was a favourite hobby, but neither swimming nor bicycling were as popular as might be expected.",
+    "Similarly, friends may call or special hobbies may be taken up which will compensate for the loss of stimulation.",
+    "The health effects of solitary leisure activities, such as mainly home-based hobbies or watching television, are however inconclusive.",
+    "The decrease in hobby activities was only seen among women.",
+    "How long have you had this hobby for?"
+  ],
+  "list_see_also": [
+    "hobby-horse"
+  ],
+  "list_browse": [
+    "hoarseness",
+    "hoax",
+    "hob",
+    "hobble",
+    "hobby",
+    "hobby-horse",
+    "hobo",
+    "hock",
+    "hockey"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690919_2903b2e73e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690919_40148f2573_o.png",
+      "id_image": "hobby_4968155"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335661_b03de8d69e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335661_d320bcccd0_o.png",
+      "id_image": "hobby_6133474"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690849_5bf937c408_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690849_efbab81b19_o.png",
+      "id_image": "hobby_6133495"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072515_000ca3a55f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072515_d516c04e7c_o.png",
+      "id_image": "hobby_6133509"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335566_b6c8ed27ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335566_fe12439cd0_o.png",
+      "id_image": "hobby_6133516"
+    }
+  ]
+}

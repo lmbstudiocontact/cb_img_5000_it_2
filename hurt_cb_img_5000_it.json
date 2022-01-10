@@ -1,0 +1,160 @@
+{
+  "english": "hurt",
+  "phat_am": "həːt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm bị thương",
+          "definition": "to injure or cause pain to",
+          "world_new": [
+            "injure",
+            "cause",
+            "pain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I hurt my hand on that broken glass.",
+              "world_new": [
+                "I",
+                "my",
+                "hand",
+                "broken",
+                "glass"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xúc phạm",
+          "definition": "to upset (a person or his feelings)",
+          "world_new": [
+            "upset",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He hurt me / my feelings by ignoring me.",
+              "world_new": [
+                "my"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bị đau",
+          "definition": "to be painful",
+          "world_new": [
+            "painful"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My tooth hurts.",
+              "world_new": [
+                "tooth"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm hại",
+          "definition": "to do harm (to) or have a bad effect (on)",
+          "world_new": [
+            "harm",
+            "bad",
+            "effect"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It wouldn’t hurt you to work late just once.",
+              "world_new": [
+                "work",
+                "once"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "buồn; tổn thương",
+          "definition": "upset; distressed",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She felt very hurt at/by his behaviour",
+              "world_new": [
+                "felt",
+                "behaviour"
+              ]
+            },
+            {
+              "ex_of_definition": "her hurt feelings."
+            }
+          ]
+        },
+        {
+          "mean_english": "bị thương",
+          "definition": "injured",
+          "world_new": [
+            "injured"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Are you badly hurt?",
+              "world_new": [
+                "badly"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The continued careless, gratuitous use of terms such as biorobotics or biomimetic robots only hurts this fascinating and promising field of research by undermining its credibility.",
+    "There are many other less objectionable methods of raising revenue without hurting industry.",
+    "Let us hit those who are offending where it really hurts; that is, in the pocket.",
+    "Each side lives in a different psychological reality fixated on its own historical hurts, losses, and injuries.",
+    "There are a great many small men, and it hurts them very much if the yield is below average.",
+    "Relations worsened as economic conditions declined, hurting the already-suffering urban and rural poor.",
+    "Hitting a child was also assessed with questions about hitting or otherwise hurting a child out of anger, with follow-up questions ruling out situations of physical discipline.",
+    "305 or one's partner, thus dismissing threats and hurts to oneself."
+  ],
+  "list_see_also": [
+    "hurtful",
+    "hurtfully",
+    "hurtfulness"
+  ],
+  "list_browse": [
+    "hurried",
+    "hurriedly",
+    "hurry",
+    "hurry up",
+    "hurt",
+    "hurtful",
+    "hurtfully",
+    "hurtfulness",
+    "hurtle"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441698_747b0e5db4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441698_1b792de0bb_o.png",
+      "id_image": "hurt_214241"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063550_b0d6148897_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063550_cd5d5a5035_o.png",
+      "id_image": "hurt_3362282"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441598_7e757544f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441598_3e022cc055_o.png",
+      "id_image": "hurt_3561448"
+    }
+  ]
+}

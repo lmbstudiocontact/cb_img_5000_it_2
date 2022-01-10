@@ -1,0 +1,101 @@
+{
+  "english": "graduation",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự tốt nghiệp",
+          "definition": "the act or ceremony of graduating from a college, university etc",
+          "world_new": [
+            "act",
+            "ceremony",
+            "college",
+            "university"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The graduation will be held in the large hall",
+              "world_new": [
+                "large",
+                "hall"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a graduation ceremony.",
+              "world_new": [
+                "ceremony"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chia từng độ",
+          "definition": "a marked division",
+          "world_new": [
+            "marked",
+            "division"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the graduations on a thermometer.",
+              "world_new": [
+                "thermometer"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In this analysis, educational levels were grouped into secondary school graduation or less versus higher than secondary-school graduation.",
+    "One participant, also a teacher in a music college, remarked that only 3% of music college graduates are accepted into orchestras upon graduation.",
+    "The graduation of the procedure, which could encompass hundreds of sessions, served, in addition to this epistemic goal, to discipline recalcitrant patients.",
+    "Looking at our graduates as a whole, the median time of marriage for men was 2 years after graduation, and for women 3 years after.",
+    "The women grieved for things like not being around for their children's life events such as marriages, graduations, and having babies.",
+    "For most of the time, graduation was an unnecessary hurdle.",
+    "Predictors of first onset and recurrence of major depression in young women during the five years following high school graduation.",
+    "The father who tells his daughter on her graduation day that it is nothing special to have a degree is surely missing something."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "gradient",
+    "gradual",
+    "gradually",
+    "graduate",
+    "graduation",
+    "graffiti",
+    "graft",
+    "grain",
+    "gram"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441268_640009615a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441268_d9685e9bc9_o.png",
+      "id_image": "graduation_401558"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441158_594c0abf0a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441158_8ac1209a37_o.png",
+      "id_image": "graduation_4334764"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370937_8e17c0f35b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370937_1247c4a3c9_o.png",
+      "id_image": "graduation_4832351"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063150_ba00a2ca95_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063150_cf9ac87c7d_o.png",
+      "id_image": "graduation_769654"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371007_30c54a29ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371007_a47b7945d6_o.png",
+      "id_image": "graduation_859969"
+    }
+  ]
+}

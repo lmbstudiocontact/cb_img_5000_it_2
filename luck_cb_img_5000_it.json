@@ -1,0 +1,90 @@
+{
+  "english": "luck",
+  "phat_am": "lak",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự may mắn",
+          "definition": "the state of happening by chance",
+          "world_new": [
+            "state",
+            "happening",
+            "chance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Whether you win or not is just luck – there’s no skill involved.",
+              "world_new": [
+                "win",
+                "skill",
+                "involved"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vận đỏ",
+          "definition": "something good which happens by chance",
+          "world_new": [
+            "chance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She has all the luck!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "First, there is the familiar issue of causation luck.",
+    "I think a certain sub-editor must be pushing his luck.",
+    "Whether a widow survived in poverty or prosperity was a matter of luck and the laws of inheritance.",
+    "On these days, people add kusmeti (literally lucks, meaning fortunes, lucky charms) into the banitsa.",
+    "On the contrary, the factory often provided steady work, a stable wage and a world in which with a little luck one could ascend.",
+    "Hurley shows only that some ways to specify or justify luck-egalitarianism are incorrect, not that luck-egalitarianism is incorrect.",
+    "Sailors say a sure sign of bad weather or luck.",
+    "A little luck or some extra effort should be enough."
+  ],
+  "list_see_also": [
+    "luckless",
+    "lucky",
+    "luckily",
+    "luckiness",
+    "lucky dip",
+    "bad luck!",
+    "good luck!",
+    "worse luck!"
+  ],
+  "list_browse": [
+    "Ltd",
+    "lubricant",
+    "lubricate",
+    "lubrication",
+    "luck",
+    "luckily",
+    "luckiness",
+    "luckless",
+    "lucky"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688379_5344ecc716_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688379_bf661254d6_o.png",
+      "id_image": "luck_1409022"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688409_551cb3fa84_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688409_548ea8b058_o.png",
+      "id_image": "luck_305496"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070165_2c340ecaf7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070165_f66dbb7c02_o.png",
+      "id_image": "luck_3159017"
+    }
+  ]
+}

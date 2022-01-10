@@ -1,0 +1,74 @@
+{
+  "english": "hat",
+  "phat_am": "hӕt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mũ",
+          "definition": "a covering for the head, usually worn out of doors",
+          "world_new": [
+            "covering",
+            "head",
+            "worn"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He raised his hat as the lady approached.",
+              "world_new": [
+                "lady"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Another young man in the wider semicircle wore a baseball hat.",
+    "These usually exhibited manufactured goods, both local and imported, such as ready-made clothes, shoes, hats, crystal, leather goods or artistic crafts like photographs and pottery.",
+    "Eventually they come to an agreement that the wife will disguise herself as a child by putting on a straw hat decorated with flowers.",
+    "These scholars increasingly appear to be wearing two hats - that of their 'primary ' discipline and that of human rights scholar.",
+    "It wore a hat, conical, like a soft clown's hat, and a bulky jerkin.",
+    "We can take off the hat of the imperious decisionmaker with the moral imperative to preserve life at almost any cost.",
+    "We funnel the direction together, sharing the hats of composer and engineer in solving these problems.",
+    "Settlers and colonial officials often associated hat wearing with insolence."
+  ],
+  "list_see_also": [
+    "hatter",
+    "hat trick",
+    "keep (something) under one’s hat",
+    "pass/send round the hat",
+    "take one’s hat off to",
+    "talk through one’s hat"
+  ],
+  "list_browse": [
+    "hasten",
+    "hastily",
+    "hastiness",
+    "hasty",
+    "hat",
+    "hat trick",
+    "hatch",
+    "hatchet",
+    "hatchway"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698689_dc89542e74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698689_9e6181621e_o.png",
+      "id_image": "hat_119164"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388412_18b2b43b61_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388412_548056d2a9_o.png",
+      "id_image": "hat_288593"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698654_d8279dbec0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698654_56680292c2_o.png",
+      "id_image": "hat_292020"
+    }
+  ]
+}

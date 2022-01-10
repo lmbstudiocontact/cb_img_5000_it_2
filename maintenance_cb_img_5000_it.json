@@ -1,0 +1,86 @@
+{
+  "english": "maintenance",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự bảo dưỡng",
+          "definition": "the process of keeping something in good condition",
+          "world_new": [
+            "process",
+            "keeping",
+            "condition"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "car maintenance.",
+              "world_new": [
+                "car"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "việc giữ gìn",
+          "definition": "the act of maintaining (a point of view etc).",
+          "world_new": [
+            "act",
+            "point",
+            "view"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Operating and maintenance cost is fully covered by the volumetric charge.",
+    "A problem, in the avoidance of surgery, is the maintenance of pulmonary blood flow in the neonates.",
+    "The engineering task is to analyze and evaluate valve behavior during plant operation and recommend a maintenance and repair plan.",
+    "Consolidation may be dependent upon maintaining bindings in an active state, but maintenance in an active state does not require consolidation operations.",
+    "The many different types of maintenance makes it difficult to make a precise comparison of the level of different forms.",
+    "As discussed under point 2, attention and maintenance in working memory may be necessary for the acquisition of complex structures involving discontinuous dependencies.",
+    "The analysis of brain sources indicated that maintenance of visuospatial information involves sustained activation in both prefrontal cortex and posterior visual processing systems.",
+    "In order to0 provide them with maintenance and protection."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "mainly",
+    "mainspring",
+    "mainstream",
+    "maintain",
+    "maintenance",
+    "maisonette",
+    "maize",
+    "majestic",
+    "majestically"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065365_cfe35d1bfe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065365_9371613d44_o.png",
+      "id_image": "maintenance_1012345"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373282_f79e21c71d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373282_497bfbc92d_o.png",
+      "id_image": "maintenance_1018796"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065310_3d832864a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065310_2c4d57edc8_o.png",
+      "id_image": "maintenance_1060337"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373197_d8d4ecedf7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373197_e7909e8e93_o.png",
+      "id_image": "maintenance_1743614"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683504_fe1ae35b59_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683504_49e928f749_o.png",
+      "id_image": "maintenance_1792321"
+    }
+  ]
+}

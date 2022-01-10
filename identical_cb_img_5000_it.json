@@ -1,0 +1,72 @@
+{
+  "english": "identical",
+  "phat_am": "aiˈdentikəl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "giống hệt",
+          "definition": "the same in every detail",
+          "world_new": [
+            "detail"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They wore identical dresses."
+            }
+          ]
+        },
+        {
+          "mean_english": "đúng",
+          "definition": "the very same",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That is the identical car that I saw outside the bank just before the robbery.",
+              "world_new": [
+                "car",
+                "I",
+                "saw",
+                "outside",
+                "bank",
+                "robbery"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Results are also virtually identical when using a two-way random effects model (data not shown).",
+    "In principle, two tasks can show identical behavioral effects of different manipulations and yet be very different in underlying mechanisms.",
+    "Note that, in this framework, an equal distribution of income would indeed be recommended under the unlikely conditions of people having identical, concave utility functions.",
+    "This occurred even though the targets were in fact identical in size.",
+    "Equivalent realizations under the same experimental conditions are almost identical and individual trajectories compare well with theory.",
+    "This was because of our discovery that in normal development, identical behaviour at two different ages could be sustained by very different underlying representations.",
+    "The procedures used during the two visits were identical, with each session lasting approximately 2 hours.",
+    "The co-occurrence of identical consonants thus presents the limiting case of a more general stochastic constraint on perceived similarity."
+  ],
+  "list_see_also": [
+    "identically",
+    "identicalness"
+  ],
+  "list_browse": [
+    "idealistic",
+    "idealization",
+    "idealize",
+    "ideally",
+    "identical",
+    "identically",
+    "identicalness",
+    "identification",
+    "identify"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439553_6eeaed3162_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439553_b1088ce07d_o.png",
+      "id_image": "identical_1799804"
+    }
+  ]
+}

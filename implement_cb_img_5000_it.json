@@ -1,0 +1,89 @@
+{
+  "english": "implement",
+  "phat_am": "ˈimplimənt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "dụng cụ",
+          "definition": "a tool or instrument",
+          "world_new": [
+            "tool",
+            "instrument"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "kitchen/garden implements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "thi hành",
+          "definition": "to make something start to happen that has been officially decided",
+          "world_new": [
+            "start",
+            "happen",
+            "officially"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The government will implement this policy immediately.",
+              "world_new": [
+                "government",
+                "policy",
+                "immediately"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Most of these recommendations have now been implemented.",
+    "Physical evidence of racial differentiation had to wait until the boom of the 1890s provided sufficient taxation to implement segregated public services.",
+    "This study contains recommendations for the design, analysis, and reporting of economic evaluations that, if implemented, will increase their generalizability.",
+    "Changes in civil registration are seen as an essential condition for implementing other types of changes in the family policy arena.",
+    "Thus, the movement of the implement is limited to a planar motion.",
+    "This makes it difficult to implement the idea that associations apply to increasingly complex representations.",
+    "Perhaps there is some other way of implementing this strategy - but, if so, its nature is not clear to me.",
+    "There exist practical difficulties of actually implementing technology transfers, however."
+  ],
+  "list_see_also": [
+    "implementation"
+  ],
+  "list_browse": [
+    "implacable",
+    "implacably",
+    "implant",
+    "implantation",
+    "implement",
+    "implementation",
+    "implicate",
+    "implication",
+    "implicit"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321156_98f0a13cba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321156_4e476d4938_o.png",
+      "id_image": "implement_2654586"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366057_69769bfddd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366057_8fd152eea4_o.png",
+      "id_image": "implement_4133499"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366017_42551dfcf8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366017_d0a5a30f7d_o.png",
+      "id_image": "implement_5361228"
+    }
+  ]
+}

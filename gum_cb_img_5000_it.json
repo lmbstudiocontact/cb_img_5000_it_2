@@ -1,0 +1,148 @@
+{
+  "english": "gum",
+  "phat_am": "ɡam",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lợi",
+          "definition": "the firm flesh in which the teeth grow",
+          "world_new": [
+            "firm",
+            "flesh",
+            "grow"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His gums were bleeding.",
+              "world_new": [
+                "bleeding"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chất gôm",
+          "definition": "a sticky juice got from some trees and plants.",
+          "world_new": [
+            "sticky",
+            "juice"
+          ]
+        },
+        {
+          "mean_english": "hồ",
+          "definition": "a glue",
+          "world_new": [
+            "glue"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We can stick these pictures into the book with gum.",
+              "world_new": [
+                "stick",
+                "book"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kẹo gôm",
+          "definition": "a type of sweet",
+          "world_new": [
+            "type",
+            "sweet"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a fruit gum.",
+              "world_new": [
+                "fruit"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kẹo cao su",
+          "definition": "chewing gum",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He chews gum when he is working."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "dán",
+          "definition": "to glue with gum",
+          "world_new": [
+            "glue"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Gum the two pieces of paper together.",
+              "world_new": [
+                "paper"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Two classes of fibre exist : cellulose and lignins comprise the insoluble fraction while pectin, guar gum and hemicellulose form the soluble fraction.",
+    "At the time, the chewing gum industry and timber were the most important sources of state revenue.",
+    "Alveolar abscesses are formed by infection that sets in below the gum line.",
+    "Physiologically, the tongue moves forward from the vowel i to the space between lip and gum that features a lowering of the second formant.",
+    "She asked me to remind you, though, that there is to be no gum chewing while you study these rules.",
+    "This was a direct result of increasing international demand of chewing gum.",
+    "Effects on whole saliva of chewing gums containing calcium phosphates.",
+    "My countenance twists cold, a blue gum tree on the coast, blown rough by adversity."
+  ],
+  "list_see_also": [
+    "gumboil"
+  ],
+  "list_browse": [
+    "gullibility",
+    "gullible",
+    "gully",
+    "gulp",
+    "gum",
+    "gumboil",
+    "gumminess",
+    "gummy",
+    "gun"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317746_c43935d8e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317746_6f4fbbb97e_o.png",
+      "id_image": "gum_1075916"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672574_94e5ff56f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672574_f33d392eb4_o.png",
+      "id_image": "gum_119533"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054245_9389784dda_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054245_09df19e7fb_o.png",
+      "id_image": "gum_1398542"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317781_2db44e401c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317781_8756a6a86a_o.png",
+      "id_image": "gum_790628"
+    }
+  ]
+}

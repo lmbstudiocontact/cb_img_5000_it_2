@@ -1,0 +1,77 @@
+{
+  "english": "librarian",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người thủ thư",
+          "definition": "a person who is employed in a library",
+          "world_new": [
+            "person",
+            "employed",
+            "library"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the school librarian.",
+              "world_new": [
+                "school"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They do not necessarily want or need a 1:1 relationship between product and pay, any more than nurses, policemen, teachers, librarians or car-workers do.",
+    "We are told that the librarian was among thefirstto render homage.",
+    "Such orthographic independence creates difficulties for both readers and librarians.",
+    "More importantly, the librarian reassigned the shelf number of the second book at the end of this very inventory.",
+    "Diagonal view from reading room, across central axis towards bookstack bays with librarians' gallery above.",
+    "Resources for parents, teachers and librarians to help them develop the best use of the library.",
+    "Mediated searches are those in which a professional searcher, such as a librarian, aids a searcher in formulating queries.",
+    "The most important application for our mobile manipulator is the librarian robot."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "liberty",
+    "libidinous",
+    "libido",
+    "Libra",
+    "librarian",
+    "library",
+    "licence",
+    "license",
+    "license plate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388692_9881dfc07c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388692_35d9fa28f3_o.png",
+      "id_image": "librarian_1112622"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388662_a1df34b3ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388662_ec5100911c_o.png",
+      "id_image": "librarian_2653830"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388742_d9b1fcfcd2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388742_545b9c300e_o.png",
+      "id_image": "librarian_323961"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081135_fd8126c74f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081135_752c32e586_o.png",
+      "id_image": "librarian_6036779"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343721_471b40e1c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343721_da110c2c3a_o.png",
+      "id_image": "librarian_6182997"
+    }
+  ]
+}

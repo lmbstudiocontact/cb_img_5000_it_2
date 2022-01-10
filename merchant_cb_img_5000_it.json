@@ -1,0 +1,64 @@
+{
+  "english": "merchant",
+  "phat_am": "ˈməːtʃənt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thương gia",
+          "definition": "a trader, especially wholesale, in goods of a particular kind",
+          "world_new": [
+            "trader",
+            "wholesale",
+            "goods",
+            "particular",
+            "kind"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a timber/tea/wine merchant."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "merchant marine/navy/service",
+    "merchant ship"
+  ],
+  "list_browse": [
+    "menu",
+    "MEP",
+    "mercenary",
+    "merchandise",
+    "merchant",
+    "merchant marine/navy/service",
+    "merchant ship",
+    "merciful",
+    "mercifully"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701409_a38dbfcaa4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701409_926723f4c8_o.png",
+      "id_image": "merchant_1100474"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083945_933164a965_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083945_4670e27207_o.png",
+      "id_image": "merchant_2104181"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083920_801c44cc14_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083920_2bff45452a_o.png",
+      "id_image": "merchant_4016132"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461233_03a1a02258_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461233_fa5ac72e96_o.png",
+      "id_image": "merchant_4633140"
+    }
+  ]
+}

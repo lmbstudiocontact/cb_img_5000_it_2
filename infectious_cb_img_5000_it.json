@@ -1,0 +1,61 @@
+{
+  "english": "infectious",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "truyền nhiễm",
+          "definition": "likely to spread to others",
+          "world_new": [
+            "likely",
+            "spread"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Measles is an infectious disease.",
+              "world_new": [
+                "disease"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In spite of their pandemic connection, avian influenza viruses are noninfectious for most species.",
+    "Therefore, these associations offer some support for an infectious aetiology.",
+    "The total rate of potentially infectious contacts is given by the last column, relative to the rate, m, of clearing carriage.",
+    "Infectious mononucleosis is common among young adults, especially in selected populations such as college students and army personnel.",
+    "The composer's considerable melodic and technical skills combined with an infectious sense of fun are much in evidence.",
+    "Prevalence of infectious diseases and associated symptoms in wastewater treatment workers.",
+    "The major focus of this study is deaths from infectious diseases.",
+    "Estimation of effective reproduction numbers for infectious diseases using serological survey data."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "infantry",
+    "infect",
+    "infected",
+    "infection",
+    "infectious",
+    "infectiously",
+    "infer",
+    "inference",
+    "inferior"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316976_6b403b3e56_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316976_57b0269686_o.png",
+      "id_image": "infectious_2756734"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053385_a0b4849952_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053385_a320349858_o.png",
+      "id_image": "infectious_4597399"
+    }
+  ]
+}

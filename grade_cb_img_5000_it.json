@@ -1,0 +1,163 @@
+{
+  "english": "grade",
+  "phat_am": "ɡreid",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mức; loại; cấp",
+          "definition": "one level in a scale of qualities, sizes etc",
+          "world_new": [
+            "level",
+            "scale"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "several grades of sandpaper",
+              "world_new": [
+                "sandpaper"
+              ]
+            },
+            {
+              "ex_of_definition": "a high-grade ore.",
+              "world_new": [
+                "ore"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lớp",
+          "definition": "(the pupils in) a class or year at school",
+          "world_new": [
+            "class",
+            "year",
+            "school"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’re in the fifth grade now."
+            }
+          ]
+        },
+        {
+          "mean_english": "hạng; loại; điểm số",
+          "definition": "a mark for, or level in, an examination etc",
+          "world_new": [
+            "mark",
+            "level",
+            "examination"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He always got good grades at school.",
+              "world_new": [
+                "school"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "độ dốc",
+          "definition": "the slope of a railway/railroad etc; gradient.",
+          "world_new": [
+            "slope",
+            "gradient"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "xếp loại",
+          "definition": "to sort into grades",
+          "world_new": [
+            "sort"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her job was to grade the eggs according to size.",
+              "world_new": [
+                "job",
+                "size"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chuyển sang mức",
+          "definition": "to move through different stages",
+          "world_new": [
+            "move"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Red grades into purple as blue is added.",
+              "world_new": [
+                "purple",
+                "blue",
+                "added"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Since the robot is only expected to have to negotiate small grades, it only incorporates suspension systems at the two lateral wheels.",
+    "Senior staff were headhunted by other companies, whilst there was a great turnover in staff amongst the labouring grades.",
+    "Considering the high grade of preservation, the mineral formation process was probably a relatively quick event.",
+    "From each of these four programs and for each grade, three reading texts were selected at random.",
+    "Teacher-rated academic per formance in sixth grade was not predictive of discordant cases in any of the three trajectory classes.",
+    "In addition, there was no difference in the pattern of results found for the younger (sixth grade) and older (eighth grade) sample.",
+    "At the first grade level, reading instruction does not follow the phonics method, nor does it entail systematic instruction in phonemic awareness.",
+    "Embracing the idea that representations may be graded opens up many interesting conceptual possibilities."
+  ],
+  "list_see_also": [
+    "gradation",
+    "grade school",
+    "make the grade"
+  ],
+  "list_browse": [
+    "gracious",
+    "graciously",
+    "graciousness",
+    "gradation",
+    "grade",
+    "grade school",
+    "gradient",
+    "gradual",
+    "gradually"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327056_939b7c7450_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327056_aba9c325d2_o.png",
+      "id_image": "grade_1058546"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371737_04cb1558e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371737_9e871891f2_o.png",
+      "id_image": "grade_1328224"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371707_4979f92ecd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371707_c3fa1f633c_o.png",
+      "id_image": "grade_4650649"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371672_eba60c4540_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371672_95063129ae_o.png",
+      "id_image": "grade_5663157"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371847_46aa54c052_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371847_1efa7b7039_o.png",
+      "id_image": "grade_766825"
+    }
+  ]
+}

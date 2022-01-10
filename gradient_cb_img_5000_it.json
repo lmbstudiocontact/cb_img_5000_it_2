@@ -1,0 +1,71 @@
+{
+  "english": "gradient",
+  "phat_am": "ˈɡreidiənt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "độ dốc",
+          "definition": "the amount of slope (eg of a road, a railway/railroad)",
+          "world_new": [
+            "amount",
+            "slope",
+            "road"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a gradient of 1 in 4."
+            }
+          ]
+        },
+        {
+          "mean_english": "chỗ dốc",
+          "definition": "a slope.",
+          "world_new": [
+            "slope"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Then all these parametric variations will be repeated at a larger fill factor by lowering the quadrupole-focusing gradient.",
+    "In all patients, the gradient could be reduced, and the stenosis enlarged significantly.",
+    "Within each gradient sites were visited in random order.",
+    "Elastic penetration energy is considered, and haptic feedback forces and torques are defined as the gradient of elastic penetration energy.",
+    "Most approaches published in the past are based on local optimization techniques with a redundancy resolution at the velocity level using the gradient projection technique.",
+    "In these plots increased stiffness is upward: the gradient is ascended in optimization.",
+    "The thermal centroid, vertical spread or standard deviation, and the maximum distance of thermal penetration into the elevated gradient region were determined from measurements.",
+    "Photosynthetic responses to dynamic light under field conditions in six tropical rainforest shrubs occurring along a light gradient."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "graciousness",
+    "gradation",
+    "grade",
+    "grade school",
+    "gradient",
+    "gradual",
+    "gradually",
+    "graduate",
+    "graduation"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063555_a76f8c189c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063555_7f4e3d0f17_o.png",
+      "id_image": "gradient_1151156"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441758_16603128ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441758_70ce76950f_o.png",
+      "id_image": "gradient_165010"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326676_8d1147fca6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326676_202aedfcf4_o.png",
+      "id_image": "gradient_593478"
+    }
+  ]
+}

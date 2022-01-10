@@ -1,0 +1,106 @@
+{
+  "english": "happy",
+  "phat_am": "ˈhӕpi",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "hạnh phúc",
+          "definition": "having or showing a feeling of pleasure or contentment",
+          "world_new": [
+            "feeling",
+            "pleasure",
+            "contentment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a happy smile",
+              "world_new": [
+                "smile"
+              ]
+            },
+            {
+              "ex_of_definition": "I feel happy today.",
+              "world_new": [
+                "I",
+                "feel"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vui lòng",
+          "definition": "willing",
+          "world_new": [
+            "willing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’d be happy to help you.",
+              "world_new": [
+                "help"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "may mắn",
+          "definition": "lucky",
+          "world_new": [
+            "lucky"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "By a happy chance I have the key with me.",
+              "world_new": [
+                "chance",
+                "I",
+                "key"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "If he were to have his own way he would be perfectly happy to sit here seven days a week and not move.",
+    "It is a fact that, in this century, few happy and harmonious landscapes have been painted by leading artists.",
+    "This is not a happy conclusion since presentism does not seem to be the favoured theory among physicists and metaphysicians.",
+    "The visitors did not look particularly happy but appeared convinced by these words of reason.",
+    "Can we possibly believe that he is doing well just because he is happy and satisfied?",
+    "For example, provided there is enough food, choosing to be well nourished would seem easier to achieve than choosing to be happy.",
+    "Everyone, after all, could be happy if profits were being made from books that deserved re-issuing.",
+    "If the ending is ultimately and abruptly happy, the pathos lingers."
+  ],
+  "list_see_also": [
+    "happiness",
+    "happily",
+    "happy-go-lucky",
+    "happy medium"
+  ],
+  "list_browse": [
+    "happen on",
+    "happening",
+    "happily",
+    "happiness",
+    "happy",
+    "happy medium",
+    "happy-go-lucky",
+    "harangue",
+    "harass"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389767_efca184d83_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389767_f0f8d4051d_o.png",
+      "id_image": "happy_214239"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389747_2a288a1b49_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389747_819da30eaa_o.png",
+      "id_image": "happy_817745"
+    }
+  ]
+}

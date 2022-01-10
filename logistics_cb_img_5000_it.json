@@ -1,0 +1,122 @@
+{
+  "english": "logistics",
+  "phat_am": "ləˈdʒistiks",
+  "list_english": [
+    {
+      "type_word": "noun plural",
+      "list_definition": [
+        {
+          "mean_english": "khâu hậu cần",
+          "definition": "the practical arrangements which are needed in order to carry out a plan successfully, especially one involving a lot of people or equipment",
+          "world_new": [
+            "practical",
+            "arrangements",
+            "order",
+            "carry",
+            "plan",
+            "successfully",
+            "especially",
+            "people",
+            "equipment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the logistics of organizing a music festival.",
+              "world_new": [
+                "music",
+                "festival"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nghiệp vụ logistics",
+          "definition": "the commercial activity of transporting goods",
+          "world_new": [
+            "commercial",
+            "activity",
+            "goods"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "(also adjective) a logistics company.",
+              "world_new": [
+                "company"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ngành hậu cần",
+          "definition": "the activity of moving soldiers and their equipment",
+          "world_new": [
+            "activity",
+            "moving",
+            "their",
+            "equipment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "military logistics.",
+              "world_new": [
+                "military"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "It was the contribution to the logistics on site which made these ornaments acceptable where they otherwise would have been rejected as designers' superfluity.",
+    "Examples are logistics and transport planning, production planning systems, as well as work-ow management and business process enactment and monitoring systems.",
+    "External field supervision was carried out by three independent supervisors who monitored ongoing fieldwork logistics and data quality during the data collection period.",
+    "But happen it did, and the sheer logistics alone are mindboggling.",
+    "In this manner, transportation logistics can be taken into consideration in the decision-making framework.",
+    "The transportation logistics are depicted in two figures.",
+    "The reason was traced to a combination of transport logistics and capacity constraints.",
+    "They argued that the heavily overstretched logistics system would be an impediment to anything more than a limited military operation."
+  ],
+  "list_see_also": [
+    "logistic",
+    "logistically"
+  ],
+  "list_browse": [
+    "logical",
+    "logically",
+    "logistic",
+    "logistically",
+    "logistics",
+    "logo",
+    "loin",
+    "loincloth",
+    "loiter"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336676_95c7d4fd9e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336676_ae0f1b145b_o.png",
+      "id_image": "logistics_1486213"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691939_febf04b373_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691939_f01f703720_o.png",
+      "id_image": "logistics_1599829"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336611_dfeeb8777c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336611_38b0de8d38_o.png",
+      "id_image": "logistics_3977871"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691889_9421ca6b0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691889_b2afc949fc_o.png",
+      "id_image": "logistics_4016654"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073540_4e902c71a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073540_0bf3f2314a_o.png",
+      "id_image": "logistics_5351116"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "english": "juggle",
+  "phat_am": "ˈdʒaɡl",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tung hứng",
+          "definition": "to keep throwing in the air and catching a number of objects (eg balls or clubs)",
+          "world_new": [
+            "keep",
+            "air",
+            "catching",
+            "number"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He entertained the audience by juggling with four balls and four plates at once.",
+              "world_new": [
+                "audience",
+                "once"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The community interpreter has to be able to juggle this kind of information all the time.",
+    "No amount of juggling with figures can disguise the low pay of these workers.",
+    "One cannot deal with human beings by juggling with statistics.",
+    "No juggling with the existing numbers of units will solve the problem.",
+    "Should the regulations provide that all those factors be juggled in one combination or another?",
+    "They are juggling with the question in every speech they make and apologising for having left us.",
+    "Four males wheeled out prams to sound effects of screaming babies, and in a very funny act, juggled crying babies on short sticks.",
+    "Indeed, the main mechanism by which working carers juggle work and care seems to be to provide relatively few hours of care."
+  ],
+  "list_see_also": [
+    "juggler"
+  ],
+  "list_browse": [
+    "judiciously",
+    "judiciousness",
+    "judo",
+    "jug",
+    "juggle",
+    "juggler",
+    "jugular",
+    "juice",
+    "juiciness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376082_5ffbd5957d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376082_64f16e0857_o.png",
+      "id_image": "juggle_1680803"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686434_229f2eaa94_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686434_c33c1e6d13_o.png",
+      "id_image": "juggle_947861"
+    }
+  ]
+}

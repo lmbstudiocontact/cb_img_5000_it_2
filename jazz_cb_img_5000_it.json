@@ -1,0 +1,78 @@
+{
+  "english": "jazz",
+  "phat_am": "dʒaz",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhạc Jazz",
+          "definition": "popular music of African American origin",
+          "world_new": [
+            "popular",
+            "music",
+            "American",
+            "origin"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "modern/traditional jazz"
+            },
+            {
+              "ex_of_definition": "(also adjective) a jazz musician.",
+              "world_new": [
+                "musician"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Of the remaining 52 teachers, 20 were quite explicit in emphasising how important jazz was to their classroom work.",
+    "The references to jazz, in particular, are tantalisingly patchy.",
+    "Looking round the country to provincial political cultures it is possible to trace significant leftist jazz street music.",
+    "Whiteoak discusses at least two generations of musicians who moved from jazz to composition and avant-garde concert performance.",
+    "Besides technology, t h e m o s t significant manifestation o f the imported spirit from overseas was jazz music.",
+    "However, rock was the favourite musical style overall followed by art music and jazz.",
+    "Jazz, he adds, is ' a very intellectual thing'.",
+    "There is both a tranquillity and obsessiveness in the violin part that lends itself naturally to a jazz-inflected style."
+  ],
+  "list_see_also": [
+    "jazzy"
+  ],
+  "list_browse": [
+    "jaw",
+    "jawbone",
+    "jaywalker",
+    "jaywalking",
+    "jazz",
+    "jazzy",
+    "jealous",
+    "jealously",
+    "jealousy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335341_5443c169e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335341_7f9f4a2f8c_o.png",
+      "id_image": "jazz_1624382"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335371_2c5b59edc9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335371_f6d37ae4d0_o.png",
+      "id_image": "jazz_352302"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380402_db1081d433_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380402_e9fbe7bb52_o.png",
+      "id_image": "jazz_4780391"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690449_15b2002ce2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690449_a5cc3af3cc_o.png",
+      "id_image": "jazz_4804922"
+    }
+  ]
+}

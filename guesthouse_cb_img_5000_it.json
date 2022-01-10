@@ -1,0 +1,61 @@
+{
+  "english": "guesthouse",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhà trọ",
+          "definition": "a small hotel",
+          "world_new": [
+            "small",
+            "hotel"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’ll be staying in a guesthouse near the seafront.",
+              "world_new": [
+                "seafront"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There are at least twenty guesthouses and hotels, a few restaurants and a dive centre.",
+    "The village has some small guesthouses and a lodge.",
+    "There are seaside cafs, fresh seafood restaurants, guesthouses, beach huts and numerous water-sports facilities.",
+    "Tourists often use accommodations such as hotels, guesthouses, villas, and timeshares.",
+    "From 1970 to 1983 the community had a small boarding-school and now run a guest-house.",
+    "At that time there were five hotels and a number of guesthouses and apartments.",
+    "Accommodation is either in a small hotel or in one of the hundreds of guesthouses run by local residents.",
+    "Recently, all the buildings except the guesthouses have undergone through another restoration process."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "guerrilla",
+    "guess",
+    "guesswork",
+    "guest",
+    "guesthouse",
+    "guffaw",
+    "guidance",
+    "guide",
+    "guide dog"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673309_e35202ddbe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673309_7fcc62bbcd_o.png",
+      "id_image": "guesthouse_4052478"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363012_4d84ff25d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363012_b8c5351590_o.png",
+      "id_image": "guesthouse_6254153"
+    }
+  ]
+}

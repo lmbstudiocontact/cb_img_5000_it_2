@@ -1,0 +1,73 @@
+{
+  "english": "heartbeat",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhịp tim",
+          "definition": "(the sound of) the regular movement of the heart",
+          "world_new": [
+            "sound",
+            "regular",
+            "movement",
+            "heart"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her heartbeat is regular.",
+              "world_new": [
+                "regular"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Sandaldjian would time his motions to come between his heartbeats, thus maximizing his control of his fingers.",
+    "Irregular heartbeats can be serious.",
+    "When auscultating the heart, doctors listen for abnormal sounds including heart murmurs, gallops, and other extra sounds coinciding with heartbeats.",
+    "A machine for detecting heartbeats was in use in a building for vehicles to be driven through, and that had alerted the officials to his presence.",
+    "The x-axis denotes the time between heartbeats in seconds while the y-axis represents the voltage of vagal activity in millivolts.",
+    "Temporary silences were observed so that sensitive listening devices capable of detecting human heartbeats could be used to locate survivors.",
+    "The analysis of heartbeats by modern methods would involve thousands of calculations and these can be done only by a computer of this sort.",
+    "Certain serious side effects include diarrhea, allergic reactions, irregular heartbeats, and low or high blood pressure, while less serious side effects include headaches, insomnia, and impotence."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "heart failure",
+    "heart-to-heart",
+    "heart-warming",
+    "heartache",
+    "heartbeat",
+    "heartbreak",
+    "heartbroken",
+    "heartburn",
+    "-hearted"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078025_61e440a096_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078025_71289a1955_o.png",
+      "id_image": "heartbeat_1142131"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385617_ab74fc5964_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385617_f22359caae_o.png",
+      "id_image": "heartbeat_2738839"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340591_974b404ea4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340591_d1b1747554_o.png",
+      "id_image": "heartbeat_5024885"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340721_e8ab8822f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340721_71d9109aa9_o.png",
+      "id_image": "heartbeat_813601"
+    }
+  ]
+}

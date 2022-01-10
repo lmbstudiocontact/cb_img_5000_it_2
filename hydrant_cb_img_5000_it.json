@@ -1,0 +1,70 @@
+{
+  "english": "hydrant",
+  "phat_am": "ˈhaidrənt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "họng nước",
+          "definition": "a pipe connected to the main water supply especially in a street, to which a hose can be attached in order to draw water off eg to put out a fire",
+          "world_new": [
+            "pipe",
+            "main",
+            "water",
+            "supply",
+            "street",
+            "hose",
+            "attached",
+            "order",
+            "draw",
+            "water",
+            "fire"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a fire hydrant.",
+              "world_new": [
+                "fire"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Water used by the water blasters came from the drinking water distribution system through fire hydrants.",
+    "The next time water hydrants are checked over, and no water is found in them, perhaps someone will attempt to find out why.",
+    "The data here reveal that about 70 per cent of households using either individual piped connections or public hydrants are subject to interruptions in the water supply.",
+    "There was delay in getting the hydrant system working.",
+    "For colonies where community level water sources (for example public hydrants, community handpumps) were being accessed, all the specific points that were being accessed by the surveyed households were sampled.",
+    "There are no fire hydrants in or immediately adjacent to the building, but there are hydrants in streets bordering the plot.",
+    "There is no difficulty about ladders, nor about hydrants.",
+    "Water and swabs were sampled from these hydrants and from water blasters but yielded no legionella."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "hut",
+    "hutch",
+    "hyacinth",
+    "hybrid",
+    "hydrant",
+    "hydrate",
+    "hydration",
+    "hydraulic",
+    "hydraulically"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370877_305fd5585e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370877_10bdef9f52_o.png",
+      "id_image": "hydrant_224544"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440993_2ba218e929_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440993_d6929630f6_o.png",
+      "id_image": "hydrant_231953"
+    }
+  ]
+}

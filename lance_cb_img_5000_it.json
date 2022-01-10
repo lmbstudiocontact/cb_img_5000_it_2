@@ -1,0 +1,77 @@
+{
+  "english": "lance",
+  "phat_am": "laːns",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái lao",
+          "definition": "a weapon of former times with a long shaft or handle of wood, a spearhead and often a small flag.",
+          "world_new": [
+            "weapon",
+            "former",
+            "times",
+            "long",
+            "shaft",
+            "handle",
+            "wood",
+            "spearhead",
+            "small",
+            "flag"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "mổ; trích",
+          "definition": "to cut open (a boil etc) with a knife",
+          "world_new": [
+            "cut",
+            "open",
+            "boil",
+            "knife"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The doctor lanced the boil on my neck.",
+              "world_new": [
+                "doctor",
+                "boil",
+                "my",
+                "neck"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "lamentation",
+    "lamp",
+    "lamp-post",
+    "lampshade",
+    "lance",
+    "land",
+    "land up",
+    "land with",
+    "landfill"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677009_45abb0abb5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677009_b3414d250d_o.png",
+      "id_image": "lance_2858928"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058665_40332efcc1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058665_5eb5d75d9f_o.png",
+      "id_image": "lance_3557040"
+    }
+  ]
+}

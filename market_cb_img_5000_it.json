@@ -1,0 +1,125 @@
+{
+  "english": "market",
+  "phat_am": "ˈmaːkit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chợ",
+          "definition": "a public place where people meet to buy and sell or the public event at which this happens",
+          "world_new": [
+            "public",
+            "place",
+            "people",
+            "meet",
+            "buy",
+            "sell",
+            "public",
+            "event"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has a clothes stall in the market.",
+              "world_new": [
+                "clothes",
+                "stall"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thị trường",
+          "definition": "(a place where there is) a demand for certain things",
+          "world_new": [
+            "place",
+            "demand",
+            "certain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There is a market for cotton goods in hot countries.",
+              "world_new": [
+                "cotton",
+                "goods",
+                "hot"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bán",
+          "definition": "to (attempt to) sell",
+          "world_new": [
+            "sell"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I produce the goods and my brother markets them all over the world.",
+              "world_new": [
+                "I",
+                "produce",
+                "goods",
+                "my",
+                "brother",
+                "world"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In the interwar period, industry tried to carve up markets in a time of depressed demand.",
+    "The integration of agricultural communities into capitalist markets can be seen in smaller units than the landscape.",
+    "Many implications follow from this way of viewing markets, but there are two points worth noticing immediately.",
+    "They may have sold products on the street or in markets 'for two hours every morning', but they also had a shop.",
+    "Once commercialized fuel markets exist, petroleum fuels can get their breakthrough if they can compete on price with fuelwood.",
+    "Harvested fish are processed for two different markets, namely, domestic and export.",
+    "In some instances, it would appear that the new-order drugs are no better than the old ones despite their being marketed as such.",
+    "However, this will increase the pressure to export arms to make up for lost domestic markets."
+  ],
+  "list_see_also": [
+    "marketable",
+    "marketing",
+    "market-garden",
+    "marketplace",
+    "market price/value",
+    "market research",
+    "be on the market"
+  ],
+  "list_browse": [
+    "mark time",
+    "marked",
+    "markedly",
+    "marker",
+    "market",
+    "market price/value",
+    "market research",
+    "market-garden",
+    "marketable"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322941_66f2910ea0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322941_89d28fd993_o.png",
+      "id_image": "market_1901411"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438073_b8130edfb8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438073_a4955e5070_o.png",
+      "id_image": "market_6248847"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678129_fba5839763_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678129_bd10e0e762_o.png",
+      "id_image": "market_831495"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "english": "grab",
+  "phat_am": "ɡrab",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chộp lấy",
+          "definition": "to seize, grasp or take suddenly",
+          "world_new": [
+            "seize",
+            "grasp",
+            "suddenly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He grabbed a biscuit.",
+              "world_new": [
+                "biscuit"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chiếm",
+          "definition": "to get by rough or illegal means",
+          "world_new": [
+            "rough",
+            "illegal",
+            "means"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Many people tried to grab land when oil was discovered in the district.",
+              "world_new": [
+                "people",
+                "land",
+                "oil",
+                "district"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự vồ lấy",
+          "definition": "a sudden attempt to grasp or seize",
+          "world_new": [
+            "sudden",
+            "attempt",
+            "grasp",
+            "seize"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He made a grab at the boy.",
+              "world_new": [
+                "boy"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Near the end of the piece she reached into the bowl and grabbed the fish, stuffing it quickly into her mouth.",
+    "Typical performance gestures are grabbing and kneading.",
+    "He screamed in anguish, grabbed the boy by the hair and threatened to pulverise him for moving his hand.",
+    "My outstretched hand grabbed him before he went under.",
+    "All the images were grabbed using identical illumination settings.",
+    "Climate change grabbed the headlines and popular imagination.",
+    "Infants may not distinguish between grabbing the \"wrong\" cover or just reaching itself, from obtaining the hidden toy.",
+    "The child grabbed it (fem)."
+  ],
+  "list_see_also": [
+    "grab at"
+  ],
+  "list_browse": [
+    "GP",
+    "GPA",
+    "GPS",
+    "gr",
+    "grab",
+    "grab at",
+    "grace",
+    "graceful",
+    "gracefully"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327316_494323ef93_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327316_b3a4a48bcf_o.png",
+      "id_image": "grab_1196462"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682419_08f4b4446c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682419_4950167eb4_o.png",
+      "id_image": "grab_5772872"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327226_7efe3ce7fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327226_10d91e743d_o.png",
+      "id_image": "grab_5906139"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682534_dca94a63bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682534_2e1a251a8a_o.png",
+      "id_image": "grab_657919"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372062_d82f30749a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372062_ef90075d98_o.png",
+      "id_image": "grab_951032"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "english": "lamb",
+  "phat_am": "lӕm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "con cừu",
+          "definition": "a young sheep",
+          "world_new": [
+            "young",
+            "sheep"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The ewe has had three lambs.",
+              "world_new": [
+                "ewe"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thịt cừu",
+          "definition": "its flesh eaten as food",
+          "world_new": [
+            "its",
+            "flesh",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a roast leg of lamb.",
+              "world_new": [
+                "roast",
+                "leg"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "con người dễ chịu",
+          "definition": "a lovable or gentle person, usually a child",
+          "world_new": [
+            "lovable",
+            "gentle",
+            "person",
+            "child"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s so tired that he’s falling asleep – the poor little lamb!",
+              "world_new": [
+                "tired",
+                "asleep",
+                "poor"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The lambs were the offspring of 37 sires and 491 dams.",
+    "Two hundred lambs were vaccinated at 6 and 12 weeks of age.",
+    "More likely, such shepherds were accumulating capital in the form of lambs on the 'thirds' system.",
+    "Every 28 days from 4 to 24 weeks of age, all lambs were treated with a broad-spectrum anthelmintic, given according to the manufacturer's recommendation.",
+    "Naive lambs were infected with larvae obtained from control and fenbendazole treated groups and were necropsied 35 days after infection for worm recovery.",
+    "In addition, portal hepatitis and portal, septal and, on occasions, perisinusoidal fibrosis were observed, especially in lambs with large worm burdens.",
+    "Faecal egg counts from 2002 tracer lambs showed that all four paddocks were contaminated with nematode parasites.",
+    "The statistical distribution of trichostrongylid nematodes in grazing lambs."
+  ],
+  "list_see_also": [
+    "lambskin",
+    "lambswool"
+  ],
+  "list_browse": [
+    "lagoon",
+    "laid up",
+    "lair",
+    "lake",
+    "lamb",
+    "lambskin",
+    "lambswool",
+    "lame",
+    "lamely"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437698_174c6c226e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437698_8e403ee4b9_o.png",
+      "id_image": "lamb_1488814"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322416_3ee12740d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322416_45195b90d8_o.png",
+      "id_image": "lamb_1699293"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367277_8c1ed1be28_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367277_97b9fde272_o.png",
+      "id_image": "lamb_1702830"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322326_fa711dca72_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322326_441aa7f981_o.png",
+      "id_image": "lamb_2851244"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059115_70224e9a58_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059115_ff6bef1049_o.png",
+      "id_image": "lamb_6396758"
+    }
+  ]
+}

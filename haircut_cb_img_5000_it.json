@@ -1,0 +1,65 @@
+{
+  "english": "haircut",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự cắt tóc",
+          "definition": "the act or style of cutting a person’s hair",
+          "world_new": [
+            "act",
+            "style",
+            "cutting",
+            "hair"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You need a haircut."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Such haircuts became popular among boys, mostly in schools, and young men in the military and in prisons.",
+    "Strategies to erode identities include forcing individuals to surrender all personal possessions, get uniform haircuts and wear standardized clothing.",
+    "Bondholders would take haircuts, but these losses are already priced into deeply discounted bond prices.",
+    "His geometric haircuts seemed to be severely cut, but were entirely lacquer-free, relying on the natural shine of the hair for effect.",
+    "She began to care for the homeless and beggars in her neighborhood, giving them free haircuts and treating their wounds.",
+    "A real working barber shop gives haircuts for a fee.",
+    "However, unlike the latter he did not bother greatly with his military appearance, frequently going without clean uniforms and haircuts.",
+    "Women are sometimes more difficult to depict than men as they tend to have more complicated haircuts, which are often cropped for simplicity."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "hair’s breadth",
+    "hair-do",
+    "hair-raising",
+    "hairbrush",
+    "haircut",
+    "hairdresser",
+    "hairdressing",
+    "-haired",
+    "hairgrip"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670994_9db11a6b21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670994_77b08bde00_o.png",
+      "id_image": "haircut_1010966"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670949_f8f85ef031_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670949_8c0165005b_o.png",
+      "id_image": "haircut_3124999"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360502_8cc4bd7704_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360502_0716988274_o.png",
+      "id_image": "haircut_3460756"
+    }
+  ]
+}

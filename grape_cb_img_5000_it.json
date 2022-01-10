@@ -1,0 +1,69 @@
+{
+  "english": "grape",
+  "phat_am": "ɡreip",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quả nho",
+          "definition": "a green or black smooth-skinned eatable berry from which wine is made",
+          "world_new": [
+            "green",
+            "black",
+            "eatable",
+            "berry",
+            "wine"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "seedless grapes."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In summary, the gene pool of cultivated grapes surveyed has significant amounts of genetic variation and exhibits narrow differentiation.",
+    "He grew grapes and other garden crops.",
+    "Like meat at a barbecue (see above) eating grapes was not identified in the analysis of the subpopulation.",
+    "Chapter 6 contains nutritional infor mation on mango, banana, citrus, guava, pineapple, litchi, papaya and grapes.",
+    "At the same time guarantee thresholds were extended to cover durum wheat, dried grapes, all tomato products and sunflower seeds.",
+    "Significantly higher prices were paid for grapes, onions, peppers and tomatoes when there was a child present in the household.",
+    "We are opposed to the downplaying of producing wine from grapes, replacing it with industrial wine resulting from the import of must from third countries.",
+    "We have purchased £28 million worth, including hothouse grapes, melons and so on, and we are sending coal and steel in return."
+  ],
+  "list_see_also": [
+    "grapevine",
+    "sour grapes"
+  ],
+  "list_browse": [
+    "granted",
+    "granular",
+    "granulated",
+    "granule",
+    "grape",
+    "grapefruit",
+    "grapevine",
+    "graph",
+    "graph paper"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325226_ec7da59da7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325226_b88999d1e6_o.png",
+      "id_image": "grape_4057308"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062015_16c479135f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062015_d355d3fee0_o.png",
+      "id_image": "grape_5848341"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440163_c64160e489_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440163_107f6ee30b_o.png",
+      "id_image": "grape_6321938"
+    }
+  ]
+}

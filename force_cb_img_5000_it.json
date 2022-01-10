@@ -1,0 +1,145 @@
+{
+  "english": "force",
+  "phat_am": "foːs",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lực",
+          "definition": "strength or power that can be felt",
+          "world_new": [
+            "strength",
+            "power",
+            "felt"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The force of the wind was so strong that it damaged the roof.",
+              "world_new": [
+                "wind",
+                "strong",
+                "damaged",
+                "roof"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sức mạnh",
+          "definition": "a person or thing that has great power",
+          "world_new": [
+            "person",
+            "great",
+            "power"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the forces of nature.",
+              "world_new": [
+                "forces",
+                "nature"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lực lượng",
+          "definition": "a group of men prepared for action",
+          "world_new": [
+            "group",
+            "prepared",
+            "action"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the police force",
+              "world_new": [
+                "police"
+              ]
+            },
+            {
+              "ex_of_definition": "the Royal Air Force."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cưỡng ép; bắt buộc",
+          "definition": "to make (someone or something) do something, go somewhere etc, often against his etc will",
+          "world_new": [
+            "somewhere"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He forced me to give him money.",
+              "world_new": [
+                "forced",
+                "money"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ép; gượng",
+          "definition": "to achieve by strength or effort",
+          "world_new": [
+            "achieve",
+            "strength",
+            "effort"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He forced a smile despite his grief.",
+              "world_new": [
+                "forced",
+                "smile",
+                "despite",
+                "grief"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "forced",
+    "forceful",
+    "forcefully",
+    "forces",
+    "in/into force"
+  ],
+  "list_browse": [
+    "forbearing",
+    "forbid",
+    "forbidden",
+    "forbidding",
+    "force",
+    "force someone’s hand",
+    "forced",
+    "forceful",
+    "forcefully"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052730_e26f893849_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052730_980b672f63_o.png",
+      "id_image": "force_1533964"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670869_99f15e1227_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670869_b542bbe323_o.png",
+      "id_image": "force_4305267"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431128_dc7818758b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431128_d67415e83a_o.png",
+      "id_image": "force_4542581"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "english": "hurdle",
+  "phat_am": "ˈhəːdl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "rào chắn",
+          "definition": "a frame to be jumped in a race.",
+          "world_new": [
+            "frame",
+            "race"
+          ]
+        },
+        {
+          "mean_english": "khó khăn cần vượt qua",
+          "definition": "a problem or difficulty",
+          "world_new": [
+            "problem",
+            "difficulty"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There are several hurdles to be got over in this project.",
+              "world_new": [
+                "project"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chạy vượt rào",
+          "definition": "to run in a race in which hurdles are used",
+          "world_new": [
+            "run",
+            "race"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has hurdled since he was twelve."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A healthy education system does not consist simply of a series of hurdles.",
+    "While the former power can by no means guarantee the final adoption of a proposed piece of legislation, the latter entails two hurdles.",
+    "One of those hurdles, according to some stem cell scientists, is research involving the creation of part-human chimeras.",
+    "Many people allege that a degree in either politics or law is required to succeed in leaping these hurdles.",
+    "There is a series of hurdles to be overcome in legal claims, whether one is defending or promoting.",
+    "Generating an attraction for and enjoyment of a subject is one of the first hurdles any teacher faces.",
+    "However, there are several technical hurdles to be overcome before an antimatter rocket can be built.",
+    "One of the big hurdles that we have to overcome is that dentists distrust the present set-up."
+  ],
+  "list_see_also": [
+    "hurdler",
+    "hurdling"
+  ],
+  "list_browse": [
+    "hunt out",
+    "hunter",
+    "hunting",
+    "huntsman",
+    "hurdle",
+    "hurdler",
+    "hurdling",
+    "hurl",
+    "hurrah"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442003_ffda753003_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442003_16a4da5d9b_o.png",
+      "id_image": "hurdle_2042607"
+    }
+  ]
+}

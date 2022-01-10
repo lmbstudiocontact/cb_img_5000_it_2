@@ -1,0 +1,104 @@
+{
+  "english": "graduate",
+  "phat_am": "ˈɡradjueit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tốt nghiệp",
+          "definition": "to receive a degree, diploma etc",
+          "world_new": [
+            "receive",
+            "degree",
+            "diploma"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He graduated in German from the University of Manchester."
+            }
+          ]
+        },
+        {
+          "mean_english": "chia độ",
+          "definition": "to mark out with regular divisions",
+          "world_new": [
+            "mark",
+            "regular"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A thermometer is graduated in degrees.",
+              "world_new": [
+                "thermometer"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "người có bằng cấp",
+          "definition": "a person who has been awarded a degree or diploma",
+          "world_new": [
+            "person",
+            "degree",
+            "diploma"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a graduate in French.",
+              "world_new": [
+                "French"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "One must then ask oneself whether different practicum models are required to graduate immersion teachers with the necessary competencies to meet specifically local needs.",
+    "Nevertheless, the intelligent annotations are what give special weight to the work, intended for graduate students with access to research libraries.",
+    "It would also be useful as a collection of papers for graduate seminars.",
+    "The book is definitely useful for both undergraduate and graduate courses.",
+    "Many professors run their graduate 'masters' classes as offices in which the students work on their projects.",
+    "For the retirement sample, the number of observations is 8,262 for college graduates, 18,989 for high school graduates, and 20,332 for dropouts.",
+    "Although graduate entry into the profession was increasing, there were not very many graduates and most provincial university law departments had room for expansion.",
+    "The book is valuable to undergraduate students, but it can also be a quick refresher on the topic for some graduate students."
+  ],
+  "list_see_also": [
+    "graduation"
+  ],
+  "list_browse": [
+    "grade school",
+    "gradient",
+    "gradual",
+    "gradually",
+    "graduate",
+    "graduation",
+    "graffiti",
+    "graft",
+    "grain"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326601_e9523ef726_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326601_6af9c788df_o.png",
+      "id_image": "graduate_3891495"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371277_9328e6ed7c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371277_95bd214f7a_o.png",
+      "id_image": "graduate_4253205"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326536_a089acb6ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326536_e7def307bf_o.png",
+      "id_image": "graduate_6286681"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "english": "functional",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thiết thực; thực dụng",
+          "definition": "designed to be useful rather than to look beautiful",
+          "world_new": [
+            "useful",
+            "rather",
+            "look",
+            "beautiful"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "functional clothes",
+              "world_new": [
+                "clothes"
+              ]
+            },
+            {
+              "ex_of_definition": "a functional building.",
+              "world_new": [
+                "building"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đang làm việc, có thể làm việc",
+          "definition": "able to operate",
+          "world_new": [
+            "operate"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It’s an old car, but it’s still functional.",
+              "world_new": [
+                "old",
+                "car"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We must explain how functional programming techniques help, even in an imperative or class-based (object-oriented) world.",
+    "I make this distinction because most people assume that experience means functional experience, and that cause and function go hand in hand.",
+    "Section 2 outlines two traditional interpretive techniques that have been used to implement functional languages on small personal computers.",
+    "Functional phonology: formalizing the interactions between articulatory and perceptual drives.",
+    "We now have a working method for functional arrays.",
+    "There is an accessible, functional character to mental language insofar as the mental designates that which has an operative role in material, publicly observed relationships.",
+    "Documented continued trajectory of decline in functional status.",
+    "Indeed, such a functional program would be nonterminating."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "fun",
+    "fun and games",
+    "function",
+    "function key",
+    "functional",
+    "fund",
+    "fundamental",
+    "fundamentalism",
+    "fundamentalist"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080055_e5653be570_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080055_8b2647633c_o.png",
+      "id_image": "functional_4529349"
+    }
+  ]
+}

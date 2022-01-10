@@ -1,0 +1,74 @@
+{
+  "english": "lawn",
+  "phat_am": "loːn",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bãi cỏ",
+          "definition": "an area of smooth, short grass, especially as part of a garden",
+          "world_new": [
+            "area",
+            "smooth",
+            "short",
+            "grass",
+            "part",
+            "garden"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is mowing the lawn."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "He awakens one morning to find an apparently unarmed trespasser on his front lawn.",
+    "Residual bacteria in the lawn were collected separately after removal of the glutaraldehyde.",
+    "The lawn grave also acquired greater significance through its financial accessibility.",
+    "For the lawns, their total lengths were divided into five equidistant points.",
+    "This section gives an analysis of the modern lawn cemetery as a reflection of attitudes towards aspects of mortality.",
+    "First, he objected that not enough room had been given to lawn, and in the proximity of the rockwork to the house.",
+    "A low lysophospholipid content is apparently another important characteristic of extracellular lawn components.",
+    "The second section considers three major rationales that informed the introduction and proliferation of the lawn cemetery landscape."
+  ],
+  "list_see_also": [
+    "lawn mower"
+  ],
+  "list_browse": [
+    "lawfully",
+    "lawless",
+    "lawlessly",
+    "lawlessness",
+    "lawn",
+    "lawn mower",
+    "lawsuit",
+    "lawyer",
+    "lax"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318411_c589edf2ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318411_d8d968405d_o.png",
+      "id_image": "lawn_1283668"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318381_8a4501586a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318381_4eed120b2d_o.png",
+      "id_image": "lawn_1620092"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055065_66e4213df1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055065_a5be850dc9_o.png",
+      "id_image": "lawn_684101"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362977_1535dfab8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362977_cf306ed952_o.png",
+      "id_image": "lawn_765860"
+    }
+  ]
+}

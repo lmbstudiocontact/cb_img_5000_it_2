@@ -1,0 +1,66 @@
+{
+  "english": "martial",
+  "phat_am": "ˈmaːʃəl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "hiếu chiến",
+          "definition": "warlike or fond of fighting",
+          "world_new": [
+            "warlike",
+            "fond",
+            "fighting"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a martial nation.",
+              "world_new": [
+                "nation"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thuộc chiến tranh",
+          "definition": "belonging to or suitable for war",
+          "world_new": [
+            "suitable",
+            "war"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "martial music.",
+              "world_new": [
+                "music"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "martial art",
+    "martial law"
+  ],
+  "list_browse": [
+    "marshmallow",
+    "marshy",
+    "marsupial",
+    "mart",
+    "martial",
+    "martial art",
+    "martial law",
+    "Martian",
+    "martyr"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321876_5dfdcb9b90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321876_c9c39b31b9_o.png",
+      "id_image": "martial_2822365"
+    }
+  ]
+}

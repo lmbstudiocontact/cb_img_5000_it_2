@@ -1,0 +1,81 @@
+{
+  "english": "magnetism",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sức hấp dẫn",
+          "definition": "power of attraction",
+          "world_new": [
+            "power",
+            "attraction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "his personal magnetism.",
+              "world_new": [
+                "personal"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "từ tính",
+          "definition": "(the science of) magnets and their power of attraction",
+          "world_new": [
+            "science",
+            "their",
+            "power",
+            "attraction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the magnetism of the Earth."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "An inductive coupler is, in general, a small coil which amplifies the stray magnetism in the telephone; that is, in the hearing piece.",
+    "When this aspect was felt to be too weak a reason for an expedition, the collection of scientific data was added, including meteorology, terrestrial magnetism, physical oceanography, and zoology.",
+    "Aepinus formulated a corresponding theory of magnetism excepting that, in the case of magnetic phenomena, the fluids only acted on the particles of iron.",
+    "He said that the whole of disease could be cured by magnetism.",
+    "In this sense the study of terrestrial magnetism, and its extension as an observational field science, suffers from a similar aesthetic: invisible, intangible, difficult to grasp.",
+    "In this system, reproduction was guaranteed by the magnetism of an extreme biological dimorphism: the greater the difference, the greater the love that binds and the more prolific the breeding.",
+    "The work of heat transport is traditionally driven by mechanical work, but can also be driven by heat, magnetism, electricity, laser, or other means.",
+    "Following the return of the expeditions, data were exchanged and synoptic charts plotted for meteorology and magnetism."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "magnetic compass",
+    "magnetic field",
+    "magnetic north",
+    "magnetically",
+    "magnetism",
+    "magnetize",
+    "magnification",
+    "magnificence",
+    "magnificent"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684484_0b41f1cba4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684484_47f8957522_o.png",
+      "id_image": "magnetism_1974414"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444433_32fa73030f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444433_b84fb4542a_o.png",
+      "id_image": "magnetism_2286215"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066210_5c06089ac3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066210_f00abcc0d3_o.png",
+      "id_image": "magnetism_5008251"
+    }
+  ]
+}

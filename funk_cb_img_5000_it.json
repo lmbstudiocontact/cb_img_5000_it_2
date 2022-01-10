@@ -1,0 +1,73 @@
+{
+  "english": "funk",
+  "phat_am": "faŋk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự kinh sợ",
+          "definition": "(a state of) fear",
+          "world_new": [
+            "state",
+            "fear"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was in a funk over his exam."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "sợ hãi; hoảng sợ",
+          "definition": "not to do (something) because one is afraid",
+          "world_new": [
+            "afraid"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She funked the appointment.",
+              "world_new": [
+                "appointment"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I am not going to funk any question.",
+    "They should not ask the tobacco industry to take a decision that they are funking.",
+    "The first is, out of sheer funk, to panic; and that is the quickest way to disaster.",
+    "They funked the decision when they should have taken it.",
+    "There is widespread belief throughout the fishing industry that they will be funked.",
+    "As we have already seen, he has decided to funk on taking responsibility for alienating the motorist.",
+    "Today, he is funking it.",
+    "They funked a decision on peacetime conscription, and then at long last they took one, and then ran away from it."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "funfair",
+    "fungicide",
+    "fungus",
+    "funicular",
+    "funk",
+    "funnel",
+    "funnily",
+    "funny",
+    "fur"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079095_45660e18cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079095_e3a6f609ef_o.png",
+      "id_image": "funk_122861"
+    }
+  ]
+}

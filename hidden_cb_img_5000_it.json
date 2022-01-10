@@ -1,0 +1,63 @@
+{
+  "english": "hidden",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "ẩn giấu",
+          "definition": "(made in such a way as to be) difficult to see or find",
+          "world_new": [
+            "difficult",
+            "see",
+            "find"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a hidden door",
+              "world_new": [
+                "door"
+              ]
+            },
+            {
+              "ex_of_definition": "a hidden meaning.",
+              "world_new": [
+                "meaning"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "hibernate",
+    "hibernation",
+    "hibiscus",
+    "hiccup",
+    "hidden",
+    "hidden agenda",
+    "hide",
+    "hide-and-seek",
+    "hide-out"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074830_f1ece617af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074830_1d108a52eb_o.png",
+      "id_image": "hidden_2456840"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337786_8054ace49d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337786_6f529fe347_o.png",
+      "id_image": "hidden_4500302"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074885_0871a80f32_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074885_e045d8d156_o.png",
+      "id_image": "hidden_508273"
+    }
+  ]
+}

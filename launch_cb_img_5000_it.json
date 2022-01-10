@@ -1,0 +1,159 @@
+{
+  "english": "launch",
+  "phat_am": "loːntʃ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "hạ thuỷ; phóng",
+          "definition": "to make (a boat or ship) slide into the water or (a rocket) leave the ground",
+          "world_new": [
+            "boat",
+            "slide",
+            "water",
+            "leave",
+            "ground"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "As soon as the alarm was sounded, the lifeboat was launched",
+              "world_new": [
+                "soon",
+                "alarm",
+                "lifeboat"
+              ]
+            },
+            {
+              "ex_of_definition": "The Russians have launched a rocket.",
+              "world_new": [
+                "rocket"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khởi đầu",
+          "definition": "to start (a person, project etc) off on a course",
+          "world_new": [
+            "start",
+            "person",
+            "project",
+            "course"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His success on a TV talent show launched him on a brilliant career.",
+              "world_new": [
+                "success",
+                "TV",
+                "talent",
+                "brilliant",
+                "career"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ném",
+          "definition": "to throw",
+          "world_new": [
+            "throw"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The protesters launched bricks and other missiles at the police.",
+              "world_new": [
+                "police"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hành động phóng; hạ thuỷ",
+          "definition": "(an) act of launching",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The rocket launch is scheduled for this afternoon.",
+              "world_new": [
+                "rocket",
+                "afternoon"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "xuồng máy",
+          "definition": "a large, power-driven boat, usually used for short trips or for pleasure",
+          "world_new": [
+            "large",
+            "power-driven",
+            "boat",
+            "short",
+            "pleasure"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We cruised round the bay in a motor launch.",
+              "world_new": [
+                "bay",
+                "motor"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Moreover, at the same time a similar project for violinists, which also combines general music lessons with instrumental lessons in small groups, was launched.",
+    "The overview is quite useful for getting a feeling for the system as a whole before launching into the articles on the specifics.",
+    "This makes it possible to launch inference engines dynamically (on need) to avoid memory overload.",
+    "After copying, it may move first or may wait for the innovator firm to launch, depending on the costs and benefits of first move.",
+    "Under the existing patent system, access is hindered by high prices and launch delays.",
+    "With no support in the south and east, his presidential bid was all but doomed even before it was launched.",
+    "Launch into reading success through phonological awareness training.",
+    "This is a varied book and perhaps tries to cover too much, launching the author into what appears unfamiliar territory."
+  ],
+  "list_see_also": [
+    "launching pad",
+    "launch into",
+    "launch out"
+  ],
+  "list_browse": [
+    "laughing jackass",
+    "laughing stock",
+    "laughingly",
+    "laughter",
+    "launch",
+    "launch into",
+    "launch out",
+    "launching pad",
+    "launder"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319241_704533df33_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319241_f385a9ec9b_o.png",
+      "id_image": "launch_1508890"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055850_714bbc82be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055850_6d4af2d33c_o.png",
+      "id_image": "launch_875320"
+    }
+  ]
+}

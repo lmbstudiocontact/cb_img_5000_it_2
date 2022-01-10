@@ -1,0 +1,75 @@
+{
+  "english": "furry",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "được phủ lông thú",
+          "definition": "covered with fur",
+          "world_new": [
+            "fur"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a furry animal.",
+              "world_new": [
+                "animal"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bằng hoặc như lông thú",
+          "definition": "like fur",
+          "world_new": [
+            "fur"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "furry material.",
+              "world_new": [
+                "material"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The leathery, furry leaves are up to 5 centimeters long and divided into several wide lobes.",
+    "The prickles are consistent throughout the plant, developing clearly from furry trichomes which coat the plant's leaves and stems.",
+    "The building is named after a prominent 19th century furrier.",
+    "He would remain a furrier until his retirement.",
+    "They are furry humanoids with canine snouts and twelve toes.",
+    "His father was a furrier, who later became involved in the printing industry.",
+    "The fox is sometimes seen as much more worthy of protection than other species simply because it is furry.",
+    "There he was, lying naked as the day he was born, on a furry rug."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "furniture",
+    "furrier",
+    "furrow",
+    "furrowed",
+    "furry",
+    "further",
+    "further education",
+    "furtherance",
+    "furthermore"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386112_7ef331ca7f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386112_a12c3ff141_o.png",
+      "id_image": "furry_1881137"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386072_2de468e5b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386072_d380854fcd_o.png",
+      "id_image": "furry_1881168"
+    }
+  ]
+}

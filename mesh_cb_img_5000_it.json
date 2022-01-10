@@ -1,0 +1,96 @@
+{
+  "english": "mesh",
+  "phat_am": "meʃ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mắt lưới",
+          "definition": "(one of) the openings between the threads of a net",
+          "world_new": [
+            "net"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a net with (a) very fine (= small) mesh.",
+              "world_new": [
+                "net",
+                "fine"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mạng lưới",
+          "definition": "a network",
+          "world_new": [
+            "network"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A fly was struggling in the meshes of the spider’s web.",
+              "world_new": [
+                "fly",
+                "web"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "dồn vào lưới",
+          "definition": "(of teeth on eg gear wheels) to become engaged with each other",
+          "world_new": [
+            "gear",
+            "become",
+            "engaged"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The teeth on these two cogwheels mesh when they go round."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "All the models were meshed at an atypically high density in order to achieve a smooth deformation having high precision.",
+    "Commitment to the joint activity demands that the participants each form an intention to act in accordance with meshing subplans.",
+    "The difference in the meshes can be explained as follows.",
+    "The meshes vary broadly in shape and size.",
+    "We will examine what we can achieve on meshes constructed on the basis of the weighted a posteriori error estimate (3.18).",
+    "Responses to information-soliciting utterances were coded in terms of how well they meshed with the expectations of the solicitation.",
+    "The accurate numerical resolution of these features necessitates the use of locally refined, adaptive computational meshes.",
+    "Our argument meshes with two strong but disparate traditions in the study of voting behaviour."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "merry",
+    "merry-go-round",
+    "merrymaker",
+    "merrymaking",
+    "mesh",
+    "mesmerism",
+    "mesmerize",
+    "mesosphere",
+    "mess"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391087_8017b124f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391087_f98cf6b9ee_o.png",
+      "id_image": "mesh_5672433"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083530_64ebc38d63_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083530_530f384048_o.png",
+      "id_image": "mesh_5672436"
+    }
+  ]
+}

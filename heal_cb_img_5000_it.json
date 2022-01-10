@@ -1,0 +1,85 @@
+{
+  "english": "heal",
+  "phat_am": "hiːl",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "hàn gắn; chữa khỏi bệnh",
+          "definition": "(often with up) (especially of cuts, wounds etc) to make or become healthy; to (cause to) return to a normal state or condition",
+          "world_new": [
+            "become",
+            "return",
+            "normal",
+            "state",
+            "condition"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That scratch will heal (up) in a couple of days",
+              "world_new": [
+                "scratch",
+                "couple"
+              ]
+            },
+            {
+              "ex_of_definition": "this ointment will soon heal your cuts.",
+              "world_new": [
+                "ointment",
+                "soon",
+                "your"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Thus, the process of healing the traumatized political culture has advanced only very, very slowly.",
+    "I turned a new eye to my baby and was healed.",
+    "Many of these factors can further affect hepatic wound healing by influencing neoangiogenesis, inflammation and hepatocyte regeneration.",
+    "Within 1 day, the itching and burning disappeared, and the dermatitis was healed within 5 weeks.",
+    "The textual unfixity of his bodily injury insinuates its lingeringly irregular character, even though his body has ostensibly healed.",
+    "Characteristics and consequences of infective endocarditis (active or healed or both) learned from morphologic studies.",
+    "Observing the direction and magnitude of the score over time indicates whether healing is occurring.",
+    "There has been no universally accepted method of describing progress towards healing."
+  ],
+  "list_see_also": [
+    "healer"
+  ],
+  "list_browse": [
+    "headscarf",
+    "headstone",
+    "headstrong",
+    "headwind",
+    "heal",
+    "healer",
+    "health",
+    "health centre",
+    "health food"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696749_beabd9a917_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696749_003f68c71d_o.png",
+      "id_image": "heal_1721225"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386552_bbcf05774a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386552_67d1f41605_o.png",
+      "id_image": "heal_3426082"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696694_410751394b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696694_d0dd3baebd_o.png",
+      "id_image": "heal_3426277"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078855_80770c1a35_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078855_58a110d9a2_o.png",
+      "id_image": "heal_6009347"
+    }
+  ]
+}

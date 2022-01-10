@@ -1,0 +1,93 @@
+{
+  "english": "fur",
+  "phat_am": "fəː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lông mao; lông thú",
+          "definition": "the thick, short, fine hair of certain animals.",
+          "world_new": [
+            "thick",
+            "short",
+            "fine",
+            "hair",
+            "certain"
+          ]
+        },
+        {
+          "mean_english": "bộ da lông thú",
+          "definition": "the skin(s) of these animals, often used to make or decorate clothes etc for people",
+          "world_new": [
+            "decorate",
+            "clothes",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a hat made of fur",
+              "world_new": [
+                "hat"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a fur coat.",
+              "world_new": [
+                "coat"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quần áo làm bằng lông thú",
+          "definition": "a coat, cape etc made of fur",
+          "world_new": [
+            "coat",
+            "cape"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was wearing her fur.",
+              "world_new": [
+                "wearing"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "furrier",
+    "furry"
+  ],
+  "list_browse": [
+    "funk",
+    "funnel",
+    "funnily",
+    "funny",
+    "fur",
+    "furious",
+    "furl",
+    "furnace",
+    "furnish"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696754_37bbf65ac5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696754_dee4c24306_o.png",
+      "id_image": "fur_5660561"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386557_6bee543302_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386557_2c87d5e080_o.png",
+      "id_image": "fur_5825065"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696689_d68230ec67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696689_701e907a62_o.png",
+      "id_image": "fur_5930724"
+    }
+  ]
+}

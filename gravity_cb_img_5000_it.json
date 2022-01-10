@@ -1,0 +1,87 @@
+{
+  "english": "gravity",
+  "phat_am": "ˈɡrӕvəti",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tính quan trọng",
+          "world_new": [],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The gravity of the situation was clear to us all.",
+              "world_new": [
+                "situation",
+                "clear"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "trọng lực",
+          "definition": "the force which attracts things towards the Earth and causes them to fall to the ground",
+          "world_new": [
+            "force",
+            "fall",
+            "ground"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Newton discovered the Law of Gravity."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We do not intend that unmarked weights of different gravities should be placed in the pan of the scales as a way for regulating our trade.",
+    "The concept of associations has been for psychology what the concept of gravity has been for physics.",
+    "In the case of light and gravity, both positive and negative responses are known to occur.",
+    "We all know that the whole question of gravities is an extraordinarily difficult and complicated one.",
+    "The average prices given relate to a variety of beers in differing proportions and make no allowance for variations in the original specific gravities of the same beers.",
+    "Are they entitled to declare the original gravities, or are they not?",
+    "Our focus is on the role of gravity in the transition from prenatal to postnatal life.",
+    "We just have to let the object fall under gravity."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "gravel",
+    "gravely",
+    "gravestone",
+    "graveyard",
+    "gravity",
+    "gravy",
+    "graze",
+    "grease",
+    "greasiness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678569_70c2b9cc50_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678569_3069e3dc86_o.png",
+      "id_image": "gravity_1039057"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368322_647534e7fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368322_0326de846e_o.png",
+      "id_image": "gravity_227935"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368252_ff72240acf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368252_df69fec854_o.png",
+      "id_image": "gravity_3655760"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323396_a17ba8377e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323396_c80bdedea8_o.png",
+      "id_image": "gravity_865054"
+    }
+  ]
+}

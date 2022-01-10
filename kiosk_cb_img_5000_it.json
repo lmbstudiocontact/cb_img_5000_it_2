@@ -1,0 +1,102 @@
+{
+  "english": "kiosk",
+  "phat_am": "ˈkiːosk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quán",
+          "definition": "a small roofed stall, either out of doors or in a public building etc, for the sale of newspapers, confectionery etc",
+          "world_new": [
+            "small",
+            "stall",
+            "public",
+            "building",
+            "sale",
+            "confectionery"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I bought a magazine at the kiosk at the station.",
+              "world_new": [
+                "I",
+                "magazine",
+                "station"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "buồng điện thoại công cộng",
+          "definition": "a public telephone box",
+          "world_new": [
+            "public",
+            "telephone",
+            "box"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She phoned from the kiosk outside the post-office",
+              "world_new": [
+                "outside"
+              ]
+            },
+            {
+              "ex_of_definition": "a telephone-kiosk."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There are 900 telephone kiosks which have been erected in the streets and which are doing very satisfactorily.",
+    "We have no proposals of this kind in mind other than the restaurants, kiosks and sports facilities already announced.",
+    "There are already 14 kiosks in these areas.",
+    "Other retail outlets for eggs include kiosks, roadside vendors, supermarkets (small, medium or large) selling table eggs where few had refrigeration facilities for the eggs.",
+    "A second application area is information kiosks, such as at fairs, exhibitions, showrooms, and public places.",
+    "To my knowledge twenty-six persons were convicted in 1964 for offences involving damage to public telephones and kiosks.",
+    "She hopes to be able gradually to start selling provisions from this kiosk.",
+    "There are already 16 kiosks in these areas."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "kink",
+    "kinky",
+    "kinsfolk",
+    "kinsman",
+    "kiosk",
+    "kipper",
+    "kiss",
+    "kiss of life",
+    "kit"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682009_903529131e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682009_0f19ee7bae_o.png",
+      "id_image": "kiosk_1381981"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063765_d2c7c4f8d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063765_359c5acbbc_o.png",
+      "id_image": "kiosk_1523921"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063755_c5d0f0b333_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063755_7ecd38e5ec_o.png",
+      "id_image": "kiosk_1563547"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441823_29d448112b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441823_3337d8c7f9_o.png",
+      "id_image": "kiosk_1581025"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441748_7672df1497_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441748_216a3b3f54_o.png",
+      "id_image": "kiosk_1824616"
+    }
+  ]
+}

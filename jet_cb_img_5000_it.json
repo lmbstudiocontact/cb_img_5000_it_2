@@ -1,0 +1,134 @@
+{
+  "english": "jet",
+  "phat_am": "dʒet",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hạt huyền",
+          "definition": "a hard black mineral substance, used for ornaments etc",
+          "world_new": [
+            "black",
+            "mineral",
+            "substance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The beads are made of jet"
+            },
+            {
+              "ex_of_definition": "(also adjective) a jet brooch.",
+              "world_new": [
+                "brooch"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tia",
+          "definition": "a sudden, strong stream or flow (of liquid, gas, flame or steam), forced through a narrow opening",
+          "world_new": [
+            "sudden",
+            "strong",
+            "stream",
+            "flow",
+            "liquid",
+            "gas",
+            "flame",
+            "forced",
+            "narrow",
+            "opening"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Firemen have to be trained to direct the jets from their hoses accurately.",
+              "world_new": [
+                "trained",
+                "direct",
+                "their",
+                "accurately"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vòi",
+          "definition": "a narrow opening in an apparatus through which a jet comes",
+          "world_new": [
+            "narrow",
+            "opening",
+            "apparatus"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This gas jet is blocked.",
+              "world_new": [
+                "gas",
+                "blocked"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "máy bay phản lực",
+          "definition": "an aeroplane/airplane driven by jet propulsion",
+          "world_new": [
+            "propulsion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We flew by jet to America."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Then the vertical fluid movement is most accelerated along the rear axis, generating a vertical jet.",
+    "Three independent branches can be seen: degeneracy has been removed by breaking symmetry through displacement of one of the jets.",
+    "This result is likely due to the relatively long interaction length of the laser with the pulsed gas jet.",
+    "Therefore, the idea of using a circulating pulsed liquid-metal jet made from gallium, mercury, or lead targets seems quite promising.",
+    "Closer to the jet exit, (v:)4 peaks are higher than (u,2)3 peaks; (u:)* values generally increase with increasing downstream distance.",
+    "The strong jets observed in this study most likely have their origin in the conversion of potential energy to vertical kinetic energy.",
+    "Then the velocity of the vertical jet is expected to become generally larger with increasing stratification.",
+    "The result is that expected from elementary dimensional arguments, but the case of the wall jets is more interesting."
+  ],
+  "list_see_also": [
+    "jet-black"
+  ],
+  "list_browse": [
+    "jerky",
+    "jersey",
+    "jest",
+    "jester",
+    "jet",
+    "jet engine",
+    "jet lag",
+    "jet propulsion",
+    "jet-black"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449713_666719c91a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449713_92b26bdf36_o.png",
+      "id_image": "jet_2090021"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334661_b0d575741d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334661_a032bc2b46_o.png",
+      "id_image": "jet_2614565"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379667_d5502d0ab6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379667_b83d73b3b8_o.png",
+      "id_image": "jet_942346"
+    }
+  ]
+}

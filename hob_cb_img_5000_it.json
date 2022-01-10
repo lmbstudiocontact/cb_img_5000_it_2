@@ -1,0 +1,64 @@
+{
+  "english": "hob",
+  "phat_am": "hob",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thớt bếp",
+          "definition": "the flat framework on top of a cooker, on which pots are placed to be heated",
+          "world_new": [
+            "flat",
+            "framework",
+            "top",
+            "cooker",
+            "heated"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A pan of stew was simmering on the hob.",
+              "world_new": [
+                "stew"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There is one kitchen in the hotel shared by 25 families, containing one cooker, with an oven which does not work and a hob with only three rings working.",
+    "He does not suggest that the hob.",
+    "When they were in government, they trampled with hob-nailed boots over the electorate in the imposition of comprehensive schools.",
+    "It is possible that the hob in their name comes from the hob, a part of the hearth meant for holding food or utensils.",
+    "For example, there is an exemption for trivets, including false hobs and hearth stools, but not hearth companion stands which incorporate a trivet.",
+    "There are also special hobs designed for special gears such as the spline and sprocket gears.",
+    "Its function is similar to that of a potato ricer or hob type of sptzle maker.",
+    "Rubber soles grip poorly on slime, compared to felt soles, crampons, or hob-nailed boots."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "hoarding",
+    "hoarse",
+    "hoarseness",
+    "hoax",
+    "hob",
+    "hobble",
+    "hobby",
+    "hobby-horse",
+    "hobo"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690979_ae3888f0ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690979_41da6ca397_o.png",
+      "id_image": "hob_1678947"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450663_78f7bd6e14_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450663_8c73247a26_o.png",
+      "id_image": "hob_1678948"
+    }
+  ]
+}

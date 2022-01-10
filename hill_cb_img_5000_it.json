@@ -1,0 +1,95 @@
+{
+  "english": "hill",
+  "phat_am": "hil",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đồi",
+          "definition": "a piece of high land, smaller than a mountain",
+          "world_new": [
+            "piece",
+            "land",
+            "mountain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We went for a walk in the hills yesterday.",
+              "world_new": [
+                "walk",
+                "yesterday"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dốc",
+          "definition": "a slope on a road",
+          "world_new": [
+            "slope",
+            "road"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This car has difficulty going up steep hills.",
+              "world_new": [
+                "car",
+                "difficulty",
+                "steep"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The cultivation of cider apples is of great importance and where the hills are not covered with woods, they are planted with apples.",
+    "Lower side of hills, e dges o f rivers, and c reeks.",
+    "Arranged in concentric rings that often shared long retaining walls, the majority of terraces were densely packed on the hill's western face.",
+    "Emergence was assessed 30 days after planting and expressed as the proportion of planted hills with a seedling.",
+    "The mountain at the core had to be dotted with caves and springs, and sometimes surrounded by smaller hills.",
+    "Effects of demographic and related microeconomic change on land quality in hills and mountains of developing countries.",
+    "There are neither hills nor coastline to relate to.",
+    "Road disturbances have the characteristics of large magnitudes at low frequency (such as hills) and small magnitudes at high frequency (such as road roughness)."
+  ],
+  "list_see_also": [
+    "hillock",
+    "hilly",
+    "hillside"
+  ],
+  "list_browse": [
+    "hiker",
+    "hilarious",
+    "hilariously",
+    "hilarity",
+    "hill",
+    "hillock",
+    "hillside",
+    "hilly",
+    "hilt"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336981_28e012d4db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336981_599740f068_o.png",
+      "id_image": "hill_2259688"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451928_4a373fc4f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451928_3b4b72aab8_o.png",
+      "id_image": "hill_307800"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451908_72dd8be0f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451908_864f8b9d12_o.png",
+      "id_image": "hill_661971"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692364_e844d64f63_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692364_74ec97d997_o.png",
+      "id_image": "hill_721124"
+    }
+  ]
+}

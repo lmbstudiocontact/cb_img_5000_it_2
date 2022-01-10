@@ -1,0 +1,64 @@
+{
+  "english": "hopscotch",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "trò chơi ô lò cò (của trẻ con)",
+          "definition": "a game played usually by children in which they hop into a series of squares drawn on the ground",
+          "world_new": [
+            "game",
+            "hop",
+            "series",
+            "drawn",
+            "ground"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The children are playing hopscotch on the pavement.",
+              "world_new": [
+                "pavement"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In addition, there is a large pavilion with tables an amphitheater, hopscotch area, horseshoe pits, and a close by men's and women's restroom.",
+    "The giant screens and the central cross display signs masculine-feminine that move in all directions and form somewhat like a hopscotch game.",
+    "The girls marked out the hopscotch squares in the dust.",
+    "One advantage of hopscotch hashing is that it provides good performance at very high table load factors, even ones exceeding 0.9.",
+    "One girl is playing hopscotch.",
+    "They are made up of small, colorful, linkable plastic rings that can also be used for making friendship jewelry, chains, hopscotch, diving toys, etc.",
+    "Ken is petty, egomancial, lazy, cruel, greedy, jealous, vain, and cheats at hopscotch.",
+    "They are distinct from skipping or hopscotch rhymes which have a rhythm and logic of their own."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "hopefulness",
+    "hopeless",
+    "hopelessly",
+    "hopelessness",
+    "hopscotch",
+    "horde",
+    "horizon",
+    "horizontal",
+    "horizontally"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332256_0518ce797d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332256_87b8800190_o.png",
+      "id_image": "hopscotch_4560975"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068960_8f8b77337e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068960_73b2efb1ef_o.png",
+      "id_image": "hopscotch_5333148"
+    }
+  ]
+}

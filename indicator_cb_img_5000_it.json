@@ -1,0 +1,65 @@
+{
+  "english": "indicator",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "dụng cụ chỉ thị",
+          "definition": "a pointer, sign, instrument etc which indicates something or gives information about something",
+          "world_new": [
+            "pointer",
+            "sign",
+            "instrument",
+            "information"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the indicator on the petrol gauge of a car.",
+              "world_new": [
+                "petrol",
+                "gauge",
+                "car"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The entry point would be where positive changes have taken place in development indicators.",
+    "Moreover, globally many indicators are improving - health, longevity, education, infant mortality and the like.",
+    "The most frequent combination of scores in the three problem indicators is having no problem at all.",
+    "Moreover, where possible the findings are contrasted with other available indicators, in order to test their reliability.",
+    "Although encouraging, these gross indicators of functional progress may obscure more subtle aspects of dysfunction that persist or emerge in adolescence.",
+    "We only use the first principal component (with an eigenvalue of 1.87), which accounts for 62 per cent of the variance in our indicators.",
+    "Results should be read as indicators and readers can take from the ®gures what they may.",
+    "However expressed, area-based indicators also fail to measure whether changes are large or small."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "Indian",
+    "indicate",
+    "indication",
+    "indicative",
+    "indicator",
+    "indifference",
+    "indifferent",
+    "indifferently",
+    "indigestibility"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672799_253131a8d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672799_a62057f78f_o.png",
+      "id_image": "indicator_2191443"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672769_0a83a30262_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672769_e8fb5889f9_o.png",
+      "id_image": "indicator_6255712"
+    }
+  ]
+}

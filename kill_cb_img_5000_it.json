@@ -1,0 +1,95 @@
+{
+  "english": "kill",
+  "phat_am": "kil",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "giết",
+          "definition": "to cause the death of",
+          "world_new": [
+            "cause",
+            "death"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He killed the rats with poison",
+              "world_new": [
+                "poison"
+              ]
+            },
+            {
+              "ex_of_definition": "The outbreak of typhoid killed many people",
+              "world_new": [
+                "outbreak",
+                "typhoid",
+                "people"
+              ]
+            },
+            {
+              "ex_of_definition": "The flat tyre killed our hopes of getting home before midnight.",
+              "world_new": [
+                "flat",
+                "tyre",
+                "our",
+                "home",
+                "midnight"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự giết",
+          "definition": "an act of killing",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The hunter was determined to make a kill before returning to the camp.",
+              "world_new": [
+                "hunter",
+                "determined",
+                "camp"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "killer",
+    "kill off",
+    "kill time"
+  ],
+  "list_browse": [
+    "kid",
+    "kidnap",
+    "kidnapper",
+    "kidney",
+    "kill",
+    "kill off",
+    "kill time",
+    "killer",
+    "killer whale"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372407_90b61c8935_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372407_5783ac5def_o.png",
+      "id_image": "kill_2456591"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442703_66c422a8d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442703_cc4f0b5914_o.png",
+      "id_image": "kill_5773040"
+    }
+  ]
+}

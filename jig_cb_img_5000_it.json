@@ -1,0 +1,89 @@
+{
+  "english": "jig",
+  "phat_am": "dʒiɡ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "điệu nhảy jig",
+          "definition": "(a piece of music for) a type of lively dance",
+          "world_new": [
+            "piece",
+            "music",
+            "type",
+            "lively",
+            "dance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They were dancing an Irish jig.",
+              "world_new": [
+                "dancing"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nhảy điệu jig",
+          "definition": "to jump (about)",
+          "world_new": [
+            "jump"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Stop jigging about and stand still!",
+              "world_new": [
+                "stand"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Shorts have been authorised to begin work on the manufacture of jigs and tools.",
+    "At the same time, nocodazole was applied at a concentration of 0.5 jig/ml.",
+    "Other products suitable for work of this kind is the manufacture of typewriting sundries, jigs and gauges, clothing and many types of electrical goods.",
+    "Computerassisted knee arthroplasty versus a conventional jig-based technique.",
+    "No jig is needed for this procedure, since there are no stringers.",
+    "The posts are positioned on the concrete foundation slab and at first floor level by temporary steel jigs which simplify accurate setting out.",
+    "I do not know what is the position with the jig and tool makers and draughtsmen, but they have certainly been in very short supply.",
+    "It is to give larger orders at the outset, orders which will justify designing, jigging and tooling initially for quantity production."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "Jewish",
+    "jib",
+    "jibe",
+    "jiffy",
+    "jig",
+    "jiggle",
+    "jigsaw (puzzle)",
+    "jilt",
+    "jingle"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689159_974bfefc92_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689159_80f9024371_o.png",
+      "id_image": "jig_1185359"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071070_9f76c4003b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071070_c7f502deb3_o.png",
+      "id_image": "jig_2472899"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689114_426ff77258_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689114_ebb93a75fd_o.png",
+      "id_image": "jig_2534961"
+    }
+  ]
+}

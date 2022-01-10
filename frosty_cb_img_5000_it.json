@@ -1,0 +1,75 @@
+{
+  "english": "frosty",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "phủ sương tuyết",
+          "definition": "covered with frost",
+          "world_new": [
+            "frost"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the frosty countryside.",
+              "world_new": [
+                "countryside"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lạnh nhạt; lãnh đạm",
+          "definition": "(of behaviour/behavior) very unfriendly",
+          "world_new": [
+            "unfriendly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a frosty manner.",
+              "world_new": [
+                "manner"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There has been frosty weather of exceptional severity and prolonged over an unusual period of time.",
+    "What about changing from porcelain insulators which crack in frosty weather and thereby cause delays to modern glass ones?",
+    "His word \"frosty\" was appropriate.",
+    "Any such attempt is met with a pained and frosty silence.",
+    "At that time we received a frosty response to it.",
+    "Following those, it was not surprising that the latest review received a frosty reception.",
+    "I got a very frosty reception.",
+    "We have had one or two difficulties lately and the frosty weather has interfered with the trapping."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "frostbite",
+    "frostbitten",
+    "frostily",
+    "frosting",
+    "frosty",
+    "froth",
+    "frothy",
+    "frown",
+    "frown on/upon"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080940_626a375fb5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080940_597056d4fc_o.png",
+      "id_image": "frosty_2279948"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343526_c3e2a09096_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343526_a49207c42b_o.png",
+      "id_image": "frosty_699695"
+    }
+  ]
+}

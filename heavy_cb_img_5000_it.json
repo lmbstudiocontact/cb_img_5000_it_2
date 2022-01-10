@@ -1,0 +1,181 @@
+{
+  "english": "heavy",
+  "phat_am": "ˈhevi",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "nặng nề",
+          "definition": "having great weight; difficult to lift or carry",
+          "world_new": [
+            "great",
+            "difficult",
+            "lift",
+            "carry"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a heavy parcel.",
+              "world_new": [
+                "parcel"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nặng",
+          "definition": "having a particular weight",
+          "world_new": [
+            "particular",
+            "weight"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I wonder how heavy the suitcase is.",
+              "world_new": [
+                "I",
+                "wonder",
+                "suitcase"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lượng lớn",
+          "definition": "of very great amount, force etc",
+          "world_new": [
+            "great",
+            "amount",
+            "force"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "heavy rain",
+              "world_new": [
+                "rain"
+              ]
+            },
+            {
+              "ex_of_definition": "a heavy blow",
+              "world_new": [
+                "blow"
+              ]
+            },
+            {
+              "ex_of_definition": "The ship capsized in the heavy seas",
+              "world_new": [
+                "ship"
+              ]
+            },
+            {
+              "ex_of_definition": "heavy taxes."
+            }
+          ]
+        },
+        {
+          "mean_english": "nặng",
+          "definition": "doing something to a great extent",
+          "world_new": [
+            "great",
+            "extent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s a heavy smoker/drinker."
+            }
+          ]
+        },
+        {
+          "mean_english": "âm u",
+          "definition": "dark and dull; looking or feeling stormy",
+          "world_new": [
+            "dark",
+            "feeling",
+            "stormy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a heavy sky/atmosphere."
+            }
+          ]
+        },
+        {
+          "mean_english": "khó hiểu",
+          "definition": "difficult to read, do, understand etc",
+          "world_new": [
+            "difficult",
+            "read",
+            "understand"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Books on philosophy are too heavy for me.",
+              "world_new": [
+                "philosophy"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khó tiêu",
+          "definition": "(of food) hard to digest",
+          "world_new": [
+            "digest"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It was a rather heavy meal.",
+              "world_new": [
+                "rather",
+                "meal"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vụng về",
+          "definition": "noisy and clumsy",
+          "world_new": [
+            "noisy",
+            "clumsy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "heavy footsteps."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "heavily",
+    "heaviness",
+    "heavy-duty",
+    "heavy industry",
+    "heavy metal",
+    "heavyweight",
+    "heavy going",
+    "a heavy heart",
+    "make heavy weather of"
+  ],
+  "list_browse": [
+    "heavenly bodies",
+    "heavens",
+    "heavily",
+    "heaviness",
+    "heavy",
+    "heavy going",
+    "heavy industry",
+    "heavy metal",
+    "heavy-duty"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454603_cd91811a37_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454603_4d36fcbec8_o.png",
+      "id_image": "heavy_1684422"
+    }
+  ]
+}

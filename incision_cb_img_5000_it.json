@@ -1,0 +1,68 @@
+{
+  "english": "incision",
+  "phat_am": "inˈsiʒən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vết rạch",
+          "definition": "a cut, especially one made in a person’s body by a surgeon",
+          "world_new": [
+            "cut",
+            "body",
+            "surgeon"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "An incision was made in the patient’s chest.",
+              "world_new": [
+                "chest"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự rạch",
+          "definition": "the act of cutting especially by a surgeon.",
+          "world_new": [
+            "act",
+            "cutting",
+            "surgeon"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Solitary lesion on nail fold at day 11 of infection and incision of the lesion are seen (acute stage).",
+    "The jade disks are only polished and bear no incision or other surface carving.",
+    "Incision was made through the 6th intercostal space, never trespassing the median axillary line.",
+    "Three deep incisions were made through the triceps muscles into the shoulder and the incised surface inspected.",
+    "If inadequate, then a vertical incision is made in the pulmonary artery, a full valvotomy performed without peripheral release, and the \"annulus\" remeasured.",
+    "Every aspect bar the initial incision and post-operative stitching was performed by the robot.",
+    "The pivot center of the mechanism is located at the incision point.",
+    "We attempted to reduce this \"inferiority complex\" of the patients after surgery by limiting the extent of our skin incision in the upper chest."
+  ],
+  "list_see_also": [
+    "incisor"
+  ],
+  "list_browse": [
+    "incidentally",
+    "incinerate",
+    "incineration",
+    "incinerator",
+    "incision",
+    "incisor",
+    "incite",
+    "incitement",
+    "incivility"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364167_7f0321e640_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364167_c9e580c85a_o.png",
+      "id_image": "incision_2317712"
+    }
+  ]
+}

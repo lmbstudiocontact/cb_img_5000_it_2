@@ -1,0 +1,156 @@
+{
+  "english": "leak",
+  "phat_am": "liːk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lỗ rò; khe hở",
+          "definition": "a crack or hole through which liquid or gas escapes",
+          "world_new": [
+            "crack",
+            "hole",
+            "liquid",
+            "gas"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Water was escaping through a leak in the pipe.",
+              "world_new": [
+                "pipe"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự rò ra",
+          "definition": "the passing of gas, water etc through a crack or hole",
+          "world_new": [
+            "passing",
+            "gas",
+            "water",
+            "crack",
+            "hole"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a gas leak.",
+              "world_new": [
+                "gas"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "rò tin",
+          "definition": "a giving away of secret information",
+          "world_new": [
+            "secret",
+            "information"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a leak of Government plans."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "rò rỉ",
+          "definition": "to have a leak",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This bucket leaks",
+              "world_new": [
+                "bucket"
+              ]
+            },
+            {
+              "ex_of_definition": "The boiler leaked hot water all over the floor.",
+              "world_new": [
+                "boiler",
+                "hot",
+                "water",
+                "floor"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "rỉ; ngấm",
+          "definition": "to (cause something) to pass through a leak",
+          "world_new": [
+            "pass"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Gas was leaking from the cracked pipe",
+              "world_new": [
+                "cracked",
+                "pipe"
+              ]
+            },
+            {
+              "ex_of_definition": "He was accused of leaking secrets to the enemy.",
+              "world_new": [
+                "enemy"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The leak currents were not subtracted from the data.",
+    "However, there are still paths in the function such that untrustworthy information may leak through if the function is called with untrustworthy arguments.",
+    "An oil slick began to spread from the ship, leaking from damaged tanks.",
+    "Next, we show several examples of leaks that may occur in object-oriented programs due to control flow and aliasing.",
+    "These calculi always leak somewhere - otherwise why so many variants?",
+    "Similarly, an individual could accidentally ' 'leak' ' his or her own data through a ' 'phishing' ' attack or other online breach.",
+    "Of 34 operative survivors, 10 were reoperated (4 baffle dysfunction, 3 baffle leaks, 1 valvular prosthesis, 3 pacemakers and 1 heart-lung transplant).",
+    "The second harmonic power leaks out into the higher density outer region at a small angle to channel axis."
+  ],
+  "list_see_also": [
+    "leakage",
+    "leaky"
+  ],
+  "list_browse": [
+    "leaf",
+    "leaflet",
+    "leafy",
+    "league",
+    "leak",
+    "leakage",
+    "leaky",
+    "lean",
+    "leaning"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672139_07fa0dac6a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672139_ea45fc5bed_o.png",
+      "id_image": "leak_3071605"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361722_7c1b168f77_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361722_84773e6b5a_o.png",
+      "id_image": "leak_4845888"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432548_caf0abf32b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432548_a345e30ef3_o.png",
+      "id_image": "leak_900630"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053895_c1838500e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053895_9dbac1d0ed_o.png",
+      "id_image": "leak_900631"
+    }
+  ]
+}

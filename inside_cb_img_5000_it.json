@@ -1,0 +1,192 @@
+{
+  "english": "inside",
+  "phat_am": "inˈsaid",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bên trong",
+          "definition": "the inner side, or the part or space within",
+          "world_new": [
+            "inner",
+            "side",
+            "part",
+            "space"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The inside of this apple is quite rotten.",
+              "world_new": [
+                "apple",
+                "quite",
+                "rotten"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dạ dày và ruột",
+          "definition": "the stomach and bowels",
+          "world_new": [
+            "stomach"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He ate too much and got a pain in his inside(s).",
+              "world_new": [
+                "pain"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "ở trong",
+          "definition": "being on or in the inside",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the inside pages of the newspaper",
+              "world_new": [
+                "newspaper"
+              ]
+            },
+            {
+              "ex_of_definition": "The inside traffic lane is the one nearest to the kerb/curb.",
+              "world_new": [
+                "traffic",
+                "lane"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "bên trong; ở trong",
+          "definition": "to, in, or on, the inside",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The door was open and he went inside",
+              "world_new": [
+                "door",
+                "open"
+              ]
+            },
+            {
+              "ex_of_definition": "She shut the door but left her key inside by mistake.",
+              "world_new": [
+                "shut",
+                "door",
+                "left",
+                "key",
+                "mistake"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trong nhà",
+          "definition": "in a house or building",
+          "world_new": [
+            "house",
+            "building"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You should stay inside in such bad weather.",
+              "world_new": [
+                "stay",
+                "bad",
+                "weather"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "vào trong",
+          "definition": "(sometimes especially American with of) within; to or on the inside of",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She is inside the house",
+              "world_new": [
+                "house"
+              ]
+            },
+            {
+              "ex_of_definition": "He went inside the shop.",
+              "world_new": [
+                "shop"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trong vòng",
+          "definition": "(sometimes with of) in less than, or within, a certain time",
+          "world_new": [
+            "certain",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He finished the work inside (of) two days.",
+              "world_new": [
+                "finished",
+                "work"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "inside out"
+  ],
+  "list_browse": [
+    "insert",
+    "insertion",
+    "inset",
+    "inshore",
+    "inside",
+    "inside out",
+    "insight",
+    "insignia",
+    "insignificance"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345421_35682cee1c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345421_9413172baf_o.png",
+      "id_image": "inside_1827202"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390357_0c22e4b3fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390357_863bdc656b_o.png",
+      "id_image": "inside_1827206"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390312_9cfcaa5f34_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390312_86c2d2b261_o.png",
+      "id_image": "inside_1827214"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460128_c6f505b853_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460128_749509da7e_o.png",
+      "id_image": "inside_1828560"
+    }
+  ]
+}

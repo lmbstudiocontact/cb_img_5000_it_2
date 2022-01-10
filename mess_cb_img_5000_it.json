@@ -1,0 +1,105 @@
+{
+  "english": "mess",
+  "phat_am": "mes",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tình trạng hỗn độn",
+          "definition": "a state of disorder or confusion; an untidy, dirty or unpleasant sight or muddle",
+          "world_new": [
+            "state",
+            "disorder",
+            "untidy",
+            "dirty",
+            "unpleasant",
+            "sight",
+            "muddle"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This room is in a terrible mess!",
+              "world_new": [
+                "room",
+                "terrible"
+              ]
+            },
+            {
+              "ex_of_definition": "She looked a mess"
+            },
+            {
+              "ex_of_definition": "The spilt food made a mess on the carpet.",
+              "world_new": [
+                "food",
+                "carpet"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm rối; làm bẩn",
+          "definition": "(with with) to meddle, or to have something to do with",
+          "world_new": [
+            "meddle"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s always messing with the television set.",
+              "world_new": [
+                "television"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "What is the most reliable way out of the interpretational mess?",
+    "Negative views on performance make people shy away from the ideology that is suspected to lurk beneath the mess.",
+    "I will take hide and offal, leave no mess free of charge.",
+    "The kitchen and mess room are contained within a single elevated building.",
+    "You start looking at the legal materials, and as is usual, they are a mess.",
+    "With the application of ultraviolet light, the epoxy cures to its fully hardened state with no mixing or additional mess.",
+    "She would not sleep at night, waking up at all hours, playing and making a mess.",
+    "Or to put it the other way round, 'respect the classics, they should not be messed around with, attempts to interpret are out of order'."
+  ],
+  "list_see_also": [
+    "messy",
+    "messily",
+    "messiness",
+    "mess-up",
+    "make a mess of",
+    "mess about/around",
+    "mess up"
+  ],
+  "list_browse": [
+    "mesh",
+    "mesmerism",
+    "mesmerize",
+    "mesosphere",
+    "mess",
+    "mess about/around",
+    "mess-up",
+    "message",
+    "messenger"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391007_d734c31491_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391007_5b75275e95_o.png",
+      "id_image": "mess_4776022"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345996_cfc66dce87_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345996_882863d7f9_o.png",
+      "id_image": "mess_4797083"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "english": "indoor",
+  "phat_am": "ˈindoː",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "trong nhà",
+          "definition": "used, done etc inside a building",
+          "world_new": [
+            "building"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "indoor games",
+              "world_new": [
+                "games"
+              ]
+            },
+            {
+              "ex_of_definition": "an indoor swimming-pool."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The application of a functionally similar homing method to indoor navigation is currently under investigation.",
+    "This experiment is intended to simulate an indoor environment such as a mine, factory building or subway tunnel.",
+    "Because of the lack of partitions, the large galleries in all locations and orientations would have allowed the interior microclimate to self-balance indoor conditions.",
+    "Experimental data show the effectiveness of the designed sensor in indoor environments.",
+    "They still apply wherever we walk, whether it be in parking lots, along storefronts, suburban pavements, or indoor shopping malls.",
+    "It is a dangerous and irresponsible action for fire fighters to scout the situation of fire in buildings, underground marketplace, or other indoor environments.",
+    "The ethanol is placed in the indoor lower corridor and the acetone in the upper corridor.",
+    "This is crucial for policies to combat indoor air pollution."
+  ],
+  "list_see_also": [
+    "indoors"
+  ],
+  "list_browse": [
+    "indivisibility",
+    "indivisible",
+    "indoctrinate",
+    "indoctrination",
+    "indoor",
+    "indoors",
+    "induce",
+    "indulge",
+    "indulge in"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054210_aa9bf844c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054210_aea8ea7574_o.png",
+      "id_image": "indoor_1522193"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672409_2d148b423f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672409_24a4ffa088_o.png",
+      "id_image": "indoor_3965846"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432778_c6aab46835_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432778_bb56e7ec08_o.png",
+      "id_image": "indoor_5578202"
+    }
+  ]
+}

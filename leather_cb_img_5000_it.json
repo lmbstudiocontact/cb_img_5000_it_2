@@ -1,0 +1,71 @@
+{
+  "english": "leather",
+  "phat_am": "ˈleðə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "da",
+          "definition": "the skin of an animal prepared for making clothes, luggage etc",
+          "world_new": [
+            "skin",
+            "animal",
+            "prepared",
+            "clothes",
+            "luggage"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "These shoes are made of leather"
+            },
+            {
+              "ex_of_definition": "(also adjective) a leather jacket/case."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Of these, the single most important item was lace (1,052,460 francs), followed by silk fabric (794,508 francs) and leather gloves (585,954 francs).",
+    "The artefacts were all domestic in nature-cup, bottles, leather for shoe repair, clothing fragments, bones, and scrimshaw blanks.",
+    "In one too touching scene the boy appears without his leather brace, his tiny deformed body exposed to the harsh world.",
+    "Dressed in no more than loin clothes and beaded leather aprons, the records make numerous remarks regarding what was considered to be their undressed state.",
+    "But the manufacturing processes that produced bar iron, flax, leather, and naval stores were primitive and easily mastered even by a semiliterate population.",
+    "This tiny leather-bound volume contained a set of maps, carefully copied from originals dating from 1857 up to 1872.",
+    "This pattern in textiles may in part reflect the greater diversity of occupations within the sector, compared to leather, for example.",
+    "Some adopted aspects of dress associated with men - very short hair, leather bikers' clothes, but they did not regard themselves as ' masculine ' or unfeminine."
+  ],
+  "list_see_also": [
+    "leathery"
+  ],
+  "list_browse": [
+    "learning outcome",
+    "lease",
+    "leash",
+    "least",
+    "leather",
+    "leathery",
+    "leave",
+    "leave alone",
+    "leave home"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462393_dbc1b88e61_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462393_de923775e5_o.png",
+      "id_image": "leather_1466545"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392542_cce1a41126_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392542_d93a39892d_o.png",
+      "id_image": "leather_2865708"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702359_d1285eb1f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702359_15d48543f2_o.png",
+      "id_image": "leather_4366753"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "english": "majority",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đa số",
+          "definition": "the greater number",
+          "world_new": [
+            "number"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the majority of people.",
+              "world_new": [
+                "people"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "được đa số phiếu",
+          "definition": "the difference between a greater and a smaller number",
+          "world_new": [
+            "difference",
+            "number"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The Democratic Party won by/with a majority of six hundred votes."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In short, had electoral majorities wanted to abandon judicial review, judicial review would have been abandoned.",
+    "While their disparate policy crusades engendered some opposition, they each won political battles with the congressional majorities and presidents of their time.",
+    "The existence of strong majorities is, on the other hand, facilitated by the electoral system which favours the emergence of stable and powerful one-party governments.",
+    "The fact that they are more successful when they constitute majorities is most likely due to selection bias.",
+    "On a more fundamental level, laws that pass with bipartisan majorities may not begin with bipartisan support.",
+    "What followed were attempts to treat unprotected minorities, including marginalised and weak ones, as equal to the majorities.",
+    "Finally, there is the possibility that majorities can use proxy voting to maintain control while permitting their members the desired rate of absenteeism.",
+    "Not just by majoritarianism, intuitively characterized, but also by unanimitarianism and minoritarianism and any procedures requiring special majorities of two-thirds and the like."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "majestically",
+    "majesty",
+    "major",
+    "major-general",
+    "majority",
+    "make",
+    "make (both) ends meet",
+    "make (good) use of",
+    "make (oneself) understood"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328381_c2fb3884e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328381_819964f361_o.png",
+      "id_image": "majority_5291794"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683424_489862c3c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683424_0b0cfa437a_o.png",
+      "id_image": "majority_5291807"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683394_cf4ec34650_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683394_e243188cbf_o.png",
+      "id_image": "majority_5291865"
+    }
+  ]
+}

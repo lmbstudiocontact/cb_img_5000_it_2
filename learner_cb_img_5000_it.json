@@ -1,0 +1,70 @@
+{
+  "english": "learner",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người học",
+          "definition": "a person who is in process of learning",
+          "world_new": [
+            "person",
+            "process",
+            "learning"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a foreign language learner",
+              "world_new": [
+                "foreign",
+                "language"
+              ]
+            },
+            {
+              "ex_of_definition": "Be patient – I’m only a learner",
+              "world_new": [
+                "patient"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a learner driver.",
+              "world_new": [
+                "driver"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The study was conducted on two groups of learners: 53 college students and 56 high school students.",
+    "On each trial, the correctness and latency of the learner's verbal response were assessed.",
+    "Another teaching approach used was text reconstruction, which, perhaps surprisingly, benefited the least educated learners the most.",
+    "Table 2 gives the average performance of the foreign learners in both word categorization tasks.",
+    "They conclude that self-management strategies contribute to an increase in learners' self- and contextual knowledge which can assist in reducing anxiety.",
+    "For the most part, these learners took a pragmatic view of notation, viewing it as useful but not crucial.",
+    "The studies reviewed in this chapter point to a consistent minority of language learners who find language learning an uncomfortable and unsettling experience.",
+    "This is a useful paper for those interested in researching the strategies that young learners employ."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "leap year",
+    "leapfrog",
+    "learn",
+    "learned",
+    "learner",
+    "learner-friendly",
+    "learning",
+    "learning outcome",
+    "lease"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672039_260f5e1b0d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672039_66dda1123d_o.png",
+      "id_image": "learner_1783695"
+    }
+  ]
+}

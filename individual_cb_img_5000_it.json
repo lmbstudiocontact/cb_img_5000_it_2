@@ -1,0 +1,146 @@
+{
+  "english": "individual",
+  "phat_am": "indiˈvidjuəl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "một mình; riêng lẻ",
+          "definition": "single; separate",
+          "world_new": [
+            "separate"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Put price labels on each individual item.",
+              "world_new": [
+                "price",
+                "item"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "từng người",
+          "definition": "intended for, used by etc one person etc",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Customers in shops should be given individual attention.",
+              "world_new": [
+                "attention"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "độc đáo",
+          "definition": "special to one person etc, showing or having special qualities",
+          "world_new": [
+            "special",
+            "person",
+            "special"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her style of dress is very individual.",
+              "world_new": [
+                "style",
+                "dress"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cá nhân",
+          "definition": "a single person in contrast to the group to which he belongs",
+          "world_new": [
+            "single",
+            "person",
+            "contrast",
+            "group"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the rights of the individual in society.",
+              "world_new": [
+                "rights",
+                "society"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "một con người",
+          "definition": "a person",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s an untidy individual.",
+              "world_new": [
+                "untidy"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The first limiting factor can be seen in the number of individuals sampled.",
+    "Secondly, young individuals can achieve the same time horizon effects through their own personal investment policies.",
+    "The heterogeneity of individuals enables us to study the impacts of financial incentives on different groups.",
+    "The challenge is to respect and attend to the needs of all, despite the attraction to par ticular individuals.",
+    "Hard antipaternalism is not sufficiently solicitous of the individual's good, the actual quality of life she succeeds in gaining.",
+    "The over-representation of the poor of all ages among switchers may thus reflect a higher tendency to move among sick individuals.",
+    "By addressing problems as a working group, individuals representing each area of research specialization understand each component of the whole-farm system.",
+    "Thus, the present delay of full doxastic disclosure is not an irremediable loss for these individuals."
+  ],
+  "list_see_also": [
+    "individuality",
+    "individually"
+  ],
+  "list_browse": [
+    "indistinct",
+    "indistinctly",
+    "indistinctness",
+    "indistinguishable",
+    "individual",
+    "individuality",
+    "individually",
+    "indivisibility",
+    "indivisible"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672629_1ca8f17761_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672629_ed3a544dd4_o.png",
+      "id_image": "individual_1460027"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432948_b6f204c70a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432948_a9023b3ff7_o.png",
+      "id_image": "individual_2909994"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672534_4bab6f3a71_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672534_b6f3dce2bc_o.png",
+      "id_image": "individual_3046267"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432913_8d841dabec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432913_30f0b3c6f6_o.png",
+      "id_image": "individual_4412876"
+    }
+  ]
+}

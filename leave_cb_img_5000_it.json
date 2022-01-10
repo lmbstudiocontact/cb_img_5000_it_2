@@ -1,0 +1,215 @@
+{
+  "english": "leave",
+  "phat_am": "liːv",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bỏ đi",
+          "definition": "to go away or depart from, often without intending to return",
+          "world_new": [
+            "depart",
+            "return"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He left the room for a moment",
+              "world_new": [
+                "left",
+                "room",
+                "moment"
+              ]
+            },
+            {
+              "ex_of_definition": "They left at about six o’clock",
+              "world_new": [
+                "left",
+                "o’clock"
+              ]
+            },
+            {
+              "ex_of_definition": "I have left that job.",
+              "world_new": [
+                "I",
+                "left",
+                "job"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bỏ lại",
+          "definition": "to go without taking",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She left her gloves in the car",
+              "world_new": [
+                "left",
+                "car"
+              ]
+            },
+            {
+              "ex_of_definition": "He left his children behind when he went to France.",
+              "world_new": [
+                "left"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "để lại",
+          "definition": "to allow to remain in a particular state or condition",
+          "world_new": [
+            "allow",
+            "remain",
+            "particular",
+            "state",
+            "condition"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She left the job half-finished.",
+              "world_new": [
+                "left",
+                "job"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "để mặc",
+          "definition": "to let (a person or a thing) do something without being helped or attended to",
+          "world_new": [
+            "let",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ll leave the meat to cook for a while.",
+              "world_new": [
+                "meat",
+                "cook"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "để lại cho người khác",
+          "definition": "to allow to remain for someone to do, make etc",
+          "world_new": [
+            "allow",
+            "remain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Leave that job to the experts!",
+              "world_new": [
+                "job"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "để lại thừa kế",
+          "definition": "to make a gift of in one’s will",
+          "world_new": [
+            "gift"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She left all her property to her son.",
+              "world_new": [
+                "left",
+                "property",
+                "son"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự cho phép",
+          "definition": "permission to do something, eg to be absent",
+          "world_new": [
+            "permission",
+            "absent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "May I have your leave to go?",
+              "world_new": [
+                "I",
+                "your"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự được phép nghỉ",
+          "definition": "(especially of soldiers, sailors etc) a holiday",
+          "world_new": [
+            "holiday"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is home on shore leave at the moment.",
+              "world_new": [
+                "home",
+                "shore",
+                "moment"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We leave the straightforward proof of this to the reader.",
+    "We are thus left with 275 time-consistent municipalities.",
+    "Some made a forced return from leave, expressing a sense of urgency uncharacteristic of ordinary project life.",
+    "For now, we leave this result without a broader discussion.",
+    "Space is left above the stack for responses to requests for information such as types.",
+    "The details are 2 straightforward and left to the reader.",
+    "The proof of this embedding result is straightforward and will thus be left as an exercise.",
+    "This left 64 patients who took part in the study."
+  ],
+  "list_see_also": [
+    "leave alone",
+    "leave out",
+    "left over"
+  ],
+  "list_browse": [
+    "leash",
+    "least",
+    "leather",
+    "leathery",
+    "leave",
+    "leave alone",
+    "leave home",
+    "leave in the lurch",
+    "leave no stone unturned"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084875_5eb23df294_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084875_8ac00b97fc_o.png",
+      "id_image": "leave_1409016"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392482_278acc9c42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392482_26f32237da_o.png",
+      "id_image": "leave_3387188"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392462_656ebecdf6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392462_17e3bdd8b9_o.png",
+      "id_image": "leave_4157730"
+    }
+  ]
+}

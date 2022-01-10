@@ -1,0 +1,63 @@
+{
+  "english": "jackpot",
+  "phat_am": "ˈdʒӕkpot",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tiền gà (trong đánh bài)",
+          "definition": "in playing cards, some competitions etc, a fund of prize-money that goes on increasing until it is won",
+          "world_new": [
+            "cards",
+            "fund"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What are the chances of winning the jackpot?",
+              "world_new": [
+                "winning"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The jackpots begin at $1,000,000 (all-cash, and taxes-paid), increasing by at least $50,000 if there is no top prize winner.",
+    "Players of the 6/44 paid $1 per game; its jackpots began at $5 million.",
+    "Furthermore, if one of the numbers were out of sequence, the unrefundable ticket could not reach the jackpot and can't be refunded and would be worth nothing.",
+    "Jackpots begin at $15,000,000 with minimum rollovers of $5,000,000.",
+    "The jackpots begin at $1,000,000 (all-cash; and taxes-paid), increasing by at least $50,000 if there is no top prize winner.",
+    "I always thought that jackpots came with gambling machines.",
+    "The jackpot's credibility will become slightly soiled when the sums are enormous.",
+    "There are 6 arcades, each with its own 18-only section with high jackpots."
+  ],
+  "list_see_also": [
+    "hit the jackpot"
+  ],
+  "list_browse": [
+    "jackboot",
+    "jackdaw",
+    "jacket",
+    "jacket potato",
+    "jackpot",
+    "Jacuzzi",
+    "jade",
+    "jaded",
+    "jagged"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073100_de65fd2d32_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073100_c0337e7797_o.png",
+      "id_image": "jackpot_4617300"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381122_e3cb78cf69_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381122_d4e0e179a1_o.png",
+      "id_image": "jackpot_4658182"
+    }
+  ]
+}

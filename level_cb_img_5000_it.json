@@ -1,0 +1,296 @@
+{
+  "english": "level",
+  "phat_am": "ˈlevl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mức",
+          "definition": "height, position, strength, rank etc",
+          "world_new": [
+            "height",
+            "position",
+            "strength",
+            "rank"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The level of the river rose",
+              "world_new": [
+                "river"
+              ]
+            },
+            {
+              "ex_of_definition": "Dolphins possess a high level of intelligence.",
+              "world_new": [
+                "possess",
+                "intelligence"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tầng",
+          "definition": "a horizontal division or floor",
+          "world_new": [
+            "horizontal",
+            "division",
+            "floor"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’re parked on the third level of the multi-storey car park.",
+              "world_new": [
+                "multi-storey",
+                "car",
+                "park"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dụng cụ thử mặt ngang",
+          "definition": "a kind of instrument for showing whether a surface is level",
+          "world_new": [
+            "kind",
+            "instrument",
+            "surface"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a spirit level.",
+              "world_new": [
+                "spirit"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mặt phẳng",
+          "definition": "a flat, smooth surface or piece of land",
+          "world_new": [
+            "flat",
+            "smooth",
+            "surface",
+            "piece",
+            "land"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It was difficult running uphill, but he could run fast on the level.",
+              "world_new": [
+                "difficult",
+                "running",
+                "uphill",
+                "run",
+                "fast"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "phẳng",
+          "definition": "flat, even, smooth or horizontal",
+          "world_new": [
+            "flat",
+            "even",
+            "smooth",
+            "horizontal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a level surface",
+              "world_new": [
+                "surface"
+              ]
+            },
+            {
+              "ex_of_definition": "a level spoonful (= an amount which just fills the spoon to the top of the sides).",
+              "world_new": [
+                "spoonful",
+                "amount",
+                "spoon",
+                "top"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ngang bằng",
+          "definition": "of the same height, standard etc",
+          "world_new": [
+            "height",
+            "standard"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The top of the kitchen sink is level with the window-sill",
+              "world_new": [
+                "top",
+                "kitchen",
+                "sink",
+                "window-sill"
+              ]
+            },
+            {
+              "ex_of_definition": "The scores of the two teams are level."
+            }
+          ]
+        },
+        {
+          "mean_english": "đều đều",
+          "definition": "steady, even and not rising or falling much",
+          "world_new": [
+            "steady",
+            "even",
+            "rising"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a calm, level voice.",
+              "world_new": [
+                "calm",
+                "voice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "san phẳng",
+          "definition": "to make flat, smooth or horizontal",
+          "world_new": [
+            "flat",
+            "smooth",
+            "horizontal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He levelled the soil with a hoe.",
+              "world_new": [
+                "soil",
+                "hoe"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "san bằng",
+          "definition": "to make equal",
+          "world_new": [
+            "equal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His goal levelled the scores of the two teams.",
+              "world_new": [
+                "goal"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chĩa",
+          "definition": "(usually with at) to aim (a gun etc)",
+          "world_new": [
+            "aim",
+            "gun"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He levelled his pistol at the target.",
+              "world_new": [
+                "pistol",
+                "target"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kéo sập",
+          "definition": "to pull down",
+          "world_new": [
+            "pull"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The bulldozer levelled the block of flats.",
+              "world_new": [
+                "bulldozer",
+                "block"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Efforts to calculate the level of price support for rice required the government to elicit cost of production data from the agricultural associations.",
+    "Qualitative researchers have also recognized the problem of hierarchical, nested levels of context, even if they have not expressed the problem in those terms.",
+    "Alternatively, one can propose a general licensing principle that permits such violations at that level.",
+    "Nondeterminism can also remain right down to the implementation level, where any consistent value may be returned.",
+    "The first model includes only the individual level variables.",
+    "Sometimes, and with some letters (especially at the youngest age level), phonetic letter names are produced.",
+    "Psychological models and learning algorithms should be classified at a more abstract level.",
+    "We do not understand the notion of a \"psychological\" theory that is \"nonindividualistic\"; the individual organism is psychology's focal level of analysis."
+  ],
+  "list_see_also": [
+    "levelness",
+    "level crossing",
+    "level-headed",
+    "do one’s level best",
+    "level off",
+    "level out",
+    "on a level with",
+    "on the level"
+  ],
+  "list_browse": [
+    "lettering",
+    "lettuce",
+    "leucocyte",
+    "leukemia",
+    "level",
+    "level crossing",
+    "level off",
+    "level out",
+    "level-headed"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389657_a2fcc951da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389657_0ccc6f4603_o.png",
+      "id_image": "level_1146851"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344681_41ab490561_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344681_a678fe7e4d_o.png",
+      "id_image": "level_2014983"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389597_7de92c11c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389597_63c97ca498_o.png",
+      "id_image": "level_2823975"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344636_8cce22b70d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344636_45c46cb337_o.png",
+      "id_image": "level_5391524"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082240_5d8225bbf3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082240_c7766807a4_o.png",
+      "id_image": "level_706017"
+    }
+  ]
+}

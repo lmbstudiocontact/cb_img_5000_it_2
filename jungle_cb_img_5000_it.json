@@ -1,0 +1,82 @@
+{
+  "english": "jungle",
+  "phat_am": "ˈdʒaŋɡl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "rừng nhiệt đới",
+          "definition": "a thick growth of trees and plants in tropical areas",
+          "world_new": [
+            "thick",
+            "growth",
+            "tropical"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the Amazon jungle"
+            },
+            {
+              "ex_of_definition": "Tigers are found in the jungles of Asia",
+              "world_new": [
+                "found"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) The soldiers are trained in jungle warfare.",
+              "world_new": [
+                "trained",
+                "warfare"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Trading futures and derivatives, it could have been a jungle of aggressive queue jumpers, seeking to trample their fellow traders under foot.",
+    "Without a monopolistic government only the law of the jungle would apply.",
+    "The autogyro would be tested through policing the rebel-infested mountains and jungles.",
+    "At the same time we have to protect the wildlife, the natural habitats, the flora, the fauna, the jungles and the rain forests.",
+    "I look at some of the buildings for which we were responsible and ask myself whether we have in many cases created concrete jungles for people to live in.",
+    "There are long chase sequences in the jungles.",
+    "Arms will be found hidden in fields, forests and jungles.",
+    "The rain forests were considered as jungles that one had to conquer and exploit for their timber and so on."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "Jun",
+    "junction",
+    "juncture",
+    "June",
+    "jungle",
+    "junior",
+    "juniper",
+    "junk",
+    "junk food"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445438_2c3e030ede_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445438_ac5cd07ef8_o.png",
+      "id_image": "jungle_1777015"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067345_3e2e51db80_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067345_cd7f342e0e_o.png",
+      "id_image": "jungle_190905"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330391_24c924b97f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330391_ba5a934f9c_o.png",
+      "id_image": "jungle_2169392"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375092_e9b217f3f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375092_a33f73c440_o.png",
+      "id_image": "jungle_2417585"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "english": "justify",
+  "phat_am": "ˈdʒastifai",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bào chữa",
+          "definition": "to prove or show (a person, action, opinion etc) to be just, right, desirable or reasonable",
+          "world_new": [
+            "prove",
+            "person",
+            "action",
+            "opinion",
+            "right",
+            "desirable",
+            "reasonable"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "How can the government justify the spending of millions of pounds on weapons when there is so much poverty in the country?",
+              "world_new": [
+                "government",
+                "poverty",
+                "country"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bào chữa",
+          "definition": "to be a good excuse for",
+          "world_new": [
+            "excuse"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Your state of anxiety does not justify your being so rude to me.",
+              "world_new": [
+                "state",
+                "anxiety",
+                "your",
+                "rude"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The musical and psychological evidence is that these attitudes are not justified, and never were.",
+    "At best, dialogue will be justified in terms of curiosity about other positions in the market-place.",
+    "In these circumstances, can work of this kind be justified?",
+    "The source statements which the children are justifying most frequently have some negative aspect to them.",
+    "The definition of a sweep detection presented here cannot be justified as rigorously as that of a burst, however.",
+    "The non-specialist reader may find some of the theoretical discussion frustrating, but the overall power of the book justifies the reader's effort.",
+    "Specific environmental characteristics might have influenced the exposure dose and justified the differences in risk estimates.",
+    "Agitating for language policy justified on a basis of national security are powerful forces in the military, government, and industry."
+  ],
+  "list_see_also": [
+    "justifiable",
+    "justification"
+  ],
+  "list_browse": [
+    "justice",
+    "Justice of the Peace",
+    "justifiable",
+    "justification",
+    "justify",
+    "justly",
+    "justness",
+    "jut",
+    "jute"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445068_18e0785a51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445068_b598c73995_o.png",
+      "id_image": "justice_1750503"
+    }
+  ]
+}

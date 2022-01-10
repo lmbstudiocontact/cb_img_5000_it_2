@@ -1,0 +1,119 @@
+{
+  "english": "hood",
+  "phat_am": "hud",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mũ trùm đầu",
+          "definition": "a usually loose covering for the whole head, often attached to a coat, cloak etc",
+          "world_new": [
+            "loose",
+            "covering",
+            "whole",
+            "head",
+            "attached",
+            "coat",
+            "cloak"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He pulled his anorak hood over his head.",
+              "world_new": [
+                "anorak",
+                "head"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mui xe gập",
+          "definition": "a folding cover on a car, pram etc",
+          "world_new": [
+            "folding",
+            "cover",
+            "car",
+            "pram"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Put the hood of the pram up – the baby is getting wet.",
+              "world_new": [
+                "pram",
+                "baby",
+                "wet"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nắp xe",
+          "definition": "the bonnet of a car",
+          "world_new": [
+            "bonnet",
+            "car"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He raised the hood to look at the engine.",
+              "world_new": [
+                "look",
+                "engine"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "áo choàng giáo sư",
+          "definition": "a fold of cloth representing a hood, worn by university graduates over their gowns on ceremonial occasions",
+          "world_new": [
+            "fold",
+            "cloth",
+            "worn",
+            "university",
+            "their",
+            "ceremonial"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The professors and lecturers all wore their gowns and hoods for the graduation ceremony.",
+              "world_new": [
+                "their",
+                "graduation",
+                "ceremony"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "hooded",
+    "hoodie"
+  ],
+  "list_browse": [
+    "honorary",
+    "honour",
+    "honourable",
+    "honours",
+    "hood",
+    "hooded",
+    "hoodie",
+    "hoodlum",
+    "hoodwink"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448143_288da580ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448143_87ef0b27be_o.png",
+      "id_image": "hood_1041636"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333031_436ca6dd46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333031_52e35120f5_o.png",
+      "id_image": "hood_2845004"
+    }
+  ]
+}

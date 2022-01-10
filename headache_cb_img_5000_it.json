@@ -1,0 +1,76 @@
+{
+  "english": "headache",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đau đầu",
+          "definition": "a pain in the head",
+          "world_new": [
+            "pain",
+            "head"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Bright lights give me a splitting headache."
+            }
+          ]
+        },
+        {
+          "mean_english": "vấn đề hắc búa",
+          "definition": "something worrying",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Lack of money is a real headache.",
+              "world_new": [
+                "money",
+                "real"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "An acute, periodic or chronic desynchrony and dysfunction of the whole or part of that axis could be responsible for primary headaches.",
+    "The oral dose of nitazoxanide was generally well tolerated, and the principal side-effects were abdominal pain (16%), headaches (6%) and nausea (9%).",
+    "Among those ordered for headaches 57.7 percent had normal findings (27.8 percent x 61.1 percent x 57.7 percent = 9.8 percent).",
+    "Category 4 has caused us major headaches this year, just as in previous years.",
+    "He suffered headaches soon afterward from what proved to be brain hemorrhaging.",
+    "Yes, but do they still get headaches?",
+    "Each episode was also accompanied by pounding bitemporal headaches.",
+    "Basilar arterial migraine, which represents 24% of all childhood migraines,2 however, may include syncope with or without headaches, in its presentation."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "head louse",
+    "head off",
+    "head over heels",
+    "head-on",
+    "headache",
+    "headband",
+    "headdress",
+    "-headed",
+    "header"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457438_13bbef3c05_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457438_939f5e6546_o.png",
+      "id_image": "headache_2834325"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342526_2110872648_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342526_59b23e618d_o.png",
+      "id_image": "headache_2860740"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387662_260cf430cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387662_ed75c7e05a_o.png",
+      "id_image": "headache_286501"
+    }
+  ]
+}

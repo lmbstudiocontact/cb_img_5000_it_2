@@ -1,0 +1,73 @@
+{
+  "english": "kiss",
+  "phat_am": "kis",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "hôn",
+          "definition": "to touch with the lips as a sign of affection",
+          "world_new": [
+            "touch",
+            "sign",
+            "affection"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She kissed him when he arrived home",
+              "world_new": [
+                "home"
+              ]
+            },
+            {
+              "ex_of_definition": "The film ended with a shot of the lovers kissing.",
+              "world_new": [
+                "film",
+                "shot"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nụ hôn",
+          "definition": "an act of kissing",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He gave her a kiss."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "kiss of life"
+  ],
+  "list_browse": [
+    "kinsfolk",
+    "kinsman",
+    "kiosk",
+    "kipper",
+    "kiss",
+    "kiss of life",
+    "kit",
+    "kit out",
+    "kitbag"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326711_eda3417d97_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326711_df3383903e_o.png",
+      "id_image": "kiss_1635549"
+    }
+  ]
+}

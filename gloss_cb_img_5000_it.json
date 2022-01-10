@@ -1,0 +1,104 @@
+{
+  "english": "gloss",
+  "phat_am": "ɡlos",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "láng bóng",
+          "definition": "brightness or shininess on the surface",
+          "world_new": [
+            "brightness",
+            "shininess",
+            "surface"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her hair has a lovely gloss",
+              "world_new": [
+                "hair",
+                "lovely"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) gloss paint.",
+              "world_new": [
+                "paint"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chú thích",
+          "definition": "to make a glossary",
+          "world_new": [
+            "glossary"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The student glossed the difficult terms in order to understand the article.",
+              "world_new": [
+                "student",
+                "difficult",
+                "terms",
+                "order",
+                "understand",
+                "article"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Denominational differences are glossed over and contradictions and inconsistencies are rarely resolved.",
+    "Disambiguated glosses, transformed in network representations can increase significantly the connectivity of the lexical knowledge base.",
+    "The definition of the translation glosses over the following problems, which are addressed in the implementation.",
+    "The chapter concludes with an appendix on morpheme-by-morpheme glosses.",
+    "However, this scenario glosses over some serious problems.",
+    "Once caught, these slices of life are tranposed to the pages of the journal, where their artistry and cultural significance are glossed.",
+    "Another concern is that sometimes the arguments are glossed over or a source is cited so quickly that they seem opportunistic rather than fully thought through.",
+    "We have also standardised glosses of 3rd person singular verb forms."
+  ],
+  "list_see_also": [
+    "glossary",
+    "glossy",
+    "glossiness",
+    "gloss over"
+  ],
+  "list_browse": [
+    "glorify",
+    "glorious",
+    "gloriously",
+    "glory",
+    "gloss",
+    "gloss over",
+    "glossary",
+    "glossiness",
+    "glossy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375762_eaf74c14f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375762_f3c834e727_o.png",
+      "id_image": "gloss_1414921"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067900_b49c100227_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067900_c90f5600f7_o.png",
+      "id_image": "gloss_372169"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686159_68c3c4a0d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686159_a5d26384e7_o.png",
+      "id_image": "gloss_545102"
+    }
+  ]
+}

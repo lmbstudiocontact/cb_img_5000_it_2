@@ -1,0 +1,127 @@
+{
+  "english": "height",
+  "phat_am": "hӕit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chiều cao",
+          "definition": "the distance from the bottom to the top of something",
+          "world_new": [
+            "distance",
+            "bottom",
+            "top"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What is the height of this building?",
+              "world_new": [
+                "building"
+              ]
+            },
+            {
+              "ex_of_definition": "He is 1.75 metres in height."
+            }
+          ]
+        },
+        {
+          "mean_english": "đỉnh cao nhất",
+          "definition": "the highest, greatest, strongest etc point",
+          "world_new": [
+            "point"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is at the height of his career",
+              "world_new": [
+                "career"
+              ]
+            },
+            {
+              "ex_of_definition": "The storm was at its height.",
+              "world_new": [
+                "storm",
+                "its"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đỉnh điểm",
+          "definition": "the peak or extreme",
+          "world_new": [
+            "peak",
+            "extreme"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was dressed in the height of fashion",
+              "world_new": [
+                "dressed",
+                "fashion"
+              ]
+            },
+            {
+              "ex_of_definition": "His actions were the height of folly.",
+              "world_new": [
+                "folly"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "điểm cao",
+          "definition": "a high place",
+          "world_new": [
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We looked down from the heights at the valley beneath us.",
+              "world_new": [
+                "valley"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The mean and standard deviation of individual calling heights were calculated for each species.",
+    "One can see the heights of plateaus are proportional to the magnitude of intensity that coincides with the analytical predictions.",
+    "The output of our algorithm is a (possibly empty) range of critical pin heights for the part at each of its stable orientations.",
+    "By that fact, they also represented the intellectual heights of an informal national religious establishment.24 21.",
+    "To our knowledge, this is the first study to quantitatively establish vertical stratification in calling heights in an ensiferan assemblage of an evergreen forest.",
+    "The combination of step heights and slot widths covered a large range of hlt.",
+    "The constants a and b specify the heights of the waves.",
+    "There are two strong explanations for the significant decline in heights for those born in the 1910s and 1920s with respect to earlier decades."
+  ],
+  "list_see_also": [
+    "heighten"
+  ],
+  "list_browse": [
+    "heel",
+    "-heeled",
+    "hefty",
+    "heifer",
+    "height",
+    "heighten",
+    "heir",
+    "heirloom",
+    "helicopter"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339546_918907eb5d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339546_999a645947_o.png",
+      "id_image": "height_1607332"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694744_4596c9a5a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694744_ee64f534d2_o.png",
+      "id_image": "height_5593750"
+    }
+  ]
+}

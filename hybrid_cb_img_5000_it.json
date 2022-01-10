@@ -1,0 +1,90 @@
+{
+  "english": "hybrid",
+  "phat_am": "ˈhaibrid",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cây, vật lai tạo",
+          "definition": "an animal or plant produced from parents of different species or varieties",
+          "world_new": [
+            "animal",
+            "plant",
+            "species"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A liger is a hybrid of a lion and a tiger.",
+              "world_new": [
+                "lion",
+                "tiger"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự lai tạo",
+          "definition": "something that is the result of mixing two or more different things or styles",
+          "world_new": [
+            "result"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The band plays a hybrid of rock and jazz.",
+              "world_new": [
+                "band",
+                "rock",
+                "jazz"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xe kết hợp nhiều nguồn nhiên liệu",
+          "definition": "a vehicle that uses two or more different types of power, for example petrol/gas and electricity.",
+          "world_new": [
+            "vehicle",
+            "power",
+            "example",
+            "electricity"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The worm recovery rate and fecundity were measured by comparing the fitness of the mid-parents with that of the hybrids.",
+    "What are the ethical issues in producing animal/human hybrids or chimeras?",
+    "We concentrate on ' endogenous selection ', in which selection acts against hybrids regardless of location.",
+    "Much greater incidence of two or more pronuclei was found in hybrids activated subsequently to electrofusion by ethanol treatment.",
+    "When two genetically distinct populations that are in contact produce hybrids with reduced fitness, they are less susceptible to mutual introgression of genetic material.",
+    "Both ' purifying movements ' required all sorts of hybrids - including the mixture of purifying forms of knowledge and of the categories they created.",
+    "Further, it is clear to us that understanding of the features of hybrids is not as advanced as for more traditional forms of benefit provision.",
+    "Natural hybrids between these species have never been found in the field."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "hustler",
+    "hut",
+    "hutch",
+    "hyacinth",
+    "hybrid",
+    "hydrant",
+    "hydrate",
+    "hydration",
+    "hydraulic"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441133_1a213b6d44_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441133_1646880b02_o.png",
+      "id_image": "hybrid_3751140"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681204_dd781c7505_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681204_9863be9e9a_o.png",
+      "id_image": "hybrid_4796163"
+    }
+  ]
+}

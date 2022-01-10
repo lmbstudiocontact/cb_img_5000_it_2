@@ -1,0 +1,108 @@
+{
+  "english": "history",
+  "phat_am": "ˈhistəri",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "môn lịch sử",
+          "definition": "the study of events etc that happened in the past",
+          "world_new": [
+            "study"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She is studying British history",
+              "world_new": [
+                "British"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a history lesson/book."
+            }
+          ]
+        },
+        {
+          "mean_english": "lịch sử",
+          "definition": "a description usually in writing of past events, ways of life etc",
+          "world_new": [
+            "description",
+            "life"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m writing a history of Scotland."
+            }
+          ]
+        },
+        {
+          "mean_english": "quá trình lịch sử",
+          "definition": "(the description of) the usually interesting events etc associated with (something)",
+          "world_new": [
+            "description",
+            "interesting"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This desk/word has a very interesting history.",
+              "world_new": [
+                "interesting"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "He took the spaces of agriculture to be contiguous with those of nature, and farming's subjects to be natural history's subjects.",
+    "Because of these distinctive landscape factors, clear grazing and fire histories can be identified for properties, allowing the design of a landscape-scale experiment.",
+    "Thus, individuals with incomplete assessment histories do not have to be dropped from the analysis.",
+    "Table 3 shows the relatively poor reproductive histories of women sterilized in 1951-52.",
+    "However, sometimes we need a tree-like representation of species' histories - in particular, to trace the patterns of morphological evolution.",
+    "Note that the proof does not require the background assumptions; it only requires the very weak assumption that there exist the three histories mentioned.",
+    "Our study was based on retrospective fertility histories; there may be inherent problems in such an approach.",
+    "Such reactions may be seen as perpetuating the immaturity of those with resistant histories and the expectations for rejection of those with avoidant histories."
+  ],
+  "list_see_also": [
+    "historian",
+    "historic",
+    "historical",
+    "historically",
+    "make history"
+  ],
+  "list_browse": [
+    "historian",
+    "historic",
+    "historical",
+    "historically",
+    "history",
+    "hit",
+    "hit back",
+    "hit below the belt",
+    "hit it off"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451003_81d8a7b9cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451003_b580f94eb4_o.png",
+      "id_image": "history_1373354"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691394_f3ec4c9258_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691394_b011e3c858_o.png",
+      "id_image": "history_169112"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691334_11de3dd40b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691334_1412330c78_o.png",
+      "id_image": "history_4650548"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691299_37d2cf3235_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691299_29faa4b7cc_o.png",
+      "id_image": "history_6258994"
+    }
+  ]
+}

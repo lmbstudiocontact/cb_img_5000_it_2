@@ -1,0 +1,78 @@
+{
+  "english": "garnish",
+  "phat_am": "ˈɡaːniʃ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "trang trí món ăn",
+          "definition": "to decorate (a dish of food)",
+          "world_new": [
+            "decorate",
+            "dish"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Parsley is often used to garnish salads."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đồ trang trí lên các món ăn",
+          "definition": "(an) edible decoration added to food",
+          "world_new": [
+            "edible",
+            "decoration",
+            "added",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I used coriander as a garnish for the curry.",
+              "world_new": [
+                "I",
+                "coriander",
+                "curry"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "All the boudoirs of that generation were garnished with divans.",
+    "Many rum-based cocktails, especially those with fruit flavors, tend to be decorated with tropical-themed garnishes or slices of fruit.",
+    "Garnishes vary but usually include chopped onion, cilantro, various salsas, grilled green onions, and lime wedges.",
+    "The finished serving is often garnished with a sprinkling of ground cinnamon or nutmeg.",
+    "The sandwiches are richly garnished with onion rings, radish slices, cucumbers, tomato slices, parsley, remoulade and mayonnaise.",
+    "Bartenders were also responsible for retrieving necessary supplies (liquor, carbon dioxide tanks, fruit for garnishing drinks, etc) from the kitchen and storerooms to ensure that both bars were fully stocked.",
+    "Farmers eat cooked rice soaked overnight (\"poita\") garnished with mustard oil, onions, etc.",
+    "Food manufacturing plants use dried fruits in various sauces, soups, marinades, garnishes, puddings, and food for infants and children."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "garishness",
+    "garland",
+    "garlic",
+    "garment",
+    "garnish",
+    "garret",
+    "garrison",
+    "garrulity",
+    "garrulous"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453513_724a986e26_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453513_a015bb81d4_o.png",
+      "id_image": "garnish_1900796"
+    }
+  ]
+}

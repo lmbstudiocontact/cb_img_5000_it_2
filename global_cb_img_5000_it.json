@@ -1,0 +1,81 @@
+{
+  "english": "global",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "toàn cầu",
+          "definition": "affecting the whole world",
+          "world_new": [
+            "whole",
+            "world"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Pollution is a global problem",
+              "world_new": [
+                "problem"
+              ]
+            },
+            {
+              "ex_of_definition": "India, the largest banana producing country in the world, is vying for a bigger share of the global market.",
+              "world_new": [
+                "banana",
+                "country",
+                "world",
+                "share",
+                "market"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The global seasonality score reconsidered : convergence on diagnosis of winter depression.",
+    "A local clock is associated with each of the parallel components of a global system.",
+    "The projection onto the admissable set of displacements leads to a nonconvex problem and hence a loss of global uniqueness.",
+    "Then, transformation of the output equation is performed into the global frame.",
+    "Reframing disaster policy: the global evolution of vulnerable communities.",
+    "He calls for the restoration of these works and their reinstatement into a global setting.",
+    "Local shear acts in addition to global magnetic shear, the latter being a result of radial variation of the rotational transform.",
+    "The combinations of demographic changes with global accounting and regulatory convergence should accelerate the deepening of market-based funding systems over bankingbased systems."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "glisten",
+    "glitter",
+    "glittering",
+    "gloat",
+    "global",
+    "global village",
+    "global warming",
+    "globalization",
+    "globalize"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068125_71499b5b62_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068125_e3ac662ca0_o.png",
+      "id_image": "global_1781188"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686399_630af1f1fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686399_d7fc262b23_o.png",
+      "id_image": "global_2090434"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686369_c04902bfea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686369_7803a9b60c_o.png",
+      "id_image": "global_2170773"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376007_584da99052_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376007_897d541bfb_o.png",
+      "id_image": "global_2343940"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "english": "host",
+  "phat_am": "houst",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chủ nhà",
+          "definition": "(feminine hostess) a person who entertains someone else as his guest, usually in his own house",
+          "world_new": [
+            "person",
+            "else",
+            "guest",
+            "house"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The host and hostess greeted their guests at the door.",
+              "world_new": [
+                "their",
+                "door"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "động vật hoặc thực vật mà vật ký sinh sống bám vào",
+          "definition": "an animal or plant on which another lives as a parasite.",
+          "world_new": [
+            "animal",
+            "plant",
+            "parasite"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "rất đông; vô số",
+          "definition": "a very large number of people or things",
+          "world_new": [
+            "large",
+            "number",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a host of daffodils."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This suggests that seed predators tended to be more host-specific in 1998 than in 1996.",
+    "Study of the effect of food on the biology of insects is important in understanding host suitability of plant-infesting insect species.",
+    "Technology transfers can be of general benefit to the host or specifically directed toward building up the information stock that contributes to effective bioprospecting.",
+    "In the remaining cases, the non-pulmonate hosts are marine.",
+    "Parasitism is reported as low, often with no response to host density and unlikely to have an impact upon the host population.",
+    "The precise expression of these changes was quite strongly influenced by the genotype of the host, presumably mediated through variation in levels of genetically-determined resistance.",
+    "Diversity may have been influenced by radiation subsequent to colonization, or by secondary radiations in contemporary host taxa.",
+    "One of the main differences between the two hosts is also related to their feeding behaviour."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "hospital",
+    "hospitality",
+    "hospitalization",
+    "hospitalize",
+    "host",
+    "hostage",
+    "hostel",
+    "hostile",
+    "hostilities"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375352_d022a2c0e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375352_8f8e62db38_o.png",
+      "id_image": "host_2162279"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330621_00a85a37b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330621_c2d76f0a25_o.png",
+      "id_image": "host_4799517"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067400_f94b1a6620_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067400_6aa68e927e_o.png",
+      "id_image": "host_6036772"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685769_b72745230c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685769_010320a963_o.png",
+      "id_image": "host_860259"
+    }
+  ]
+}

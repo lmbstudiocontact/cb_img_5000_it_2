@@ -1,0 +1,100 @@
+{
+  "english": "fool",
+  "phat_am": "fuːl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "kẻ ngu đần",
+          "definition": "a person without sense or intelligence",
+          "world_new": [
+            "person",
+            "sense",
+            "intelligence"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s a complete fool for wasting so much money",
+              "world_new": [
+                "complete",
+                "money"
+              ]
+            },
+            {
+              "ex_of_definition": "He is such a fool he never knows what to do."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "dùng thủ đoạn hay lừa đảo ai",
+          "definition": "to deceive",
+          "world_new": [
+            "deceive"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She completely fooled me with her story.",
+              "world_new": [
+                "completely",
+                "story"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xử sự một cách dại dột",
+          "definition": "(often with aboutor around) to act like a fool or playfully",
+          "world_new": [
+            "act",
+            "playfully"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Stop fooling about!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "foolish",
+    "foolishly",
+    "foolishness",
+    "foolhardy",
+    "foolhardiness",
+    "foolproof",
+    "make a fool of",
+    "make a fool of oneself",
+    "play the fool"
+  ],
+  "list_browse": [
+    "food processor",
+    "food stall",
+    "food web",
+    "foodstuff",
+    "fool",
+    "foolhardiness",
+    "foolhardy",
+    "foolish",
+    "foolishly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317186_cfbbec2805_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317186_f55c98402a_o.png",
+      "id_image": "fool_1128972"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053565_f2de6ba840_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053565_dd9ce2aba3_o.png",
+      "id_image": "fool_1747649"
+    }
+  ]
+}

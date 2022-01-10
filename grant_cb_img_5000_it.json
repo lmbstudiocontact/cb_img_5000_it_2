@@ -1,0 +1,108 @@
+{
+  "english": "grant",
+  "phat_am": "ɡraːnt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ban cho",
+          "definition": "to agree to, to give",
+          "world_new": [
+            "agree"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Would you grant me one favour/favor?"
+            },
+            {
+              "ex_of_definition": "He granted the soldier permission to leave.",
+              "world_new": [
+                "granted",
+                "soldier",
+                "permission",
+                "leave"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chấp nhận",
+          "definition": "to agree or admit",
+          "world_new": [
+            "agree",
+            "admit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I grant (you) that it was a stupid thing to do.",
+              "world_new": [
+                "I",
+                "stupid"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tài trợ; trợ cấp",
+          "definition": "money given for a particular purpose",
+          "world_new": [
+            "money",
+            "particular",
+            "purpose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was awarded a grant for studying abroad.",
+              "world_new": [
+                "abroad"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In the first 5 months of 1995, 172 plans were surveyed and approximately one-third (34%) were granted full, 3-year accreditation.",
+    "We look forward to the opportunities thus granted to us.",
+    "Nor could it grant one group control over the creative products of composers and authors.",
+    "He asked whether an architect ought to be granted such wide latitude to 'butcher really beautiful buildings'.",
+    "They exist and are driven primarily by serving the interests and whims of donors, whose grants keep their doors open and staff paid.",
+    "I took it for granted that their popularity was related to their vigorous resettlement work.",
+    "Reversionary grants provided economic security during a woman's lifetime at minimal expense to her male relatives.",
+    "State and local governments also have considerable regulatory authority over granting siting permits necessary for the operation of many types of facilities."
+  ],
+  "list_see_also": [
+    "granted",
+    "take for granted"
+  ],
+  "list_browse": [
+    "grandpa",
+    "grandstand",
+    "granite",
+    "granny",
+    "grant",
+    "granted",
+    "granular",
+    "granulated",
+    "granule"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370197_f96c212a46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370197_39c62e46b9_o.png",
+      "id_image": "grant_2161348"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062080_ece82428da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062080_f56f178669_o.png",
+      "id_image": "grant_2470720"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "english": "gene",
+  "phat_am": "dʒiːn",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "(sinh vật học) gien",
+          "definition": "any of the basic elements of heredity, passed from parents to their offspring",
+          "world_new": [
+            "basic",
+            "elements",
+            "heredity",
+            "their",
+            "offspring"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "If the children are red-haired, one of their parents must have a gene for red hair.",
+              "world_new": [
+                "their",
+                "red",
+                "hair"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This could be a useful approach with regard to snail gene expression analysis.",
+    "These regions harbor many genes, and the task of undertaking fine mapping studies to find the risk variant or variants is onerous.",
+    "These lines therefore provide very suitable material to investigate the role of candidate genes and pathways.",
+    "It is essential for the success of gene therapy vectors that an appropriate promoter is linked to the gene of interest.",
+    "For genes that are evolutionarily more conserved, the use of the rice genome seems to be more promising.",
+    "However, escalating divergence of the populations is unlikely in the presence of gene flow unless they experience persistently different selection pressures.",
+    "Identification and characterization of a new blast resistance gene located on rice chromosome 1 through linkage and differential analysis.",
+    "More recently the roles of specific genes in normal cardiogenesis been defined."
+  ],
+  "list_see_also": [
+    "genetic",
+    "genetic engineering",
+    "genetically modified",
+    "genetics",
+    "be in the/someone’s genes"
+  ],
+  "list_browse": [
+    "gem",
+    "Gemini",
+    "gemstone",
+    "gender",
+    "gene",
+    "genealogical",
+    "genealogist",
+    "genealogy",
+    "general"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451488_b7f52739e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451488_2b0e67369b_o.png",
+      "id_image": "gene_2547751"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451433_ce78f5913e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451433_0649f96486_o.png",
+      "id_image": "gene_3883138"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381507_bf0bdc9d1a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381507_6014180292_o.png",
+      "id_image": "gene_5264768"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381467_5baed34c06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381467_227b150420_o.png",
+      "id_image": "gene_5903851"
+    }
+  ]
+}

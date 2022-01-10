@@ -1,0 +1,106 @@
+{
+  "english": "hug",
+  "phat_am": "haɡ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ôm chặt; ghì chặt",
+          "definition": "to hold close to oneself with the arms, especially to show love",
+          "world_new": [
+            "hold",
+            "close",
+            "arms",
+            "love"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She hugged her son when he returned from the war.",
+              "world_new": [
+                "son",
+                "war"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đi sát",
+          "definition": "to keep close to",
+          "world_new": [
+            "keep",
+            "close"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "During the storm, the ships all hugged the shore.",
+              "world_new": [
+                "storm",
+                "shore"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự ôm chặt; ghì chặt",
+          "definition": "a tight grasp with the arms, especially to show love",
+          "world_new": [
+            "tight",
+            "grasp",
+            "arms",
+            "love"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "As they said good-bye she gave him a hug."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A spontaneous hug can cause excruciating pain, resulting in tension in the relationship.",
+    "At the end of the meeting, they said goodbye, and they exchanged hugs.",
+    "For example, one patient described that she could no longer lift her arms so that she could hug family members or close friends.",
+    "Finally, there was the \"let's hug each other\" arrangement, whereby the parties agree to blame one another and say that that is a bipartisan approach.",
+    "I remember that we ended by hugging each other.",
+    "Roberts (1983) showed that a young toddler might be able to correctly enact a transitive sentence containing the verb tickle, but not a similar sentence containing the verb hug.",
+    "It is something which has to be hugged, in the interests of national security, close to their chests.",
+    "Immediately, there is a closure problem because of the density-velocity fluctuation correlation f hug."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "huff",
+    "huffily",
+    "huffiness",
+    "huffy",
+    "hug",
+    "huge",
+    "hugely",
+    "hugeness",
+    "hulk"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443483_d7c3db96fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443483_29ae80a3e9_o.png",
+      "id_image": "hug_1141114"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683539_33c1fc1fb7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683539_e54e482b8d_o.png",
+      "id_image": "hug_4099052"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443433_661d573dbc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443433_5c1ea4542a_o.png",
+      "id_image": "hug_5065458"
+    }
+  ]
+}

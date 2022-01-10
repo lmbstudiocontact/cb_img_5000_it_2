@@ -1,0 +1,119 @@
+{
+  "english": "link",
+  "phat_am": "liŋk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mắt xích",
+          "definition": "a ring of a chain",
+          "world_new": [
+            "ring",
+            "chain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There was a worn link in the chain and it broke",
+              "world_new": [
+                "worn",
+                "chain",
+                "broke"
+              ]
+            },
+            {
+              "ex_of_definition": "an important link in the chain of evidence.",
+              "world_new": [
+                "important",
+                "chain",
+                "evidence"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mối liên kết",
+          "definition": "anything connecting two things",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His job was to act as a link between the government and the press.",
+              "world_new": [
+                "job",
+                "act",
+                "government",
+                "press"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "liên kết lại",
+          "definition": "to connect as by a link",
+          "world_new": [
+            "connect"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The new train service links the suburbs with the heart of the city.",
+              "world_new": [
+                "train",
+                "service",
+                "links",
+                "heart",
+                "city"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Like fashion, material culture has been linked to determinism.",
+    "The divisibility argument is represented historically by a range of philosophers and often linked with arguments concerning personal identity over time.",
+    "Completeness of such coalgebraic systems can often be shown by proving appropriate coinduction principles and by linking derivations with bisimulations.",
+    "The remarkable precision of this arrangement cannot be due to chance, nor can the connection that links the two sides of the cup.",
+    "Now we consider the simultaneous creation of resources on different links.",
+    "Few studies have examined the links between preservice teachers' attitudes and their classroom practices.",
+    "The input to the system is a set of manually annotated sentences, where each verb is linked with its dependents.",
+    "The ability to write syntactically complex sentences in turn was not necessarily linked to an ability to write cognitively sophisticated material."
+  ],
+  "list_see_also": [
+    "link up",
+    "linking verb",
+    "linking word"
+  ],
+  "list_browse": [
+    "linguist",
+    "linguistic",
+    "linguistics",
+    "lining",
+    "link",
+    "link up",
+    "linking verb",
+    "linking word",
+    "links"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078505_f66c114780_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078505_14ab2e08fc_o.png",
+      "id_image": "link_166377"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078445_0ccd5034ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078445_1dfacbb947_o.png",
+      "id_image": "link_1851051"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078475_6095692e92_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078475_e8fc163528_o.png",
+      "id_image": "link_423846"
+    }
+  ]
+}

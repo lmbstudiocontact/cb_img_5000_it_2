@@ -1,0 +1,99 @@
+{
+  "english": "knit",
+  "phat_am": "nit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đan",
+          "definition": "to form (a garment) from yarn (of wool etc) by making and connecting loops, using knitting-needles",
+          "world_new": [
+            "form",
+            "yarn",
+            "wool"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She is teaching children to knit and sew",
+              "world_new": [
+                "teaching",
+                "sew"
+              ]
+            },
+            {
+              "ex_of_definition": "She knitted him a sweater for Christmas.",
+              "world_new": [
+                "sweater",
+                "Christmas"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nối chặt; liên kết",
+          "definition": "(of broken bones) to grow together",
+          "world_new": [
+            "broken",
+            "grow"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The bone in his arm took a long time to knit.",
+              "world_new": [
+                "bone",
+                "arm",
+                "long",
+                "time"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Such employments were corduroy finishing, knitting and laundering and were assigned to women living nearby to be undertaken at home.",
+    "The archbishop accused them of being knit together in a bond which he was determined to break.",
+    "Whose voices were heard and whose voices were not in knitting together these accounts is of the utmost significance.",
+    "Knitted fabrics; knit type, wale, and course count per linear inch.",
+    "Cotton and silk knits usually maintained an export share of more than 50%, but other goods were also important.",
+    "A different yarn or a small change to the design can make a garment impossible or much more time-consuming to knit.",
+    "Here is a sound stream that is almost smooth; one might describe it as being knitted from the flashes of a broken jar.",
+    "The random links do not have to be strong; the mere existence of these links serves a miraculous function of linking up closely knit communities."
+  ],
+  "list_see_also": [
+    "knitter",
+    "knitting",
+    "knitting needle",
+    "knit one’s brows"
+  ],
+  "list_browse": [
+    "knickers",
+    "knife",
+    "knight",
+    "knighthood",
+    "knit",
+    "knit one’s brows",
+    "knitter",
+    "knitting",
+    "knitting needle"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370262_2e7ac9631c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370262_72798fbc40_o.png",
+      "id_image": "knit_1748810"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325391_e701597214_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325391_48d9abea4f_o.png",
+      "id_image": "knit_2927838"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325321_90005f9d2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325321_1d2e6b2701_o.png",
+      "id_image": "knit_5391347"
+    }
+  ]
+}

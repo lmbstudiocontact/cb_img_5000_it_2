@@ -1,0 +1,85 @@
+{
+  "english": "lavender",
+  "phat_am": "ˈlӕvində",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cây oải hương",
+          "definition": "a type of plant with sweet-smelling pale bluish-purple flowers",
+          "world_new": [
+            "type",
+            "plant",
+            "sweet-smelling",
+            "pale"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bunch of lavender.",
+              "world_new": [
+                "bunch"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "màu của hoa oải hương",
+          "definition": "(also adjective) (of) the colour/color of the flowers",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a lavender dress.",
+              "world_new": [
+                "dress"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Each flower has a long, tubular throat which is pink or lavender, often striped in white.",
+    "Like other lavenders, it is particularly associated with dry, sunny, well-drained conditions in alkaline soil.",
+    "I suppose that lavender would be considered in thoroughly bad taste.",
+    "The inflorescence is usually a solitary flower or a pair of flowers with white or lavender corollas just under a centimeter long.",
+    "The flowers bloom in spring and are round and lavender-blue in color and up to two centimeters diameter.",
+    "Flowers are lavender to almost white, 10-12 mm long.",
+    "Essential oils, geranium and sweet-smelling things like lavender; pyrethrum, which makes destructive things for bugs; and so on, were previously drawn almost entirely from foreign countries.",
+    "The corolla is no more than a centimeter long and two white or lavender-tinted upper lobes and three darker lavender to purple lower lobes."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "laundry",
+    "laurel",
+    "lava",
+    "lavatory",
+    "lavender",
+    "lavish",
+    "lavishly",
+    "lavishness",
+    "law"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673509_bd6515be06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673509_dca37ec960_o.png",
+      "id_image": "lavender_3006170"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318696_4961877f71_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318696_d1f30596d4_o.png",
+      "id_image": "lavender_436625"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055255_333da3433c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055255_3b6c887fa9_o.png",
+      "id_image": "lavender_4383982"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673419_5b5b1385c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673419_a05cbc4331_o.png",
+      "id_image": "lavender_5389265"
+    }
+  ]
+}

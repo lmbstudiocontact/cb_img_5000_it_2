@@ -1,0 +1,110 @@
+{
+  "english": "membership",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tư cách thành viên",
+          "definition": "the state of being a member",
+          "world_new": [
+            "state",
+            "member"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "membership of the Communist Party."
+            }
+          ]
+        },
+        {
+          "mean_english": "hội viên",
+          "definition": "a group of members",
+          "world_new": [
+            "group"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a professional society with a large membership.",
+              "world_new": [
+                "professional",
+                "society",
+                "large"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phí hội viên",
+          "definition": "the amount of money paid to a society etc in order to become a member",
+          "world_new": [
+            "amount",
+            "money",
+            "society",
+            "order",
+            "become",
+            "member"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The membership has increased to $5 this year.",
+              "world_new": [
+                "year"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Clubs in my constituency have memberships of 700 or more.",
+    "They have provided evidence of majority support among their memberships.",
+    "The new proposals may mean something of an unheaval in the board memberships.",
+    "Most of these names were of newly recruited members ; apparently provincial records of older memberships were incomplete and unreliable and were still undergoing verification.",
+    "The memberships were 8,339,000 in 1920 (of whom about 7 millions were in registered unions), and 4,824,000 in 1930.",
+    "Second, and more importantly, conservation groups could capitalize on public outrage and swell the ranks of their memberships by effectively mobilizing support.",
+    "The most significant is that in 1984 only 27 per cent of respondents had no memberships and 73 per cent had one or none.",
+    "The new clause would put responsibility and power where they belong — in the membership's hands."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "melting pot",
+    "melting-point",
+    "member",
+    "Member of Parliament",
+    "membership",
+    "membrane",
+    "memento",
+    "memo",
+    "memoirs"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347771_8162974897_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347771_d49929ed1e_o.png",
+      "id_image": "membership_2016300"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462513_9834557d46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462513_0f94f83e71_o.png",
+      "id_image": "membership_5072000"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347691_f2b62a6cec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347691_44dc565412_o.png",
+      "id_image": "membership_5301441"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462443_f28e1026a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462443_8a02f51740_o.png",
+      "id_image": "membership_5455944"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392557_efd23385f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392557_97b001b04b_o.png",
+      "id_image": "membership_5983730"
+    }
+  ]
+}

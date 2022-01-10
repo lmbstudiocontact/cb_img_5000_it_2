@@ -1,0 +1,173 @@
+{
+  "english": "game",
+  "phat_am": "ɡeim",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "trò chơi",
+          "definition": "an enjoyable activity, which eg children play",
+          "world_new": [
+            "enjoyable",
+            "activity",
+            "play"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a game of hide and seek.",
+              "world_new": [
+                "hide",
+                "seek"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trò thể thao",
+          "definition": "a competitive form of activity, with rules",
+          "world_new": [
+            "competitive",
+            "form",
+            "activity"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Football, tennis, and chess are games.",
+              "world_new": [
+                "tennis",
+                "chess",
+                "games"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ván",
+          "definition": "a match or part of a match",
+          "world_new": [
+            "match",
+            "part",
+            "match"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a game of tennis",
+              "world_new": [
+                "tennis"
+              ]
+            },
+            {
+              "ex_of_definition": "Lucy’s winning the match (by) three games to one.",
+              "world_new": [
+                "winning",
+                "match",
+                "games"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thú săn",
+          "definition": "(the flesh of) certain birds and animals which are killed for sport",
+          "world_new": [
+            "flesh",
+            "certain",
+            "sport"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s very fond of game",
+              "world_new": [
+                "fond"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a game bird.",
+              "world_new": [
+                "bird"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thích mạo hiểm",
+          "definition": "brave; willing; ready",
+          "world_new": [
+            "ready"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a game old guy",
+              "world_new": [
+                "old",
+                "guy"
+              ]
+            },
+            {
+              "ex_of_definition": "She’s game for anything."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Suppose the game has reached the final decision node.",
+    "Adjustments were made via a multibutton game pad sensed by the computer.",
+    "Take the three-person game introduced above and suppose the players' beliefs are as specified.",
+    "When the researcher finished reading the story to the child, she stopped the music, and proposed a game.",
+    "In law, in computer science, in mathematics, in economics, in politics, there are many things that have nothing to do with game theory.",
+    "They have not studied directly the effect of depletion upon the remaining players and the characteristics of their game.",
+    "Every outcome is therefore rationalizable in the game with altruistic players.",
+    "How, then, do they learn to accept such rules of the game?"
+  ],
+  "list_see_also": [
+    "gamely",
+    "games",
+    "gamekeeper",
+    "game point",
+    "game reserve",
+    "game show",
+    "game warden",
+    "the game is up"
+  ],
+  "list_browse": [
+    "gamble",
+    "gambler",
+    "gambling",
+    "gambol",
+    "game",
+    "game point",
+    "game reserve",
+    "game show",
+    "game warden"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695194_b367526a46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695194_974233980d_o.png",
+      "id_image": "game_1142706"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454808_fce03890f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454808_bbd76b09f0_o.png",
+      "id_image": "game_3028416"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339931_dc73c7cc29_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339931_e84a1e3f60_o.png",
+      "id_image": "game_3041830"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384857_0ae08e18e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384857_29aaabb28f_o.png",
+      "id_image": "game_452701"
+    }
+  ]
+}

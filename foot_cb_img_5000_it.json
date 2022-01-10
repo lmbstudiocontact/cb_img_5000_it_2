@@ -1,0 +1,129 @@
+{
+  "english": "foot",
+  "phat_am": "fut",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bàn chân",
+          "definition": "the part of the leg on which a person or animal stands or walks",
+          "world_new": [
+            "part",
+            "leg",
+            "person",
+            "animal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My feet are very sore from walking so far.",
+              "world_new": [
+                "sore",
+                "far"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phần thấp nhất của cái gì",
+          "definition": "the lower part of anything",
+          "world_new": [
+            "lower",
+            "part"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We waited for the others at the foot of the hill.",
+              "world_new": [
+                "hill"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đơn vị đo độ dài Anh bằng 30,34cm",
+          "definition": "(plural often foot; often abbreviated to ft when written) a measure of length equal to twelve inches (30.48 cm)",
+          "world_new": [
+            "measure",
+            "length",
+            "equal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is five feet/foot six inches tall",
+              "world_new": [
+                "tall"
+              ]
+            },
+            {
+              "ex_of_definition": "a four-foot wall.",
+              "world_new": [
+                "wall"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Varying combinations of muscle groups were stimulated and foot switches were used to trigger each channel at the appropriate period of the gait cycle.",
+    "Others found work as foot soldiers in the private armies of wealthy notables or as independent bandits.",
+    "An integrated model to predict the atmospheric spread of foot-and-mouth disease virus.",
+    "This is a valid assumption, since the foot is considered massless and inertialess.",
+    "This constraint simply expresses the unilaterality of contact forces exerted by the ground on the foot.",
+    "The same walking device with various lengths of feet were used (2.2 cm, 2.5 cm, 2.7 cm, 2.8 cm, 3.1 cm and 3.3 cm).",
+    "This enlarges her ability to experience and shape the near-field sounds around her body, even allowing her to shape sounds with her hands and feet.",
+    "If these snails are subsequently exposed to normal miracidia, the parasites are quickly destroyed by amoebocytes near the penetration area in the head-foot."
+  ],
+  "list_see_also": [
+    "footing",
+    "football",
+    "footbridge",
+    "foothill",
+    "foothold",
+    "footlight",
+    "footman",
+    "footmark",
+    "footnote",
+    "footpath",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "foolishly",
+    "foolishness",
+    "foolproof",
+    "foolscap",
+    "foot",
+    "foot the bill",
+    "football",
+    "(football) pools",
+    "footbridge"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671829_4edd7c2fea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671829_e95334bd30_o.png",
+      "id_image": "foot_1328670"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053520_2201ba38b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053520_d32cfc7857_o.png",
+      "id_image": "foot_2375367"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053495_2b4452cb2f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053495_61626bc02d_o.png",
+      "id_image": "foot_2417977"
+    }
+  ]
+}

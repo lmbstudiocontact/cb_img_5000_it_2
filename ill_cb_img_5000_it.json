@@ -1,0 +1,184 @@
+{
+  "english": "ill",
+  "phat_am": "il",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "ốm",
+          "definition": "not in good health; not well",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was ill for a long time.",
+              "world_new": [
+                "long",
+                "time"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xấu",
+          "definition": "bad",
+          "world_new": [
+            "bad"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He retired due to ill health",
+              "world_new": [
+                "retired",
+                "due",
+                "health"
+              ]
+            },
+            {
+              "ex_of_definition": "These pills have no ill effects.",
+              "world_new": [
+                "effects"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "không may",
+          "definition": "evil or unlucky",
+          "world_new": [
+            "evil",
+            "unlucky"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "ill luck.",
+              "world_new": [
+                "luck"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "khó",
+          "definition": "not easily",
+          "world_new": [
+            "easily"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We could ill afford to lose that money.",
+              "world_new": [
+                "afford",
+                "lose",
+                "money"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "điều ác",
+          "definition": "evil",
+          "world_new": [
+            "evil"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I would never wish anyone ill.",
+              "world_new": [
+                "I",
+                "wish"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "điều rủi ro",
+          "definition": "trouble",
+          "world_new": [
+            "trouble"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Who is responsible for the ills of this world?",
+              "world_new": [
+                "responsible",
+                "world"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "prefix",
+      "list_definition": [
+        {
+          "mean_english": "tồi; kém",
+          "definition": "badly",
+          "world_new": [
+            "badly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "ill-equipped"
+            },
+            {
+              "ex_of_definition": "ill-used."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Assistance from family members, friends, paid care givers, and volunteers in the care of terminally ill patients.",
+    "Results indicated that when they are ill young people would like to be believed, and to have con dentiality and privacy respected.",
+    "In allocating health transfers to the young, the chronically ill, and the deprived, what principle would be used?",
+    "In addition, 5 participants died, 5 participants reported being too ill to participate, and 3 were lost due to relocation or other reasons.",
+    "In this regard, there are echoes of the central problem addressed here concerning an excess of poorly defined terms that are ill-constrained in their usage.",
+    "Synthesizers and quantifiers will always prove vulnerable on one count or another, yet it ill behoves fellow practitioners to protest too loudly.",
+    "First, hopelessness in medically ill patients has been found to have a direct impact on health status.",
+    "Those who were ill in the past 2 weeks or had an ill child in diapers were excluded from work for 1 day."
+  ],
+  "list_see_also": [
+    "ill-",
+    "illness",
+    "ill-at-ease",
+    "ill-fated",
+    "ill-feeling",
+    "ill-mannered / ill-bred",
+    "ill-tempered / ill-natured",
+    "ill-treat",
+    "ill-treatment",
+    "ill-use",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "ignorant",
+    "ignorantly",
+    "ignore",
+    "iguana",
+    "ill",
+    "ill-at-ease",
+    "ill-fated",
+    "ill-feeling",
+    "ill-mannered / ill-bred"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323526_e80a0c29ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323526_ba58c10535_o.png",
+      "id_image": "ill_2341906"
+    }
+  ]
+}

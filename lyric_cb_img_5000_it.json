@@ -1,0 +1,84 @@
+{
+  "english": "lyric",
+  "phat_am": "ˈlirik",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "trữ tình",
+          "definition": "(of poetry) expressing the poet’s personal feeling.",
+          "world_new": [
+            "personal",
+            "feeling"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bài thơ trữ tình",
+          "definition": "a lyric poem.",
+          "world_new": [
+            "poem"
+          ]
+        },
+        {
+          "mean_english": "lời bài hát",
+          "definition": "the words of a song",
+          "world_new": [
+            "song"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The tune is good, but I don’t like the lyrics.",
+              "world_new": [
+                "tune",
+                "I",
+                "lyrics"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "One issue which is notable for its absence is the power of lyrics and actions in musical games.",
+    "Of course, the music and lyrics were always of great importance as well.",
+    "The lyrics of the song are interpreted with respect to the events of that flood.",
+    "Usage is illustrated by means of texts, advertisements, cartoons, proverbs, lyrics, and interviews.",
+    "Furthermore, the way in which lyrics are sung - sarcastically, plaintively, etc. - may belie the words on the page.",
+    "The lyrics, in seven- and ten-syllable couplets, are simply 'recited' (yin).",
+    "Words (and lyrics) became central in the popular musical culture in so far as the songs of cantautori aspired to literary dignity.",
+    "The incoherence of the lyrics is made irrelevant by the coherence of melody, rhythm and accompaniment, and by the power of performance."
+  ],
+  "list_see_also": [
+    "lyrics"
+  ],
+  "list_browse": [
+    "luxuriousness",
+    "luxury",
+    "-ly",
+    "lychee",
+    "lyric",
+    "lyrics",
+    "m",
+    "MA",
+    "mac"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446688_9d3c2a1bf7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446688_8137c56c5b_o.png",
+      "id_image": "lyrics_5439947"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446713_ac6fd77399_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446713_c4b0c8d621_o.png",
+      "id_image": "lyric_5093639"
+    }
+  ]
+}

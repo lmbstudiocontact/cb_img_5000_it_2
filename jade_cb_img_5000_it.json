@@ -1,0 +1,65 @@
+{
+  "english": "jade",
+  "phat_am": "dʒeid",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ngọc bích",
+          "definition": "(of) a type of hard stone, usually green in colour/color",
+          "world_new": [
+            "type",
+            "stone",
+            "green"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a piece of jade",
+              "world_new": [
+                "piece"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) jade ornaments."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "One of the young adults was closely associated with a layer of ground hematite and two jade beads.",
+    "Underneath and surrounding the base of the jar were 30 green-blue jade pebbles and an additional 84 green jade pebbles.",
+    "Included in the deposit was an anthropomorphic, tubular jade bead, 7.2 cm long.",
+    "Because of the difficulty, labor-intensiveness, and expense involved, making replicas from jade or other greenstone was not a viable option.",
+    "The jade artifacts unfortunately were universally very well cleaned, with no residues surviving.",
+    "This consisted of two bowls placed lip to lip containing 1 jade bead and approximately 100 mollusks.",
+    "Finally, the tapered stela profile resembles upturned jade celts such as those in the cruciform cache.",
+    "The jade bar pectoral is visible northwest (below) the mandible."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "jacket",
+    "jacket potato",
+    "jackpot",
+    "Jacuzzi",
+    "jade",
+    "jaded",
+    "jagged",
+    "jaggedly",
+    "jaggedness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336066_6b3b4b529c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336066_3dd4f3f5a7_o.png",
+      "id_image": "jade_4158430"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450973_25699bd291_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450973_158a3ce77f_o.png",
+      "id_image": "jade_5023474"
+    }
+  ]
+}

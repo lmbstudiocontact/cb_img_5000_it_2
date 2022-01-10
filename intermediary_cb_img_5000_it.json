@@ -1,0 +1,71 @@
+{
+  "english": "intermediary",
+  "phat_am": "intəˈmiːdiəri",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người hòa giải",
+          "definition": "a person who takes messages from one person to another in a dispute etc, especially in order to settle the dispute",
+          "world_new": [
+            "person",
+            "person",
+            "dispute",
+            "order",
+            "settle",
+            "dispute"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She agreed to act as an intermediary.",
+              "world_new": [
+                "agreed",
+                "act"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Yet little attention is paid to the cost of derivative transactions other than the existence of intermediary expenses.",
+    "Intermediary waste collection points were almost always covered, and the only operational rubbish tip was located offshore.",
+    "Of course, one or more of these roles may be combined into a single intermediary which offers several types of services.",
+    "The distance between body and mind has to be bridged by two intermediary powers, vegetative and sensitive.",
+    "Diagnosis and troubleshooting systems can acquire information regarding the system to be diagnosed directly from the device (on-line) or through human or electronic intermediaries (off-line).",
+    "She becomes more than simply an intermediary, taking on some real responsibility for the words provided by the teacher.",
+    "I seek to determine what the intermediary movement between cultural policy and popular music has been like.",
+    "In fact, intermediaries are a rich center of activity involved in the screening and monitoring of loans and the provision of transaction services."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "interlock",
+    "interlude",
+    "intermarriage",
+    "intermarry",
+    "intermediary",
+    "intermediate",
+    "interment",
+    "intermission",
+    "intermittent"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456653_92ee760ba0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456653_64e31f8beb_o.png",
+      "id_image": "intermediary_4813607"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696994_1a6f7365f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696994_85443861c8_o.png",
+      "id_image": "intermediary_4814006"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079155_f72ef7ffb9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079155_6153b17218_o.png",
+      "id_image": "intermediary_4827332"
+    }
+  ]
+}

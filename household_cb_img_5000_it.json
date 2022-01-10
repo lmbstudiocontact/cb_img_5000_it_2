@@ -1,0 +1,79 @@
+{
+  "english": "household",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hộ gia đình",
+          "definition": "the people who live together in a house, including their servants",
+          "world_new": [
+            "people",
+            "live",
+            "house",
+            "including",
+            "their"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "How many people are there in this household?",
+              "world_new": [
+                "people"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Having only one parent might have meant a household necessity of replacing the loss/absence of one parent.",
+    "This article therefore identifies the need for further research, qualitative and quantitative, on the relationship between women's employment patterns and the dynamics of household formation.",
+    "It should be stressed that the labour force was structured around households and not around individual labourers.",
+    "Men and women had different spheres of power in the household economy, which were determined by the changing roles they played in production.%!",
+    "Men sought to endow each son with sufficient land to establish a separate household.",
+    "Those with higher education, income and assets give more financial resources and advice but help with fewer household tasks.",
+    "Thus, it is possible that the individuals discussed in this article formed single-person households for the purposes of taxation, but physically lived with other people.",
+    "It should be noted, however, that a biased picture may have been produced by the selection of household tasks included in the survey."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "houseboat",
+    "housebreaker",
+    "housebreaking",
+    "housefly",
+    "household",
+    "household word",
+    "householder",
+    "housekeeper",
+    "housekeeping"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066245_aa12f7d50b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066245_bfe233f7be_o.png",
+      "id_image": "household_1998563"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684384_9df5edeb36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684384_362f0e53a0_o.png",
+      "id_image": "household_2421811"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684329_4388a7be36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684329_7dcee5715f_o.png",
+      "id_image": "household_4232424"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066125_1c36af3854_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066125_d7739438cb_o.png",
+      "id_image": "household_4433802"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066080_3d3d473ee6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066080_49b3a3402a_o.png",
+      "id_image": "household_5459489"
+    }
+  ]
+}

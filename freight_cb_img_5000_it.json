@@ -1,0 +1,94 @@
+{
+  "english": "freight",
+  "phat_am": "freit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hàng hoá chuyên chở",
+          "definition": "goods being carried from place to place",
+          "world_new": [
+            "goods",
+            "place",
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "air-freight"
+            },
+            {
+              "ex_of_definition": "(also adjective) a freight train.",
+              "world_new": [
+                "train"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cước phí chuyên chở",
+          "definition": "the money charged for carrying such goods",
+          "world_new": [
+            "money",
+            "charged",
+            "goods"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He charged me $100 freight.",
+              "world_new": [
+                "charged"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The key to rail freight's revival is privatisation.",
+    "In foodstuffs, any rise due to freights has only been an infinitesimal rise.",
+    "We can increase, or try to increase, our invisible exports, particularly by increasing shipping freights.",
+    "Now it is supposed that these freights are entirely the wicked machination of the shipowners.",
+    "Clearly, if the initial allowance can be maintained when freights are good, one can get a margin which will see one through the bad years.",
+    "Another thing will be the effect on freights on homeward-bound goods.",
+    "The shipowners, or most of them, now say that the rise of freights is due practically to the extra expense and delays at the docks.",
+    "At current freights the cost would have been about £4,100."
+  ],
+  "list_see_also": [
+    "freighter"
+  ],
+  "list_browse": [
+    "freeze up",
+    "freezer",
+    "freezing",
+    "freezing-point",
+    "freight",
+    "freighter",
+    "French",
+    "French beans",
+    "French windows"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699919_a114a0fe4a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699919_405d514da9_o.png",
+      "id_image": "freight_2825503"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389722_6a3e1108b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389722_7b80d3865d_o.png",
+      "id_image": "freight_2928836"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344856_99a6f1a53a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344856_1bef176fc1_o.png",
+      "id_image": "freight_384036"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389697_1081efc501_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389697_889c52749c_o.png",
+      "id_image": "freight_4899495"
+    }
+  ]
+}

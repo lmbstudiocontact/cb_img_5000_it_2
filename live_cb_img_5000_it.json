@@ -1,0 +1,270 @@
+{
+  "english": "live",
+  "phat_am": "liv",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "có sự sống",
+          "definition": "to have life; to be alive",
+          "world_new": [
+            "alive"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a threat to virtually everything that lives on the planet.",
+              "world_new": [
+                "threat",
+                "virtually",
+                "planet"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vẫn còn sống",
+          "definition": "to survive",
+          "world_new": [
+            "survive"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The doctors say he is very ill, but they think he will live.",
+              "world_new": [
+                "ill",
+                "think"
+              ]
+            },
+            {
+              "ex_of_definition": "It was difficult to believe that she had lived through such an experience.",
+              "world_new": [
+                "difficult",
+                "believe",
+                "experience"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sống ở",
+          "definition": "to have one’s home or dwelling (in a particular place)",
+          "world_new": [
+            "home",
+            "dwelling",
+            "particular"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She lives next to the church.",
+              "world_new": [
+                "church"
+              ]
+            },
+            {
+              "ex_of_definition": "They went to live in Bristol / in a huge house.",
+              "world_new": [
+                "huge",
+                "house"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sống trong hoàn cảnh",
+          "definition": "to pass (one’s life)",
+          "world_new": [
+            "pass"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He lived a life of luxury.",
+              "world_new": [
+                "life",
+                "luxury"
+              ]
+            },
+            {
+              "ex_of_definition": "She lives in fear of being attacked.",
+              "world_new": [
+                "fear"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sống nhờ vào",
+          "definition": "(with by) to make enough money etc to feed and house oneself",
+          "world_new": [
+            "money",
+            "feed",
+            "house"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He lives by fishing.",
+              "world_new": [
+                "fishing"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "sống",
+          "definition": "having life; not dead",
+          "world_new": [
+            "dead"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a live mouse.",
+              "world_new": [
+                "mouse"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trực tiếp",
+          "definition": "(of a radio or television broadcast etc) heard or seen as the event takes place; not recorded",
+          "world_new": [
+            "radio",
+            "television",
+            "broadcast",
+            "event"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I watched a live performance of my favourite opera on television",
+              "world_new": [
+                "I",
+                "performance",
+                "my",
+                "favourite",
+                "opera",
+                "television"
+              ]
+            },
+            {
+              "ex_of_definition": "Was the performance live or recorded?",
+              "world_new": [
+                "performance"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chưa nổ, chưa cháy",
+          "definition": "full of energy, and capable of becoming active",
+          "world_new": [
+            "full",
+            "energy",
+            "capable",
+            "becoming",
+            "active"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a live bomb",
+              "world_new": [
+                "bomb"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đang cháy",
+          "definition": "burning",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a live coal.",
+              "world_new": [
+                "coal"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "trực tiếp",
+          "definition": "(of a radio or television broadcast etc) as the event takes place",
+          "world_new": [
+            "radio",
+            "television",
+            "broadcast",
+            "event",
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The competition will be broadcast live.",
+              "world_new": [
+                "competition",
+                "broadcast"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In general, little is known about those living on the margins of society during this period, especially in the rural regions.",
+    "He visited rural villages and witnessed how the different groups lived in close proximity to one another.",
+    "Effects of preventative home visits to elderly people living in the community: systematic review.",
+    "The tasks were presented live by the first author.",
+    "The number of breathless people is increasing as patients with all types of cardio-respiratory disease live longer.",
+    "Thus, it is possible that the individuals discussed in this article formed single-person households for the purposes of taxation, but physically lived with other people.",
+    "Percentages of live term fetuses were determined based on the number of 2-cell embryos transferred.",
+    "Humans in antiquity, the vast majority of whom lived and died within a few-kilometre radius of their birthplaces, did not have this cruel luxury."
+  ],
+  "list_see_also": [
+    "-lived",
+    "living",
+    "living room",
+    "live-in",
+    "live and let live",
+    "live down",
+    "live in/out",
+    "live on",
+    "live up to",
+    "(with)in living memory"
+  ],
+  "list_browse": [
+    "litter",
+    "little",
+    "little by little",
+    "little finger",
+    "live",
+    "live and let live",
+    "live by one’s wits",
+    "live down",
+    "live in/out"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454288_c67dd9a681_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454288_2ecb86c8d1_o.png",
+      "id_image": "live_2452058"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694494_1a96f72e94_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694494_704f5e0851_o.png",
+      "id_image": "live_2540418"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694444_1fb4638751_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694444_f3570395c5_o.png",
+      "id_image": "live_5853752"
+    }
+  ]
+}

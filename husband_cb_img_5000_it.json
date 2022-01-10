@@ -1,0 +1,81 @@
+{
+  "english": "husband",
+  "phat_am": "ˈhazbənd",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người chồng",
+          "definition": "a man to whom a woman is married.",
+          "world_new": [
+            "married"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tiết kiệm",
+          "definition": "to spend or use carefully, a little at a time",
+          "world_new": [
+            "spend",
+            "carefully",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He needs to husband his strength.",
+              "world_new": [
+                "strength"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A larger issue that cannot be addressed in this paper is the prejudice against matrilineal-matrilocal systems as creating 'disincentives for long-term investment' by husbands (ibid.).",
+    "About three-quarters of the women reported their husbands' ages consistently within 2 years, even if only one-fifth gave identical ages.",
+    "Data on psychiatric illness in the parents of the applicants were obtained from the subjects and verified by their husbands.",
+    "Table 4 considers the correlation between husbands' earnings and wives' earning when husbands and wives separately are sorted into quintiles by earnings.",
+    "Even those who would have liked fewer children were too diffident to discuss birth control with their husbands.",
+    "The husband's sample had been submitted to the laboratory because he had a cough identified during contact tracing.",
+    "In combination with the legal mechanisms examined above, they made compatible the monarch's authority on his throne and the husband's patriarchy at home.",
+    "Even more remarkable is the willingness of husbands from all social classes to have vasectomy performed."
+  ],
+  "list_see_also": [
+    "husbandry"
+  ],
+  "list_browse": [
+    "hurtful",
+    "hurtfully",
+    "hurtfulness",
+    "hurtle",
+    "husband",
+    "husbandry",
+    "hush",
+    "hush up",
+    "hushed"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681644_efd0e8aeef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681644_a627255810_o.png",
+      "id_image": "husband_1192072"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371262_4f6177fa17_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371262_f0fe4b7929_o.png",
+      "id_image": "husband_1320922"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681554_c727d9f27c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681554_e0f5181e71_o.png",
+      "id_image": "husband_5526243"
+    }
+  ]
+}

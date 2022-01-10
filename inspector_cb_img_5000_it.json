@@ -1,0 +1,68 @@
+{
+  "english": "inspector",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thanh tra viên",
+          "definition": "a person appointed to inspect",
+          "world_new": [
+            "person",
+            "appointed",
+            "inspect"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a school inspector.",
+              "world_new": [
+                "school"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thanh tra cảnh sát",
+          "definition": "a police officer below a superintendent and above a sergeant in rank.",
+          "world_new": [
+            "police",
+            "officer",
+            "superintendent",
+            "sergeant",
+            "rank"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The first analysis of a sample of these enumeration cards showed that important differences existed in the classification of causes of death among the various health inspectors.",
+    "Not only were inspectors in greater force, boosting the likelihood of monitoring for all offices, but their interests and ideology were now clearly aligned against those of postmasters.",
+    "Most inspectors were well-known local farmers.",
+    "The inspectors most frequently cited local authority pricing policies as an influential factor, more particularly for nursing homes (72%) than residential homes (66%).",
+    "They include letters and reports written by teachers and school inspectors, as well as requests for admission.",
+    "The remaining lambs were examined by meat inspectors at a conventional abattoir.",
+    "Where does this leave the inspectors?",
+    "The county governor (landshovding) assisted local justice by choosing county inspectors (lansman)."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "insomnia",
+    "insomniac",
+    "inspect",
+    "inspection",
+    "inspector",
+    "inspiration",
+    "inspire",
+    "inspired",
+    "instability"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459473_b4753e336e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459473_59e65b7d5b_o.png",
+      "id_image": "inspector_6036800"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "english": "hang",
+  "phat_am": "hӕŋ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "treo; mắc",
+          "definition": "to put or fix, or to be put or fixed, above the ground eg by a hook",
+          "world_new": [
+            "fix",
+            "fixed",
+            "ground",
+            "hook"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’ll hang the picture on that wall",
+              "world_new": [
+                "picture",
+                "wall"
+              ]
+            },
+            {
+              "ex_of_definition": "The picture is hanging on the wall.",
+              "world_new": [
+                "picture",
+                "hanging",
+                "wall"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "treo",
+          "definition": "to fasten (something), or to be fastened, at the top or side so that it can move freely but cannot fall",
+          "world_new": [
+            "fasten",
+            "top",
+            "side",
+            "move",
+            "freely",
+            "fall"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A door hangs by its hinges.",
+              "world_new": [
+                "door",
+                "its"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "treo cổ",
+          "definition": "(past tense, past participle hanged) to kill, or to be killed, by having a rope put round the neck and being allowed to drop",
+          "world_new": [
+            "kill",
+            "rope",
+            "neck",
+            "drop"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Murderers used to be hanged in the United Kingdom, but no-one hangs for murder now.",
+              "world_new": [
+                "no-one",
+                "murder"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "rủ xuống",
+          "definition": "(often with downor out) to be bending, drooping or falling downwards",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The dog’s tongue was hanging out",
+              "world_new": [
+                "tongue",
+                "hanging"
+              ]
+            },
+            {
+              "ex_of_definition": "Her hair was hanging down.",
+              "world_new": [
+                "hair",
+                "hanging"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gục đầu vì hổ thẹn",
+          "definition": "to bow (one’s head)",
+          "world_new": [
+            "bow"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He hung his head in shame.",
+              "world_new": [
+                "head",
+                "shame"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "hanger",
+    "hanging",
+    "hangings",
+    "hang-glider",
+    "hangman",
+    "hangover",
+    "get the hang of",
+    "hang about/around",
+    "hang back",
+    "hang in the balance",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "handwriting",
+    "handwritten",
+    "handy",
+    "handyman",
+    "hang",
+    "hang about/around",
+    "hang back",
+    "hang in the balance",
+    "hang on"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460038_cc46c437f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460038_d217ab8c1c_o.png",
+      "id_image": "hang_1502673"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082670_6c5884d974_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082670_e44b47a13b_o.png",
+      "id_image": "hang_2780746"
+    }
+  ]
+}

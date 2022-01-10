@@ -1,0 +1,92 @@
+{
+  "english": "lonely",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "cô đơn",
+          "definition": "lacking or wanting companionship",
+          "world_new": [
+            "companionship"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Aren’t you lonely, living by yourself?",
+              "world_new": [
+                "living"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vắng vẻ",
+          "definition": "(of a place) far away from busy places, having few people",
+          "world_new": [
+            "far",
+            "busy",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a lonely island.",
+              "world_new": [
+                "island"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The elderly are particularly vulnerable because many are lonely, depressed and suffer from sleeplessness.",
+    "Prevalence has been investigated in numerous epidemiological studies, with the proportion of lonely individuals ranging f rom a few per cent to 40 per cent.",
+    "A world without friends is a lonely world.",
+    "Is it possible to affect the poor prognosis of lonely, elderly people?",
+    "Many reported feeling bored, lonely and often trapped in their homes.",
+    "Apart from physical dangers (falls, scalds, and so on), being ' at home ' may mean being lonely, isolated and afraid.",
+    "However, children exposed to marital violence reported feeling more lonely and having more conflict with a close friend.",
+    "They had little to occupy themselves during the days, weeks, or sometimes months they spent on these lonely outposts of the colonies."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "lollipop",
+    "lolly",
+    "lone",
+    "loneliness",
+    "lonely",
+    "lonesome",
+    "lonesomeness",
+    "long",
+    "long drawn out"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336221_bb68b444e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336221_8e114115b1_o.png",
+      "id_image": "lonely_214246"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336186_92467142ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336186_925a6d4d0f_o.png",
+      "id_image": "lonely_2577611"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691479_449277d008_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691479_d8a54d9a5b_o.png",
+      "id_image": "lonely_3215850"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691409_6ea7e98452_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691409_fa78f66022_o.png",
+      "id_image": "lonely_4126627"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072995_06696ee395_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072995_c84ecb8eb7_o.png",
+      "id_image": "lonely_5778078"
+    }
+  ]
+}

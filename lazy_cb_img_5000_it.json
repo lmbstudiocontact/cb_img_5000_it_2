@@ -1,0 +1,93 @@
+{
+  "english": "lazy",
+  "phat_am": "ˈleizi",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "lười nhác",
+          "definition": "too inclined to avoid hard work, exercise etc",
+          "world_new": [
+            "avoid",
+            "work",
+            "exercise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I take the bus to work as I’m too lazy to walk",
+              "world_new": [
+                "I",
+                "bus",
+                "work",
+                "walk"
+              ]
+            },
+            {
+              "ex_of_definition": "Lazy people tend to become fat.",
+              "world_new": [
+                "people",
+                "tend",
+                "become",
+                "fat"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The contribution of this paper is to show how this problem, and some related ones, can be solved using a novel array creation primitive, lazier than previous ones.",
+    "A husband who is too demanding, too lazy, or too often in the rumshop may be subject to public shaming by his wife.",
+    "The extensional properties of lazy functional languages are simple and elegant; lazy languages satisfy more laws than strict ones.",
+    "She thinks this was done long ago and so consistently that our lazy periodizations need to be revised.",
+    "The performance is slightly worse than the lazy codes.",
+    "In addition, it is worth remarking that our theorems apply equally well to the call-by-name, call-by-value and lazy variants of the above models.",
+    "If this were done, the laziest and most duplicitious uses of burden with reference to elderly people could be reduced.",
+    "Also, even with lazy evaluation, this program performs a superfluous traversal through the intermediate result."
+  ],
+  "list_see_also": [
+    "lazily",
+    "laziness",
+    "lazybones"
+  ],
+  "list_browse": [
+    "layman",
+    "layout",
+    "lazily",
+    "laziness",
+    "lazy",
+    "lazybones",
+    "lb",
+    "lead",
+    "lead by the nose"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672554_34e5b317e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672554_8c07ddba3b_o.png",
+      "id_image": "lazy_5692446"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672549_72deb865f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672549_2dcc82edb4_o.png",
+      "id_image": "lazy_5775730"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432923_9d60302ab0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432923_9a57116162_o.png",
+      "id_image": "lazy_5778803"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362192_079b758328_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362192_cb8ba0b2f1_o.png",
+      "id_image": "lazy_6193439"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362167_e0cfc5b8f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362167_056c78d212_o.png",
+      "id_image": "lazy_6240600"
+    }
+  ]
+}

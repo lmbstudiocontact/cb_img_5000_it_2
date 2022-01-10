@@ -1,0 +1,67 @@
+{
+  "english": "guy",
+  "phat_am": "ɡai",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "anh chàng; gã",
+          "definition": "a man",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I don’t know the guy you’re talking about.",
+              "world_new": [
+                "I",
+                "know"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dây thừng",
+          "definition": "(also guy-rope) a rope which keeps a tent etc steady.",
+          "world_new": [
+            "rope",
+            "tent",
+            "steady"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The way it looked to me then, they just hired guys.",
+    "I mean, who doesn't love to walk into a club and have a guy look at you and say 'wow, he's hot'?",
+    "Although the dictionaries have been slow to pick up on it, grammarians are now the bad guys of language.",
+    "It's the other guys, who actually have lower densities, who look crowded.",
+    "But the guy who is familiar with his trapping area, if he is persistent enough, attention will be paid to it.",
+    "If your friend sets up a new date for you with a handsome and funny guy, you will probably ask her to clarify her statement.",
+    "This is a coal miner, he's a guy who herded farm animals barefoot for a couple of kopeks.",
+    "But nevertheless the energy of this guy was really amazing."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "gut",
+    "guts",
+    "gutted",
+    "gutter",
+    "guy",
+    "gym",
+    "gym shoe",
+    "gymkhana",
+    "gymnasium"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361662_940a542866_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361662_1fbd0c2194_o.png",
+      "id_image": "guy_4600989"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672024_da90fd8782_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672024_b57469227c_o.png",
+      "id_image": "guy_4968145"
+    }
+  ]
+}

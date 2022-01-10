@@ -1,0 +1,98 @@
+{
+  "english": "kind",
+  "phat_am": "kaind",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "loại",
+          "definition": "a sort or type",
+          "world_new": [
+            "sort",
+            "type"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What kind of car is it?",
+              "world_new": [
+                "car"
+              ]
+            },
+            {
+              "ex_of_definition": "He is not the kind of man who would be cruel to children.",
+              "world_new": [
+                "cruel"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "tốt",
+          "definition": "ready or anxious to do good to others; friendly",
+          "world_new": [
+            "ready",
+            "anxious",
+            "friendly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s such a kind man"
+            },
+            {
+              "ex_of_definition": "It was very kind of you to look after the children yesterday.",
+              "world_new": [
+                "look",
+                "yesterday"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This can be developed by saying that an 'organic' growth, without the structuring element of some kind of framework, is chaos.",
+    "Only then need the lawyer start to think about the nature of any kind of defence strategy.",
+    "The associations that this random input produces are consequently weakened, and the process is repeated many times with different kinds of random input.",
+    "This kind of representation of tasks is quite adequate for many real-world problems.",
+    "But it is not clear how well the model would generalize when trained on several different kinds of stimuli.",
+    "The revision of tasks was little discussed and clarified, and led to all kinds of problems in the everyday division of responsibilities.",
+    "The information contained in evidence tables may vary, depending on what kinds of studies are being used and also on the scope of the assessment.",
+    "The first author of this paper has based literally dozens of other implementations on it, unifying datatypes representing many different kinds of terms."
+  ],
+  "list_see_also": [
+    "kindly",
+    "kindliness",
+    "kindness",
+    "kind-hearted"
+  ],
+  "list_browse": [
+    "kilowatt",
+    "kilt",
+    "kimono",
+    "kin",
+    "kind",
+    "kind-hearted",
+    "kindergarten",
+    "kindle",
+    "kindliness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327386_3daf61d7b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327386_6ce368c5c8_o.png",
+      "id_image": "kind_5479795"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442358_cd20af1807_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442358_ed56255430_o.png",
+      "id_image": "kind_5661053"
+    }
+  ]
+}

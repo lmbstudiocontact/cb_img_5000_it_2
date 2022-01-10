@@ -1,0 +1,147 @@
+{
+  "english": "guide",
+  "phat_am": "ɡaid",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chỉ đường",
+          "definition": "to lead, direct or show the way",
+          "world_new": [
+            "lead",
+            "direct"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I don’t know how to get to your house – I’ll need someone to guide me",
+              "world_new": [
+                "I",
+                "know",
+                "your",
+                "house"
+              ]
+            },
+            {
+              "ex_of_definition": "Your comments guided me in my final choice.",
+              "world_new": [
+                "my",
+                "final",
+                "choice"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chỉ dẫn",
+          "definition": "to control the movement of",
+          "world_new": [
+            "control",
+            "movement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The teacher guided the child’s hand as she wrote.",
+              "world_new": [
+                "teacher",
+                "hand"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người hướng dẫn",
+          "definition": "a person who shows the way to go, points out interesting things etc",
+          "world_new": [
+            "person",
+            "points",
+            "interesting"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A guide will show you round the castle.",
+              "world_new": [
+                "castle"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sách hướng dẫn",
+          "definition": "(also guidebook) a book which contains information for tourists",
+          "world_new": [
+            "book",
+            "information"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a guide to Rome."
+            }
+          ]
+        },
+        {
+          "mean_english": "nữ hướng đạo",
+          "definition": "a Girl Guide."
+        },
+        {
+          "mean_english": "bài học; điều chỉ dẫn",
+          "definition": "something which informs, directs or influences."
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Another example of a characteristic visually guided control is reaching to grasp a visible object.",
+    "The goal was to uncover the ideologies that parents perceive to guide present speaking practices with their children.",
+    "Rather, egocentric frames of reference (or proximal coding) are typically used in visually guided actions.",
+    "Overall, this book is a useful and basic reference guide to individual accounts in the international arena.",
+    "The most important transformation perhaps has been the guiding principle.",
+    "Despite the variety of systems, the objectives guiding these reforms have been rather similar.",
+    "This thematic grouping helpfully structures an otherwise disparate set of texts, and should guide the reader towards the section of most interest to them.",
+    "As such it is a practical guide which yields considerable insight into the culture and craft of orchestral playing."
+  ],
+  "list_see_also": [
+    "guidance",
+    "guide dog",
+    "guideline",
+    "guided missile"
+  ],
+  "list_browse": [
+    "guest",
+    "guesthouse",
+    "guffaw",
+    "guidance",
+    "guide",
+    "guide dog",
+    "guided missile",
+    "guideline",
+    "guild"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054805_144431cdc2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054805_b68f00a46e_o.png",
+      "id_image": "guide_2034098"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433448_6284fb5a8c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433448_618ef68dcd_o.png",
+      "id_image": "guide_2599840"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362777_f7b4e71733_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362777_2252a36c44_o.png",
+      "id_image": "guide_405713"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318141_d0d0aaaeaf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318141_9deb058ece_o.png",
+      "id_image": "guide_4215303"
+    }
+  ]
+}
